@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052394346574417920"
+      ],
+      "media_source_tweet_id": [
+        "2052394514342392091"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052699437131272196",
+    "created_at": "2026-05-08T10:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052699437131272196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1220713399493021696",
+          "start": 3,
+          "username": "AnkoPilled"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rs95oqYo5J",
+          "end": 70,
+          "expanded_url": "https://x.com/AnkoPilled/status/2052394514342392091/video/1",
+          "media_key": "13_2052394346574417920",
+          "start": 47,
+          "url": "https://t.co/rs95oqYo5J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052699437131272196",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052394514342392091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnkoPilled: Good day.. I overslept again.. https://t.co/rs95oqYo5J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7466,
+        "height": 1204,
+        "media_key": "13_2052394346574417920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052394346574417920/img/fe8SnsK-oDUc20d9.jpg",
+        "public_metrics": {
+          "view_count": 1501
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052394346574417920/vid/avc1/320x536/yYtjSpdNPOyzoS27.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052394346574417920/vid/avc1/480x804/Q1-ojrs6lDpZsN6T.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052394346574417920/vid/avc1/718x1204/k-STovNthFDL0-od.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052394346574417920/pl/D-PgxSqNJAFYleM1.m3u8?tag=14"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052394346574417920"
+          ],
+          "media_source_tweet_id": [
+            "2052394514342392091"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052699437131272196",
+        "created_at": "2026-05-08T10:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052699437131272196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1220713399493021696",
+              "start": 3,
+              "username": "AnkoPilled"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rs95oqYo5J",
+              "end": 70,
+              "expanded_url": "https://x.com/AnkoPilled/status/2052394514342392091/video/1",
+              "media_key": "13_2052394346574417920",
+              "start": 47,
+              "url": "https://t.co/rs95oqYo5J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052699437131272196",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052394514342392091",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnkoPilled: Good day.. I overslept again.. https://t.co/rs95oqYo5J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052394346574417920"
+          ]
+        },
+        "author_id": "1220713399493021696",
+        "conversation_id": "2052394514342392091",
+        "created_at": "2026-05-07T14:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052394514342392091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rs95oqYo5J",
+              "end": 54,
+              "expanded_url": "https://x.com/AnkoPilled/status/2052394514342392091/video/1",
+              "media_key": "13_2052394346574417920",
+              "start": 31,
+              "url": "https://t.co/rs95oqYo5J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052394514342392091",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 5386,
+          "like_count": 517,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "Good day.. I overslept again.. https://t.co/rs95oqYo5J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 507,
+          "like_count": 12978,
+          "listed_count": 1,
+          "media_count": 502,
+          "tweet_count": 4338
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-24T14:22:14.000Z",
+        "description": "I like things and i hate things.\nAnko Uguisu irl",
+        "id": "1220713399493021696",
+        "location": "She/Her",
+        "name": "Kyouko 𓆟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049289713949798400/3qitSifW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9238,
+          "following_count": 779,
+          "like_count": 59820,
+          "listed_count": 21,
+          "media_count": 1924,
+          "tweet_count": 12114
+        },
+        "username": "AnkoPilled",
+        "verified": false
+      }
+    ]
+  }
+}

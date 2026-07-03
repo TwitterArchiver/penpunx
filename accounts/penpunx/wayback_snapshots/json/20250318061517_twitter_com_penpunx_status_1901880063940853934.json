@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1901879887587368960"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1901880063940853934",
+    "created_at": "2025-03-18T06:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T07:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901880063940853934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BKJ6H39Q2F",
+          "end": 34,
+          "expanded_url": "https://x.com/penpunx/status/1901880063940853934/video/1",
+          "media_key": "13_1901879887587368960",
+          "start": 11,
+          "url": "https://t.co/BKJ6H39Q2F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901880063940853934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老师在放我推荐的歌( https://t.co/BKJ6H39Q2F"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48576,
+        "height": 720,
+        "media_key": "13_1901879887587368960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1901879887587368960/img/GFq5wGQ84HGgBnsN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1901879887587368960/vid/avc1/480x270/mOGAQVMEcGqN9PZV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1901879887587368960/vid/avc1/640x360/9F1-JI_XtZlyvy_C.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1901879887587368960/vid/avc1/1280x720/ru3qu7JzwKm_RCme.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1901879887587368960/pl/mq3MtkgE3k9GawlJ.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1901879887587368960"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1901880063940853934",
+        "created_at": "2025-03-18T06:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T07:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901880063940853934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BKJ6H39Q2F",
+              "end": 34,
+              "expanded_url": "https://x.com/penpunx/status/1901880063940853934/video/1",
+              "media_key": "13_1901879887587368960",
+              "start": 11,
+              "url": "https://t.co/BKJ6H39Q2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901880063940853934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老师在放我推荐的歌( https://t.co/BKJ6H39Q2F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "metal & rock & dungeon synth lover / world of warcraft / 16yo neurodivergent guy / Chinese, English, Portuguese, Dutch in learning",
+        "id": "1896904934995656704",
+        "location": "He / him ",
+        "name": "penpunk",
+        "pinned_tweet_id": "1900570456283058246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898235281863852037/maSqb7YF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 114,
+          "like_count": 946,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 357
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

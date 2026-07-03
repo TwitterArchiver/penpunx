@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2066284399960985871",
+    "created_at": "2026-06-15T07:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T08:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066418900225679725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1591761041133895680",
+          "start": 0,
+          "username": "Robert_Bumaro11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066418900225679725",
+    "in_reply_to_user_id": "1591761041133895680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066408326620188788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Robert_Bumaro11 我也是+86，你注册之后隐藏手机号就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2066284399960985871",
+        "created_at": "2026-06-15T07:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066418900225679725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066418900225679725",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066408326620188788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 我也是+86，你注册之后隐藏手机号就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2066284399960985871",
+        "created_at": "2026-06-15T06:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066408326620188788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066408326620188788",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066373313463779518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 可惜我+86手机号用不了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "巴卡巴拉，苏卡纳纳马斯。",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 572,
+          "like_count": 13884,
+          "listed_count": 1,
+          "media_count": 618,
+          "tweet_count": 5219
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 413,
+          "like_count": 11584,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1460
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

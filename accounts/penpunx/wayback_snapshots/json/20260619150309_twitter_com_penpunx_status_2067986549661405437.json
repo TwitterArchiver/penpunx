@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067986535681830912"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2067986549661405437",
+    "created_at": "2026-06-19T15:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T16:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067986549661405437"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bhn6Q2erS3",
+          "end": 31,
+          "expanded_url": "https://x.com/penpunx/status/2067986549661405437/photo/1",
+          "media_key": "3_2067986535681830912",
+          "start": 8,
+          "url": "https://t.co/Bhn6Q2erS3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067986549661405437",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "床底下出金了。 https://t.co/Bhn6Q2erS3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067986535681830912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLL2zCubMAA-vd1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067986535681830912"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2067986549661405437",
+        "created_at": "2026-06-19T15:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067986549661405437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bhn6Q2erS3",
+              "end": 31,
+              "expanded_url": "https://x.com/penpunx/status/2067986549661405437/photo/1",
+              "media_key": "3_2067986535681830912",
+              "start": 8,
+              "url": "https://t.co/Bhn6Q2erS3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067986549661405437",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "床底下出金了。 https://t.co/Bhn6Q2erS3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 580,
+          "like_count": 13966,
+          "listed_count": 1,
+          "media_count": 647,
+          "tweet_count": 5360
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

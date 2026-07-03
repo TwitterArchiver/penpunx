@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936714972832096256"
+      ],
+      "media_source_tweet_id": [
+        "1936714982579921049"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1936719327971180751",
+    "created_at": "2025-06-22T09:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T10:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936719327971180751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1025546987578556417",
+          "start": 3,
+          "username": "FTMiaoX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mgbbdsMW3O",
+          "end": 41,
+          "expanded_url": "https://x.com/FTMiaoX/status/1936714982579921049/photo/1",
+          "media_key": "3_1936714972832096256",
+          "start": 18,
+          "url": "https://t.co/mgbbdsMW3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936719327971180751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936714982579921049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FTMiaoX: 可以试试 https://t.co/mgbbdsMW3O"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "微博@奇思乱想吧",
+        "height": 1607,
+        "media_key": "3_1936714972832096256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuCYAbLWYAA3FhX.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936714972832096256"
+          ],
+          "media_source_tweet_id": [
+            "1936714982579921049"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1936719327971180751",
+        "created_at": "2025-06-22T09:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T10:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936719327971180751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1025546987578556417",
+              "start": 3,
+              "username": "FTMiaoX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mgbbdsMW3O",
+              "end": 41,
+              "expanded_url": "https://x.com/FTMiaoX/status/1936714982579921049/photo/1",
+              "media_key": "3_1936714972832096256",
+              "start": 18,
+              "url": "https://t.co/mgbbdsMW3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936719327971180751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936714982579921049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FTMiaoX: 可以试试 https://t.co/mgbbdsMW3O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936714972832096256"
+          ]
+        },
+        "author_id": "1025546987578556417",
+        "conversation_id": "1936714982579921049",
+        "created_at": "2025-06-22T09:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T10:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936714982579921049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mgbbdsMW3O",
+              "end": 28,
+              "expanded_url": "https://x.com/FTMiaoX/status/1936714982579921049/photo/1",
+              "media_key": "3_1936714972832096256",
+              "start": 5,
+              "url": "https://t.co/mgbbdsMW3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936714982579921049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 91,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "可以试试 https://t.co/mgbbdsMW3O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 205,
+          "like_count": 6366,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 1462
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-04T01:00:30.000Z",
+        "description": "FTX/FTM/ta/他/AuDHD/S/Dom/我是发条/人类友好/❤️属于我的@BakaHDT/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/转载授权在主页搜索“授权”/我爱你 希望你幸福快乐/@IWantMyLilDoggy只过眼熟的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "BakaHDT"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "IWantMyLilDoggy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveFTMiaoTV",
+                "end": 23,
+                "expanded_url": "https://t.me/LoveFTMiaoTV",
+                "start": 0,
+                "url": "https://t.co/OfJi4k397c"
+              }
+            ]
+          }
+        },
+        "id": "1025546987578556417",
+        "location": "关着BakaHDT的笼子旁边",
+        "name": "🏳️‍🌈发条喵🏳️‍⚧️",
+        "pinned_tweet_id": "1754185922885611679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7253,
+          "following_count": 3261,
+          "like_count": 163739,
+          "listed_count": 20,
+          "media_count": 2991,
+          "tweet_count": 27165
+        },
+        "url": "https://t.co/OfJi4k397c",
+        "username": "FTMiaoX",
+        "verified": true
+      }
+    ]
+  }
+}

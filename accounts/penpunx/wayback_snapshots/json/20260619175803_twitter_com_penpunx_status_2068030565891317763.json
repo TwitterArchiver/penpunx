@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2067926822608851268",
+    "created_at": "2026-06-19T17:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068030565891317763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1054755477542756352",
+          "start": 0,
+          "username": "SPACERADIO_626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068030565891317763",
+    "in_reply_to_user_id": "1054755477542756352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068029129119945096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SPACERADIO_626 看看不穿（开玩笑的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2067926822608851268",
+        "created_at": "2026-06-19T17:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068030565891317763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1054755477542756352",
+              "start": 0,
+              "username": "SPACERADIO_626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068030565891317763",
+        "in_reply_to_user_id": "1054755477542756352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068029129119945096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SPACERADIO_626 看看不穿（开玩笑的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1054755477542756352",
+        "conversation_id": "2067926822608851268",
+        "created_at": "2026-06-19T17:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068029129119945096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068029129119945096",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067926822608851268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 我都不穿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 580,
+          "like_count": 13975,
+          "listed_count": 1,
+          "media_count": 647,
+          "tweet_count": 5377
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-23T15:24:37.000Z",
+        "description": "☏-Shit posting | SEN KOK/森 | FicroAce/she/her/fil/fim/AuDHD drugtwt\n \n💿I'm the collapsing star of death, the pulse echo of the cosmic.",
+        "id": "1054755477542756352",
+        "location": "Space",
+        "name": "Space Badboy",
+        "pinned_tweet_id": "1998815878041973136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057596517041815552/fGsFL77j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 467,
+          "like_count": 6142,
+          "listed_count": 0,
+          "media_count": 768,
+          "tweet_count": 5300
+        },
+        "url": "",
+        "username": "SPACERADIO_626",
+        "verified": false
+      }
+    ]
+  }
+}

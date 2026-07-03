@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067571774611501056"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2067571786859130918",
+    "created_at": "2026-06-18T11:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067571786859130918"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uu9PADL5Rs",
+          "end": 23,
+          "expanded_url": "https://x.com/penpunx/status/2067571786859130918/photo/1",
+          "media_key": "3_2067571774611501056",
+          "start": 0,
+          "url": "https://t.co/uu9PADL5Rs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067571786859130918",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/uu9PADL5Rs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 339,
+        "media_key": "3_2067571774611501056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF9kxVXsAAob3C.png",
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067571774611501056"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2067571786859130918",
+        "created_at": "2026-06-18T11:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067571786859130918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uu9PADL5Rs",
+              "end": 23,
+              "expanded_url": "https://x.com/penpunx/status/2067571786859130918/photo/1",
+              "media_key": "3_2067571774611501056",
+              "start": 0,
+              "url": "https://t.co/uu9PADL5Rs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067571786859130918",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uu9PADL5Rs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "巴卡巴拉，苏卡纳纳马斯。",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 575,
+          "like_count": 13919,
+          "listed_count": 1,
+          "media_count": 630,
+          "tweet_count": 5277
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

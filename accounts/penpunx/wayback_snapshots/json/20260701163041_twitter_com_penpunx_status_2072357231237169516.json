@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2072357225486778841",
+    "created_at": "2026-07-01T16:30:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072357231237169516"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072357231237169516",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072357225486778841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "仅为以文字为锚点的猜测"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 649,
+        "media_key": "3_2072357215965712384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJ96HlakAABlmq.jpg",
+        "width": 746
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2072357225486778841",
+        "created_at": "2026-07-01T16:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072357231237169516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072357231237169516",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072357225486778841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "仅为以文字为锚点的猜测"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072357215965712384"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2072357225486778841",
+        "created_at": "2026-07-01T16:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072357225486778841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bW3C68yYlP",
+              "end": 164,
+              "expanded_url": "https://x.com/penpunx/status/2072357225486778841/photo/1",
+              "media_key": "3_2072357215965712384",
+              "start": 141,
+              "url": "https://t.co/bW3C68yYlP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072357225486778841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假设：挪麦人很可能依靠文字进行视觉交流而不是通过语音进行听觉交流。\n虽然挪麦文字的基本笔画都是直线，方便石刻，但是文字排版是卷曲发散而不是横向排列，这更便于对话题进行发散和人际交流。请注意挪麦文字也可以横向排列比如口口口口的坐标，但是日常对话更符合发散的形状，用线性写法反而不方便 https://t.co/bW3C68yYlP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 614,
+          "like_count": 14549,
+          "listed_count": 1,
+          "media_count": 747,
+          "tweet_count": 5979
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

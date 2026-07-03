@@ -1,0 +1,555 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1549234895188176897",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596715024385",
+          "name": "Apparel/Accessories - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1402692587396374529",
+          "name": "Farm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      }
+    ],
+    "conversation_id": "1816441130466300245",
+    "created_at": "2024-07-25T11:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T12:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816441130466300245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1490725686260244485",
+          "start": 3,
+          "username": "beatristiss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816441130466300245",
+    "lang": "pt",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1882
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816179028707139917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beatristiss: há uma crise criativa nessa tematica brasileira, sempre é a mesma estetica carioca pra gringo ver, não tem um novo visual,…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1549234895188176897",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596715024385",
+              "name": "Apparel/Accessories - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1402692587396374529",
+              "name": "Farm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          }
+        ],
+        "conversation_id": "1816441130466300245",
+        "created_at": "2024-07-25T11:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T12:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816441130466300245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1490725686260244485",
+              "start": 3,
+              "username": "beatristiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816441130466300245",
+        "lang": "pt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1882
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816179028707139917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beatristiss: há uma crise criativa nessa tematica brasileira, sempre é a mesma estetica carioca pra gringo ver, não tem um novo visual,…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1490725686260244485",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596715024385",
+              "name": "Apparel/Accessories - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1402692587396374529",
+              "name": "Farm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          }
+        ],
+        "conversation_id": "1816179028707139917",
+        "created_at": "2024-07-24T18:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T19:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816179028707139917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/falarafha/stat…",
+              "end": 250,
+              "expanded_url": "https://twitter.com/falarafha/status/1815822868506153150",
+              "start": 227,
+              "url": "https://t.co/2E1XwGeBo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816179028707139917",
+        "lang": "pt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 834,
+          "impression_count": 1111313,
+          "like_count": 29272,
+          "quote_count": 390,
+          "reply_count": 239,
+          "retweet_count": 1882
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815822868506153150",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "há uma crise criativa nessa tematica brasileira, sempre é a mesma estetica carioca pra gringo ver, não tem um novo visual, não tem inspiração em outras regiões, é sempre trabalhando no conforto de mato e bixo kkkkkkkkkk triste https://t.co/2E1XwGeBo9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-19T03:29:23.000Z",
+        "description": "im not there this isnt happening",
+        "id": "1549234895188176897",
+        "name": "-",
+        "pinned_tweet_id": "1815326942641508512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800030979840671744/YWVe7Yy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 441,
+          "like_count": 11323,
+          "listed_count": 0,
+          "tweet_count": 5548
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T16:34:44.000Z",
+        "description": "eu si divirto",
+        "id": "1490725686260244485",
+        "location": "Belém, PA",
+        "name": "sorrizinho",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806703562061234176/FigSinDb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 728,
+          "like_count": 48205,
+          "listed_count": 0,
+          "tweet_count": 8925
+        },
+        "username": "beatristiss",
+        "verified": false
+      }
+    ]
+  }
+}

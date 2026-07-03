@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2067187325025628246",
+    "created_at": "2026-06-17T12:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067217327796678861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1449738313540071431",
+          "start": 0,
+          "username": "ez4y2f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067217327796678861",
+    "in_reply_to_user_id": "1449738313540071431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067187325025628246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ez4y2f 好像还是我点的（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067187317630980096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAf6beWUAASUK1.jpg",
+        "width": 1229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2067187325025628246",
+        "created_at": "2026-06-17T12:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067217327796678861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1449738313540071431",
+              "start": 0,
+              "username": "ez4y2f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067217327796678861",
+        "in_reply_to_user_id": "1449738313540071431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067187325025628246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ez4y2f 好像还是我点的（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067187317630980096"
+          ]
+        },
+        "author_id": "1449738313540071431",
+        "conversation_id": "2067187325025628246",
+        "created_at": "2026-06-17T10:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067187325025628246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKabXiDtML",
+              "end": 45,
+              "expanded_url": "https://x.com/ez4y2f/status/2067187325025628246/photo/1",
+              "media_key": "3_2067187317630980096",
+              "start": 22,
+              "url": "https://t.co/wKabXiDtML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067187325025628246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很伤心。咕噜咕噜你就这样羞辱我这只无助的狐 https://t.co/wKabXiDtML"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "巴卡巴拉，苏卡纳纳马斯。",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 575,
+          "like_count": 13916,
+          "listed_count": 1,
+          "media_count": 624,
+          "tweet_count": 5260
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-17T14:05:35.000Z",
+        "description": "D3bug the w0r1d | 狐狗。| AuDHD | they/them | 不登校 | 成分复杂 欢迎来狐狸窝玩 | 🌈🦊🐾🎵💻💡✂^-^里@hd4y2f❤️@ez4y2f\n尽己所能无偿提供技术帮助和减害措施\n有些时候我需要保全自己 抱歉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "hd4y2f"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "username": "ez4y2f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "y2.fo",
+                "end": 23,
+                "expanded_url": "https://y2.fo",
+                "start": 0,
+                "url": "https://t.co/X1cdlKbipY"
+              }
+            ]
+          }
+        },
+        "id": "1449738313540071431",
+        "location": "Foxnest",
+        "name": "ez4y2f",
+        "pinned_tweet_id": "2030757444847333657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037204527623888896/z2uuhR7H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 192,
+          "like_count": 2336,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 947
+        },
+        "url": "https://t.co/X1cdlKbipY",
+        "username": "ez4y2f",
+        "verified": true
+      }
+    ]
+  }
+}

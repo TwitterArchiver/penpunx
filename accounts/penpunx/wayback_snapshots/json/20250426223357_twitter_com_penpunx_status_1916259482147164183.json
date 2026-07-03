@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1916177078749434034",
+    "created_at": "2025-04-26T22:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T23:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916259482147164183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1414619528911220741",
+          "start": 0,
+          "username": "ChibanaK1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916259482147164183",
+    "in_reply_to_user_id": "1414619528911220741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916177078749434034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChibanaK1 小学在合唱团还被学姐打了😭🫂中学的就去了半个学期，感觉还挺开心的但是没时间搞下去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1916177078749434034",
+        "created_at": "2025-04-26T22:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T23:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916259482147164183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1414619528911220741",
+              "start": 0,
+              "username": "ChibanaK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916259482147164183",
+        "in_reply_to_user_id": "1414619528911220741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916177078749434034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChibanaK1 小学在合唱团还被学姐打了😭🫂中学的就去了半个学期，感觉还挺开心的但是没时间搞下去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414619528911220741",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "California",
+              "id": "856860158428798977",
+              "name": "California"
+            }
+          }
+        ],
+        "conversation_id": "1916177078749434034",
+        "created_at": "2025-04-26T17:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T18:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916177078749434034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916177078749434034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从小学开始就在合唱团一路到大学\n小学的有人拉帮结派欺负我 中学里的人也顶多是相识 大学里的合唱团好像特别有团魂\n我从来没有融入过\n我也会害怕背不下谱 担心时值又唱错\n但 好像合唱团里有什么人根本不重要\n我只要听到大家一起唱 我就会很安心\n\n排练California and me有感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 189,
+          "like_count": 4892,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1047
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-12T16:16:46.000Z",
+        "description": "پشت دریاها شهری است",
+        "id": "1414619528911220741",
+        "location": "Taiwan",
+        "name": "カツキ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911227782048219136/Kde_5fR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 58,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 178
+        },
+        "username": "ChibanaK1",
+        "verified": false
+      }
+    ]
+  }
+}

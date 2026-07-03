@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Kurt Cobain",
+          "id": "993580695736930304",
+          "name": "Kurt Cobain"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Kurt Cobain",
+          "id": "993580695736930304",
+          "name": "Kurt Cobain"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Alternative",
+          "id": "849684194242338816",
+          "name": "Alternative rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Alternative",
+          "id": "849684194242338816",
+          "name": "Alternative rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Kurt Cobain",
+          "id": "993580695736930304",
+          "name": "Kurt Cobain"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293191811561709575",
+          "name": "Indie & Alternative"
+        }
+      }
+    ],
+    "conversation_id": "2066251387164344476",
+    "created_at": "2026-06-15T11:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T12:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066480640741265808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2055129102529474560",
+          "start": 0,
+          "username": "KurtDobem666"
+        },
+        {
+          "end": 26,
+          "id": "1503156670259630082",
+          "start": 14,
+          "username": "hannafilesx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066480640741265808",
+    "in_reply_to_user_id": "2055129102529474560",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066377077746516336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KurtDobem666 @hannafilesx kurt cobain kkkkkkkkkkkkkkkkkkkkkkkkkk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Kurt Cobain",
+              "id": "993580695736930304",
+              "name": "Kurt Cobain"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Kurt Cobain",
+              "id": "993580695736930304",
+              "name": "Kurt Cobain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kurt Cobain",
+              "id": "993580695736930304",
+              "name": "Kurt Cobain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293191811561709575",
+              "name": "Indie & Alternative"
+            }
+          }
+        ],
+        "conversation_id": "2066251387164344476",
+        "created_at": "2026-06-15T11:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066480640741265808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055129102529474560",
+              "start": 0,
+              "username": "KurtDobem666"
+            },
+            {
+              "end": 26,
+              "id": "1503156670259630082",
+              "start": 14,
+              "username": "hannafilesx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066480640741265808",
+        "in_reply_to_user_id": "2055129102529474560",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066377077746516336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KurtDobem666 @hannafilesx kurt cobain kkkkkkkkkkkkkkkkkkkkkkkkkk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055129102529474560",
+        "conversation_id": "2066251387164344476",
+        "created_at": "2026-06-15T04:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066377077746516336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1503156670259630082",
+              "start": 0,
+              "username": "hannafilesx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066377077746516336",
+        "in_reply_to_user_id": "1503156670259630082",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7309,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066251387164344476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hannafilesx Cuida da sua vida, piranha"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "巴卡巴拉，苏卡纳纳马斯。",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 573,
+          "like_count": 13885,
+          "listed_count": 1,
+          "media_count": 618,
+          "tweet_count": 5221
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T03:35:12.000Z",
+        "description": "real life is no cool",
+        "id": "2055129102529474560",
+        "name": "Kurt Dobem",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055130343045263360/DwY1as5M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 11,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 947
+        },
+        "username": "KurtDobem666",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T23:51:12.000Z",
+        "description": "𝘊𝘰𝘭𝘦𝘵𝘢𝘯𝘥𝘰 𝘢𝘴 𝘮𝘦𝘭𝘩𝘰𝘳𝘦𝘴 𝘩𝘪𝘴𝘵𝘰𝘳𝘪𝘢𝘴 𝘥𝘰 𝘛𝘸𝘪𝘵𝘵𝘦𝘳/𝘟\n𝒔𝒊𝒈𝒂 𝒑𝒂𝒓𝒂 𝒏𝒂𝒐 𝒑𝒆𝒓𝒅𝒆𝒓 𝒏𝒆𝒏𝒉𝒖𝒎𝒂 ✨",
+        "id": "1503156670259630082",
+        "name": "hanna",
+        "pinned_tweet_id": "2063722413691637786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064411636857704449/sN7sJ_Dr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15842,
+          "following_count": 5293,
+          "like_count": 17472,
+          "listed_count": 9,
+          "media_count": 922,
+          "tweet_count": 6970
+        },
+        "username": "hannafilesx",
+        "verified": true
+      }
+    ]
+  }
+}

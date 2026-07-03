@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1959343297387954607",
+    "created_at": "2025-08-24T07:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T08:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959512998806016120"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "Kiss in October",
+          "probability": 0.9105,
+          "start": 12,
+          "type": "Other"
+        },
+        {
+          "end": 42,
+          "normalized_text": "Sadness\nBurial",
+          "probability": 0.9182,
+          "start": 29,
+          "type": "Other"
+        },
+        {
+          "end": 63,
+          "normalized_text": "Ghost Bath\nThe Dawn",
+          "probability": 0.9583,
+          "start": 45,
+          "type": "Other"
+        },
+        {
+          "end": 74,
+          "normalized_text": "Dreamtale",
+          "probability": 0.8492,
+          "start": 66,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816105634179534848",
+          "start": 0,
+          "username": "sevensand7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959512998806016120",
+    "in_reply_to_user_id": "1816105634179534848",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959343297387954607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sevensand7 Kiss in October -Sadness\nBurial -Ghost Bath\nThe Dawn -Dreamtale"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1959343297387954607",
+        "created_at": "2025-08-24T07:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T08:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959512998806016120"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Kiss in October",
+              "probability": 0.9105,
+              "start": 12,
+              "type": "Other"
+            },
+            {
+              "end": 42,
+              "normalized_text": "Sadness\nBurial",
+              "probability": 0.9182,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 63,
+              "normalized_text": "Ghost Bath\nThe Dawn",
+              "probability": 0.9583,
+              "start": 45,
+              "type": "Other"
+            },
+            {
+              "end": 74,
+              "normalized_text": "Dreamtale",
+              "probability": 0.8492,
+              "start": 66,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816105634179534848",
+              "start": 0,
+              "username": "sevensand7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959512998806016120",
+        "in_reply_to_user_id": "1816105634179534848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959343297387954607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sevensand7 Kiss in October -Sadness\nBurial -Ghost Bath\nThe Dawn -Dreamtale"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816105634179534848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1959343297387954607",
+        "created_at": "2025-08-23T19:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T20:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959343297387954607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959343297387954607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1246,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们能不能给我推荐一首你们最喜欢的器乐摇滚/金属/核"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 253,
+          "like_count": 8643,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 1998
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T13:38:30.000Z",
+        "description": "无论你以怎样的姿态沉入水中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sevensand",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sevensand",
+                "start": 0,
+                "url": "https://t.co/LkrygZI6Jg"
+              }
+            ]
+          }
+        },
+        "id": "1816105634179534848",
+        "location": "提问箱 ——",
+        "name": "七尺沙地和她孕育的孩子",
+        "pinned_tweet_id": "1944248768553267439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958608201534119939/mF_exwzt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 293,
+          "like_count": 24737,
+          "listed_count": 6,
+          "media_count": 625,
+          "tweet_count": 6684
+        },
+        "url": "https://t.co/LkrygZI6Jg",
+        "username": "sevensand7",
+        "verified": false
+      }
+    ]
+  }
+}

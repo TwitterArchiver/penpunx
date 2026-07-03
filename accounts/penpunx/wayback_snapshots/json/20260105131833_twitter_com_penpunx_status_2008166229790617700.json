@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1914663490276745533",
+    "created_at": "2026-01-05T13:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T14:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008166229790617700"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 10,
+          "normalized_text": "杜隆",
+          "probability": 0.8021,
+          "start": 9,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1025546987578556417",
+          "start": 0,
+          "username": "FTMiaoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008166229790617700",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914666165252600129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FTMiaoX 杜隆坦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 348,
+        "media_key": "3_1914666156507717634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpJCuZoa4AI16Pq.png",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1914663490276745533",
+        "created_at": "2026-01-05T13:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T14:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008166229790617700"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "杜隆",
+              "probability": 0.8021,
+              "start": 9,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1025546987578556417",
+              "start": 0,
+              "username": "FTMiaoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008166229790617700",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914666165252600129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FTMiaoX 杜隆坦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914666156507717634"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1914663490276745533",
+        "created_at": "2025-04-22T13:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T14:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914666165252600129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1025546987578556417",
+              "start": 0,
+              "username": "FTMiaoX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/91kBrxgIDv",
+              "end": 32,
+              "expanded_url": "https://x.com/penpunx/status/1914666165252600129/photo/1",
+              "media_key": "3_1914666156507717634",
+              "start": 9,
+              "url": "https://t.co/91kBrxgIDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914666165252600129",
+        "in_reply_to_user_id": "1025546987578556417",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914663490276745533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FTMiaoX https://t.co/91kBrxgIDv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 275,
+          "like_count": 10007,
+          "listed_count": 1,
+          "media_count": 359,
+          "tweet_count": 2579
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-04T01:00:30.000Z",
+        "description": "FTX/FTM/enby/ta/他/AuDHD/S/Dom/我是发条/人类友好/❤️属于我的@1234566nya/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/转载授权在主页搜索“授权”/我爱你 希望你幸福快乐/我会在这里与你互动：@IWantMyLilDoggy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "1234566nya"
+              },
+              {
+                "end": 147,
+                "start": 131,
+                "username": "IWantMyLilDoggy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveFTMiaoTV",
+                "end": 23,
+                "expanded_url": "https://t.me/LoveFTMiaoTV",
+                "start": 0,
+                "url": "https://t.co/OfJi4k2BhE"
+              }
+            ]
+          }
+        },
+        "id": "1025546987578556417",
+        "location": "关着123的笼子旁边",
+        "name": "🏳️‍🌈发条喵🏳️‍⚧️",
+        "pinned_tweet_id": "1978871306620948810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7632,
+          "following_count": 3335,
+          "like_count": 173947,
+          "listed_count": 21,
+          "media_count": 3456,
+          "tweet_count": 28049
+        },
+        "url": "https://t.co/OfJi4k2BhE",
+        "username": "FTMiaoX",
+        "verified": false
+      }
+    ]
+  }
+}

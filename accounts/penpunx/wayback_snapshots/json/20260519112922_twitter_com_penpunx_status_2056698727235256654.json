@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2056643809820410277",
+    "created_at": "2026-05-19T11:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056698727235256654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997644719908884480",
+          "start": 0,
+          "username": "Oz_Garlandd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056698727235256654",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056643809820410277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oz_Garlandd 抗惊恐发作 极佳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2056643797304709120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqqoxfbkAAqWYN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2056643809820410277",
+        "created_at": "2026-05-19T11:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056698727235256654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056698727235256654",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056643809820410277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 抗惊恐发作 极佳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056643797304709120"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056643809820410277",
+        "created_at": "2026-05-19T07:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056643809820410277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9CMlHyTDPZ",
+              "end": 56,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2056643809820410277/photo/1",
+              "media_key": "3_2056643797304709120",
+              "start": 33,
+              "url": "https://t.co/9CMlHyTDPZ"
+            },
+            {
+              "display_url": "x.com/Oz_Garlandd/st…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/Oz_Garlandd/status/2056627632004059416",
+              "start": 57,
+              "url": "https://t.co/YVhIzWzRBz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056643809820410277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 671,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056627632004059416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃上精品神药了各位🤤\n不过阿普唑仑除了安眠药之外还能做什么用呢🤔 https://t.co/9CMlHyTDPZ https://t.co/YVhIzWzRBz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 537,
+          "like_count": 13445,
+          "listed_count": 1,
+          "media_count": 522,
+          "tweet_count": 4681
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 248,
+          "like_count": 20676,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1407
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

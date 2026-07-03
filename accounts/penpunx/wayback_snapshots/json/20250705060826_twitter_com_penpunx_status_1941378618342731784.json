@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1841392594963882142",
+    "created_at": "2025-07-05T06:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T07:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941378618342731784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1025546987578556417",
+          "start": 0,
+          "username": "FTMiaoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941378618342731784",
+    "in_reply_to_user_id": "1025546987578556417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841392594963882142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FTMiaoX 好听！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 140031,
+        "height": 720,
+        "media_key": "7_1841392550097334272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1841392550097334272/pu/img/HqB17LFwrpzOCi5s.jpg",
+        "public_metrics": {
+          "view_count": 411
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1841392550097334272/pu/vid/avc1/480x270/Bm2ahdDY5wpMGrGo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1841392550097334272/pu/vid/avc1/640x360/vNQAlKJpiA6ZjVmj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1841392550097334272/pu/vid/avc1/1280x720/XTIb0Dd1fnIO1-4r.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1841392550097334272/pu/pl/XS-6ztPlV36zaQEJ.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1841392594963882142",
+        "created_at": "2025-07-05T06:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T07:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941378618342731784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1025546987578556417",
+              "start": 0,
+              "username": "FTMiaoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941378618342731784",
+        "in_reply_to_user_id": "1025546987578556417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841392594963882142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FTMiaoX 好听！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1841392550097334272"
+          ]
+        },
+        "author_id": "1025546987578556417",
+        "conversation_id": "1841392594963882142",
+        "created_at": "2024-10-02T08:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T09:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841392594963882142"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "大石碎胸",
+              "probability": 0.6328,
+              "start": 4,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EYbJ1t8cRa",
+              "end": 40,
+              "expanded_url": "https://x.com/IWantMyLilDoggy/status/1841392594963882142/video/1",
+              "media_key": "7_1841392550097334272",
+              "start": 17,
+              "url": "https://t.co/EYbJ1t8cRa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841392594963882142",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3082,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "随便唱的大石碎胸口完整版（1/3 https://t.co/EYbJ1t8cRa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "Jupiter III",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940674221174046720/31d1mOAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 204,
+          "like_count": 6784,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1541
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-04T01:00:30.000Z",
+        "description": "FTX/FTM/enby/ta/他/AuDHD/S/Dom/我是发条/人类友好/❤️属于我的@BakaHDT/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/转载授权在主页搜索“授权”/我爱你 希望你幸福快乐/@IWantMyLilDoggy只过眼熟的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "BakaHDT"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "IWantMyLilDoggy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveFTMiaoTV",
+                "end": 23,
+                "expanded_url": "https://t.me/LoveFTMiaoTV",
+                "start": 0,
+                "url": "https://t.co/OfJi4k397c"
+              }
+            ]
+          }
+        },
+        "id": "1025546987578556417",
+        "location": "关着BakaHDT的笼子旁边",
+        "name": "🏳️‍🌈发条喵🏳️‍⚧️",
+        "pinned_tweet_id": "1754185922885611679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7406,
+          "following_count": 3262,
+          "like_count": 163738,
+          "listed_count": 20,
+          "media_count": 3127,
+          "tweet_count": 27325
+        },
+        "url": "https://t.co/OfJi4k397c",
+        "username": "FTMiaoX",
+        "verified": true
+      }
+    ]
+  }
+}

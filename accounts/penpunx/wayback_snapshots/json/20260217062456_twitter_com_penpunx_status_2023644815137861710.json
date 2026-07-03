@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2023629109725643104",
+    "created_at": "2026-02-17T06:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T07:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023644815137861710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2009074459970555905",
+          "start": 0,
+          "username": "nylvim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023644815137861710",
+    "in_reply_to_user_id": "2009074459970555905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023629109725643104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nylvim 我是什么颜色"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2023629109725643104",
+        "created_at": "2026-02-17T06:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T07:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023644815137861710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2009074459970555905",
+              "start": 0,
+              "username": "nylvim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023644815137861710",
+        "in_reply_to_user_id": "2009074459970555905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023629109725643104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nylvim 我是什么颜色"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009074459970555905",
+        "conversation_id": "2023629109725643104",
+        "created_at": "2026-02-17T05:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T06:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023629109725643104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nylvim/status/…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/nylvim/status/2020527219659919518",
+              "start": 74,
+              "url": "https://t.co/5FLt7mJ6RF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023629109725643104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020527219659919518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得每个人都是有颜色的……有些人只有一种，有些人有多达四种，每当我想起你时，实际上是想起了那个代表你的调色板。正因如此我有时会混淆一些人的身份。 https://t.co/5FLt7mJ6RF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2012869391504023900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 303,
+          "like_count": 10672,
+          "listed_count": 1,
+          "media_count": 397,
+          "tweet_count": 2906
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T01:27:44.000Z",
+        "description": "解离症患者，大概吧，",
+        "id": "2009074459970555905",
+        "location": "dump群: 724794166",
+        "name": "vi is not nyl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020164336971608064/6nql_Uic_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 19,
+          "like_count": 2116,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 223
+        },
+        "username": "nylvim",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962740511745417217"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1962740518053617677",
+    "created_at": "2025-09-02T04:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T05:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962740518053617677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l5J5ol0ZCG",
+          "end": 29,
+          "expanded_url": "https://x.com/penpunx/status/1962740518053617677/photo/1",
+          "media_key": "3_1962740511745417217",
+          "start": 6,
+          "url": "https://t.co/l5J5ol0ZCG"
+        },
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/penpunx/status/1962736671906292152",
+          "start": 30,
+          "url": "https://t.co/r3o76tZ02Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962740518053617677",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962736671906292152",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "六百六十六 https://t.co/l5J5ol0ZCG https://t.co/r3o76tZ02Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1962740511745417217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz0OGKzaoAEGiv4.jpg",
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962740511745417217"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962740518053617677",
+        "created_at": "2025-09-02T04:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T05:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962740518053617677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l5J5ol0ZCG",
+              "end": 29,
+              "expanded_url": "https://x.com/penpunx/status/1962740518053617677/photo/1",
+              "media_key": "3_1962740511745417217",
+              "start": 6,
+              "url": "https://t.co/l5J5ol0ZCG"
+            },
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/penpunx/status/1962736671906292152",
+              "start": 30,
+              "url": "https://t.co/r3o76tZ02Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962740518053617677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962736671906292152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "六百六十六 https://t.co/l5J5ol0ZCG https://t.co/r3o76tZ02Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1962736671906292152",
+        "created_at": "2025-09-02T04:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T05:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962736671906292152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962736671906292152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校给我100元“奖学金”，还以为能有几千块("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 264,
+          "like_count": 9053,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 2074
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

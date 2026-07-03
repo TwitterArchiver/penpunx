@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943465237891461120",
+        "3_1943465238117916672"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1943465248301945339",
+    "created_at": "2025-07-11T00:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T01:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943465248301945339"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yG6rucy4C6",
+          "end": 38,
+          "expanded_url": "https://x.com/penpunx/status/1943465248301945339/photo/1",
+          "media_key": "3_1943465237891461120",
+          "start": 15,
+          "url": "https://t.co/yG6rucy4C6"
+        },
+        {
+          "display_url": "pic.x.com/yG6rucy4C6",
+          "end": 38,
+          "expanded_url": "https://x.com/penpunx/status/1943465248301945339/photo/1",
+          "media_key": "3_1943465238117916672",
+          "start": 15,
+          "url": "https://t.co/yG6rucy4C6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943465248301945339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看视频现学的但是打出溏心蛋) https://t.co/yG6rucy4C6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943465237891461120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GviTVkHXMAALvDp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943465238117916672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GviTVk9WoAA2Ce7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943465237891461120",
+            "3_1943465238117916672"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1943465248301945339",
+        "created_at": "2025-07-11T00:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T01:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943465248301945339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yG6rucy4C6",
+              "end": 38,
+              "expanded_url": "https://x.com/penpunx/status/1943465248301945339/photo/1",
+              "media_key": "3_1943465237891461120",
+              "start": 15,
+              "url": "https://t.co/yG6rucy4C6"
+            },
+            {
+              "display_url": "pic.x.com/yG6rucy4C6",
+              "end": 38,
+              "expanded_url": "https://x.com/penpunx/status/1943465248301945339/photo/1",
+              "media_key": "3_1943465238117916672",
+              "start": 15,
+              "url": "https://t.co/yG6rucy4C6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943465248301945339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看视频现学的但是打出溏心蛋) https://t.co/yG6rucy4C6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "Jupiter III",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 207,
+          "like_count": 6888,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1570
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

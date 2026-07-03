@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1946068322136834080",
+    "created_at": "2025-07-18T08:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T09:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946129960193736848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844103262292803587",
+          "start": 0,
+          "username": "JJ2597758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946129960193736848",
+    "in_reply_to_user_id": "1844103262292803587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946068322136834080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JJ2597758 这是什么)("
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946068287634214912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwHSzAEXEAAThE_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1946068322136834080",
+        "created_at": "2025-07-18T08:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T09:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946129960193736848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844103262292803587",
+              "start": 0,
+              "username": "JJ2597758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946129960193736848",
+        "in_reply_to_user_id": "1844103262292803587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946068322136834080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JJ2597758 这是什么)("
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946068287634214912"
+          ]
+        },
+        "author_id": "1844103262292803587",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1946068322136834080",
+        "created_at": "2025-07-18T04:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T05:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946068322136834080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qa2XA4m1kl",
+              "end": 26,
+              "expanded_url": "https://x.com/JJ2597758/status/1946068322136834080/photo/1",
+              "media_key": "3_1946068287634214912",
+              "start": 3,
+              "url": "https://t.co/Qa2XA4m1kl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946068322136834080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 137,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操 https://t.co/Qa2XA4m1kl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "autistic 16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "Jupiter III",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 207,
+          "like_count": 7111,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 1636
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T19:51:03.000Z",
+        "description": "我没素质，",
+        "id": "1844103262292803587",
+        "name": "伴花作剑穗",
+        "pinned_tweet_id": "1945661850483618024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940839656532197376/hyHv_gZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 141,
+          "like_count": 19107,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1426
+        },
+        "username": "JJ2597758",
+        "verified": false
+      }
+    ]
+  }
+}

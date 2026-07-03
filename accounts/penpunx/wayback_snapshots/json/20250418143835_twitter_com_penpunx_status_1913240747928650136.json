@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1913237370956320971",
+    "created_at": "2025-04-18T14:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T15:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913240747928650136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1414619528911220741",
+          "start": 0,
+          "username": "ChibanaK1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913240747928650136",
+    "in_reply_to_user_id": "1414619528911220741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913237370956320971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChibanaK1 怎么你也去看了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 205725,
+        "height": 720,
+        "media_key": "13_1913236934962667520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1913236934962667520/img/akAeyfzf93Fm0oz1.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913236934962667520/vid/avc1/480x270/7Owp2iFD1J0XLHlc.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913236934962667520/vid/avc1/640x360/zZH2ESecVPSo9-Va.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1913236934962667520/vid/avc1/1280x720/paJwIPocQYg_Lgx7.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1913236934962667520/pl/Fxzdj0_wmIvDEdid.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1913237370956320971",
+        "created_at": "2025-04-18T14:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T15:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913240747928650136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1414619528911220741",
+              "start": 0,
+              "username": "ChibanaK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913240747928650136",
+        "in_reply_to_user_id": "1414619528911220741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913237370956320971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChibanaK1 怎么你也去看了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1913236934962667520"
+          ]
+        },
+        "author_id": "1414619528911220741",
+        "conversation_id": "1913237370956320971",
+        "created_at": "2025-04-18T14:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T15:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913237370956320971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhqCXYw0TI",
+              "end": 27,
+              "expanded_url": "https://x.com/ChibanaK1/status/1913237370956320971/video/1",
+              "media_key": "13_1913236934962667520",
+              "start": 4,
+              "url": "https://t.co/lhqCXYw0TI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913237370956320971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（涙） https://t.co/lhqCXYw0TI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 183,
+          "like_count": 4210,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 935
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-12T16:16:46.000Z",
+        "description": "پشت دریاها شهری است",
+        "id": "1414619528911220741",
+        "location": "Taiwan",
+        "name": "カツキ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911227782048219136/Kde_5fR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 58,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 129
+        },
+        "username": "ChibanaK1",
+        "verified": false
+      }
+    ]
+  }
+}

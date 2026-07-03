@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2069445739546058900",
+    "created_at": "2026-06-24T05:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T06:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069650857633956004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1647980508297719815",
+          "start": 0,
+          "username": "yanyejilennon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069650857633956004",
+    "in_reply_to_user_id": "1647980508297719815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069445739546058900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyejilennon 吓我一跳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 198,
+        "media_key": "3_2069445729702072320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgl7UDXUAAERfl.jpg",
+        "width": 370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2069445739546058900",
+        "created_at": "2026-06-24T05:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069650857633956004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1647980508297719815",
+              "start": 0,
+              "username": "yanyejilennon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069650857633956004",
+        "in_reply_to_user_id": "1647980508297719815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069445739546058900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyejilennon 吓我一跳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069445729702072320"
+          ]
+        },
+        "author_id": "1647980508297719815",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2069445739546058900",
+        "created_at": "2026-06-23T15:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069445739546058900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hoYR8tU2RB",
+              "end": 45,
+              "expanded_url": "https://x.com/yanyejilennon/status/2069445739546058900/photo/1",
+              "media_key": "3_2069445729702072320",
+              "start": 22,
+              "url": "https://t.co/hoYR8tU2RB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069445739546058900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 821,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家人们我没有被盗号呀，我只是加入了美妆家族 https://t.co/hoYR8tU2RB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 586,
+          "like_count": 14079,
+          "listed_count": 1,
+          "media_count": 681,
+          "tweet_count": 5525
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T15:09:18.000Z",
+        "description": "握紧我矛盾密布的手",
+        "id": "1647980508297719815",
+        "location": "Liverpool, England",
+        "name": "🌸礼志🌷🍭美妆🌈❤️面膜推荐",
+        "pinned_tweet_id": "2051709632058380563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041206438568296448/01syet9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 373,
+          "like_count": 57378,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 5328
+        },
+        "url": "",
+        "username": "yanyejilennon",
+        "verified": false
+      }
+    ]
+  }
+}

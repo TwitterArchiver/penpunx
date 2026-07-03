@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2042860909832605980",
+    "created_at": "2026-04-11T07:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T08:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042864775517049194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1797831340987195392",
+          "start": 0,
+          "username": "nagaikisetsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042864775517049194",
+    "in_reply_to_user_id": "1797831340987195392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042860909832605980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nagaikisetsu 正确的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2042860909832605980",
+        "created_at": "2026-04-11T07:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042864775517049194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1797831340987195392",
+              "start": 0,
+              "username": "nagaikisetsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042864775517049194",
+        "in_reply_to_user_id": "1797831340987195392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042860909832605980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nagaikisetsu 正确的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797831340987195392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2042860909832605980",
+        "created_at": "2026-04-11T07:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042860909832605980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042860909832605980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要多听音乐，多看电影，多做自己喜欢的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 396,
+          "like_count": 11875,
+          "listed_count": 1,
+          "media_count": 452,
+          "tweet_count": 3616
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T03:23:07.000Z",
+        "description": "",
+        "id": "1797831340987195392",
+        "name": "iv",
+        "pinned_tweet_id": "1948671608551604689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042862613772800001/72N66RCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 102,
+          "like_count": 4786,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 23
+        },
+        "username": "nagaikisetsu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2048470014765019170",
+    "created_at": "2026-04-26T22:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T23:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048523576056361312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1797831340987195392",
+          "start": 0,
+          "username": "nagaikisetsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048523576056361312",
+    "in_reply_to_user_id": "1797831340987195392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048470014765019170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nagaikisetsu pr戒断反应"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2048470014765019170",
+        "created_at": "2026-04-26T22:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T23:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048523576056361312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1797831340987195392",
+              "start": 0,
+              "username": "nagaikisetsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048523576056361312",
+        "in_reply_to_user_id": "1797831340987195392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048470014765019170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nagaikisetsu pr戒断反应"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797831340987195392",
+        "conversation_id": "2048470014765019170",
+        "created_at": "2026-04-26T18:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T19:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048470014765019170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048470014765019170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近几天上午都被冻醒但温度是20多度反而越到晚上越觉得热不知道为什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 441,
+          "like_count": 12205,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 3877
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T03:23:07.000Z",
+        "description": "",
+        "id": "1797831340987195392",
+        "location": "Abyss",
+        "name": "-",
+        "pinned_tweet_id": "1948671608551604689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048117292085751808/bLYJd2DL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 124,
+          "like_count": 4825,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 44
+        },
+        "username": "nagaikisetsu",
+        "verified": false
+      }
+    ]
+  }
+}

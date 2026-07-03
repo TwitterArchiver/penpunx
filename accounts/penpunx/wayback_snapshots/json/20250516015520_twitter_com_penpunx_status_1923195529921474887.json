@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1923191834760643042",
+    "created_at": "2025-05-16T01:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T02:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923195529921474887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1505242176560656386",
+          "start": 0,
+          "username": "ia0001_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923195529921474887",
+    "in_reply_to_user_id": "1505242176560656386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923192345027031236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ia0001_ 人际关系矛盾背后人与人特点的差异"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1923191834760643042",
+        "created_at": "2025-05-16T01:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T02:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923195529921474887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1505242176560656386",
+              "start": 0,
+              "username": "ia0001_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923195529921474887",
+        "in_reply_to_user_id": "1505242176560656386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923192345027031236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ia0001_ 人际关系矛盾背后人与人特点的差异"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505242176560656386",
+        "conversation_id": "1923191834760643042",
+        "created_at": "2025-05-16T01:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T02:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923192345027031236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923192345027031236",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923191834760643042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 洞察到什么啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 199,
+          "like_count": 5569,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1236
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T17:58:09.000Z",
+        "description": "",
+        "id": "1505242176560656386",
+        "name": "ia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867013851029606400/A9xjdc2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 282,
+          "like_count": 28946,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 4633
+        },
+        "username": "ia0001_",
+        "verified": false
+      }
+    ]
+  }
+}

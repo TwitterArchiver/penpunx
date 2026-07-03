@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1949467029788033105",
+    "created_at": "2025-07-27T13:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T14:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949467029788033105"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/arcfunmi/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/arcfunmi/status/1949278440558858357",
+          "start": 18,
+          "url": "https://t.co/MUaw8KjQ6A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949467029788033105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949278440558858357",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这不是几年前b站很火的小哥爱打胶吗 https://t.co/MUaw8KjQ6A"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52825,
+        "height": 1212,
+        "media_key": "7_1949278266944045056",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1949278266944045056/pu/img/8zuCE_5uXpotC-SG.jpg",
+        "public_metrics": {
+          "view_count": 341386
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1949278266944045056/pu/vid/avc1/320x568/Oo0PRBK-1kK2F8mx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1949278266944045056/pu/vid/avc1/480x852/bQOmoDUmimoTWTQG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1949278266944045056/pu/vid/avc1/682x1212/kR_liz7cm5_pUpga.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1949278266944045056/pu/pl/McM7WAQnQ00RODHY.m3u8?tag=12"
+          }
+        ],
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1949467029788033105",
+        "created_at": "2025-07-27T13:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T14:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949467029788033105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arcfunmi/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/arcfunmi/status/1949278440558858357",
+              "start": 18,
+              "url": "https://t.co/MUaw8KjQ6A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949467029788033105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949278440558858357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这不是几年前b站很火的小哥爱打胶吗 https://t.co/MUaw8KjQ6A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1949278266944045056"
+          ]
+        },
+        "author_id": "1208391044712284160",
+        "conversation_id": "1949278440558858357",
+        "created_at": "2025-07-27T01:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T02:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949278440558858357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/COgmdrG2dF",
+              "end": 59,
+              "expanded_url": "https://x.com/Arcfunmi/status/1949278440558858357/video/1",
+              "media_key": "7_1949278266944045056",
+              "start": 36,
+              "url": "https://t.co/COgmdrG2dF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949278440558858357",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3039,
+          "impression_count": 277827,
+          "like_count": 2760,
+          "quote_count": 5,
+          "reply_count": 26,
+          "retweet_count": 276
+        },
+        "reply_settings": "everyone",
+        "text": "Great caulking idea in construction https://t.co/COgmdrG2dF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "autistic 16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "TR",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 209,
+          "like_count": 7439,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 1716
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-21T14:18:06.000Z",
+        "description": "Architecture, Engineering and Construction | \n\nInterior Design | Craftsmanship | Real Estate | Landscape | PM & FM \n \n https://t.co/qoXtZ4Qtny",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@arcfunmi1",
+                "end": 142,
+                "expanded_url": "https://www.youtube.com/@arcfunmi1",
+                "start": 119,
+                "url": "https://t.co/qoXtZ4Qtny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arcfunmi.com",
+                "end": 23,
+                "expanded_url": "https://arcfunmi.com",
+                "start": 0,
+                "url": "https://t.co/Ypg8fYFASs"
+              }
+            ]
+          }
+        },
+        "id": "1208391044712284160",
+        "location": "Illinois, USA",
+        "name": "Arcfunmi",
+        "pinned_tweet_id": "1949216718280175777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944165590693707776/10tSXsDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110880,
+          "following_count": 1844,
+          "like_count": 44463,
+          "listed_count": 256,
+          "media_count": 7532,
+          "tweet_count": 41865
+        },
+        "url": "https://t.co/Ypg8fYFASs",
+        "username": "Arcfunmi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963204160960233472"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1963204177410285913",
+    "created_at": "2025-09-03T11:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T12:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963204177410285913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HAYciKshRL",
+          "end": 27,
+          "expanded_url": "https://x.com/penpunx/status/1963204177410285913/photo/1",
+          "media_key": "3_1963204160960233472",
+          "start": 4,
+          "url": "https://t.co/HAYciKshRL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963204177410285913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大鸡鸡 https://t.co/HAYciKshRL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963204160960233472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz6zyGuagAAmZ7a.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963204160960233472"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1963204177410285913",
+        "created_at": "2025-09-03T11:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T12:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963204177410285913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HAYciKshRL",
+              "end": 27,
+              "expanded_url": "https://x.com/penpunx/status/1963204177410285913/photo/1",
+              "media_key": "3_1963204160960233472",
+              "start": 4,
+              "url": "https://t.co/HAYciKshRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963204177410285913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大鸡鸡 https://t.co/HAYciKshRL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 266,
+          "like_count": 9142,
+          "listed_count": 1,
+          "media_count": 283,
+          "tweet_count": 2081
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

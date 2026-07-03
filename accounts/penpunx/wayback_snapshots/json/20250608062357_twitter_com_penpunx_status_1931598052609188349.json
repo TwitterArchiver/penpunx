@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1362488672067592193",
+          "name": "Lifehacks"
+        }
+      }
+    ],
+    "conversation_id": "1931598052609188349",
+    "created_at": "2025-06-08T06:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T07:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931598052609188349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/albertomemet05…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/albertomemet05/status/1931235982835356148",
+          "start": 3,
+          "url": "https://t.co/pkanUlE8jL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931598052609188349",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931235982835356148",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神金 https://t.co/pkanUlE8jL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62600,
+        "height": 1024,
+        "media_key": "13_1931235266431508480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1931235266431508480/img/Pdpwph8K80SxXgEX.jpg",
+        "public_metrics": {
+          "view_count": 4180349
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931235266431508480/vid/avc1/320x568/pL4G7sCQCywGWGpb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931235266431508480/vid/avc1/480x852/7vPkpHS_F4anIiis.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931235266431508480/vid/avc1/576x1024/KTpRdc9TB_v1hVHH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1931235266431508480/pl/NvdBXYRlC0KTsnag.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1362488672067592193",
+              "name": "Lifehacks"
+            }
+          }
+        ],
+        "conversation_id": "1931598052609188349",
+        "created_at": "2025-06-08T06:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T07:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931598052609188349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/albertomemet05…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/albertomemet05/status/1931235982835356148",
+              "start": 3,
+              "url": "https://t.co/pkanUlE8jL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931598052609188349",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931235982835356148",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神金 https://t.co/pkanUlE8jL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1931235266431508480"
+          ]
+        },
+        "author_id": "1891360510974795776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1362488672067592193",
+              "name": "Lifehacks"
+            }
+          }
+        ],
+        "conversation_id": "1931235982835356148",
+        "created_at": "2025-06-07T06:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T07:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931235982835356148"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "2",
+              "probability": 0.6446,
+              "start": 10,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ukEf02ppa",
+              "end": 35,
+              "expanded_url": "https://x.com/albertomemet05/status/1931235982835356148/video/1",
+              "media_key": "13_1931235266431508480",
+              "start": 12,
+              "url": "https://t.co/9ukEf02ppa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931235982835356148",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1602,
+          "impression_count": 7234368,
+          "like_count": 2408,
+          "quote_count": 350,
+          "reply_count": 229,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "Life hack 2 https://t.co/9ukEf02ppa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 206,
+          "like_count": 6158,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1395
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T05:34:30.000Z",
+        "description": "Gak usah basa basi",
+        "id": "1891360510974795776",
+        "location": "Tangerang, Indonesia",
+        "name": "Alberto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891373980671774720/C79xlOCv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6358,
+          "following_count": 901,
+          "like_count": 34706,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 39220
+        },
+        "username": "albertomemet05",
+        "verified": true
+      }
+    ]
+  }
+}

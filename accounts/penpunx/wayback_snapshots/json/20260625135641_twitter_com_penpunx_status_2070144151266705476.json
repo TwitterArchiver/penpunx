@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2070144151266705476",
+    "created_at": "2026-06-25T13:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T14:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070144151266705476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "bilibili.com/video/BV1ExLv6…",
+          "end": 23,
+          "expanded_url": "https://www.bilibili.com/video/BV1ExLv6TEuL/?spm_id_from=333.337.search-card.all.click&vd_source=a217ef46c06a494f8cf78a065cfccb4b",
+          "start": 0,
+          "status": 200,
+          "unwound_url": "https://www.bilibili.com/video/BV1ExLv6TEuL/?spm_id_from=333.337.search-card.all.click&vd_source=a217ef46c06a494f8cf78a065cfccb4b",
+          "url": "https://t.co/0gCHJk92at"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070144151266705476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/0gCHJk92at\n过于厉害了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2070144151266705476",
+        "created_at": "2026-06-25T13:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070144151266705476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bilibili.com/video/BV1ExLv6…",
+              "end": 23,
+              "expanded_url": "https://www.bilibili.com/video/BV1ExLv6TEuL/?spm_id_from=333.337.search-card.all.click&vd_source=a217ef46c06a494f8cf78a065cfccb4b",
+              "start": 0,
+              "status": 200,
+              "unwound_url": "https://www.bilibili.com/video/BV1ExLv6TEuL/?spm_id_from=333.337.search-card.all.click&vd_source=a217ef46c06a494f8cf78a065cfccb4b",
+              "url": "https://t.co/0gCHJk92at"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070144151266705476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0gCHJk92at\n过于厉害了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 588,
+          "like_count": 14132,
+          "listed_count": 1,
+          "media_count": 694,
+          "tweet_count": 5614
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

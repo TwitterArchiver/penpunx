@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2067564408994508887",
+    "created_at": "2026-06-18T11:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067571850998390811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1446160096275275780",
+          "start": 0,
+          "username": "unrecognizab4L"
+        },
+        {
+          "end": 32,
+          "id": "1492808050461196288",
+          "start": 16,
+          "username": "Breaking_Lead_G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067571850998390811",
+    "in_reply_to_user_id": "1446160096275275780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067567206922399897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unrecognizab4L @Breaking_Lead_G 其实是一同参观的("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2067564408994508887",
+        "created_at": "2026-06-18T11:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067571850998390811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1446160096275275780",
+              "start": 0,
+              "username": "unrecognizab4L"
+            },
+            {
+              "end": 32,
+              "id": "1492808050461196288",
+              "start": 16,
+              "username": "Breaking_Lead_G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067571850998390811",
+        "in_reply_to_user_id": "1446160096275275780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067567206922399897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unrecognizab4L @Breaking_Lead_G 其实是一同参观的("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446160096275275780",
+        "conversation_id": "2067564408994508887",
+        "created_at": "2026-06-18T11:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067567206922399897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492808050461196288",
+              "start": 0,
+              "username": "Breaking_Lead_G"
+            },
+            {
+              "end": 25,
+              "id": "1896904934995656704",
+              "start": 17,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067567206922399897",
+        "in_reply_to_user_id": "1492808050461196288",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067564408994508887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Breaking_Lead_G @penpunx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "巴卡巴拉，苏卡纳纳马斯。",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 575,
+          "like_count": 13919,
+          "listed_count": 1,
+          "media_count": 630,
+          "tweet_count": 5278
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T17:07:02.000Z",
+        "description": "space cadet\nalt art projects account @",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/manwearingbean…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/manwearingbeanie",
+                "start": 0,
+                "url": "https://t.co/SYjCXQCXgt"
+              }
+            ]
+          }
+        },
+        "id": "1446160096275275780",
+        "location": "space station",
+        "name": "manwearingbeanie",
+        "pinned_tweet_id": "2058986004544102784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049064385524744192/73AiJAQW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 319,
+          "like_count": 10602,
+          "listed_count": 0,
+          "media_count": 403,
+          "tweet_count": 3564
+        },
+        "url": "https://t.co/SYjCXQCXgt",
+        "username": "unrecognizab4L",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T10:29:22.000Z",
+        "description": "- 我愛 函數式編程 古典音樂 中古漢語 魔法 @10lulu2 还有你！\n- 我恨 數學分析 實分析 傅裡葉分析 泛函分析 精神分析 犯愁論\n- 初级程序员，时不时折腾小东西（\n- 我讨厌 Scheme ，wy 最爱的垃圾语言\n- 我是古法编程仙人\n- 18yo\n計算機科學/數學討論群 613637913",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "10lulu2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lmgtfy.com",
+                "end": 23,
+                "expanded_url": "http://lmgtfy.com",
+                "start": 0,
+                "url": "https://t.co/ZJLsEbzS7P"
+              }
+            ]
+          }
+        },
+        "id": "1492808050461196288",
+        "location": "Xi'an",
+        "name": "月",
+        "pinned_tweet_id": "2066054416197885980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050418708611571712/-6VIffCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 761,
+          "like_count": 1856,
+          "listed_count": 8,
+          "media_count": 891,
+          "tweet_count": 10393
+        },
+        "url": "https://t.co/ZJLsEbzS7P",
+        "username": "Breaking_Lead_G",
+        "verified": false
+      }
+    ]
+  }
+}

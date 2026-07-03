@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2027217306166972803",
+    "created_at": "2026-02-27T08:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T09:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027300461787918525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1891207498604142592",
+          "start": 0,
+          "username": "hegoak4698"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027300461787918525",
+    "in_reply_to_user_id": "1891207498604142592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027217306166972803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hegoak4698 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2027217306166972803",
+        "created_at": "2026-02-27T08:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027300461787918525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1891207498604142592",
+              "start": 0,
+              "username": "hegoak4698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027300461787918525",
+        "in_reply_to_user_id": "1891207498604142592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027217306166972803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hegoak4698 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891207498604142592",
+        "conversation_id": "2027217306166972803",
+        "created_at": "2026-02-27T03:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027217306166972803"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "柳州高架",
+              "probability": 0.5936,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/untitledfold_e…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/untitledfold_er/status/2027142158726091090",
+              "start": 8,
+              "url": "https://t.co/Qnn7d4rbJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027217306166972803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027142158726091090",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "柳州高架吧大概 https://t.co/Qnn7d4rbJI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2024557534829564202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 328,
+          "like_count": 11101,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 3088
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-16T19:26:33.000Z",
+        "description": "你想回到没有互联网的日子吗 反正我不想☝️",
+        "id": "1891207498604142592",
+        "name": "hegoak",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020730915618783232/7lPauWxP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 433,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 64
+        },
+        "username": "hegoak4698",
+        "verified": false
+      }
+    ]
+  }
+}

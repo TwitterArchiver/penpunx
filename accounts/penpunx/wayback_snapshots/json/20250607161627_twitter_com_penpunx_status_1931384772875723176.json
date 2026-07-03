@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1931383653281706311",
+    "created_at": "2025-06-07T16:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T17:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931384772875723176"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931384772875723176",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931383653281706311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也不知道这个材料是想要让我们写关于文章的，还是可以泛指任何专业、通俗、传世的事物\n虽然我觉得更偏向前者（比如，“专”的定义就是专业“文章”\n但是这样那些人练了三年的“人生该怎么度过”，岂不是无用武之地了\n不过这样语文性倒是很强，而不是哲学性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1931383653281706311",
+        "created_at": "2025-06-07T16:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T17:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931384772875723176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931384772875723176",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931383653281706311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也不知道这个材料是想要让我们写关于文章的，还是可以泛指任何专业、通俗、传世的事物\n虽然我觉得更偏向前者（比如，“专”的定义就是专业“文章”\n但是这样那些人练了三年的“人生该怎么度过”，岂不是无用武之地了\n不过这样语文性倒是很强，而不是哲学性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1931383653281706311",
+        "created_at": "2025-06-07T16:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T17:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931383653281706311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931383653281706311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看完上海作文题还以为自己有阅读障碍呢\n三个字长得太像了我平时都会看错读错（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 206,
+          "like_count": 6138,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1396
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

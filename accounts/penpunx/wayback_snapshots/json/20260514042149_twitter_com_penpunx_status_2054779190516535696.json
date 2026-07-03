@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2054779190516535696",
+    "created_at": "2026-05-14T04:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T05:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054779190516535696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ww123qwq/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/ww123qwq/status/2054411682538229923",
+          "start": 11,
+          "url": "https://t.co/epBll5GCCl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054779190516535696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054411682538229923",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃普瑞后入尼古丁何如 https://t.co/epBll5GCCl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2054779190516535696",
+        "created_at": "2026-05-14T04:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054779190516535696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ww123qwq/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/ww123qwq/status/2054411682538229923",
+              "start": 11,
+              "url": "https://t.co/epBll5GCCl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054779190516535696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054411682538229923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃普瑞后入尼古丁何如 https://t.co/epBll5GCCl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2054411682538229923",
+        "created_at": "2026-05-13T04:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T05:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054411682538229923"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054411682538229923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1011,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃普瑞后摄入尼古丁挺爽的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 522,
+          "like_count": 13269,
+          "listed_count": 1,
+          "media_count": 514,
+          "tweet_count": 4534
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 51,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 28,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 280,
+          "like_count": 42728,
+          "listed_count": 4,
+          "media_count": 688,
+          "tweet_count": 12820
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

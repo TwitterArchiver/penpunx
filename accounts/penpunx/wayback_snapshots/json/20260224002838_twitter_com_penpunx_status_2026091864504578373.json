@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Linkin Park",
+          "id": "864578631275761664",
+          "name": "Linkin Park"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Linkin Park",
+          "id": "864578631275761664",
+          "name": "Linkin Park"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Alternative",
+          "id": "849684194242338816",
+          "name": "Alternative rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A music album like The Dark Side of the Moon",
+          "id": "89",
+          "name": "Music Album"
+        },
+        "entity": {
+          "description": "One More Light",
+          "id": "864887938852691968",
+          "name": "One More Light"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Alternative",
+          "id": "849684194242338816",
+          "name": "Alternative rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linkin Park",
+          "id": "864578631275761664",
+          "name": "Linkin Park"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293191811561709575",
+          "name": "Indie & Alternative"
+        }
+      }
+    ],
+    "conversation_id": "2026091041053700577",
+    "created_at": "2026-02-24T00:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T01:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026091864504578373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《One More Light》，别名《又一道光芒》，由 Linkin Park 演唱，收录于《One More Light》专辑中，《One More Light》下载，《One More Light》在线试听，更多One More Light相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/13Wa8vj",
+          "end": 87,
+          "expanded_url": "https://163cn.tv/13Wa8vj",
+          "images": [
+            {
+              "height": 1425,
+              "url": "https://pbs.twimg.com/news_img/2026091880887545856/zyJVTP0i?format=jpg&name=orig",
+              "width": 1425
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2026091880887545856/zyJVTP0i?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 64,
+          "status": 200,
+          "title": "One More Light（又一道光芒） - Linkin Park - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t2&id=460043753&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=8740721074&playerUIModeId=76001&app_version=9.4.65&dlt=0846",
+          "url": "https://t.co/reCsSdghqk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026091864504578373",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026091041053700577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想到林肯公园的那首歌\n“well i do”\n\n分享Linkin Park的单曲《One More Light (又一道光芒)》https://t.co/reCsSdghqk (@网易云音乐)\n\n2022年初我特别喜欢这首歌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Linkin Park",
+              "id": "864578631275761664",
+              "name": "Linkin Park"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Linkin Park",
+              "id": "864578631275761664",
+              "name": "Linkin Park"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A music album like The Dark Side of the Moon",
+              "id": "89",
+              "name": "Music Album"
+            },
+            "entity": {
+              "description": "One More Light",
+              "id": "864887938852691968",
+              "name": "One More Light"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linkin Park",
+              "id": "864578631275761664",
+              "name": "Linkin Park"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293191811561709575",
+              "name": "Indie & Alternative"
+            }
+          }
+        ],
+        "conversation_id": "2026091041053700577",
+        "created_at": "2026-02-24T00:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T01:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026091864504578373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《One More Light》，别名《又一道光芒》，由 Linkin Park 演唱，收录于《One More Light》专辑中，《One More Light》下载，《One More Light》在线试听，更多One More Light相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/13Wa8vj",
+              "end": 87,
+              "expanded_url": "https://163cn.tv/13Wa8vj",
+              "images": [
+                {
+                  "height": 1425,
+                  "url": "https://pbs.twimg.com/news_img/2026091880887545856/zyJVTP0i?format=jpg&name=orig",
+                  "width": 1425
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2026091880887545856/zyJVTP0i?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 64,
+              "status": 200,
+              "title": "One More Light（又一道光芒） - Linkin Park - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t2&id=460043753&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=8740721074&playerUIModeId=76001&app_version=9.4.65&dlt=0846",
+              "url": "https://t.co/reCsSdghqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026091864504578373",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026091041053700577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想到林肯公园的那首歌\n“well i do”\n\n分享Linkin Park的单曲《One More Light (又一道光芒)》https://t.co/reCsSdghqk (@网易云音乐)\n\n2022年初我特别喜欢这首歌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2026091041053700577",
+        "created_at": "2026-02-24T00:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T01:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026091041053700577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026091041053700577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不敢想象如果我自杀或者出意外了，身边的人会多么难受\n之前我时常想，如果我想死但是因为怕亲朋好友痛苦而苟活，岂不是只为了别人而活\n现在我才想到，如果是出于我对他们的在乎，那就是为了自己而活\n我不想我在乎的人受到伤害（至少现在我是这么想的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2024557534829564202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 321,
+          "like_count": 10964,
+          "listed_count": 1,
+          "media_count": 403,
+          "tweet_count": 2998
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

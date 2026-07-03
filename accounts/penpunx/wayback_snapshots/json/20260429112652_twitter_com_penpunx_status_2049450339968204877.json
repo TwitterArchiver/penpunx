@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2049449943342227877",
+    "created_at": "2026-04-29T11:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049450339968204877"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049450339968204877",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049449943342227877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "菲尼布特与巴氯芬具有几乎相同的结构，只是在苯基的对位少了一个氯原子，并且在其结构中包含苯乙胺。那么菲尼布特+maoi能否增强药效？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2049449943342227877",
+        "created_at": "2026-04-29T11:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049450339968204877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049450339968204877",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049449943342227877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "菲尼布特与巴氯芬具有几乎相同的结构，只是在苯基的对位少了一个氯原子，并且在其结构中包含苯乙胺。那么菲尼布特+maoi能否增强药效？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2049449943342227877",
+        "created_at": "2026-04-29T11:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049449943342227877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049449943342227877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "菲尼布特低剂量下可以作为补给，对人类和动物都有抗焦虑效果。也许可以试试低剂量使用？但一定不能od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 447,
+          "like_count": 12294,
+          "listed_count": 1,
+          "media_count": 471,
+          "tweet_count": 3931
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

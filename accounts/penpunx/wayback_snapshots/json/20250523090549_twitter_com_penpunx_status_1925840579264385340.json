@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1925840579264385340",
+    "created_at": "2025-05-23T09:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T10:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925840579264385340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VitalikButerin…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/VitalikButerin/status/1925786172065763655",
+          "start": 11,
+          "url": "https://t.co/7P5iYaRaC4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925840579264385340",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925786172065763655",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "regen welt https://t.co/7P5iYaRaC4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_1925785639561125888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrnD1f-W4AA3CCv.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1925840579264385340",
+        "created_at": "2025-05-23T09:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T10:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925840579264385340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VitalikButerin…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/VitalikButerin/status/1925786172065763655",
+              "start": 11,
+              "url": "https://t.co/7P5iYaRaC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925840579264385340",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925786172065763655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "regen welt https://t.co/7P5iYaRaC4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925785639561125888"
+          ]
+        },
+        "author_id": "295218901",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1272969851498192896",
+              "name": "Vitalik Buterin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272969851498192896",
+              "name": "Vitalik Buterin"
+            }
+          }
+        ],
+        "conversation_id": "1925786172065763655",
+        "created_at": "2025-05-23T05:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T06:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925786172065763655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D05fOtthyo",
+              "end": 23,
+              "expanded_url": "https://x.com/VitalikButerin/status/1925786172065763655/photo/1",
+              "media_key": "3_1925785639561125888",
+              "start": 0,
+              "url": "https://t.co/D05fOtthyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925786172065763655",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 214226,
+          "like_count": 2619,
+          "quote_count": 97,
+          "reply_count": 834,
+          "retweet_count": 251
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/D05fOtthyo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo neurodivergent guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 203,
+          "like_count": 5901,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1298
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-08T16:03:03.000Z",
+        "description": "I choose balance. First-level balance.\n\nmi pinxe lo crino tcati\n\nhttps://t.co/gCQrmCb0ih",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "slatestarcodex.com/2018/09/12/in-…",
+                "end": 88,
+                "expanded_url": "https://slatestarcodex.com/2018/09/12/in-the-balance/",
+                "start": 65,
+                "url": "https://t.co/gCQrmCb0ih"
+              }
+            ]
+          }
+        },
+        "id": "295218901",
+        "location": "Earth",
+        "name": "vitalik.eth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895872023944937472/Uoyc5-p8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5771356,
+          "following_count": 490,
+          "like_count": 9337,
+          "listed_count": 37839,
+          "media_count": 871,
+          "tweet_count": 20814
+        },
+        "username": "VitalikButerin",
+        "verified": true
+      }
+    ]
+  }
+}

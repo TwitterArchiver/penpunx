@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2045328741862461763",
+    "created_at": "2026-04-18T20:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T21:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045595139746463802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2031468992205041666",
+          "start": 0,
+          "username": "DesWhaDesU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045595139746463802",
+    "in_reply_to_user_id": "2031468992205041666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045499464006438962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DesWhaDesU 但是那些人自发形成的秩序是很有限的..或者说，形成了规律性的乱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2045328741862461763",
+        "created_at": "2026-04-18T20:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T21:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045595139746463802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2031468992205041666",
+              "start": 0,
+              "username": "DesWhaDesU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045595139746463802",
+        "in_reply_to_user_id": "2031468992205041666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045499464006438962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesWhaDesU 但是那些人自发形成的秩序是很有限的..或者说，形成了规律性的乱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031468992205041666",
+        "conversation_id": "2045328741862461763",
+        "created_at": "2026-04-18T13:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045499464006438962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045499464006438962",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045328741862461763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 没有政府不代表没有秩序\nAnarchy is Order"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 413,
+          "like_count": 12089,
+          "listed_count": 1,
+          "media_count": 456,
+          "tweet_count": 3774
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T20:35:39.000Z",
+        "description": "真的吗？",
+        "id": "2031468992205041666",
+        "location": "Seattle, WA",
+        "name": "DestroyWhatDestroysU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040768955959406592/ddH8T6-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 128,
+          "like_count": 3889,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 545
+        },
+        "username": "DesWhaDesU",
+        "verified": false
+      }
+    ]
+  }
+}

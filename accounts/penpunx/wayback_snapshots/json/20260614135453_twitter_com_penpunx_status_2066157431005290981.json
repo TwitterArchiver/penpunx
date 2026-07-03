@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2066006823446921514",
+    "created_at": "2026-06-14T13:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066157431005290981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1733139095352918016",
+          "start": 0,
+          "username": "aoi4uto"
+        },
+        {
+          "end": 18,
+          "id": "1438420916518539267",
+          "start": 9,
+          "username": "200x0x1x"
+        },
+        {
+          "end": 28,
+          "id": "1123385386363969536",
+          "start": 19,
+          "username": "yozuha15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066157431005290981",
+    "in_reply_to_user_id": "1733139095352918016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066154908265681278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoi4uto @200x0x1x @yozuha15 我的故乡在某个游戏里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2066006823446921514",
+        "created_at": "2026-06-14T13:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066157431005290981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1733139095352918016",
+              "start": 0,
+              "username": "aoi4uto"
+            },
+            {
+              "end": 18,
+              "id": "1438420916518539267",
+              "start": 9,
+              "username": "200x0x1x"
+            },
+            {
+              "end": 28,
+              "id": "1123385386363969536",
+              "start": 19,
+              "username": "yozuha15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066157431005290981",
+        "in_reply_to_user_id": "1733139095352918016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066154908265681278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoi4uto @200x0x1x @yozuha15 我的故乡在某个游戏里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733139095352918016",
+        "conversation_id": "2066006823446921514",
+        "created_at": "2026-06-14T13:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066154908265681278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            },
+            {
+              "end": 19,
+              "id": "1123385386363969536",
+              "start": 10,
+              "username": "yozuha15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066154908265681278",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066006823446921514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x @yozuha15 我将放弃无论是哪里的那个世俗故乡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "谛室多摩他槃，巴卡巴拉，苏卡纳纳马斯。",
+        "id": "1896904934995656704",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 571,
+          "like_count": 13855,
+          "listed_count": 1,
+          "media_count": 618,
+          "tweet_count": 5205
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T14:59:03.000Z",
+        "description": "All their prejudices. All their passions. Their local interests and selfish views. And yet, we'll be fine.\n神经多样性｜不良嗜好｜回关各类学生\n亲友@Acmduemsks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 127,
+                "username": "Acmduemsks"
+              }
+            ]
+          }
+        },
+        "id": "1733139095352918016",
+        "location": "午夜沙发电视",
+        "name": "噪点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064774533496877056/x1tA81WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 652,
+          "like_count": 59860,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 8920
+        },
+        "username": "aoi4uto",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065160223313068032/hZhibMJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 766,
+          "like_count": 27861,
+          "listed_count": 6,
+          "media_count": 2444,
+          "tweet_count": 26729
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-01T00:35:22.000Z",
+        "description": "=鱼子酱   水豚转发bot，本体是水豚‖虎鲸性恋月性恋三文鱼性恋‖真的不会写代码‖不懂二次元的美妙的人永别了",
+        "id": "1123385386363969536",
+        "location": "外太空✨",
+        "name": "讴歌终结之物",
+        "pinned_tweet_id": "2063606076680110262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046976246685544448/1ngCNHt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3016,
+          "following_count": 1550,
+          "like_count": 9854,
+          "listed_count": 11,
+          "media_count": 1581,
+          "tweet_count": 15801
+        },
+        "username": "yozuha15",
+        "verified": false
+      }
+    ]
+  }
+}

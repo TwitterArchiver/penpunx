@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1919182861661278294",
+    "created_at": "2025-05-05T16:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T17:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919428359320125906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1085791168040861696",
+          "start": 0,
+          "username": "sezrijo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919428359320125906",
+    "in_reply_to_user_id": "1085791168040861696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919182861661278294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sezrijo 🫂😭终于有人懂了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1068,
+        "media_key": "3_1919182857035005952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqJOo-SXQAAzICX.jpg",
+        "width": 1590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1919182861661278294",
+        "created_at": "2025-05-05T16:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T17:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919428359320125906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1085791168040861696",
+              "start": 0,
+              "username": "sezrijo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919428359320125906",
+        "in_reply_to_user_id": "1085791168040861696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919182861661278294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sezrijo 🫂😭终于有人懂了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919182857035005952"
+          ]
+        },
+        "author_id": "1085791168040861696",
+        "conversation_id": "1919182861661278294",
+        "created_at": "2025-05-05T00:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T01:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919182861661278294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2PHz41bpgG",
+              "end": 39,
+              "expanded_url": "https://x.com/sezrijo/status/1919182861661278294/photo/1",
+              "media_key": "3_1919182857035005952",
+              "start": 16,
+              "url": "https://t.co/2PHz41bpgG"
+            },
+            {
+              "display_url": "x.com/elonmusk/statu…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/elonmusk/status/1918675474395603006",
+              "start": 40,
+              "url": "https://t.co/IATnlCHEQP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919182861661278294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 845,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918675474395603006",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這應該是每一個上海人的第一反應 https://t.co/2PHz41bpgG https://t.co/IATnlCHEQP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 199,
+          "like_count": 5282,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1136
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-17T06:49:22.000Z",
+        "description": "又不是八十年代 寂寞芳心的愛",
+        "id": "1085791168040861696",
+        "location": "Cambridge, England",
+        "name": "🎲",
+        "pinned_tweet_id": "1788880578499981489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903094774565048322/vZnfhbZs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2678,
+          "following_count": 975,
+          "like_count": 13337,
+          "listed_count": 3,
+          "media_count": 1056,
+          "tweet_count": 5854
+        },
+        "username": "sezrijo",
+        "verified": false
+      }
+    ]
+  }
+}

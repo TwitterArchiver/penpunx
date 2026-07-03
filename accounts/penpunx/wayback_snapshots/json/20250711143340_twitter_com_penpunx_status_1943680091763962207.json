@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943680084520697856"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1943680091763962207",
+    "created_at": "2025-07-11T14:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T15:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943680091763962207"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wBUPeIrZfF",
+          "end": 28,
+          "expanded_url": "https://x.com/penpunx/status/1943680091763962207/photo/1",
+          "media_key": "3_1943680084520697856",
+          "start": 5,
+          "url": "https://t.co/wBUPeIrZfF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943680091763962207",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "支持() https://t.co/wBUPeIrZfF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_1943680084520697856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvlWvSLbgAAK4V4.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943680084520697856"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1943680091763962207",
+        "created_at": "2025-07-11T14:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T15:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943680091763962207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wBUPeIrZfF",
+              "end": 28,
+              "expanded_url": "https://x.com/penpunx/status/1943680091763962207/photo/1",
+              "media_key": "3_1943680084520697856",
+              "start": 5,
+              "url": "https://t.co/wBUPeIrZfF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943680091763962207",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "支持() https://t.co/wBUPeIrZfF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "Jupiter III",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 207,
+          "like_count": 6914,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1574
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

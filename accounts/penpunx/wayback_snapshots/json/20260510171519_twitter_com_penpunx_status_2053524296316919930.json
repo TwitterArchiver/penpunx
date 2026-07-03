@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Meditation",
+          "id": "918221163284676608",
+          "name": "Meditation"
+        }
+      }
+    ],
+    "conversation_id": "2053524296316919930",
+    "created_at": "2026-05-10T17:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T18:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053524296316919930"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053524296316919930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "迷幻冥想——这只是我想到的词语。在2023年春我曾梦见自己被推进太平间，多么悲伤！现在我在冥想里以第三人称感受到自己躺着自动移动进入一珠光粉色长方形，随后成为了宇宙。天！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Meditation",
+              "id": "918221163284676608",
+              "name": "Meditation"
+            }
+          }
+        ],
+        "conversation_id": "2053524296316919930",
+        "created_at": "2026-05-10T17:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T18:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053524296316919930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053524296316919930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迷幻冥想——这只是我想到的词语。在2023年春我曾梦见自己被推进太平间，多么悲伤！现在我在冥想里以第三人称感受到自己躺着自动移动进入一珠光粉色长方形，随后成为了宇宙。天！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 513,
+          "like_count": 13106,
+          "listed_count": 1,
+          "media_count": 508,
+          "tweet_count": 4409
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1934038251498835968"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1934038336370602410",
+    "created_at": "2025-06-15T00:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T01:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934038336370602410"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fOBYPSGKCE",
+          "end": 32,
+          "expanded_url": "https://x.com/penpunx/status/1934038336370602410/video/1",
+          "media_key": "13_1934038251498835968",
+          "start": 9,
+          "url": "https://t.co/fOBYPSGKCE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934038336370602410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "即兴创作一曲（） https://t.co/fOBYPSGKCE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75388,
+        "height": 1920,
+        "media_key": "13_1934038251498835968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1934038251498835968/img/m_CNrDCF2x1jQGzc.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934038251498835968/vid/avc1/320x568/lWT8FZxsX44zTBWH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934038251498835968/vid/avc1/480x852/q1LTXeh5Kovuc-vy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934038251498835968/vid/avc1/720x1280/9lOR2pBqr9FMsISh.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1934038251498835968/pl/WUqLHcPG7CH0A-AK.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1934038251498835968"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1934038336370602410",
+        "created_at": "2025-06-15T00:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T01:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934038336370602410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fOBYPSGKCE",
+              "end": 32,
+              "expanded_url": "https://x.com/penpunx/status/1934038336370602410/video/1",
+              "media_key": "13_1934038251498835968",
+              "start": 9,
+              "url": "https://t.co/fOBYPSGKCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934038336370602410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "即兴创作一曲（） https://t.co/fOBYPSGKCE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 202,
+          "like_count": 6174,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1409
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

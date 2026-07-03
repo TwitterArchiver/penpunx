@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Breaking News",
+          "id": "1047084549396549632",
+          "name": "Ongoing news stories"
+        }
+      }
+    ],
+    "conversation_id": "2027381387242910090",
+    "created_at": "2026-02-27T13:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T14:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027381387242910090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yanga_Co/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Yanga_Co/status/2027092654664618233",
+          "start": 11,
+          "url": "https://t.co/ulRs64YyR3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027381387242910090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027092654664618233",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么时候可以上奥运会 https://t.co/ulRs64YyR3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1307,
+        "media_key": "3_2027092648784183296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGuBimWQAAHIAq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Breaking News",
+              "id": "1047084549396549632",
+              "name": "Ongoing news stories"
+            }
+          }
+        ],
+        "conversation_id": "2027381387242910090",
+        "created_at": "2026-02-27T13:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027381387242910090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yanga_Co/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Yanga_Co/status/2027092654664618233",
+              "start": 11,
+              "url": "https://t.co/ulRs64YyR3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027381387242910090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027092654664618233",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么时候可以上奥运会 https://t.co/ulRs64YyR3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027092648784183296"
+          ]
+        },
+        "author_id": "2260216071",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Breaking News",
+              "id": "1047084549396549632",
+              "name": "Ongoing news stories"
+            }
+          }
+        ],
+        "conversation_id": "2027092654664618233",
+        "created_at": "2026-02-26T18:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T19:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027092654664618233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sEdYJLBMqg",
+              "end": 39,
+              "expanded_url": "https://x.com/Yanga_Co/status/2027092654664618233/photo/1",
+              "media_key": "3_2027092648784183296",
+              "start": 16,
+              "url": "https://t.co/sEdYJLBMqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027092654664618233",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2085,
+          "impression_count": 777104,
+          "like_count": 14609,
+          "quote_count": 1185,
+          "reply_count": 1395,
+          "retweet_count": 1501
+        },
+        "reply_settings": "everyone",
+        "text": "Breaking News : https://t.co/sEdYJLBMqg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2024557534829564202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 328,
+          "like_count": 11123,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 3101
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-03T15:37:21.000Z",
+        "description": "Controls Engineer.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "briefly.co.za/112314-sbwl-mz…",
+                "end": 23,
+                "expanded_url": "https://briefly.co.za/112314-sbwl-mzansi-reacts-man-who-flexes-remaining-bank-balance.html",
+                "start": 0,
+                "url": "https://t.co/yHh8I5cejm"
+              }
+            ]
+          }
+        },
+        "id": "2260216071",
+        "location": "Berlin, Deutschland 🇩🇪",
+        "name": "Yanga",
+        "pinned_tweet_id": "1397597513104900103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345331225179910150/PVy-wdRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183119,
+          "following_count": 25494,
+          "like_count": 382864,
+          "listed_count": 136,
+          "media_count": 23552,
+          "tweet_count": 280419
+        },
+        "url": "https://t.co/yHh8I5cejm",
+        "username": "Yanga_Co",
+        "verified": true
+      }
+    ]
+  }
+}

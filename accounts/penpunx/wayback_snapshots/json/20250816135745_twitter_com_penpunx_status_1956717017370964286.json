@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956716987410952192"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1956717017370964286",
+    "created_at": "2025-08-16T13:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T14:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956717017370964286"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 5,
+          "normalized_text": "emokid",
+          "probability": 0.5143,
+          "start": 0,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OV7QxZEXR5",
+          "end": 30,
+          "expanded_url": "https://x.com/penpunx/status/1956717017370964286/photo/1",
+          "media_key": "3_1956716987410952192",
+          "start": 7,
+          "url": "https://t.co/OV7QxZEXR5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956717017370964286",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "emokid https://t.co/OV7QxZEXR5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1956716987410952192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyenu6CaMAAoM1F.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956716987410952192"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1956717017370964286",
+        "created_at": "2025-08-16T13:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T14:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956717017370964286"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "emokid",
+              "probability": 0.5143,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OV7QxZEXR5",
+              "end": 30,
+              "expanded_url": "https://x.com/penpunx/status/1956717017370964286/photo/1",
+              "media_key": "3_1956716987410952192",
+              "start": 7,
+              "url": "https://t.co/OV7QxZEXR5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956717017370964286",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "emokid https://t.co/OV7QxZEXR5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y NB ASD CN, EN, PO",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 247,
+          "like_count": 8234,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 1916
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

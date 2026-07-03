@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2013429714631708673"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2013428984210694624",
+    "created_at": "2026-01-20T01:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T02:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013429999181652075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1576323818087649281",
+          "start": 0,
+          "username": "Ez0Qu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xADOJ9oZ0T",
+          "end": 30,
+          "expanded_url": "https://x.com/penpunx/status/2013429999181652075/video/1",
+          "media_key": "13_2013429714631708673",
+          "start": 7,
+          "url": "https://t.co/xADOJ9oZ0T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013429999181652075",
+    "in_reply_to_user_id": "1576323818087649281",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013428984210694624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ez0Qu https://t.co/xADOJ9oZ0T"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9006,
+        "height": 960,
+        "media_key": "13_2013429714631708673",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013429714631708673/img/aXxs_U6X7_79cpXi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013429714631708673/vid/avc1/320x564/w1FqDX3Bw189QN2D.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013429714631708673/vid/avc1/480x846/5vJ8MoO90j8DNnQO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013429714631708673/vid/avc1/544x960/lOAlBexrFSwL_emO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013429714631708673/pl/Mq0j5Jda27CCDLge.m3u8"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "duration_ms": 3935,
+        "height": 1280,
+        "media_key": "13_2013428912672423936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013428912672423936/img/GKu-wjgTmFKorg_8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013428912672423936/vid/avc1/320x568/GSvg6RJqjHRpTvg2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013428912672423936/vid/avc1/480x852/LaQpC60rRdyq8dUi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013428912672423936/vid/avc1/720x1280/HOQ6xzrG1rossYs-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013428912672423936/pl/guLQtoCO0WUVdxMn.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013429714631708673"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2013428984210694624",
+        "created_at": "2026-01-20T01:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T02:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013429999181652075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1576323818087649281",
+              "start": 0,
+              "username": "Ez0Qu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xADOJ9oZ0T",
+              "end": 30,
+              "expanded_url": "https://x.com/penpunx/status/2013429999181652075/video/1",
+              "media_key": "13_2013429714631708673",
+              "start": 7,
+              "url": "https://t.co/xADOJ9oZ0T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013429999181652075",
+        "in_reply_to_user_id": "1576323818087649281",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013428984210694624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ez0Qu https://t.co/xADOJ9oZ0T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013428912672423936"
+          ]
+        },
+        "author_id": "1576323818087649281",
+        "conversation_id": "2013428984210694624",
+        "created_at": "2026-01-20T01:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T02:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013428984210694624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7eCa9T5ky",
+              "end": 27,
+              "expanded_url": "https://x.com/Ez0Qu/status/2013428984210694624/video/1",
+              "media_key": "13_2013428912672423936",
+              "start": 4,
+              "url": "https://t.co/p7eCa9T5ky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013428984210694624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下雪了 https://t.co/p7eCa9T5ky"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2012869391504023900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 295,
+          "like_count": 10336,
+          "listed_count": 1,
+          "media_count": 372,
+          "tweet_count": 2739
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T21:31:11.000Z",
+        "description": "I.",
+        "id": "1576323818087649281",
+        "name": "rakka",
+        "pinned_tweet_id": "1878020076215116095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012185264446373888/OuoTgxUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 490,
+          "like_count": 3655,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 1460
+        },
+        "username": "Ez0Qu",
+        "verified": false
+      }
+    ]
+  }
+}

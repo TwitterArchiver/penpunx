@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2068027941557350829",
+    "created_at": "2026-06-19T17:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068028051733291519"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068028051733291519",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068027941557350829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无天，唯恐天下不乱，哈哈哈！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2068027941557350829",
+        "created_at": "2026-06-19T17:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068028051733291519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068028051733291519",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068027941557350829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无天，唯恐天下不乱，哈哈哈！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2068027941557350829",
+        "created_at": "2026-06-19T17:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068027941557350829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/adam65207241/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/adam65207241/status/2067737983499780513",
+              "start": 39,
+              "url": "https://t.co/annNVchCj4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068027941557350829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067737983499780513",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈，徐汇区是这样的。知道为什么现在每个学校上学和放学时段门口都有警察吗？！ https://t.co/annNVchCj4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 580,
+          "like_count": 13973,
+          "listed_count": 1,
+          "media_count": 647,
+          "tweet_count": 5373
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

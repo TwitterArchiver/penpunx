@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1961739620384919685",
+    "created_at": "2025-08-30T10:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T11:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961739620384919685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/roaneatan/stat…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/roaneatan/status/1961398438534238402",
+          "start": 23,
+          "url": "https://t.co/7lOaqSVRL1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961739620384919685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961398438534238402",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以前为了驱赶纱窗上的知了把纱窗砸出一个洞(( https://t.co/7lOaqSVRL1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31834,
+        "height": 1920,
+        "media_key": "13_1961098040812670976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1961098040812670976/img/r_bJRDsY0No825Vn.jpg",
+        "public_metrics": {
+          "view_count": 1980928
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961098040812670976/vid/avc1/320x568/9UKdqLkTBe5O-x4G.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961098040812670976/vid/avc1/480x852/rT8bpbsK2CTn2F_i.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961098040812670976/vid/avc1/720x1280/mZ_fWTLp5zdh40Eh.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1961098040812670976/pl/Yy4SkW673_949HWP.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1961739620384919685",
+        "created_at": "2025-08-30T10:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T11:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961739620384919685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/roaneatan/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/roaneatan/status/1961398438534238402",
+              "start": 23,
+              "url": "https://t.co/7lOaqSVRL1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961739620384919685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961398438534238402",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前为了驱赶纱窗上的知了把纱窗砸出一个洞(( https://t.co/7lOaqSVRL1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961098040812670976"
+          ],
+          "media_source_tweet_id": [
+            "1961098084324388952"
+          ]
+        },
+        "author_id": "902548315107016704",
+        "conversation_id": "1961398438534238402",
+        "created_at": "2025-08-29T12:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T13:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961398438534238402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBsRuZp6My",
+              "end": 36,
+              "expanded_url": "https://x.com/roaneatan4/status/1961098084324388952/video/1",
+              "media_key": "13_1961098040812670976",
+              "start": 13,
+              "url": "https://t.co/PBsRuZp6My"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961398438534238402",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1108,
+          "impression_count": 3631461,
+          "like_count": 6186,
+          "quote_count": 132,
+          "reply_count": 112,
+          "retweet_count": 416
+        },
+        "reply_settings": "everyone",
+        "text": "止められない強制目覚まし\nhttps://t.co/PBsRuZp6My"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 260,
+          "like_count": 8943,
+          "listed_count": 1,
+          "media_count": 280,
+          "tweet_count": 2051
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-29T15:07:41.000Z",
+        "description": "基本、国内初の情報のみを最速で（再紹介あり）。他の人とかぶらないよう既出やどこかで見たようなのも回避。別垢でも紹介（@roaneatan2）。名前を真似てきてる大キショという業者とは無関係。DMや返信など長期的に放置中です、すみません。ほぼbot状態です、TL見れてません。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "roaneatan2"
+              }
+            ]
+          }
+        },
+        "id": "902548315107016704",
+        "location": "SHIBUYAAAAAAAAA",
+        "name": "ロアネア@最多情報源バズニュース",
+        "pinned_tweet_id": "1818814681718665585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1113084440165548033/GZLdBQH8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119378,
+          "following_count": 21062,
+          "like_count": 121248,
+          "listed_count": 674,
+          "media_count": 10065,
+          "tweet_count": 14170
+        },
+        "username": "roaneatan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1956003307920539846",
+    "created_at": "2025-08-14T15:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T16:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956017923543458135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844103262292803587",
+          "start": 0,
+          "username": "JJ2597758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956017923543458135",
+    "in_reply_to_user_id": "1844103262292803587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956003307920539846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JJ2597758 有的时候只是拧巴不敢表达想要强制爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1956003307920539846",
+        "created_at": "2025-08-14T15:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T16:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956017923543458135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844103262292803587",
+              "start": 0,
+              "username": "JJ2597758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956017923543458135",
+        "in_reply_to_user_id": "1844103262292803587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956003307920539846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JJ2597758 有的时候只是拧巴不敢表达想要强制爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844103262292803587",
+        "conversation_id": "1956003307920539846",
+        "created_at": "2025-08-14T14:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T15:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956003307920539846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956003307920539846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自从意识到尊重这个词是多么重要 强制爱什么的就再也喜欢不起来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y NB ASD CN, EN, PO",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 239,
+          "like_count": 8153,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 1908
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T19:51:03.000Z",
+        "description": "我有素质，",
+        "id": "1844103262292803587",
+        "name": "伴花作剑穗",
+        "pinned_tweet_id": "1946206518782926969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940839656532197376/hyHv_gZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 141,
+          "like_count": 21048,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1455
+        },
+        "username": "JJ2597758",
+        "verified": false
+      }
+    ]
+  }
+}

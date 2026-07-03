@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1742630619601940481"
+      ],
+      "media_source_tweet_id": [
+        "1974716682817126718"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1974782105092808851",
+    "created_at": "2025-10-05T10:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T11:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974782105092808851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3230336419",
+          "start": 3,
+          "username": "dogssaveworld"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y2nifFsiR8",
+          "end": 75,
+          "expanded_url": "https://x.com/dogssaveworld/status/1974716682817126718/video/1",
+          "media_key": "13_1742630619601940481",
+          "start": 52,
+          "url": "https://t.co/y2nifFsiR8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974782105092808851",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974716682817126718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dogssaveworld: puppies love playing with water🥰 https://t.co/y2nifFsiR8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8533,
+        "height": 800,
+        "media_key": "13_1742630619601940481",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1742630619601940481/img/XqYiEGOKeRS0_Tri.jpg",
+        "public_metrics": {
+          "view_count": 42213
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1742630619601940481/vid/avc1/320x400/4z6hrlqbfXS84AaW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1742630619601940481/vid/avc1/480x600/RvkDwGak0K2vJX_A.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1742630619601940481/vid/avc1/640x800/vaCpUcVIWOitRpsQ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1742630619601940481/pl/Acqkel8V2ClywT2f.m3u8?tag=14"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1742630619601940481"
+          ],
+          "media_source_tweet_id": [
+            "1974716682817126718"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1974782105092808851",
+        "created_at": "2025-10-05T10:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T11:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974782105092808851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3230336419",
+              "start": 3,
+              "username": "dogssaveworld"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y2nifFsiR8",
+              "end": 75,
+              "expanded_url": "https://x.com/dogssaveworld/status/1974716682817126718/video/1",
+              "media_key": "13_1742630619601940481",
+              "start": 52,
+              "url": "https://t.co/y2nifFsiR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974782105092808851",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974716682817126718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dogssaveworld: puppies love playing with water🥰 https://t.co/y2nifFsiR8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1742630619601940481"
+          ]
+        },
+        "author_id": "3230336419",
+        "conversation_id": "1974716682817126718",
+        "created_at": "2025-10-05T06:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T07:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974716682817126718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y2nifFsiR8",
+              "end": 56,
+              "expanded_url": "https://x.com/dogssaveworld/status/1974716682817126718/video/1",
+              "media_key": "13_1742630619601940481",
+              "start": 33,
+              "url": "https://t.co/y2nifFsiR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974716682817126718",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3653,
+          "like_count": 201,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "puppies love playing with water🥰 https://t.co/y2nifFsiR8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1974498041756569769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973873501179387904/uvpLq1zI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 272,
+          "like_count": 9971,
+          "listed_count": 1,
+          "media_count": 344,
+          "tweet_count": 2380
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-30T03:20:41.000Z",
+        "description": "",
+        "id": "3230336419",
+        "location": "dm for credit or removal",
+        "name": "dogs so cute that could save the world",
+        "pinned_tweet_id": "1959451094469497097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725300488147456000/JJNbCaOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120389,
+          "following_count": 70647,
+          "like_count": 19528,
+          "listed_count": 276,
+          "media_count": 39073,
+          "tweet_count": 56334
+        },
+        "username": "dogssaveworld",
+        "verified": true
+      }
+    ]
+  }
+}

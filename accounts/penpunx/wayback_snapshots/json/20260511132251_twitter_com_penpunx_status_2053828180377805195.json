@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2052374169573314973",
+    "created_at": "2026-05-11T13:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053828180377805195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2014216293705187328",
+          "start": 0,
+          "username": "Mandykwko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053828180377805195",
+    "in_reply_to_user_id": "2014216293705187328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053827474866467143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mandykwko 几百块就能买到很好玩的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2052374169573314973",
+        "created_at": "2026-05-11T13:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053828180377805195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2014216293705187328",
+              "start": 0,
+              "username": "Mandykwko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053828180377805195",
+        "in_reply_to_user_id": "2014216293705187328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053827474866467143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mandykwko 几百块就能买到很好玩的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014216293705187328",
+        "conversation_id": "2052374169573314973",
+        "created_at": "2026-05-11T13:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053827474866467143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053827474866467143",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053824200931250469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 没积蓄太惨了😭也买不到好玩的😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 515,
+          "like_count": 13167,
+          "listed_count": 1,
+          "media_count": 514,
+          "tweet_count": 4451
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T06:00:22.000Z",
+        "description": "",
+        "id": "2014216293705187328",
+        "name": "Mandy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047952507742416896/Ru54lhoG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 102,
+          "like_count": 2605,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 80
+        },
+        "username": "Mandykwko",
+        "verified": false
+      }
+    ]
+  }
+}

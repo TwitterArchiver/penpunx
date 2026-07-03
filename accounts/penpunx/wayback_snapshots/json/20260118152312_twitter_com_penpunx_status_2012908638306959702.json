@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2012900572186194398",
+    "created_at": "2026-01-18T15:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T16:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012908638306959702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1091709361745850368",
+          "start": 0,
+          "username": "YuyuzuSoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012908638306959702",
+    "in_reply_to_user_id": "1091709361745850368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012908432085377488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuyuzuSoft 我是大孩子不是宝宝了（\n\n可能我身心都很不适吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2012900572186194398",
+        "created_at": "2026-01-18T15:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012908638306959702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1091709361745850368",
+              "start": 0,
+              "username": "YuyuzuSoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012908638306959702",
+        "in_reply_to_user_id": "1091709361745850368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012908432085377488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuyuzuSoft 我是大孩子不是宝宝了（\n\n可能我身心都很不适吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1091709361745850368",
+        "conversation_id": "2012900572186194398",
+        "created_at": "2026-01-18T15:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012908432085377488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012908432085377488",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012900572186194398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 宝宝咋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2012869391504023900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 292,
+          "like_count": 10319,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 2727
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-02T14:46:09.000Z",
+        "description": "你好，我弹电贝斯，弹电吉他，谈日语，谈小语种，听电子音乐，听摇滚，玩fl，玩东方，玩音游，玩galgame，玩抑郁症，玩完了强迫症，现在玩解离，建议你和我玩",
+        "id": "1091709361745850368",
+        "location": "西安",
+        "name": "玉玉足",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010575580593524736/J4mFEfAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 132,
+          "like_count": 616,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 361
+        },
+        "username": "YuyuzuSoft",
+        "verified": false
+      }
+    ]
+  }
+}

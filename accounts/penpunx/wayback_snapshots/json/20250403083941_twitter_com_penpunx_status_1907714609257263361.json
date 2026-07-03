@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1907714609257263361",
+    "created_at": "2025-04-03T08:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T09:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907714609257263361"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dakache01/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/dakache01/status/1907199746453987525",
+          "start": 12,
+          "url": "https://t.co/GXiXSbyPYF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907714609257263361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907199746453987525",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "汉密尔顿be like https://t.co/GXiXSbyPYF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907199733786918912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gne8DZgWwAA5NLx.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1907199733858234370",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gne8DZxW8AIaTDp.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1907714609257263361",
+        "created_at": "2025-04-03T08:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T09:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907714609257263361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dakache01/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/dakache01/status/1907199746453987525",
+              "start": 12,
+              "url": "https://t.co/GXiXSbyPYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907714609257263361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907199746453987525",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "汉密尔顿be like https://t.co/GXiXSbyPYF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907199733786918912",
+            "3_1907199733858234370"
+          ]
+        },
+        "author_id": "880203145288331265",
+        "conversation_id": "1907199746453987525",
+        "created_at": "2025-04-01T22:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T23:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907199746453987525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FArEsE3agz",
+              "end": 100,
+              "expanded_url": "https://x.com/dakache01/status/1907199746453987525/photo/1",
+              "media_key": "3_1907199733786918912",
+              "start": 77,
+              "url": "https://t.co/FArEsE3agz"
+            },
+            {
+              "display_url": "pic.x.com/FArEsE3agz",
+              "end": 100,
+              "expanded_url": "https://x.com/dakache01/status/1907199746453987525/photo/1",
+              "media_key": "3_1907199733858234370",
+              "start": 77,
+              "url": "https://t.co/FArEsE3agz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907199746453987525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 14640,
+          "like_count": 190,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "美国有100名参议员，布克是其中之一，他在参议院昨天到现在为止连续24小时发言抨击川普，目前发言还在进行中。虽然是连续发言，但途中也许有上卫生间和喝水。 https://t.co/FArEsE3agz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / world of warcraft / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 152,
+          "like_count": 2443,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 684
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-28T23:15:58.000Z",
+        "description": "生在一个邪恶的国度是一种无以言表的悲哀",
+        "id": "880203145288331265",
+        "name": "李少明",
+        "pinned_tweet_id": "1906185366542925913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826963036545937408/g-mRMvcl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12282,
+          "following_count": 730,
+          "like_count": 60716,
+          "listed_count": 38,
+          "media_count": 1590,
+          "tweet_count": 27897
+        },
+        "username": "dakache01",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1947282023749439551",
+    "created_at": "2025-07-21T13:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T14:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947283192592949463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1551716556857810944",
+          "start": 0,
+          "username": "PalomoLim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947283192592949463",
+    "in_reply_to_user_id": "1551716556857810944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947282023749439551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PalomoLim 你会玩斗地主吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1947282023749439551",
+        "created_at": "2025-07-21T13:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T14:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947283192592949463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1551716556857810944",
+              "start": 0,
+              "username": "PalomoLim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947283192592949463",
+        "in_reply_to_user_id": "1551716556857810944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947282023749439551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PalomoLim 你会玩斗地主吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551716556857810944",
+        "conversation_id": "1947282023749439551",
+        "created_at": "2025-07-21T13:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T14:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947282023749439551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947282023749439551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来玩斗地主只是为了学记牌结果牌好的啥都抛之脑后"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "autistic 16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "Jupiter III",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 207,
+          "like_count": 7156,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 1656
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T23:50:42.000Z",
+        "description": "亡灵坐在树底下叹息，想要与亡灵相处的话不妨与我通灵 ｜ 一个人精通一切而不认识祢，是不幸的，相反，不知道一切而能认识祢是有福的 ｜猫猫今天跑步了吗@nekodoby_ 🏃｜ 🌳🌳🌳@PriestleyZZZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "nekodoby_"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "PriestleyZZZ"
+              }
+            ]
+          }
+        },
+        "id": "1551716556857810944",
+        "location": "Je pense,donc je suis",
+        "name": "超级恶性循环直毁你人生 悲惨初体验！尖叫不断！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816609436657704960/64eUbsYr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 450,
+          "like_count": 41886,
+          "listed_count": 6,
+          "media_count": 697,
+          "tweet_count": 6483
+        },
+        "username": "PalomoLim",
+        "verified": false
+      }
+    ]
+  }
+}

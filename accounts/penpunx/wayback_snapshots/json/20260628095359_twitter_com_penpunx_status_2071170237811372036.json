@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2071170237811372036",
+    "created_at": "2026-06-28T09:53:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071170237811372036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/smiroyama/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/smiroyama/status/2071049874347549098",
+          "start": 4,
+          "url": "https://t.co/6Co2b7Df9g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071170237811372036",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071049874347549098",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哪里有 https://t.co/6Co2b7Df9g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1675,
+        "media_key": "3_2071049864755195904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3Y4QzasAABjX0.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2071170237811372036",
+        "created_at": "2026-06-28T09:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071170237811372036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/smiroyama/status/2071049874347549098",
+              "start": 4,
+              "url": "https://t.co/6Co2b7Df9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071170237811372036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071049874347549098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哪里有 https://t.co/6Co2b7Df9g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071049864755195904"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071049874347549098",
+        "created_at": "2026-06-28T01:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071049874347549098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/krq92qtzLt",
+              "end": 47,
+              "expanded_url": "https://x.com/smiroyama/status/2071049874347549098/photo/1",
+              "media_key": "3_2071049864755195904",
+              "start": 24,
+              "url": "https://t.co/krq92qtzLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071049874347549098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 10425,
+          "like_count": 176,
+          "quote_count": 8,
+          "reply_count": 15,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "娜娜警官：ھەيران! 我的禁毒工作白做了！ https://t.co/krq92qtzLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 597,
+          "like_count": 14330,
+          "listed_count": 1,
+          "media_count": 711,
+          "tweet_count": 5770
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Developing https://t.co/pJ9VtduSxe | friends: @Huang_Yut1ng @fukui_p26 好伙伴: @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 34,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 11,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064928216654217216/gHEvZe0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6852,
+          "following_count": 2472,
+          "like_count": 13306,
+          "listed_count": 21,
+          "media_count": 2219,
+          "tweet_count": 8122
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

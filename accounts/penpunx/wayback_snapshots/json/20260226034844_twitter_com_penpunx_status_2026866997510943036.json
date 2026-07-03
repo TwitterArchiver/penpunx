@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2026653531596599693",
+    "created_at": "2026-02-26T03:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T04:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026866997510943036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1297226393005092864",
+          "start": 0,
+          "username": "Yuan67323446"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026866997510943036",
+    "in_reply_to_user_id": "1297226393005092864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026653531596599693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuan67323446 这个好吃😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2026653531596599693",
+        "created_at": "2026-02-26T03:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T04:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026866997510943036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1297226393005092864",
+              "start": 0,
+              "username": "Yuan67323446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026866997510943036",
+        "in_reply_to_user_id": "1297226393005092864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026653531596599693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuan67323446 这个好吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1297226393005092864",
+        "conversation_id": "2026653531596599693",
+        "created_at": "2026-02-25T13:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T14:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026653531596599693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuan67323446/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/yuan67323446/status/2026504658022494373",
+              "start": 19,
+              "url": "https://t.co/ZLkITo1W6d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026653531596599693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 24299,
+          "like_count": 197,
+          "quote_count": 1,
+          "reply_count": 66,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026504658022494373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尼玛有的人是脑残吗是寿喜烧自助我服了 https://t.co/ZLkITo1W6d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2024557534829564202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 323,
+          "like_count": 11074,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 3063
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-22T17:37:40.000Z",
+        "description": "快乐冲浪🫰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "norton-cloud.kele812.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://norton-cloud.kele812.xyz/#/register?code=v5toZYpO",
+                "start": 0,
+                "url": "https://t.co/kGMxkGTENI"
+              }
+            ]
+          }
+        },
+        "id": "1297226393005092864",
+        "location": "自用vpn",
+        "name": "Yuan",
+        "pinned_tweet_id": "2025864346992366050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988279012620464131/UD7eZ_OT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2186,
+          "following_count": 589,
+          "like_count": 16949,
+          "listed_count": 13,
+          "media_count": 858,
+          "tweet_count": 11382
+        },
+        "url": "https://t.co/kGMxkGTENI",
+        "username": "Yuan67323446",
+        "verified": false
+      }
+    ]
+  }
+}

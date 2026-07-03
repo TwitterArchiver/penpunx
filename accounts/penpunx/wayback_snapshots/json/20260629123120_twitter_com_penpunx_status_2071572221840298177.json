@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2071563990799667642",
+    "created_at": "2026-06-29T12:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T13:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071572221840298177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1542020482387456001",
+          "start": 0,
+          "username": "ki_3ri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071572221840298177",
+    "in_reply_to_user_id": "1542020482387456001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071563990799667642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ki_3ri 普瑞巴林，请"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2071563990799667642",
+        "created_at": "2026-06-29T12:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071572221840298177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1542020482387456001",
+              "start": 0,
+              "username": "ki_3ri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071572221840298177",
+        "in_reply_to_user_id": "1542020482387456001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071563990799667642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ki_3ri 普瑞巴林，请"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542020482387456001",
+        "conversation_id": "2071563990799667642",
+        "created_at": "2026-06-29T11:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071563990799667642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071563990799667642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一般来说特别焦虑的状态只要熬几天就恢复了，但是我要怎么熬过这几天？为什么我从来没有找到过可以解决焦虑的方法？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "万物",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 601,
+          "like_count": 14395,
+          "listed_count": 1,
+          "media_count": 718,
+          "tweet_count": 5821
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-29T05:42:03.000Z",
+        "description": "FtX｜Demiboy｜ASD｜Aroace-spec\nHe/They\n我不擅长说话，听不懂人说话，我不知道我在干什么！",
+        "id": "1542020482387456001",
+        "name": "羊毛球🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062461350098702336/0Ci-o4UC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 292,
+          "like_count": 7101,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 719
+        },
+        "url": "",
+        "username": "ki_3ri",
+        "verified": false
+      }
+    ]
+  }
+}

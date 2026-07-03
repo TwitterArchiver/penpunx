@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2049764536874668536",
+    "created_at": "2026-04-30T08:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049767031306846260"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049767031306846260",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049764536874668536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "总不能买感康吧（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2049764536874668536",
+        "created_at": "2026-04-30T08:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049767031306846260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049767031306846260",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049764536874668536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总不能买感康吧（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2049764536874668536",
+        "created_at": "2026-04-30T08:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049764536874668536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/penpunx/status/2049135211997437999",
+              "start": 19,
+              "url": "https://t.co/0b4ve1qfnO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049764536874668536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049135211997437999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "答：不行\n愈美片现在要处方才能开了（ https://t.co/0b4ve1qfnO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 453,
+          "like_count": 12336,
+          "listed_count": 1,
+          "media_count": 471,
+          "tweet_count": 3951
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2032803906116530639",
+    "created_at": "2026-03-14T12:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T13:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032803906116530639"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032803906116530639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "-如果普瑞巴林禁售了我还能活下去吗\n-不要让它禁售就能活下去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2032803906116530639",
+        "created_at": "2026-03-14T12:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T13:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032803906116530639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032803906116530639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "-如果普瑞巴林禁售了我还能活下去吗\n-不要让它禁售就能活下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 352,
+          "like_count": 11440,
+          "listed_count": 1,
+          "media_count": 420,
+          "tweet_count": 3280
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

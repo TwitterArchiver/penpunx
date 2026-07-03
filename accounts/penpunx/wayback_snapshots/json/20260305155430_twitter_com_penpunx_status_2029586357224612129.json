@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2029151372856443355",
+    "created_at": "2026-03-05T15:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T16:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029586357224612129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1694349435688624128",
+          "start": 0,
+          "username": "AIxFoolSage"
+        },
+        {
+          "end": 20,
+          "id": "1902568136450424832",
+          "start": 13,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029586357224612129",
+    "in_reply_to_user_id": "1694349435688624128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029165922481803498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AIxFoolSage @aoim33 出站口也放下了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2029151372856443355",
+        "created_at": "2026-03-05T15:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T16:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029586357224612129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1694349435688624128",
+              "start": 0,
+              "username": "AIxFoolSage"
+            },
+            {
+              "end": 20,
+              "id": "1902568136450424832",
+              "start": 13,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029586357224612129",
+        "in_reply_to_user_id": "1694349435688624128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029165922481803498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AIxFoolSage @aoim33 出站口也放下了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694349435688624128",
+        "conversation_id": "2029151372856443355",
+        "created_at": "2026-03-04T12:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029165922481803498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029165922481803498",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24645,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029151372856443355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 进站口好吧，出站口挡板没放下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 330,
+          "like_count": 11240,
+          "listed_count": 1,
+          "media_count": 409,
+          "tweet_count": 3170
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-23T14:02:52.000Z",
+        "description": "May your thirst for knowledge always be stirred, your journey always be smooth, your schemes never be exposed, and your stake never be reduced to zero.",
+        "id": "1694349435688624128",
+        "location": "Tokyo",
+        "name": "Awoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849270296668487680/hjt-XEXv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 2135,
+          "like_count": 16055,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 3906
+        },
+        "username": "AIxFoolSage",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4101,
+          "following_count": 2605,
+          "like_count": 37163,
+          "listed_count": 21,
+          "media_count": 1927,
+          "tweet_count": 8545
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

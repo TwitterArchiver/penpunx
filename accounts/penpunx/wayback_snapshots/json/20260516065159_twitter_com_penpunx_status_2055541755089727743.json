@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2055371268065751254",
+    "created_at": "2026-05-16T06:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T07:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055541755089727743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1498281208182050817",
+          "start": 0,
+          "username": "YINGIsNotGnu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055541755089727743",
+    "in_reply_to_user_id": "1498281208182050817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055525075785281921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YINGIsNotGnu 发现什么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2055371268065751254",
+        "created_at": "2026-05-16T06:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T07:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055541755089727743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1498281208182050817",
+              "start": 0,
+              "username": "YINGIsNotGnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055541755089727743",
+        "in_reply_to_user_id": "1498281208182050817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055525075785281921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YINGIsNotGnu 发现什么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498281208182050817",
+        "conversation_id": "2055371268065751254",
+        "created_at": "2026-05-16T05:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055525075785281921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055525075785281921",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055371268065751254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 被你发现了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 530,
+          "like_count": 13351,
+          "listed_count": 1,
+          "media_count": 519,
+          "tweet_count": 4590
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-28T12:58:00.000Z",
+        "description": "",
+        "id": "1498281208182050817",
+        "name": "泠 LING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052985318236995584/kh8jGIwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3749,
+          "following_count": 1075,
+          "like_count": 34783,
+          "listed_count": 14,
+          "media_count": 1413,
+          "tweet_count": 14305
+        },
+        "username": "YINGIsNotGnu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2024778743173054521",
+    "created_at": "2026-02-20T17:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T18:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024892126597972169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1695406391609966592",
+          "start": 0,
+          "username": "sashiburi519534"
+        },
+        {
+          "end": 29,
+          "id": "2598018877",
+          "start": 17,
+          "username": "MadsPosting"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024892126597972169",
+    "in_reply_to_user_id": "1695406391609966592",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024863574489788799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sashiburi519534 @MadsPosting wtf is this"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2024863570148675584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnCsFlXUAAL27b.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2024778743173054521",
+        "created_at": "2026-02-20T17:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024892126597972169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695406391609966592",
+              "start": 0,
+              "username": "sashiburi519534"
+            },
+            {
+              "end": 29,
+              "id": "2598018877",
+              "start": 17,
+              "username": "MadsPosting"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024892126597972169",
+        "in_reply_to_user_id": "1695406391609966592",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024863574489788799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sashiburi519534 @MadsPosting wtf is this"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024863570148675584"
+          ]
+        },
+        "author_id": "1695406391609966592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          }
+        ],
+        "conversation_id": "2024778743173054521",
+        "created_at": "2026-02-20T15:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024863574489788799"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "Matcha IPA Bier",
+              "probability": 0.5927,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2598018877",
+              "start": 0,
+              "username": "MadsPosting"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7YDozcroD",
+              "end": 74,
+              "expanded_url": "https://x.com/sashiburi519534/status/2024863574489788799/photo/1",
+              "media_key": "3_2024863570148675584",
+              "start": 51,
+              "url": "https://t.co/S7YDozcroD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024863574489788799",
+        "in_reply_to_user_id": "2598018877",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024778743173054521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MadsPosting Yes…But…\nHow about…\n\nMatcha IPA Bier… https://t.co/S7YDozcroD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2024557534829564202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 313,
+          "like_count": 10823,
+          "listed_count": 1,
+          "media_count": 401,
+          "tweet_count": 2944
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T12:03:04.000Z",
+        "description": "我是叉子/玩很多ns游戏/喜欢开心果味/不是DJ小女孩/麸质过敏/hazy ipa/烤鸭/裸睡/大蒜酱/喜欢水水獭/喜欢橘子/不爱吃饭很瘦/怕冷怕热/讨厌蚊子/喜欢蟑螂/《爱蠊说/葱花好吃/喫煙/会骑自行车/不吃韭菜/死了已经/Shoegaze/ NGL https://t.co/DyGKzxrd0I",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sashiburi51953…",
+                "end": 151,
+                "expanded_url": "http://ngl.link/sashiburi5195342",
+                "start": 128,
+                "url": "https://t.co/DyGKzxrd0I"
+              }
+            ]
+          }
+        },
+        "id": "1695406391609966592",
+        "location": "Sintra, Portugal",
+        "name": "怒羅衛門",
+        "pinned_tweet_id": "1872574195990974933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801746828297117696/ht4Uakoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 1077,
+          "like_count": 19870,
+          "listed_count": 3,
+          "media_count": 1378,
+          "tweet_count": 6980
+        },
+        "username": "sashiburi519534",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-01T13:28:42.000Z",
+        "description": "I'M NOT MADS MIKKELSEN. Europemaxxer. \"Unique Online Personality\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/madsposting",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/madsposting",
+                "start": 0,
+                "url": "https://t.co/JZgEc5RYzr"
+              }
+            ]
+          }
+        },
+        "id": "2598018877",
+        "location": "Denmark",
+        "name": "Mads",
+        "pinned_tweet_id": "2024781503587086535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873316862378889216/V3fMYFzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134346,
+          "following_count": 205,
+          "like_count": 66853,
+          "listed_count": 261,
+          "media_count": 3593,
+          "tweet_count": 5062
+        },
+        "url": "https://t.co/JZgEc5RYzr",
+        "username": "MadsPosting",
+        "verified": true
+      }
+    ]
+  }
+}

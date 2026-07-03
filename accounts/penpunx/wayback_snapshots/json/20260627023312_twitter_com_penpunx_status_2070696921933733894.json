@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2070694644984487938",
+    "created_at": "2026-06-27T02:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T03:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070696921933733894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1476198137589268480",
+          "start": 0,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070696921933733894",
+    "in_reply_to_user_id": "1476198137589268480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070694644984487938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N3kuv 我发现很多人都混淆这两个概念"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2070694644984487938",
+        "created_at": "2026-06-27T02:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070696921933733894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1476198137589268480",
+              "start": 0,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070696921933733894",
+        "in_reply_to_user_id": "1476198137589268480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070694644984487938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3kuv 我发现很多人都混淆这两个概念"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "2070694644984487938",
+        "created_at": "2026-06-27T02:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070694644984487938"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070694644984487938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药物的总效时和半衰期不是一个概念，总效时是药物在体内发挥有效作用的时间，半衰期是药物在体内的血药浓度降低一半所需的时间。\n比如说阿普唑仑，阿普唑仑（口服）总效时是六个小时，半衰期是11-13个小时。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 592,
+          "like_count": 14247,
+          "listed_count": 1,
+          "media_count": 704,
+          "tweet_count": 5695
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "既往不咎/伴有精神病性症状的重度抑郁发作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekocaline",
+                "end": 23,
+                "expanded_url": "https://t.me/nekocaline",
+                "start": 0,
+                "url": "https://t.co/y3ZllgnZVb"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "name": "分享4-keto-PCP不好体验",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068637245763174400/reRLmemx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 497,
+          "like_count": 5427,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 413
+        },
+        "url": "https://t.co/y3ZllgnZVb",
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

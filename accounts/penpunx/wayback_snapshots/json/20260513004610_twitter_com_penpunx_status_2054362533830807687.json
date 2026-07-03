@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2054362533830807687",
+    "created_at": "2026-05-13T00:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T01:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054362533830807687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/phoenixyin13/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/phoenixyin13/status/2054064279507079348",
+          "start": 10,
+          "url": "https://t.co/0jhjBDTTMz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054362533830807687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054064279507079348",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看成喝特浓吗啡了🧐 https://t.co/0jhjBDTTMz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1738,
+        "media_key": "3_2054064276424241152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGAk5YWMAAqDop.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2054362533830807687",
+        "created_at": "2026-05-13T00:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054362533830807687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/phoenixyin13/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/phoenixyin13/status/2054064279507079348",
+              "start": 10,
+              "url": "https://t.co/0jhjBDTTMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054362533830807687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054064279507079348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看成喝特浓吗啡了🧐 https://t.co/0jhjBDTTMz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054064276424241152"
+          ]
+        },
+        "author_id": "1924212425332813824",
+        "conversation_id": "2054064279507079348",
+        "created_at": "2026-05-12T05:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T06:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054064279507079348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Lq6SPI2LC",
+              "end": 68,
+              "expanded_url": "https://x.com/Phoenixyin13/status/2054064279507079348/photo/1",
+              "media_key": "3_2054064276424241152",
+              "start": 45,
+              "url": "https://t.co/8Lq6SPI2LC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054064279507079348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 30227,
+          "like_count": 93,
+          "quote_count": 4,
+          "reply_count": 55,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "美高同学考MIT需要这个步骤吗？\n答案是，菲利普斯安多福的高中同学看到这张表直接吓傻了。 https://t.co/8Lq6SPI2LC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 519,
+          "like_count": 13211,
+          "listed_count": 1,
+          "media_count": 514,
+          "tweet_count": 4497
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T21:16:21.000Z",
+        "description": "🇺🇸 04美本 | 计算机科学&认知科学\n⚙️AI, cognition, crypto, and the future of intelligence.\n✨相信好奇心驱动。相信人永远可塑。",
+        "id": "1924212425332813824",
+        "location": "Beverly Hills, CA",
+        "name": "Phoenix Yin",
+        "pinned_tweet_id": "2054069539088859324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028337523773038592/1kSOtKBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4259,
+          "following_count": 1298,
+          "like_count": 5178,
+          "listed_count": 15,
+          "media_count": 290,
+          "tweet_count": 3436
+        },
+        "username": "Phoenixyin13",
+        "verified": true
+      }
+    ]
+  }
+}

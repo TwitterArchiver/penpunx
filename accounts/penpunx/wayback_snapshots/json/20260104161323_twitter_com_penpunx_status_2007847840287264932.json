@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2007847840287264932",
+    "created_at": "2026-01-04T16:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T17:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007847840287264932"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 10,
+          "normalized_text": "Penpunk",
+          "probability": 0.7566,
+          "start": 4,
+          "type": "Other"
+        },
+        {
+          "end": 20,
+          "normalized_text": "Treni",
+          "probability": 0.8099,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 28,
+          "normalized_text": "LCD",
+          "probability": 0.7357,
+          "start": 26,
+          "type": "Other"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007847840287264932",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "I’m Penpunk, or Treni, or LCD\nI’m 17 years old\nI think my life has brought wonderful memories to a lot of u guys\nMy life wasn’t easy, yet I was unafraid"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2007847840287264932",
+        "created_at": "2026-01-04T16:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T17:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007847840287264932"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Penpunk",
+              "probability": 0.7566,
+              "start": 4,
+              "type": "Other"
+            },
+            {
+              "end": 20,
+              "normalized_text": "Treni",
+              "probability": 0.8099,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 28,
+              "normalized_text": "LCD",
+              "probability": 0.7357,
+              "start": 26,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007847840287264932",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I’m Penpunk, or Treni, or LCD\nI’m 17 years old\nI think my life has brought wonderful memories to a lot of u guys\nMy life wasn’t easy, yet I was unafraid"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 273,
+          "like_count": 9993,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 2569
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2032759821913719053",
+    "created_at": "2026-03-14T10:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T11:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032759821913719053"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/penpunx/status/2032751441555894606",
+          "start": 8,
+          "url": "https://t.co/8Oyaq5Lmat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032759821913719053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032751441555894606",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人陪陪我吗🥺 https://t.co/8Oyaq5Lmat"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2032759821913719053",
+        "created_at": "2026-03-14T10:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032759821913719053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/penpunx/status/2032751441555894606",
+              "start": 8,
+              "url": "https://t.co/8Oyaq5Lmat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032759821913719053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032751441555894606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人陪陪我吗🥺 https://t.co/8Oyaq5Lmat"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2032751441555894606",
+        "created_at": "2026-03-14T09:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T10:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032751441555894606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032751441555894606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天我也做了很多作业并且复习了数学，但是现在我不知道该干什么，有点无聊，也不能od因为买药很贵而且要减少耐药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 352,
+          "like_count": 11434,
+          "listed_count": 1,
+          "media_count": 420,
+          "tweet_count": 3277
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

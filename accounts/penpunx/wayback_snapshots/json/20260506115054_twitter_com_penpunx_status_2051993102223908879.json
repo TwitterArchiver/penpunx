@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2051977618136932686",
+    "created_at": "2026-05-06T11:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051993102223908879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841093178268794881",
+          "start": 0,
+          "username": "idle_beaver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051993102223908879",
+    "in_reply_to_user_id": "1841093178268794881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051977618136932686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idle_beaver 不要恨我！我是良民。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2051977618136932686",
+        "created_at": "2026-05-06T11:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051993102223908879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841093178268794881",
+              "start": 0,
+              "username": "idle_beaver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051993102223908879",
+        "in_reply_to_user_id": "1841093178268794881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051977618136932686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idle_beaver 不要恨我！我是良民。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841093178268794881",
+        "conversation_id": "2051977618136932686",
+        "created_at": "2026-05-06T10:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051977618136932686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051977618136932686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恨你们。请不要与我讨论2026前的一切事情。最好什么事情也不要，我根本不会与人们交往，我会让你们失望的，我会让你们厌烦的，我会有分离焦虑的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 503,
+          "like_count": 12849,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 4290
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:30:02.000Z",
+        "description": "always turning around / email: u@uhio.uk",
+        "id": "1841093178268794881",
+        "location": "now here",
+        "name": "Phylodin Helixis",
+        "pinned_tweet_id": "2049881469934326091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051077750870659073/NdMU5g1j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 26,
+          "like_count": 6396,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 104
+        },
+        "username": "idle_beaver",
+        "verified": false
+      }
+    ]
+  }
+}

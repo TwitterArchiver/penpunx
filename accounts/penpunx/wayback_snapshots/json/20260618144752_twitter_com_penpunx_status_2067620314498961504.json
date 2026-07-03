@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067620283360440320"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067620314498961504",
+    "created_at": "2026-06-18T14:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067620314498961504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DcbjFYO3mE",
+          "end": 29,
+          "expanded_url": "https://x.com/penpunx/status/2067620314498961504/photo/1",
+          "media_key": "3_2067620283360440320",
+          "start": 6,
+          "url": "https://t.co/DcbjFYO3mE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067620314498961504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要哭了！ https://t.co/DcbjFYO3mE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_2067620283360440320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGpsWgXcAAXwwg.jpg",
+        "width": 2557
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067620283360440320"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067620314498961504",
+        "created_at": "2026-06-18T14:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067620314498961504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DcbjFYO3mE",
+              "end": 29,
+              "expanded_url": "https://x.com/penpunx/status/2067620314498961504/photo/1",
+              "media_key": "3_2067620283360440320",
+              "start": 6,
+              "url": "https://t.co/DcbjFYO3mE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067620314498961504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要哭了！ https://t.co/DcbjFYO3mE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "巴卡巴拉，苏卡纳纳马斯。",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 576,
+          "like_count": 13935,
+          "listed_count": 1,
+          "media_count": 633,
+          "tweet_count": 5297
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

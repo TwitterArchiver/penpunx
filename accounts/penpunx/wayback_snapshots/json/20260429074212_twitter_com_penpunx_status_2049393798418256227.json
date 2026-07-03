@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2048001318959321519",
+    "created_at": "2026-04-29T07:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T08:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049393798418256227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1733139095352918016",
+          "start": 0,
+          "username": "aoi4uto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049393798418256227",
+    "in_reply_to_user_id": "1733139095352918016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049393350902714617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoi4uto 吃蛋黄干哦🥰我喜欢花枝鼠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2048001318959321519",
+        "created_at": "2026-04-29T07:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049393798418256227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1733139095352918016",
+              "start": 0,
+              "username": "aoi4uto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049393798418256227",
+        "in_reply_to_user_id": "1733139095352918016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049393350902714617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoi4uto 吃蛋黄干哦🥰我喜欢花枝鼠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733139095352918016",
+        "conversation_id": "2048001318959321519",
+        "created_at": "2026-04-29T07:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049393350902714617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049393350902714617",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049390830365135133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 他在吃什么呀，老实鼠鼠🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 444,
+          "like_count": 12277,
+          "listed_count": 1,
+          "media_count": 469,
+          "tweet_count": 3919
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T14:59:03.000Z",
+        "description": "All their prejudices. All their passions. Their local interests and selfish views. And yet, we'll be fine.\n神经多样性｜不良嗜好｜回关各类大学生中学生小学生",
+        "id": "1733139095352918016",
+        "location": "午夜沙发电视",
+        "name": "噪点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025944445372313600/3EQTUkjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 596,
+          "like_count": 55459,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 8593
+        },
+        "username": "aoi4uto",
+        "verified": false
+      }
+    ]
+  }
+}

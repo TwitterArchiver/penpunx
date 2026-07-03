@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2052374169573314973",
+    "created_at": "2026-05-11T13:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053824200931250469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2014216293705187328",
+          "start": 0,
+          "username": "Mandykwko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053824200931250469",
+    "in_reply_to_user_id": "2014216293705187328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052374169573314973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mandykwko 真的要死的话 为何不花点积蓄去买好玩的精神活性物质"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2052374169573314973",
+        "created_at": "2026-05-11T13:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053824200931250469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2014216293705187328",
+              "start": 0,
+              "username": "Mandykwko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053824200931250469",
+        "in_reply_to_user_id": "2014216293705187328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052374169573314973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mandykwko 真的要死的话 为何不花点积蓄去买好玩的精神活性物质"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014216293705187328",
+        "conversation_id": "2052374169573314973",
+        "created_at": "2026-05-07T13:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052374169573314973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052374169573314973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类对于无家可归、浑身疾病、无法生活自理的流浪猫，就知道对它好的方式是绝育和安乐死，但对于身处同样处境的人类，却极力阻挠他们这么做，宁愿让他们浑身爬满寄生虫继续在肮脏的环境里受苦，这不虚伪吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 515,
+          "like_count": 13163,
+          "listed_count": 1,
+          "media_count": 514,
+          "tweet_count": 4448
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T06:00:22.000Z",
+        "description": "",
+        "id": "2014216293705187328",
+        "name": "Mandy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047952507742416896/Ru54lhoG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 102,
+          "like_count": 2600,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 76
+        },
+        "username": "Mandykwko",
+        "verified": false
+      }
+    ]
+  }
+}

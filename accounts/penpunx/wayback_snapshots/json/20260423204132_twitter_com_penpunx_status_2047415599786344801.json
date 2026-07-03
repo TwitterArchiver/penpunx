@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2047415596699287697",
+    "created_at": "2026-04-23T20:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T21:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047415599786344801"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047415599786344801",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047415596699287697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明明我可以只是自由地存在，简单地跨过去的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2047415596699287697",
+        "created_at": "2026-04-23T20:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047415599786344801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047415599786344801",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047415596699287697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明明我可以只是自由地存在，简单地跨过去的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2047415596699287697",
+        "created_at": "2026-04-23T20:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047415596699287697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047415596699287697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚才哭得仿佛很心碎，但是一瞬间我突然感觉我可以放下一切负担。多么甜美，实则是内啡肽上线了。\n我能感受到心碎的那部分，并且感到对他们有无形中的责任。好了，现在我不需要再“稳稳地接住他们”了，我也不是战胜了他们。让它们碎掉，它们会碎的，为什么要害怕让它们碎掉？为什么要害怕没有阻力呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 433,
+          "like_count": 12197,
+          "listed_count": 1,
+          "media_count": 462,
+          "tweet_count": 3848
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

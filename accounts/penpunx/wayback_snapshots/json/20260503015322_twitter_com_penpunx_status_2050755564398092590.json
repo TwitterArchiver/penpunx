@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2050678211059847633",
+    "created_at": "2026-05-03T01:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T02:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050755564398092590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2035399760765698048",
+          "start": 0,
+          "username": "BiGuan7704"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050755564398092590",
+    "in_reply_to_user_id": "2035399760765698048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050678211059847633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BiGuan7704 你喜欢玩苯海拉明吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2050678211059847633",
+        "created_at": "2026-05-03T01:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T02:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050755564398092590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2035399760765698048",
+              "start": 0,
+              "username": "BiGuan7704"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050755564398092590",
+        "in_reply_to_user_id": "2035399760765698048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050678211059847633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BiGuan7704 你喜欢玩苯海拉明吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035399760765698048",
+        "conversation_id": "2050678211059847633",
+        "created_at": "2026-05-02T20:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T21:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050678211059847633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/biguan7704/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/biguan7704/status/2050678010215555254",
+              "start": 33,
+              "url": "https://t.co/spXcPZwbmE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050678211059847633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050678010215555254",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以像乳糖不耐受者喝奶茶鉴定里面有没有奶一样帮人鉴定策划药（？） https://t.co/spXcPZwbmE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 484,
+          "like_count": 12629,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 4154
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T16:55:01.000Z",
+        "description": "裏垢｜01老不死的｜随意称呼，自言自语中，偶尔吃点小药｜请和我交朋友：）",
+        "id": "2035399760765698048",
+        "location": "太湖湖底",
+        "name": "閉館_",
+        "pinned_tweet_id": "2042832178556604670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035417691432103936/3n1iH5gS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 71,
+          "like_count": 972,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 535
+        },
+        "username": "BiGuan7704",
+        "verified": false
+      }
+    ]
+  }
+}

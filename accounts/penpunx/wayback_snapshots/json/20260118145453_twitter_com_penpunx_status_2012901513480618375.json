@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2012901513480618375",
+    "created_at": "2026-01-18T14:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012901513480618375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1032721347284217856",
+          "start": 3,
+          "username": "ysuckme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012901513480618375",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1881
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012773951756275840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ysuckme: You Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2012901513480618375",
+        "created_at": "2026-01-18T14:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012901513480618375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1032721347284217856",
+              "start": 3,
+              "username": "ysuckme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012901513480618375",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1881
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012773951756275840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ysuckme: You Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1032721347284217856",
+        "conversation_id": "2012773951756275840",
+        "created_at": "2026-01-18T06:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T07:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012773951756275840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012773951756275840",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 393,
+          "impression_count": 166628,
+          "like_count": 12433,
+          "quote_count": 77,
+          "reply_count": 166,
+          "retweet_count": 1881
+        },
+        "reply_settings": "everyone",
+        "text": "You Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win.\nYou Will Win."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2012869391504023900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 292,
+          "like_count": 10309,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 2721
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-23T20:08:51.000Z",
+        "description": "sucking in all of the positivity.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ysuckme",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ysuckme",
+                "start": 0,
+                "url": "https://t.co/LSVjSvqBHG"
+              }
+            ]
+          }
+        },
+        "id": "1032721347284217856",
+        "name": "y",
+        "pinned_tweet_id": "2012773951756275840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696880906097627136/C-nwmq_X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419772,
+          "following_count": 70635,
+          "like_count": 318685,
+          "listed_count": 420,
+          "media_count": 0,
+          "tweet_count": 51883
+        },
+        "url": "https://t.co/LSVjSvqBHG",
+        "username": "ysuckme",
+        "verified": true
+      }
+    ]
+  }
+}

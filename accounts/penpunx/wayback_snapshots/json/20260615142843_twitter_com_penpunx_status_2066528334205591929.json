@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2066527976909644099",
+    "created_at": "2026-06-15T14:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066528334205591929"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066528334205591929",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066527976909644099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以及yonlu和backroom! 他们年代也很相近("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2066527976909644099",
+        "created_at": "2026-06-15T14:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066528334205591929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066528334205591929",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066527976909644099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以及yonlu和backroom! 他们年代也很相近("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2066527976909644099",
+        "created_at": "2026-06-15T14:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066527976909644099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066527976909644099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从2022.1开始特别喜欢怪核，到现在也有四年多了\n我只有在怪核和魔兽世界相关视频里能感觉到童年的熟悉感和安全感，而且极为温馨\n最近backroom相关的文化热潮我也很喜欢，有空的话等我期末考完我要画一张屈原投江进入backroom的图("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "巴卡巴拉，苏卡纳纳马斯。",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 576,
+          "like_count": 13892,
+          "listed_count": 1,
+          "media_count": 619,
+          "tweet_count": 5229
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

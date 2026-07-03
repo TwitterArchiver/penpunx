@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2052443348968079443",
+    "created_at": "2026-05-07T22:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T23:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052514993938297302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1492808050461196288",
+          "start": 0,
+          "username": "Breaking_Lead_G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052514993938297302",
+    "in_reply_to_user_id": "1492808050461196288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052443348968079443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Breaking_Lead_G breakcore? 子知sewerslvt乎？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2052443348968079443",
+        "created_at": "2026-05-07T22:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T23:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052514993938297302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492808050461196288",
+              "start": 0,
+              "username": "Breaking_Lead_G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052514993938297302",
+        "in_reply_to_user_id": "1492808050461196288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052443348968079443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Breaking_Lead_G breakcore? 子知sewerslvt乎？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492808050461196288",
+        "conversation_id": "2052443348968079443",
+        "created_at": "2026-05-07T17:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052443348968079443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052443348968079443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前有說過我要採樣lostrivers做一個breakcore的事情麼？我打算重續四年前的爛尾工程！哈哈！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 505,
+          "like_count": 12944,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 4316
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T10:29:22.000Z",
+        "description": "一般路過 喜歡 函數式編程 古典音樂 中古漢語 熱力魔法 元素魔法 魔能學 魔導學 量子魔法 死靈魔法\n追殺的人，看@Wiki1Minecraft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 58,
+                "username": "Wiki1Minecraft"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lmgtfy.com",
+                "end": 23,
+                "expanded_url": "http://lmgtfy.com",
+                "start": 0,
+                "url": "https://t.co/ZJLsEbzS7P"
+              }
+            ]
+          }
+        },
+        "id": "1492808050461196288",
+        "location": "Xi'an",
+        "name": "千秋月亮🌙🈷️🈷️🈷️！",
+        "pinned_tweet_id": "2051609059468652938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050418708611571712/-6VIffCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 727,
+          "like_count": 1795,
+          "listed_count": 7,
+          "media_count": 826,
+          "tweet_count": 9325
+        },
+        "url": "https://t.co/ZJLsEbzS7P",
+        "username": "Breaking_Lead_G",
+        "verified": false
+      }
+    ]
+  }
+}

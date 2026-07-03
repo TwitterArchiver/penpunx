@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071782944025583617"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2071782952447684837",
+    "created_at": "2026-06-30T02:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T03:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071782952447684837"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N7EfJBaNXq",
+          "end": 27,
+          "expanded_url": "https://x.com/penpunx/status/2071782952447684837/photo/1",
+          "media_key": "3_2071782944025583617",
+          "start": 4,
+          "url": "https://t.co/N7EfJBaNXq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071782952447684837",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "何意味 https://t.co/N7EfJBaNXq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 151,
+        "media_key": "3_2071782944025583617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBznF5boAEdeMf.png",
+        "width": 607
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071782944025583617"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2071782952447684837",
+        "created_at": "2026-06-30T02:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071782952447684837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7EfJBaNXq",
+              "end": 27,
+              "expanded_url": "https://x.com/penpunx/status/2071782952447684837/photo/1",
+              "media_key": "3_2071782944025583617",
+              "start": 4,
+              "url": "https://t.co/N7EfJBaNXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071782952447684837",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/N7EfJBaNXq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "万物",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 604,
+          "like_count": 14446,
+          "listed_count": 1,
+          "media_count": 733,
+          "tweet_count": 5889
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

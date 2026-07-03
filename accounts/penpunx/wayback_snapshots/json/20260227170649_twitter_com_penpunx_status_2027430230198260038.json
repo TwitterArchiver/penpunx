@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2027366349207662671",
+    "created_at": "2026-02-27T17:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027430230198260038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "845658994093965313",
+          "start": 0,
+          "username": "LynzRand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027430230198260038",
+    "in_reply_to_user_id": "845658994093965313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027366349207662671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LynzRand 恒大集团"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2027366293557727232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKm5w0b0AAt8r4.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2027366349207662671",
+        "created_at": "2026-02-27T17:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027430230198260038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "845658994093965313",
+              "start": 0,
+              "username": "LynzRand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027430230198260038",
+        "in_reply_to_user_id": "845658994093965313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027366349207662671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LynzRand 恒大集团"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027366293557727232"
+          ]
+        },
+        "author_id": "845658994093965313",
+        "conversation_id": "2027366349207662671",
+        "created_at": "2026-02-27T12:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027366349207662671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x572RK2eIT",
+              "end": 48,
+              "expanded_url": "https://x.com/LynzRand/status/2027366349207662671/photo/1",
+              "media_key": "3_2027366293557727232",
+              "start": 25,
+              "url": "https://t.co/x572RK2eIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027366349207662671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2889,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加入中式城市的关键部分：不知道哪里来的超高层小区 https://t.co/x572RK2eIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2024557534829564202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 329,
+          "like_count": 11129,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 3109
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-25T15:29:50.000Z",
+        "description": "死正经。憧憬成为全能一体机。\n\nCC BY-NC /\nhe/him /\nPGP:  670b5443 /\nhttps://t.co/hcYPSXBQLV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/lynzrand",
+                "end": 76,
+                "expanded_url": "http://github.com/lynzrand",
+                "start": 53,
+                "url": "https://t.co/hcYPSXBQLV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rynco.me",
+                "end": 23,
+                "expanded_url": "http://rynco.me",
+                "start": 0,
+                "url": "https://t.co/6CF39QBZil"
+              }
+            ]
+          }
+        },
+        "id": "845658994093965313",
+        "location": "AS16-Nov-08",
+        "name": "Rynco Maekawa @rynco@dvd.chat",
+        "pinned_tweet_id": "1969429097458909585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801988634670776320/GTvAovyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 698,
+          "like_count": 48671,
+          "listed_count": 23,
+          "media_count": 1775,
+          "tweet_count": 7034
+        },
+        "url": "https://t.co/6CF39QBZil",
+        "username": "LynzRand",
+        "verified": false
+      }
+    ]
+  }
+}

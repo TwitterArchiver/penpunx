@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2049135110021390781",
+    "created_at": "2026-04-28T14:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049135110021390781"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/penpunx/status/2049129433270042708",
+          "start": 144,
+          "url": "https://t.co/FYoI81qOmO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049135110021390781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049129433270042708",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "思乡的感觉不一定需要离开家乡，甚至不需要有个家乡，我是泛指类似“漂泊好苦我想回家”的情感。让思乡更难受的是“家”的记忆中也没有人，比如我听到小时候玩的游戏的配乐就会思乡，可是那个时候也没人陪我玩，整个下午我都不知道该干嘛\n\n迷茫来源于我不想这样下去，可我不知道该怎么办的循环。倒是有个好 https://t.co/FYoI81qOmO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2049135110021390781",
+        "created_at": "2026-04-28T14:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049135110021390781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/penpunx/status/2049129433270042708",
+              "start": 144,
+              "url": "https://t.co/FYoI81qOmO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049135110021390781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049129433270042708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "思乡的感觉不一定需要离开家乡，甚至不需要有个家乡，我是泛指类似“漂泊好苦我想回家”的情感。让思乡更难受的是“家”的记忆中也没有人，比如我听到小时候玩的游戏的配乐就会思乡，可是那个时候也没人陪我玩，整个下午我都不知道该干嘛\n\n迷茫来源于我不想这样下去，可我不知道该怎么办的循环。倒是有个好 https://t.co/FYoI81qOmO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2049129433270042708",
+        "created_at": "2026-04-28T14:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049129433270042708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049129433270042708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比起抑郁焦虑，更难摆脱的还是迷茫和思乡两种感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 442,
+          "like_count": 12245,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 3901
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

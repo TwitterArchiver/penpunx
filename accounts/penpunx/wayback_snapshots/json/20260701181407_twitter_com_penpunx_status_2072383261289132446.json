@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2072383261289132446",
+    "created_at": "2026-07-01T18:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T19:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072383261289132446"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/penpunx/status/2072317986728558714",
+          "start": 17,
+          "url": "https://t.co/UrkpyWNg2Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072383261289132446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072317986728558714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "结局是困死了还在硬撑玩手机（（（ https://t.co/UrkpyWNg2Q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2072383261289132446",
+        "created_at": "2026-07-01T18:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072383261289132446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/penpunx/status/2072317986728558714",
+              "start": 17,
+              "url": "https://t.co/UrkpyWNg2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072383261289132446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072317986728558714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结局是困死了还在硬撑玩手机（（（ https://t.co/UrkpyWNg2Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2072317986728558714",
+        "created_at": "2026-07-01T13:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072317986728558714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072317986728558714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 403,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舌下含服1t阿普唑仑测试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 613,
+          "like_count": 14547,
+          "listed_count": 1,
+          "media_count": 747,
+          "tweet_count": 5983
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2055873025766195420",
+    "created_at": "2026-05-17T04:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055873025766195420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796929111996456960",
+          "start": 3,
+          "username": "nbrkfst0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055873025766195420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055731397948821974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nbrkfst0721: 中国人：hyw\n外国人:why\n什么你问我为什么不是完全倒装？因为h移位"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2055873025766195420",
+        "created_at": "2026-05-17T04:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055873025766195420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796929111996456960",
+              "start": 3,
+              "username": "nbrkfst0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055873025766195420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055731397948821974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nbrkfst0721: 中国人：hyw\n外国人:why\n什么你问我为什么不是完全倒装？因为h移位"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796929111996456960",
+        "conversation_id": "2055731397948821974",
+        "created_at": "2026-05-16T19:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055731397948821974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055731397948821974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1572,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "中国人：hyw\n外国人:why\n什么你问我为什么不是完全倒装？因为h移位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 532,
+          "like_count": 13379,
+          "listed_count": 1,
+          "media_count": 521,
+          "tweet_count": 4625
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T15:38:51.000Z",
+        "description": "東方｜秘封｜简/繁中文｜Eng｜機械翻訳日本語|成分复杂｜\n無言フォロー失礼いたしまし",
+        "id": "1796929111996456960",
+        "location": "霧ノ湖",
+        "name": "𝓤𝓷𝓬𝓼𝓬𝓼鎮魂曲 ╭ᰩ ᭄╮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036667245062168576/zSxSfpmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 1275,
+          "like_count": 13951,
+          "listed_count": 0,
+          "media_count": 462,
+          "tweet_count": 1829
+        },
+        "username": "nbrkfst0721",
+        "verified": true
+      }
+    ]
+  }
+}

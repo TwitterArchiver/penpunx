@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055257395685892097"
+      ],
+      "media_source_tweet_id": [
+        "2055257775534739966"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2055319121055940933",
+    "created_at": "2026-05-15T16:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055319121055940933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1012717267",
+          "start": 3,
+          "username": "laga_do"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6CgvdSgOlA",
+          "end": 41,
+          "expanded_url": "https://x.com/laga_do/status/2055257775534739966/photo/1",
+          "media_key": "3_2055257395685892097",
+          "start": 18,
+          "url": "https://t.co/6CgvdSgOlA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055319121055940933",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055257775534739966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @laga_do: boa. https://t.co/6CgvdSgOlA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2055257395685892097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIW9tk_aIAEkUas.jpg",
+        "width": 652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055257395685892097"
+          ],
+          "media_source_tweet_id": [
+            "2055257775534739966"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2055319121055940933",
+        "created_at": "2026-05-15T16:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055319121055940933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1012717267",
+              "start": 3,
+              "username": "laga_do"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6CgvdSgOlA",
+              "end": 41,
+              "expanded_url": "https://x.com/laga_do/status/2055257775534739966/photo/1",
+              "media_key": "3_2055257395685892097",
+              "start": 18,
+              "url": "https://t.co/6CgvdSgOlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055319121055940933",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055257775534739966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @laga_do: boa. https://t.co/6CgvdSgOlA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055257395685892097"
+          ]
+        },
+        "author_id": "1012717267",
+        "conversation_id": "2055257775534739966",
+        "created_at": "2026-05-15T12:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055257775534739966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6CgvdSgOlA",
+              "end": 28,
+              "expanded_url": "https://x.com/laga_do/status/2055257775534739966/photo/1",
+              "media_key": "3_2055257395685892097",
+              "start": 5,
+              "url": "https://t.co/6CgvdSgOlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055257775534739966",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 3459,
+          "like_count": 464,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "boa. https://t.co/6CgvdSgOlA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 526,
+          "like_count": 13338,
+          "listed_count": 1,
+          "media_count": 517,
+          "tweet_count": 4575
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-15T07:36:20.000Z",
+        "description": "画https://t.co/lrWItrSZNx　販https://t.co/k8ciSRF9vW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/lagado",
+                "end": 24,
+                "expanded_url": "http://pixiv.me/lagado",
+                "start": 1,
+                "url": "https://t.co/lrWItrSZNx"
+              },
+              {
+                "display_url": "lagado.booth.pm",
+                "end": 49,
+                "expanded_url": "http://lagado.booth.pm",
+                "start": 26,
+                "url": "https://t.co/k8ciSRF9vW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lagado.seesaa.net",
+                "end": 23,
+                "expanded_url": "https://lagado.seesaa.net/",
+                "start": 0,
+                "url": "https://t.co/evUOKxFp8U"
+              }
+            ]
+          }
+        },
+        "id": "1012717267",
+        "name": "ラガードー",
+        "pinned_tweet_id": "1837107934083567858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2988394497/f106ce5315236ece3e32071733d54702_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 232,
+          "like_count": 15955,
+          "listed_count": 36,
+          "media_count": 1595,
+          "tweet_count": 12057
+        },
+        "url": "https://t.co/evUOKxFp8U",
+        "username": "laga_do",
+        "verified": false
+      }
+    ]
+  }
+}

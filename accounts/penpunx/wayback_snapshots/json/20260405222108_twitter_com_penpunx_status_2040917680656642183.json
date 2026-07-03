@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2040917680656642183",
+    "created_at": "2026-04-05T22:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T23:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040917680656642183"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040917680656642183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "控制药物的是美食家\n被药物控制的是毒虫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2040917680656642183",
+        "created_at": "2026-04-05T22:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T23:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040917680656642183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040917680656642183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "控制药物的是美食家\n被药物控制的是毒虫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 391,
+          "like_count": 11766,
+          "listed_count": 1,
+          "media_count": 442,
+          "tweet_count": 3528
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

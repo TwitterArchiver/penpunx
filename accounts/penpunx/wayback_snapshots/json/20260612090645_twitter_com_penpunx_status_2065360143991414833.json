@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2065360143991414833",
+    "created_at": "2026-06-12T09:06:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:06:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065360143991414833"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Duolingo",
+          "display_url": "invite.duolingo.com/share/DwAXhR99…",
+          "end": 23,
+          "expanded_url": "https://invite.duolingo.com/share/DwAXhR99sGQO32iG",
+          "images": [
+            {
+              "height": 1080,
+              "url": "https://pbs.twimg.com/news_img/2065360145350299648/AlcuymW4?format=jpg&name=orig",
+              "width": 1080
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2065360145350299648/AlcuymW4?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "I’m on a 7 day learning streak",
+          "unwound_url": "https://invite.duolingo.com/share/DwAXhR99sGQO32iG",
+          "url": "https://t.co/b1QMMZYswI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065360143991414833",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/b1QMMZYswI\nfinalmente"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2065360143991414833",
+        "created_at": "2026-06-12T09:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065360143991414833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Duolingo",
+              "display_url": "invite.duolingo.com/share/DwAXhR99…",
+              "end": 23,
+              "expanded_url": "https://invite.duolingo.com/share/DwAXhR99sGQO32iG",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/2065360145350299648/AlcuymW4?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2065360145350299648/AlcuymW4?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "I’m on a 7 day learning streak",
+              "unwound_url": "https://invite.duolingo.com/share/DwAXhR99sGQO32iG",
+              "url": "https://t.co/b1QMMZYswI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065360143991414833",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/b1QMMZYswI\nfinalmente"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱，月亮。",
+        "id": "1896904934995656704",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 566,
+          "like_count": 13726,
+          "listed_count": 1,
+          "media_count": 611,
+          "tweet_count": 5107
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

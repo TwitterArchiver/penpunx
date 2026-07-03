@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2070038157220098349",
+    "created_at": "2026-06-25T06:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T07:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070038157220098349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1624393872037265413",
+          "start": 3,
+          "username": "K3ss1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070038157220098349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070001642070745267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K3ss1c: 我看策划药药商卖那么逼贵，瘾就治好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2070038157220098349",
+        "created_at": "2026-06-25T06:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070038157220098349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1624393872037265413",
+              "start": 3,
+              "username": "K3ss1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070038157220098349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070001642070745267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @K3ss1c: 我看策划药药商卖那么逼贵，瘾就治好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624393872037265413",
+        "conversation_id": "2070001642070745267",
+        "created_at": "2026-06-25T04:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070001642070745267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070001642070745267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我看策划药药商卖那么逼贵，瘾就治好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 588,
+          "like_count": 14110,
+          "listed_count": 1,
+          "media_count": 693,
+          "tweet_count": 5597
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T13:04:23.000Z",
+        "description": "17年吉吉国入葬，溜冰/抬杠，有素质，我们的直播脚本，尊尼获嘉爱好者，滚木党，不是道栗党。",
+        "id": "1624393872037265413",
+        "name": "难以承受的奥氮平母猪增肥之重",
+        "pinned_tweet_id": "2061192161622958335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061213364785942529/Vq3wxXGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 866,
+          "like_count": 13220,
+          "listed_count": 3,
+          "media_count": 2756,
+          "tweet_count": 18158
+        },
+        "url": "",
+        "username": "K3ss1c",
+        "verified": false
+      }
+    ]
+  }
+}

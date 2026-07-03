@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1965784731582439705",
+    "created_at": "2025-09-10T14:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T15:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965788052779123080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1505242176560656386",
+          "start": 0,
+          "username": "ia0001_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965788052779123080",
+    "in_reply_to_user_id": "1505242176560656386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 9,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965784731582439705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ia0001_ 你是回避型"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1965784731582439705",
+        "created_at": "2025-09-10T14:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T15:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965788052779123080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1505242176560656386",
+              "start": 0,
+              "username": "ia0001_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965788052779123080",
+        "in_reply_to_user_id": "1505242176560656386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965784731582439705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ia0001_ 你是回避型"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505242176560656386",
+        "conversation_id": "1965784731582439705",
+        "created_at": "2025-09-10T14:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T15:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965784731582439705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965784731582439705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很想知道闹掰的时候还发长文是想把整个猪脑都暴露给一个新的不对付的人吗，连一点自己过去的美好形象都不想给对方留了？如果我冷静我选择不看，如果我不冷静你不配写给我看。\n当然事情过去很久了我也不需要回应，也许预期巨大的落差会让人做出最绝望的自证吧，只是这样也没人看，纯纯自嬷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 267,
+          "like_count": 9169,
+          "listed_count": 1,
+          "media_count": 289,
+          "tweet_count": 2133
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T17:58:09.000Z",
+        "description": "掐人中",
+        "id": "1505242176560656386",
+        "name": "ia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867013851029606400/A9xjdc2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 264,
+          "like_count": 35057,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 5629
+        },
+        "username": "ia0001_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2040992677119029289",
+    "created_at": "2026-04-06T07:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T08:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041059347682517243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2028205953380945920",
+          "start": 0,
+          "username": "psyopal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041059347682517243",
+    "in_reply_to_user_id": "2028205953380945920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041058319759266088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@psyopal 期待喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2040992677119029289",
+        "created_at": "2026-04-06T07:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T08:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041059347682517243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2028205953380945920",
+              "start": 0,
+              "username": "psyopal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041059347682517243",
+        "in_reply_to_user_id": "2028205953380945920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041058319759266088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psyopal 期待喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028205953380945920",
+        "conversation_id": "2040992677119029289",
+        "created_at": "2026-04-06T07:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T08:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041058319759266088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041058319759266088",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041057728605593952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 下次应该是在800Fo吧（也许"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 392,
+          "like_count": 11776,
+          "listed_count": 1,
+          "media_count": 445,
+          "tweet_count": 3539
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T20:29:23.000Z",
+        "description": "unnamed复活介绍点https://t.co/RIbaVNCNdD\n飞机同ID，神必物质欢迎观看\n同类超级大友好，之后会开提问箱接受咨询嘿嘿",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/auaquq",
+                "end": 35,
+                "expanded_url": "https://t.me/auaquq",
+                "start": 12,
+                "url": "https://t.co/RIbaVNCNdD"
+              }
+            ]
+          }
+        },
+        "id": "2028205953380945920",
+        "name": "psyopal",
+        "pinned_tweet_id": "2039563603146420687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038830668533334016/ktouiTat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 252,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 132
+        },
+        "username": "psyopal",
+        "verified": false
+      }
+    ]
+  }
+}

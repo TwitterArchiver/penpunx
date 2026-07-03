@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2065055348508278951",
+    "created_at": "2026-06-11T15:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065088320254967965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1726314870780637185",
+          "start": 0,
+          "username": "uraracidus"
+        },
+        {
+          "end": 22,
+          "id": "1414619528911220741",
+          "start": 12,
+          "username": "ChibanaK1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065088320254967965",
+    "in_reply_to_user_id": "1726314870780637185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065058607155266008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uraracidus @ChibanaK1 荔枝也是大果么"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2065058607155266008].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2065058607155266008",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2065058607155266008"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2065055348508278951",
+        "created_at": "2026-06-11T15:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065088320254967965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1726314870780637185",
+              "start": 0,
+              "username": "uraracidus"
+            },
+            {
+              "end": 22,
+              "id": "1414619528911220741",
+              "start": 12,
+              "username": "ChibanaK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065088320254967965",
+        "in_reply_to_user_id": "1726314870780637185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065058607155266008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uraracidus @ChibanaK1 荔枝也是大果么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱，月亮。",
+        "id": "1896904934995656704",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 564,
+          "like_count": 13698,
+          "listed_count": 1,
+          "media_count": 612,
+          "tweet_count": 5098
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T19:02:01.000Z",
+        "description": "性癖衣品和兴趣都是女仆装",
+        "id": "1726314870780637185",
+        "name": "呻嘟唍",
+        "pinned_tweet_id": "2057747763816026578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048946194848849920/NX2Br74C_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 130,
+          "like_count": 27241,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 7452
+        },
+        "username": "uraracidus",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-12T16:16:46.000Z",
+        "description": "پشت دریاها شهری است",
+        "id": "1414619528911220741",
+        "location": "Taiwan",
+        "name": "وقایه-ｶﾂｷ",
+        "pinned_tweet_id": "2049729913306194317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911227782048219136/Kde_5fR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 82,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 699
+        },
+        "username": "ChibanaK1",
+        "verified": false
+      }
+    ]
+  }
+}

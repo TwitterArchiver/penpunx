@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1949155428556030003",
+    "created_at": "2025-07-26T17:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T18:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949157668226228721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1648735654887718913",
+          "start": 0,
+          "username": "Hakadaooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949157668226228721",
+    "in_reply_to_user_id": "1648735654887718913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949155428556030003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hakadaooo 像"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1315,
+        "media_key": "3_1949155417252380672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwzKhmFbQAAndf7.jpg",
+        "width": 1132
+      },
+      {
+        "height": 1356,
+        "media_key": "3_1949155417235636225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwzKhmBbwAEALBq.jpg",
+        "width": 1979
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1949155428556030003",
+        "created_at": "2025-07-26T17:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T18:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949157668226228721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1648735654887718913",
+              "start": 0,
+              "username": "Hakadaooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949157668226228721",
+        "in_reply_to_user_id": "1648735654887718913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949155428556030003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hakadaooo 像"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949155417252380672",
+            "3_1949155417235636225"
+          ]
+        },
+        "author_id": "1648735654887718913",
+        "conversation_id": "1949155428556030003",
+        "created_at": "2025-07-26T17:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T18:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949155428556030003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gmgN5mz8df",
+              "end": 23,
+              "expanded_url": "https://x.com/Hakadaooo/status/1949155428556030003/photo/1",
+              "media_key": "3_1949155417252380672",
+              "start": 0,
+              "url": "https://t.co/gmgN5mz8df"
+            },
+            {
+              "display_url": "pic.x.com/gmgN5mz8df",
+              "end": 23,
+              "expanded_url": "https://x.com/Hakadaooo/status/1949155428556030003/photo/1",
+              "media_key": "3_1949155417235636225",
+              "start": 0,
+              "url": "https://t.co/gmgN5mz8df"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949155428556030003",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gmgN5mz8df"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "autistic 16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "TR",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 207,
+          "like_count": 7357,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 1705
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T17:10:00.000Z",
+        "description": "#BewlyBewly 作者 | en: @hakadaoooo | 下頭蟈蝻 | asd adhd 廢物",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 0,
+                "tag": "BewlyBewly"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "hakadaoooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/hakadao",
+                "end": 23,
+                "expanded_url": "https://bento.me/hakadao",
+                "start": 0,
+                "url": "https://t.co/uEPkl79Ui3"
+              }
+            ]
+          }
+        },
+        "id": "1648735654887718913",
+        "location": "Canton / Kwong Chow",
+        "name": "Hakadao",
+        "pinned_tweet_id": "1894800020693807359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949072434533195776/usH8HjJW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 773,
+          "like_count": 39689,
+          "listed_count": 10,
+          "media_count": 1764,
+          "tweet_count": 6351
+        },
+        "url": "https://t.co/uEPkl79Ui3",
+        "username": "Hakadaooo",
+        "verified": false
+      }
+    ]
+  }
+}

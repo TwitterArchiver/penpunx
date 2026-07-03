@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1931366758218346635",
+    "created_at": "2025-06-07T15:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T16:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931376262435766319"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931376262435766319",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931366758218346635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还想到，有的人回老家是真的回到自己曾经居住过的地方，而我“回老家”只是去我父亲居住过的地方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1931366758218346635",
+        "created_at": "2025-06-07T15:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T16:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931376262435766319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931376262435766319",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931366758218346635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还想到，有的人回老家是真的回到自己曾经居住过的地方，而我“回老家”只是去我父亲居住过的地方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1931366758218346635",
+        "created_at": "2025-06-07T15:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T16:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931366758218346635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931366758218346635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和与自己有血缘关系的人做“家人”..会是什么感觉呢？有回老家的理由会是什么感觉呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 206,
+          "like_count": 6137,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1394
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

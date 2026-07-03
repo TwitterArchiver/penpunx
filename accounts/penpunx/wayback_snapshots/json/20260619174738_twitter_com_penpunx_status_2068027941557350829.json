@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2068027941557350829",
+    "created_at": "2026-06-19T17:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068027941557350829"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/adam65207241/s…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/adam65207241/status/2067737983499780513",
+          "start": 39,
+          "url": "https://t.co/annNVchCj4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068027941557350829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067737983499780513",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈，徐汇区是这样的。知道为什么现在每个学校上学和放学时段门口都有警察吗？！ https://t.co/annNVchCj4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 740,
+        "media_key": "3_2067737977934004224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLIUvE9XQAAagOA.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2068027941557350829",
+        "created_at": "2026-06-19T17:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068027941557350829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/adam65207241/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/adam65207241/status/2067737983499780513",
+              "start": 39,
+              "url": "https://t.co/annNVchCj4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068027941557350829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067737983499780513",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈，徐汇区是这样的。知道为什么现在每个学校上学和放学时段门口都有警察吗？！ https://t.co/annNVchCj4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067737977934004224"
+          ]
+        },
+        "author_id": "1277282234815393792",
+        "conversation_id": "2067737983499780513",
+        "created_at": "2026-06-18T22:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T23:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067737983499780513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kzyhm8MuCg",
+              "end": 53,
+              "expanded_url": "https://x.com/Adam65207241/status/2067737983499780513/photo/1",
+              "media_key": "3_2067737977934004224",
+              "start": 30,
+              "url": "https://t.co/kzyhm8MuCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067737983499780513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 284391,
+          "like_count": 926,
+          "quote_count": 6,
+          "reply_count": 226,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "在一个小孩上学必须要接送的地方，谁敢说不是最安全的国家呢？ https://t.co/kzyhm8MuCg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 580,
+          "like_count": 13973,
+          "listed_count": 1,
+          "media_count": 647,
+          "tweet_count": 5372
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-28T16:47:35.000Z",
+        "description": "Life is like a dream, everything is empty, Only love forever. Be a warm person .浮生若梦，万物皆空，唯爱永存.做一个温暖的人。",
+        "id": "1277282234815393792",
+        "name": "Adam 🇬🇧🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582695940074491904/AFVgWXAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13382,
+          "following_count": 4812,
+          "like_count": 21665,
+          "listed_count": 65,
+          "media_count": 3885,
+          "tweet_count": 6511
+        },
+        "url": "",
+        "username": "Adam65207241",
+        "verified": false
+      }
+    ]
+  }
+}

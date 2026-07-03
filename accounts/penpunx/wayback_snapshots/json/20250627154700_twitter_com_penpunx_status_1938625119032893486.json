@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1938398606777868657",
+    "created_at": "2025-06-27T15:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T16:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938625119032893486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1600649573436780544",
+          "start": 0,
+          "username": "zhngkitng5"
+        },
+        {
+          "end": 25,
+          "id": "1692136120027320320",
+          "start": 12,
+          "username": "Cypress_7593"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938625119032893486",
+    "in_reply_to_user_id": "1600649573436780544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938461383898894353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngkitng5 @Cypress_7593 地狱笑话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1938398606777868657",
+        "created_at": "2025-06-27T15:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T16:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938625119032893486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1600649573436780544",
+              "start": 0,
+              "username": "zhngkitng5"
+            },
+            {
+              "end": 25,
+              "id": "1692136120027320320",
+              "start": 12,
+              "username": "Cypress_7593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938625119032893486",
+        "in_reply_to_user_id": "1600649573436780544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938461383898894353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngkitng5 @Cypress_7593 地狱笑话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600649573436780544",
+        "conversation_id": "1938398606777868657",
+        "created_at": "2025-06-27T04:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T05:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938461383898894353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1692136120027320320",
+              "start": 0,
+              "username": "Cypress_7593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938461383898894353",
+        "in_reply_to_user_id": "1692136120027320320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 193,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938398606777868657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cypress_7593 打不过就割"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 204,
+          "like_count": 6576,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 1489
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T00:34:26.000Z",
+        "description": "英语药学在读|无性别主义（mtx |bpd病友|奉天驿驿主（辽沈地区跨儿社群招新中～\n🚪1元（可以看主包搞抽象\n正在努力爆改正太系男娘",
+        "id": "1600649573436780544",
+        "location": "无性别的乌托邦",
+        "name": "三尺微命（50元诚招对象",
+        "pinned_tweet_id": "1932016989331202511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636949537356152833/mXhMreC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 845,
+          "like_count": 6070,
+          "listed_count": 4,
+          "media_count": 260,
+          "tweet_count": 3293
+        },
+        "username": "zhngkitng5",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "你好我是柏树|号被炸了无数个了|精神状态是量子叠加态|成分复杂关注请谨慎|分裂情感性精神病&阿斯伯格|INFJ-T 5w6-tritype593-sp/so|无性恋&泛浪漫|查成分回fo|屏蔽必回敬|误block致歉|看我不爽建议您去死捏|第二人格\n@theDarkCypress|逃生舱@Cypress_1118",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 125,
+                "username": "theDarkCypress"
+              },
+              {
+                "end": 157,
+                "start": 144,
+                "username": "Cypress_1118"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树",
+        "pinned_tweet_id": "1928275531356852498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893603395346280448/j2VGmsv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 819,
+          "like_count": 15709,
+          "listed_count": 2,
+          "media_count": 599,
+          "tweet_count": 4242
+        },
+        "username": "Cypress_7593",
+        "verified": true
+      }
+    ]
+  }
+}

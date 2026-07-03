@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2038940336031187378",
+    "created_at": "2026-03-31T11:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T12:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038940336031187378"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038940336031187378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "救一个人免于磨难当然很好\nmisgender一个人当然不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2038940336031187378",
+        "created_at": "2026-03-31T11:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038940336031187378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038940336031187378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救一个人免于磨难当然很好\nmisgender一个人当然不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 387,
+          "like_count": 11723,
+          "listed_count": 1,
+          "media_count": 430,
+          "tweet_count": 3484
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

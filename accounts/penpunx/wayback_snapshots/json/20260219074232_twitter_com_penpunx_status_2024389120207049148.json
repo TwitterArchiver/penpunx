@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2024382601226834317",
+    "created_at": "2026-02-19T07:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T08:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024389120207049148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2009074459970555905",
+          "start": 0,
+          "username": "nylvim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024389120207049148",
+    "in_reply_to_user_id": "2009074459970555905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024382601226834317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nylvim （偷偷许愿）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2024382601226834317",
+        "created_at": "2026-02-19T07:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024389120207049148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2009074459970555905",
+              "start": 0,
+              "username": "nylvim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024389120207049148",
+        "in_reply_to_user_id": "2009074459970555905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024382601226834317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nylvim （偷偷许愿）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009074459970555905",
+        "conversation_id": "2024382601226834317",
+        "created_at": "2026-02-19T07:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024382601226834317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024382601226834317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘘……愿望说出来就不灵了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2012869391504023900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 306,
+          "like_count": 10719,
+          "listed_count": 1,
+          "media_count": 400,
+          "tweet_count": 2919
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T01:27:44.000Z",
+        "description": "解离症患者，大概吧，",
+        "id": "2009074459970555905",
+        "location": "dump群: 724794166",
+        "name": "vi is not nyl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020164336971608064/6nql_Uic_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 19,
+          "like_count": 2186,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 238
+        },
+        "username": "nylvim",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2051749960811774003",
+    "created_at": "2026-05-05T23:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T00:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051813053440880938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1797831340987195392",
+          "start": 0,
+          "username": "nagaikisetsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051813053440880938",
+    "in_reply_to_user_id": "1797831340987195392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051749960811774003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nagaikisetsu 你怎么了🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2051749960811774003",
+        "created_at": "2026-05-05T23:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T00:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051813053440880938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1797831340987195392",
+              "start": 0,
+              "username": "nagaikisetsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051813053440880938",
+        "in_reply_to_user_id": "1797831340987195392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051749960811774003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nagaikisetsu 你怎么了🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797831340987195392",
+        "conversation_id": "2051749960811774003",
+        "created_at": "2026-05-05T19:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T20:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051749960811774003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051749960811774003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好难受我哭了一个多小时"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 500,
+          "like_count": 12814,
+          "listed_count": 1,
+          "media_count": 496,
+          "tweet_count": 4278
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T03:23:07.000Z",
+        "description": "",
+        "id": "1797831340987195392",
+        "location": "Abyss",
+        "name": "iv",
+        "pinned_tweet_id": "1948671608551604689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051742011527712768/tFoYzShD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 53,
+          "like_count": 4882,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 64
+        },
+        "username": "nagaikisetsu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2054529111574692170",
+    "created_at": "2026-05-13T11:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T12:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054530124411007389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1492808050461196288",
+          "start": 0,
+          "username": "Breaking_Lead_G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054530124411007389",
+    "in_reply_to_user_id": "1492808050461196288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054529111574692170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Breaking_Lead_G 天亦为同龄人乎？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2054529111574692170",
+        "created_at": "2026-05-13T11:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054530124411007389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492808050461196288",
+              "start": 0,
+              "username": "Breaking_Lead_G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054530124411007389",
+        "in_reply_to_user_id": "1492808050461196288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054529111574692170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Breaking_Lead_G 天亦为同龄人乎？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492808050461196288",
+        "conversation_id": "2054529111574692170",
+        "created_at": "2026-05-13T11:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054529111574692170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054529111574692170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同齡人皆神秘。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 519,
+          "like_count": 13244,
+          "listed_count": 1,
+          "media_count": 514,
+          "tweet_count": 4514
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T10:29:22.000Z",
+        "description": "我愛 函數式編程 古典音樂 中古漢語 魔法 @10lulu2\n我恨 數學分析 實分析 傅裡葉分析 泛函分析 各種分析",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "10lulu2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lmgtfy.com",
+                "end": 23,
+                "expanded_url": "http://lmgtfy.com",
+                "start": 0,
+                "url": "https://t.co/ZJLsEbzS7P"
+              }
+            ]
+          }
+        },
+        "id": "1492808050461196288",
+        "location": "Xi'an",
+        "name": "千、月",
+        "pinned_tweet_id": "2051609059468652938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050418708611571712/-6VIffCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 733,
+          "like_count": 1801,
+          "listed_count": 7,
+          "media_count": 840,
+          "tweet_count": 9667
+        },
+        "url": "https://t.co/ZJLsEbzS7P",
+        "username": "Breaking_Lead_G",
+        "verified": false
+      }
+    ]
+  }
+}

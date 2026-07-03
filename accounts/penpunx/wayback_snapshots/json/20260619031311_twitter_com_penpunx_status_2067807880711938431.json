@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067807867218931716"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067807880711938431",
+    "created_at": "2026-06-19T03:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T04:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067807880711938431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tFN4Ggpsmw",
+          "end": 28,
+          "expanded_url": "https://x.com/penpunx/status/2067807880711938431/photo/1",
+          "media_key": "3_2067807867218931716",
+          "start": 5,
+          "url": "https://t.co/tFN4Ggpsmw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067807880711938431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好难好难 https://t.co/tFN4Ggpsmw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 895,
+        "media_key": "3_2067807867218931716",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJUTK1XsAQB1S8.png",
+        "width": 535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067807867218931716"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067807880711938431",
+        "created_at": "2026-06-19T03:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067807880711938431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tFN4Ggpsmw",
+              "end": 28,
+              "expanded_url": "https://x.com/penpunx/status/2067807880711938431/photo/1",
+              "media_key": "3_2067807867218931716",
+              "start": 5,
+              "url": "https://t.co/tFN4Ggpsmw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067807880711938431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难好难 https://t.co/tFN4Ggpsmw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "%",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 577,
+          "like_count": 13941,
+          "listed_count": 1,
+          "media_count": 636,
+          "tweet_count": 5313
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1972933099844694432",
+    "created_at": "2025-09-30T08:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T09:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972947550442541452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1684788748582883328",
+          "start": 0,
+          "username": "Martim036145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972947550442541452",
+    "in_reply_to_user_id": "1684788748582883328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972933099844694432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Martim036145 炒币"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1972933099844694432",
+        "created_at": "2025-09-30T08:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T09:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972947550442541452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684788748582883328",
+              "start": 0,
+              "username": "Martim036145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972947550442541452",
+        "in_reply_to_user_id": "1684788748582883328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972933099844694432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Martim036145 炒币"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788748582883328",
+        "conversation_id": "1972933099844694432",
+        "created_at": "2025-09-30T07:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T08:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972933099844694432"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972933099844694432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有什么不用接触人的工作啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "tren!",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971570743306850304/n3PLdLKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 265,
+          "like_count": 9668,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 2280
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:52:13.000Z",
+        "description": "ftm/激素四年左右/酗酒时长两年半/大陆下水道粪蛆/赛博模拟社交机器/十年精神病患者/巨剑神教狂热皈依者/所有药娘的爸爸/菜刀剃头真男人🔪🙏🏻/啃老又恨老/间歇性想死",
+        "id": "1684788748582883328",
+        "name": "菜刀剃头教教主🏳️‍⚧️",
+        "pinned_tweet_id": "1783089954052284777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965360806159437824/TZDoSYs5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 1084,
+          "like_count": 11604,
+          "listed_count": 1,
+          "media_count": 936,
+          "tweet_count": 5500
+        },
+        "username": "Martim036145",
+        "verified": false
+      }
+    ]
+  }
+}

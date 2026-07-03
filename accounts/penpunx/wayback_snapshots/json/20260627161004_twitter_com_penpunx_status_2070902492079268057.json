@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2070523506862051701",
+    "created_at": "2026-06-27T16:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070902492079268057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1547812257676963840",
+          "start": 0,
+          "username": "YLS69979546"
+        },
+        {
+          "end": 26,
+          "id": "2031858655885475844",
+          "start": 13,
+          "username": "KStepro71109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070902492079268057",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070901109900927474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YLS69979546 @KStepro71109 停一两天就差不多了（\n我直接从600mg/d 停两天后 150mg/d也有感觉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2070523506862051701",
+        "created_at": "2026-06-27T16:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070902492079268057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            },
+            {
+              "end": 26,
+              "id": "2031858655885475844",
+              "start": 13,
+              "username": "KStepro71109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070902492079268057",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070901109900927474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 @KStepro71109 停一两天就差不多了（\n我直接从600mg/d 停两天后 150mg/d也有感觉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2070523506862051701",
+        "created_at": "2026-06-27T16:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070901109900927474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031858655885475844",
+              "start": 0,
+              "username": "KStepro71109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070901109900927474",
+        "in_reply_to_user_id": "2031858655885475844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070523506862051701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KStepro71109 停药，别吃，多戒一段时间能恢复很多，但恢复到基线水平很难"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 595,
+          "like_count": 14297,
+          "listed_count": 1,
+          "media_count": 710,
+          "tweet_count": 5737
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 108,
+          "like_count": 6375,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1007
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T22:23:49.000Z",
+        "description": "07/od/男 /重度焦虑/友跨 关注看成分回关的哦🥰🥰🥰",
+        "id": "2031858655885475844",
+        "name": "月之下.💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047647926361735169/4SlDbVIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 111,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "KStepro71109",
+        "verified": false
+      }
+    ]
+  }
+}

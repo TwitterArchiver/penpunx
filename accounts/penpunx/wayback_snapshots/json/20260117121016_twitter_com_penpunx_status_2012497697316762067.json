@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2012488609732153489",
+    "created_at": "2026-01-17T12:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T13:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012497697316762067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841093178268794881",
+          "start": 0,
+          "username": "idle_beaver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012497697316762067",
+    "in_reply_to_user_id": "1841093178268794881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012488609732153489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idle_beaver 我都懒得和llm说话（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2012488609732153489",
+        "created_at": "2026-01-17T12:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T13:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012497697316762067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841093178268794881",
+              "start": 0,
+              "username": "idle_beaver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012497697316762067",
+        "in_reply_to_user_id": "1841093178268794881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012488609732153489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idle_beaver 我都懒得和llm说话（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841093178268794881",
+        "conversation_id": "2012488609732153489",
+        "created_at": "2026-01-17T11:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T12:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012488609732153489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/idle_beaver/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/idle_beaver/status/2008737549481816178",
+              "start": 17,
+              "url": "https://t.co/ek2cUSZTOk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012488609732153489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008737549481816178",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我用LLM的频率近似反映我的心情 https://t.co/ek2cUSZTOk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 289,
+          "like_count": 10318,
+          "listed_count": 1,
+          "media_count": 366,
+          "tweet_count": 2703
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:30:02.000Z",
+        "description": "现实戒断中 / email: u@uhio.uk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "uhio.uk/void",
+                "end": 23,
+                "expanded_url": "http://uhio.uk/void",
+                "start": 0,
+                "url": "https://t.co/WMoIHNe5nD"
+              }
+            ]
+          }
+        },
+        "id": "1841093178268794881",
+        "location": "now here",
+        "name": "泛地面主义",
+        "pinned_tweet_id": "2005557494320660954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007723316203954176/pXpK4CTe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 27,
+          "like_count": 3820,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/WMoIHNe5nD",
+        "username": "idle_beaver",
+        "verified": false
+      }
+    ]
+  }
+}

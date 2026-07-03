@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2050050132071305478",
+    "created_at": "2026-05-01T03:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T04:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050050132071305478"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/life_wild21208…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/life_wild21208/status/2049900750067905017",
+          "start": 5,
+          "url": "https://t.co/QGFNkwzuxG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050050132071305478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049900750067905017",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个好玩 https://t.co/QGFNkwzuxG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26454,
+        "height": 720,
+        "media_key": "7_2049900503765843968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2049900503765843968/pu/img/bi_lTY12V-FoNV-m.jpg",
+        "public_metrics": {
+          "view_count": 2657
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049900503765843968/pu/vid/avc1/480x270/MEzX987sD7av0VnW.mp4?tag=25"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049900503765843968/pu/vid/avc1/640x360/ShlkK4QGy4g_7EK2.mp4?tag=25"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049900503765843968/pu/vid/avc1/1280x720/tXtRW6CovReSjtPx.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2049900503765843968/pu/pl/rdcI5oXew3WgsS7b.m3u8?tag=25"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2050050132071305478",
+        "created_at": "2026-05-01T03:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T04:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050050132071305478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/life_wild21208…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/life_wild21208/status/2049900750067905017",
+              "start": 5,
+              "url": "https://t.co/QGFNkwzuxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050050132071305478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049900750067905017",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个好玩 https://t.co/QGFNkwzuxG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2049900503765843968"
+          ]
+        },
+        "author_id": "1830880991361011714",
+        "conversation_id": "2049900750067905017",
+        "created_at": "2026-04-30T17:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049900750067905017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dUGmCGC1rM",
+              "end": 54,
+              "expanded_url": "https://x.com/life_wild21208/status/2049900750067905017/video/1",
+              "media_key": "7_2049900503765843968",
+              "start": 31,
+              "url": "https://t.co/dUGmCGC1rM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049900750067905017",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 5861,
+          "like_count": 268,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "POV: Rat-to-Rat defense ⛹️‍♂️🐾 https://t.co/dUGmCGC1rM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 459,
+          "like_count": 12376,
+          "listed_count": 1,
+          "media_count": 471,
+          "tweet_count": 3979
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T08:10:47.000Z",
+        "description": "Discover the beauty and mystery of nature's wildest creatures. Join us on a journey through the animal kingdom, one wonder at a time. 🌍🦁 #WildlifeConservation",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 158,
+                "start": 137,
+                "tag": "WildlifeConservation"
+              }
+            ]
+          }
+        },
+        "id": "1830880991361011714",
+        "location": "Canada",
+        "name": "Wildlife Wonders",
+        "pinned_tweet_id": "2048858324045897906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007501368945422336/7ZdpCZiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13995,
+          "following_count": 7293,
+          "like_count": 5088,
+          "listed_count": 58,
+          "media_count": 6838,
+          "tweet_count": 7261
+        },
+        "username": "life_wild21208",
+        "verified": true
+      }
+    ]
+  }
+}

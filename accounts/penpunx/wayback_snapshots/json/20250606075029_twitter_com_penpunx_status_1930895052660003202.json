@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930895014852435968"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1930895052660003202",
+    "created_at": "2025-06-06T07:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T08:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930895052660003202"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t5YBHzVmxg",
+          "end": 31,
+          "expanded_url": "https://x.com/penpunx/status/1930895052660003202/photo/1",
+          "media_key": "3_1930895014852435968",
+          "start": 8,
+          "url": "https://t.co/t5YBHzVmxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930895052660003202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个熟度正好（ https://t.co/t5YBHzVmxg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930895014852435968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsvqySLaIAAtJmD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930895014852435968"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1930895052660003202",
+        "created_at": "2025-06-06T07:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T08:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930895052660003202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t5YBHzVmxg",
+              "end": 31,
+              "expanded_url": "https://x.com/penpunx/status/1930895052660003202/photo/1",
+              "media_key": "3_1930895014852435968",
+              "start": 8,
+              "url": "https://t.co/t5YBHzVmxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930895052660003202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个熟度正好（ https://t.co/t5YBHzVmxg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 205,
+          "like_count": 6123,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1384
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

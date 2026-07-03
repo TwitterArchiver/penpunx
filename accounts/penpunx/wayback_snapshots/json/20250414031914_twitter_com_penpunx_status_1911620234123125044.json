@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1911620234123125044",
+    "created_at": "2025-04-14T03:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T04:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911620234123125044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1675218273544151040",
+          "start": 3,
+          "username": "igor__priv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 145,
+          "start": 132,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911620234123125044",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911480865034510500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igor__priv: all this studying has got me so tired, why can't i just purr in someones lap all day like the catboy I am &gt;_&lt; https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2480,
+        "media_key": "3_1911480722533081088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GobxlvWXYAAypmt.jpg",
+        "width": 3507
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1911620234123125044",
+        "created_at": "2025-04-14T03:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T04:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911620234123125044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1675218273544151040",
+              "start": 3,
+              "username": "igor__priv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 145,
+              "start": 132,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911620234123125044",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911480865034510500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igor__priv: all this studying has got me so tired, why can't i just purr in someones lap all day like the catboy I am &gt;_&lt; https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911480722533081088"
+          ]
+        },
+        "author_id": "1675218273544151040",
+        "conversation_id": "1911480865034510500",
+        "created_at": "2025-04-13T18:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T19:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911480865034510500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kOssaxXe27",
+              "end": 139,
+              "expanded_url": "https://x.com/igor__priv/status/1911480865034510500/photo/1",
+              "media_key": "3_1911480722533081088",
+              "start": 116,
+              "url": "https://t.co/kOssaxXe27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911480865034510500",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1814,
+          "like_count": 151,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "all this studying has got me so tired, why can't i just purr in someones lap all day like the catboy I am &gt;_&lt; https://t.co/kOssaxXe27"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 173,
+          "like_count": 3634,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 842
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T19:02:23.000Z",
+        "description": "19 y/o kitty femboy switch from Poland",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/igor__priv",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/igor__priv",
+                "start": 0,
+                "url": "https://t.co/7yoxFpOE8p"
+              }
+            ]
+          }
+        },
+        "id": "1675218273544151040",
+        "location": "Kraków, Poland",
+        "name": "Igor",
+        "pinned_tweet_id": "1909226401456124300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872424352513146880/cMWLxA6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17150,
+          "following_count": 1081,
+          "like_count": 24118,
+          "listed_count": 25,
+          "media_count": 902,
+          "tweet_count": 5951
+        },
+        "url": "https://t.co/7yoxFpOE8p",
+        "username": "igor__priv",
+        "verified": true
+      }
+    ]
+  }
+}

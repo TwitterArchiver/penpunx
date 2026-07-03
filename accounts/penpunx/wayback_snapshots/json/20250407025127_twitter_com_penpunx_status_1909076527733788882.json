@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1908890088639181052",
+    "created_at": "2025-04-07T02:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T03:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909076527733788882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1282358959857438725",
+          "start": 0,
+          "username": "averageunixgirl"
+        },
+        {
+          "end": 27,
+          "id": "1698559074609377280",
+          "start": 17,
+          "username": "PhenicFox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909076527733788882",
+    "in_reply_to_user_id": "1282358959857438725",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909070621822136725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@averageunixgirl @PhenicFox This task a grueling one"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1908890088639181052",
+        "created_at": "2025-04-07T02:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T03:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909076527733788882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1282358959857438725",
+              "start": 0,
+              "username": "averageunixgirl"
+            },
+            {
+              "end": 27,
+              "id": "1698559074609377280",
+              "start": 17,
+              "username": "PhenicFox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909076527733788882",
+        "in_reply_to_user_id": "1282358959857438725",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909070621822136725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@averageunixgirl @PhenicFox This task a grueling one"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1282358959857438725",
+        "conversation_id": "1908890088639181052",
+        "created_at": "2025-04-07T02:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T03:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909070621822136725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1698559074609377280",
+              "start": 0,
+              "username": "PhenicFox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909070621822136725",
+        "in_reply_to_user_id": "1698559074609377280",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908890088639181052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PhenicFox SO WE BACK IN THE MINES SWINGING FROM SIDE TO SIDE SIDE SIDE TO SIDE."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / world of warcraft / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 159,
+          "like_count": 2725,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 742
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-12T16:59:47.000Z",
+        "description": "Hi, I'm Juliet I'm a electronics engineering nerd who is also into systems administration, ham radios, plants, metal music, old ass computers and more.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/HejDP24Nk3",
+                "end": 23,
+                "expanded_url": "https://discord.gg/HejDP24Nk3",
+                "start": 0,
+                "url": "https://t.co/uYIhAZUDsH"
+              }
+            ]
+          }
+        },
+        "id": "1282358959857438725",
+        "location": "no",
+        "name": "AverageUnixGirl",
+        "pinned_tweet_id": "1892099823848784243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908967279338848256/EVM0HG9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 747,
+          "like_count": 578,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 908
+        },
+        "url": "https://t.co/uYIhAZUDsH",
+        "username": "averageunixgirl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-04T04:50:30.000Z",
+        "description": "Silly fox guy & dogboy ‼️ He/him ꩜ 🦴 Therian & Kemonomimi 🏳️‍🌈🇬🇺 (SFW) ★",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/PhenicFox",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/PhenicFox",
+                "start": 0,
+                "url": "https://t.co/2l9JI0kIsj"
+              }
+            ]
+          }
+        },
+        "id": "1698559074609377280",
+        "location": "Zoos and proshippers DNI",
+        "name": "Phenic ★ 🐾",
+        "pinned_tweet_id": "1877627674845425799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877065831013912576/WqWox6cP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10620,
+          "following_count": 45,
+          "like_count": 3534,
+          "listed_count": 7,
+          "media_count": 324,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/2l9JI0kIsj",
+        "username": "PhenicFox",
+        "verified": false
+      }
+    ]
+  }
+}

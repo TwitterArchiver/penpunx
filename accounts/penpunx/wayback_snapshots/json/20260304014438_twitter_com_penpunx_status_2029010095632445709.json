@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2029010095632445709",
+    "created_at": "2026-03-04T01:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T02:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029010095632445709"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029010095632445709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这半个学期艺术课讲电影\n我感觉最早的那些电影（比如《火车进站》）有钢琴配乐，虽然没有什么剧情但是可以感到某种vibe，我喜欢这种，比好莱坞大片更容易被我接受\n我想起去年十月看《刺猬的优雅》，也许现在看会有很不一样的感觉吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2029010095632445709",
+        "created_at": "2026-03-04T01:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T02:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029010095632445709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029010095632445709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这半个学期艺术课讲电影\n我感觉最早的那些电影（比如《火车进站》）有钢琴配乐，虽然没有什么剧情但是可以感到某种vibe，我喜欢这种，比好莱坞大片更容易被我接受\n我想起去年十月看《刺猬的优雅》，也许现在看会有很不一样的感觉吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 330,
+          "like_count": 11208,
+          "listed_count": 1,
+          "media_count": 407,
+          "tweet_count": 3157
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

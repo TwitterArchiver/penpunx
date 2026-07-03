@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1910228397613310310",
+    "created_at": "2025-04-10T09:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T10:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910267568926966240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1637043124248928256",
+          "start": 0,
+          "username": "god_afternon"
+        },
+        {
+          "end": 21,
+          "id": "86647812",
+          "start": 14,
+          "username": "Ga__ke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910267568926966240",
+    "in_reply_to_user_id": "1637043124248928256",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910261949725884557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@god_afternon @Ga__ke non"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1910228397613310310",
+        "created_at": "2025-04-10T09:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T10:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910267568926966240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1637043124248928256",
+              "start": 0,
+              "username": "god_afternon"
+            },
+            {
+              "end": 21,
+              "id": "86647812",
+              "start": 14,
+              "username": "Ga__ke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910267568926966240",
+        "in_reply_to_user_id": "1637043124248928256",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910261949725884557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@god_afternon @Ga__ke non"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637043124248928256",
+        "conversation_id": "1910228397613310310",
+        "created_at": "2025-04-10T09:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T10:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910261949725884557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "86647812",
+              "start": 0,
+              "username": "Ga__ke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910261949725884557",
+        "in_reply_to_user_id": "86647812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910228397613310310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ga__ke 什么事。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / world of warcraft / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 165,
+          "like_count": 3154,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 789
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T10:48:11.000Z",
+        "description": "你的反应像蛞蝓一样慢，你需要再快一些。",
+        "id": "1637043124248928256",
+        "name": "𝖆𝖋𝖙𝖊𝖗𝖓𝖔𝖓",
+        "pinned_tweet_id": "1904365772505551044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906686738015424512/h_VuvP6s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 2101,
+          "like_count": 3861,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 146
+        },
+        "username": "god_afternon",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-01T02:46:00.000Z",
+        "description": "For Collabs only!: https://t.co/bEWngPU6fE | No paid token deals. vector: https://t.co/s6CLSU6OU7 | gmgn: https://t.co/cOu6xDBtci",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/teamgake",
+                "end": 42,
+                "expanded_url": "https://t.me/teamgake",
+                "start": 19,
+                "url": "https://t.co/bEWngPU6fE"
+              },
+              {
+                "display_url": "vec.fun/ref/Ga__ke",
+                "end": 97,
+                "expanded_url": "https://vec.fun/ref/Ga__ke",
+                "start": 74,
+                "url": "https://t.co/s6CLSU6OU7"
+              },
+              {
+                "display_url": "gmgn.ai/?ref=jyBgpHBn&…",
+                "end": 129,
+                "expanded_url": "https://gmgn.ai/?ref=jyBgpHBn&chain=sol",
+                "start": 106,
+                "url": "https://t.co/cOu6xDBtci"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/GakesBakes",
+                "end": 23,
+                "expanded_url": "https://t.me/GakesBakes",
+                "start": 0,
+                "url": "https://t.co/k1fJHw03v9"
+              }
+            ]
+          }
+        },
+        "id": "86647812",
+        "location": "Albemarle, NC",
+        "name": "gake",
+        "pinned_tweet_id": "1898941696144252930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905037316126814208/ttShJsww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81481,
+          "following_count": 4786,
+          "like_count": 13611,
+          "listed_count": 1355,
+          "media_count": 1603,
+          "tweet_count": 20428
+        },
+        "url": "https://t.co/k1fJHw03v9",
+        "username": "Ga__ke",
+        "verified": true
+      }
+    ]
+  }
+}

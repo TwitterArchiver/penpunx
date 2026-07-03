@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2070485316415410622",
+    "created_at": "2026-06-27T01:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T02:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070679791943221452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2052994836266196992",
+          "start": 0,
+          "username": "Nanwhju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070679791943221452",
+    "in_reply_to_user_id": "2052994836266196992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070677920927084737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nanwhju 日用的，不o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2070485316415410622",
+        "created_at": "2026-06-27T01:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070679791943221452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2052994836266196992",
+              "start": 0,
+              "username": "Nanwhju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070679791943221452",
+        "in_reply_to_user_id": "2052994836266196992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070677920927084737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nanwhju 日用的，不o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052994836266196992",
+        "conversation_id": "2070485316415410622",
+        "created_at": "2026-06-27T01:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070677920927084737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070677920927084737",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070675114715472269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 内脏负担太大了，欣愉方式很多，换个产品吧/"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 592,
+          "like_count": 14245,
+          "listed_count": 1,
+          "media_count": 704,
+          "tweet_count": 5693
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T06:11:46.000Z",
+        "description": "楠教授三世：https://t.co/RgOC6C06xC\n\n飞机信息专人回复，推特私信一般不会",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/anan995555",
+                "end": 29,
+                "expanded_url": "https://t.me/anan995555",
+                "start": 6,
+                "url": "https://t.co/RgOC6C06xC"
+              }
+            ]
+          }
+        },
+        "id": "2052994836266196992",
+        "location": "专注一款产品",
+        "name": "分享4-ho-met不好体验//jiel全网倡议禁止阿片类",
+        "pinned_tweet_id": "2057661451872125082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053016318086201344/0a8jdtk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 272,
+          "like_count": 776,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "Nanwhju",
+        "verified": false
+      }
+    ]
+  }
+}

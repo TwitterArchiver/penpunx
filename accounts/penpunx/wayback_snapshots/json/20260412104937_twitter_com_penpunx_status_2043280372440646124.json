@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2042095144246374771",
+    "created_at": "2026-04-12T10:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T11:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043280372440646124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804344378338480128",
+          "start": 0,
+          "username": "Acmduemsks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043280372440646124",
+    "in_reply_to_user_id": "1804344378338480128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042095144246374771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Acmduemsks 过于熟悉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2042095131290169344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFb6s9Ia8AAhXMX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2042095144246374771",
+        "created_at": "2026-04-12T10:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043280372440646124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804344378338480128",
+              "start": 0,
+              "username": "Acmduemsks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043280372440646124",
+        "in_reply_to_user_id": "1804344378338480128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042095144246374771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Acmduemsks 过于熟悉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042095131290169344"
+          ]
+        },
+        "author_id": "1804344378338480128",
+        "conversation_id": "2042095144246374771",
+        "created_at": "2026-04-09T04:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042095144246374771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ksGXHgGbLY",
+              "end": 23,
+              "expanded_url": "https://x.com/Acmduemsks/status/2042095144246374771/photo/1",
+              "media_key": "3_2042095131290169344",
+              "start": 0,
+              "url": "https://t.co/ksGXHgGbLY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042095144246374771",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "https://t.co/ksGXHgGbLY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2043276472291594369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 398,
+          "like_count": 11906,
+          "listed_count": 1,
+          "media_count": 454,
+          "tweet_count": 3646
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T02:43:37.000Z",
+        "description": "我爱在天钥桥路1号吃徐家汇餐厅麦当劳\n这是好猫猫@maoxian1527｜好朋友@aoi4uto Haskell GHC2024标准上瘾中。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "aoi4uto"
+              }
+            ]
+          }
+        },
+        "id": "1804344378338480128",
+        "name": "我爱食麦当劳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003451815254200320/byqlIGkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 346,
+          "like_count": 4475,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1707
+        },
+        "username": "Acmduemsks",
+        "verified": true
+      }
+    ]
+  }
+}

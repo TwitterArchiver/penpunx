@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1916117937863463386",
+    "created_at": "2025-04-26T13:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T14:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916119271530287152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902297181157257218",
+          "start": 0,
+          "username": "transmasculine0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916119271530287152",
+    "in_reply_to_user_id": "1902297181157257218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916117937863463386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@transmasculine0 但是bro没这么帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1053,
+        "media_key": "3_1916117929911005184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpdrGvAaMAAMlQm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1916117937863463386",
+        "created_at": "2025-04-26T13:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T14:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916119271530287152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902297181157257218",
+              "start": 0,
+              "username": "transmasculine0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916119271530287152",
+        "in_reply_to_user_id": "1902297181157257218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916117937863463386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@transmasculine0 但是bro没这么帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916117929911005184"
+          ]
+        },
+        "author_id": "1902297181157257218",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1916117937863463386",
+        "created_at": "2025-04-26T13:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T14:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916117937863463386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B1G6hFVmnq",
+              "end": 33,
+              "expanded_url": "https://x.com/transmasculine0/status/1916117937863463386/photo/1",
+              "media_key": "3_1916117929911005184",
+              "start": 10,
+              "url": "https://t.co/B1G6hFVmnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916117937863463386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但是bro没这么帅 https://t.co/B1G6hFVmnq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 189,
+          "like_count": 4854,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1045
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T09:52:52.000Z",
+        "description": "天残党ftm/反女权terf/m/不搞自残od门槛，LGBTQIA友好。匿名投稿箱https://t.co/9P42hW6Mdr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/transmasculine0",
+                "end": 64,
+                "expanded_url": "https://ngl.link/transmasculine0",
+                "start": 41,
+                "url": "https://t.co/9P42hW6Mdr"
+              }
+            ]
+          }
+        },
+        "id": "1902297181157257218",
+        "location": "长沙",
+        "name": "葵矢枢🏳️‍⚧️",
+        "pinned_tweet_id": "1906635624133939204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904354983451168768/2Ta31U7V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 83,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 89
+        },
+        "username": "transmasculine0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2013929922994012661",
+    "created_at": "2026-01-21T11:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T12:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013929922994012661"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2013929922994012661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我又在幻想了，我幻想自己很厉害赚了很多钱过上了幸福充实自由的生活，于是人们都说treni很厉害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2013929922994012661",
+        "created_at": "2026-01-21T11:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013929922994012661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013929922994012661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又在幻想了，我幻想自己很厉害赚了很多钱过上了幸福充实自由的生活，于是人们都说treni很厉害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2012869391504023900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 296,
+          "like_count": 10386,
+          "listed_count": 1,
+          "media_count": 373,
+          "tweet_count": 2755
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

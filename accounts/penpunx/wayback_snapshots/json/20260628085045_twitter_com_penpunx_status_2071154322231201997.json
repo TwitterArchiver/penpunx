@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2071074021043831285",
+    "created_at": "2026-06-28T08:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071154322231201997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1542020482387456001",
+          "start": 0,
+          "username": "ki_3ri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071154322231201997",
+    "in_reply_to_user_id": "1542020482387456001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071074021043831285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ki_3ri 没绷住（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2071073998671409153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3u1CpbcAEtiIL.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2071074021043831285",
+        "created_at": "2026-06-28T08:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071154322231201997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1542020482387456001",
+              "start": 0,
+              "username": "ki_3ri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071154322231201997",
+        "in_reply_to_user_id": "1542020482387456001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071074021043831285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ki_3ri 没绷住（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071073998671409153"
+          ]
+        },
+        "author_id": "1542020482387456001",
+        "conversation_id": "2071074021043831285",
+        "created_at": "2026-06-28T03:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T04:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071074021043831285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M27tVzmXVF",
+              "end": 35,
+              "expanded_url": "https://x.com/ki_3ri/status/2071074021043831285/photo/1",
+              "media_key": "3_2071073998671409153",
+              "start": 12,
+              "url": "https://t.co/M27tVzmXVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071074021043831285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 514,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个弹孔的设计是天才的 https://t.co/M27tVzmXVF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 597,
+          "like_count": 14317,
+          "listed_count": 1,
+          "media_count": 710,
+          "tweet_count": 5751
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-29T05:42:03.000Z",
+        "description": "FtX｜Demiboy｜ASD\nHe/They\n我不擅长说话，听不懂人说话，我不知道我在干什么！\n查成分互fo",
+        "id": "1542020482387456001",
+        "name": "羊毛球🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062461350098702336/0Ci-o4UC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 281,
+          "like_count": 6968,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 680
+        },
+        "url": "",
+        "username": "ki_3ri",
+        "verified": false
+      }
+    ]
+  }
+}

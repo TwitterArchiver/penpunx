@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1931366758218346635",
+    "created_at": "2025-06-07T15:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T16:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931371676798709906"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931371676798709906",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931370582798684238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哪怕知道没有家人的感觉不是自己的问题，看到别人会想念自己的血亲或者要回老家还是会难过。我可以脑补那是什么样的情感体验，但对于我自己这是一片空白。\n如果以后我的新家人要回老家，我可能一个人不知道该做些什么。但是好好陪一陪辛苦了这么多年的自己也很有意义呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1931366758218346635",
+        "created_at": "2025-06-07T15:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T16:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931371676798709906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931371676798709906",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931370582798684238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哪怕知道没有家人的感觉不是自己的问题，看到别人会想念自己的血亲或者要回老家还是会难过。我可以脑补那是什么样的情感体验，但对于我自己这是一片空白。\n如果以后我的新家人要回老家，我可能一个人不知道该做些什么。但是好好陪一陪辛苦了这么多年的自己也很有意义呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1931366758218346635",
+        "created_at": "2025-06-07T15:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T16:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931370582798684238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931370582798684238",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931366758218346635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一点也不怀念小时候和父母在一起的时光，可能玩电脑和上网还有一点点怀念吧\n有的时候做梦梦到还是会觉得很恶心\n幼儿园的时候每周末都要听英语课文然后当场翻译或者要背单词，当时一到周末就肠胃很紧张，会咬手指什么的（到现在还有这个习惯），如果表现不好还会被惩罚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 206,
+          "like_count": 6136,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1392
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

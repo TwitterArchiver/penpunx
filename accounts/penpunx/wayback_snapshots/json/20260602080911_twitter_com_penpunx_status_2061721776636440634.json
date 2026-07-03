@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1511323041464168451",
+          "name": "Graduation 2022"
+        }
+      }
+    ],
+    "conversation_id": "2061721776636440634",
+    "created_at": "2026-06-02T08:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T09:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061721776636440634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1561039797489131521",
+          "start": 3,
+          "username": "oe_madu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061721776636440634",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 344
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061460972368228789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oe_madu: as vezes eu tenho vontade de desistir da graduação, enfiar meus 10 dedos da mão no cu e me rasgar no meio"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "2061721776636440634",
+        "created_at": "2026-06-02T08:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061721776636440634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1561039797489131521",
+              "start": 3,
+              "username": "oe_madu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061721776636440634",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 344
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061460972368228789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oe_madu: as vezes eu tenho vontade de desistir da graduação, enfiar meus 10 dedos da mão no cu e me rasgar no meio"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561039797489131521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "2061460972368228789",
+        "created_at": "2026-06-01T14:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061460972368228789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061460972368228789",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 50824,
+          "like_count": 1672,
+          "quote_count": 40,
+          "reply_count": 107,
+          "retweet_count": 344
+        },
+        "reply_settings": "everyone",
+        "text": "as vezes eu tenho vontade de desistir da graduação, enfiar meus 10 dedos da mão no cu e me rasgar no meio"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱",
+        "id": "1896904934995656704",
+        "name": "天",
+        "pinned_tweet_id": "2060383283750510858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060765626717933568/2wiuiD_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 557,
+          "like_count": 13562,
+          "listed_count": 1,
+          "media_count": 564,
+          "tweet_count": 4908
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T17:18:50.000Z",
+        "description": "detestable, but these hearts adore • história | UFSC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/madu.pereira",
+                "end": 23,
+                "expanded_url": "http://instagram.com/madu.pereira",
+                "start": 0,
+                "url": "https://t.co/MpypJj9VIY"
+              }
+            ]
+          }
+        },
+        "id": "1561039797489131521",
+        "location": "ele/elu/ela",
+        "name": "madu ⛥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055111732285112321/QmyZAvep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 307,
+          "like_count": 29388,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 2744
+        },
+        "url": "https://t.co/MpypJj9VIY",
+        "username": "oe_madu",
+        "verified": false
+      }
+    ]
+  }
+}

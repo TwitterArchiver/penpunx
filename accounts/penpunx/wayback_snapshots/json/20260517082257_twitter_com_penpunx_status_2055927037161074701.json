@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1824288577162973683",
+    "created_at": "2026-05-17T08:22:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T09:22:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055927037161074701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1492808050461196288",
+          "start": 0,
+          "username": "Breaking_Lead_G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055927037161074701",
+    "in_reply_to_user_id": "1492808050461196288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824288577162973683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Breaking_Lead_G 有说法是音乐是古人类吃了致幻植物发展出来的。昨天快睡着时脑内亦有即兴音乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1824288577162973683",
+        "created_at": "2026-05-17T08:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055927037161074701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492808050461196288",
+              "start": 0,
+              "username": "Breaking_Lead_G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055927037161074701",
+        "in_reply_to_user_id": "1492808050461196288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824288577162973683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Breaking_Lead_G 有说法是音乐是古人类吃了致幻植物发展出来的。昨天快睡着时脑内亦有即兴音乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492808050461196288",
+        "conversation_id": "1824288577162973683",
+        "created_at": "2024-08-16T03:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T04:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824288577162973683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1824288577162973683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所有的艺术，除了音乐之外，都依赖于自然和现实所反映的思想。大自然赋予了艺术各种风格。艺术就是模仿，通过文字，颜色或形式的模仿……只有音乐是不一样的。从实质上讲，音乐和自然界之间没有明确的思想联系……我们人类应该对音乐的发展比其他艺术更感到自豪。\n\n《Harmony》Schenker"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 532,
+          "like_count": 13398,
+          "listed_count": 1,
+          "media_count": 522,
+          "tweet_count": 4639
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T10:29:22.000Z",
+        "description": "我愛 函數式編程 古典音樂 中古漢語 魔法 @10lulu2\n我恨 數學分析 實分析 傅裡葉分析 泛函分析 精神分析 犯愁論！\n拒絕承認一切精神疾病，包括器質性病變。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "10lulu2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lmgtfy.com",
+                "end": 23,
+                "expanded_url": "http://lmgtfy.com",
+                "start": 0,
+                "url": "https://t.co/ZJLsEbzS7P"
+              }
+            ]
+          }
+        },
+        "id": "1492808050461196288",
+        "location": "Xi'an",
+        "name": "千、月",
+        "pinned_tweet_id": "2051609059468652938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050418708611571712/-6VIffCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 737,
+          "like_count": 1806,
+          "listed_count": 8,
+          "media_count": 847,
+          "tweet_count": 9940
+        },
+        "url": "https://t.co/ZJLsEbzS7P",
+        "username": "Breaking_Lead_G",
+        "verified": false
+      }
+    ]
+  }
+}

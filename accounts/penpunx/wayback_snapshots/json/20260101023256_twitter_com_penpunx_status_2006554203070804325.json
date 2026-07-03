@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2006253051167089062",
+    "created_at": "2026-01-01T02:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T03:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006554203070804325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1505242176560656386",
+          "start": 0,
+          "username": "ia0001_"
+        },
+        {
+          "end": 20,
+          "id": "1580567959881150464",
+          "start": 9,
+          "username": "Lanshan_L1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006554203070804325",
+    "in_reply_to_user_id": "1505242176560656386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006277542802825272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ia0001_ @Lanshan_L1 我最喜的咖啡就是橙汁美式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2006253051167089062",
+        "created_at": "2026-01-01T02:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T03:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006554203070804325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1505242176560656386",
+              "start": 0,
+              "username": "ia0001_"
+            },
+            {
+              "end": 20,
+              "id": "1580567959881150464",
+              "start": 9,
+              "username": "Lanshan_L1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006554203070804325",
+        "in_reply_to_user_id": "1505242176560656386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006277542802825272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ia0001_ @Lanshan_L1 我最喜的咖啡就是橙汁美式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505242176560656386",
+        "conversation_id": "2006253051167089062",
+        "created_at": "2025-12-31T08:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T09:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006277542802825272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1580567959881150464",
+              "start": 0,
+              "username": "Lanshan_L1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006277542802825272",
+        "in_reply_to_user_id": "1580567959881150464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006276012305522703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lanshan_L1 我第一次喝就觉得有种似曾相识的味道，好像晕车时候品尝到过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975082924950310912/JRet2r2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 274,
+          "like_count": 9965,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 2544
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T17:58:09.000Z",
+        "description": "",
+        "id": "1505242176560656386",
+        "name": "ia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867013851029606400/A9xjdc2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 258,
+          "like_count": 39397,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 6647
+        },
+        "username": "ia0001_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T14:35:48.000Z",
+        "description": "一个人地久天长",
+        "id": "1580567959881150464",
+        "name": "铁魂",
+        "pinned_tweet_id": "1980674522694242344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998315967965962240/v7r_GGZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 976,
+          "like_count": 57879,
+          "listed_count": 5,
+          "media_count": 856,
+          "tweet_count": 13202
+        },
+        "username": "Lanshan_L1",
+        "verified": false
+      }
+    ]
+  }
+}

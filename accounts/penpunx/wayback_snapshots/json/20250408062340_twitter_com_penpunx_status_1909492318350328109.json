@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1909426326584672483",
+    "created_at": "2025-04-08T06:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T07:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909492318350328109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841093178268794881",
+          "start": 0,
+          "username": "FolioFolii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909492318350328109",
+    "in_reply_to_user_id": "1841093178268794881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909487849566880244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FolioFolii 其实是都不太好。上学期数学老师讲评卷子的时候说“你们上课睡觉，考试不会做，讲评又不听，考得又不如别的班，这三年就进入垃圾时间了。”我们班有人觉得是老师教得不好导致的，有一次在老师进门的时候大喊“垃圾时间到！”，被老师赶了出去。之后这个梗作为自嘲和一丝反抗流传开来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1909426326584672483",
+        "created_at": "2025-04-08T06:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T07:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909492318350328109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841093178268794881",
+              "start": 0,
+              "username": "FolioFolii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909492318350328109",
+        "in_reply_to_user_id": "1841093178268794881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909487849566880244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FolioFolii 其实是都不太好。上学期数学老师讲评卷子的时候说“你们上课睡觉，考试不会做，讲评又不听，考得又不如别的班，这三年就进入垃圾时间了。”我们班有人觉得是老师教得不好导致的，有一次在老师进门的时候大喊“垃圾时间到！”，被老师赶了出去。之后这个梗作为自嘲和一丝反抗流传开来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841093178268794881",
+        "conversation_id": "1909426326584672483",
+        "created_at": "2025-04-08T06:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T07:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909487849566880244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909487849566880244",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909426326584672483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 因为数学都很好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / world of warcraft / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 162,
+          "like_count": 2852,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 761
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:30:02.000Z",
+        "description": "to leave or two leaves",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.163.com/playlist?id=12…",
+                "end": 23,
+                "expanded_url": "https://music.163.com/playlist?id=12841476038",
+                "start": 0,
+                "url": "https://t.co/24BSOOJhZ7"
+              }
+            ]
+          }
+        },
+        "id": "1841093178268794881",
+        "location": "now here",
+        "name": "Felinoid...",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906819927773970432/-cjfXPb8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 31,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1365
+        },
+        "url": "https://t.co/24BSOOJhZ7",
+        "username": "FolioFolii",
+        "verified": false
+      }
+    ]
+  }
+}

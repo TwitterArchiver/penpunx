@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2064994955849048468",
+    "created_at": "2026-06-11T13:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T14:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065057181393985660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1733139095352918016",
+          "start": 0,
+          "username": "aoi4uto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065057181393985660",
+    "in_reply_to_user_id": "1733139095352918016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064994955849048468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoi4uto 我几乎很少说脏话现实中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2064994955849048468",
+        "created_at": "2026-06-11T13:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065057181393985660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1733139095352918016",
+              "start": 0,
+              "username": "aoi4uto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065057181393985660",
+        "in_reply_to_user_id": "1733139095352918016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064994955849048468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoi4uto 我几乎很少说脏话现实中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733139095352918016",
+        "conversation_id": "2064994955849048468",
+        "created_at": "2026-06-11T08:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064994955849048468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064994955849048468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望抛开太严肃的东西，用趣味性的眼光看待。\n前两天凌晨可能复习出走马灯了真被赐予了一个梦，搁nyu学戏剧去了，和一个向往的前辈成为了室友。她则去读了stem相关。相熟后我问她，有什么是我需要改进的？\n“不要碰到不合你心意的事就说脏话，”她平淡地说，“在心里说也最好不要。”我笑了，然后我醒了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱，月亮。",
+        "id": "1896904934995656704",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 564,
+          "like_count": 13694,
+          "listed_count": 1,
+          "media_count": 610,
+          "tweet_count": 5086
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T14:59:03.000Z",
+        "description": "All their prejudices. All their passions. Their local interests and selfish views. And yet, we'll be fine.\n神经多样性｜不良嗜好｜回关各类学生\n亲友@Acmduemsks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 127,
+                "username": "Acmduemsks"
+              }
+            ]
+          }
+        },
+        "id": "1733139095352918016",
+        "location": "午夜沙发电视",
+        "name": "噪点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064774533496877056/x1tA81WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 644,
+          "like_count": 59447,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 8903
+        },
+        "username": "aoi4uto",
+        "verified": false
+      }
+    ]
+  }
+}

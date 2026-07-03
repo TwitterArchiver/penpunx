@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2043600532456284422",
+    "created_at": "2026-04-14T00:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T01:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043855629727740246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1849183768445353984",
+          "start": 0,
+          "username": "B17w153"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043855629727740246",
+    "in_reply_to_user_id": "1849183768445353984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043835508095365292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B17w153 卖的都是非列管的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2043600532456284422",
+        "created_at": "2026-04-14T00:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T01:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043855629727740246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1849183768445353984",
+              "start": 0,
+              "username": "B17w153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043855629727740246",
+        "in_reply_to_user_id": "1849183768445353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043835508095365292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B17w153 卖的都是非列管的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849183768445353984",
+        "conversation_id": "2043600532456284422",
+        "created_at": "2026-04-13T23:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T00:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043835508095365292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043835508095365292",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043600532456284422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 这是一个深渊，个人卖这个最后的归宿最低是非法经营"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 412,
+          "like_count": 11978,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 3682
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T20:19:21.000Z",
+        "description": "c'est la vie 09.16.23 apocalypse",
+        "id": "1849183768445353984",
+        "name": "B17w153",
+        "pinned_tweet_id": "2042339214084452352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917862637607718912/s4EWT3Mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 180,
+          "like_count": 513,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 471
+        },
+        "username": "B17w153",
+        "verified": false
+      }
+    ]
+  }
+}

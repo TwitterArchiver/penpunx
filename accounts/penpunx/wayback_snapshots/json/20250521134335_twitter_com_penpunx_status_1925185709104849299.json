@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1925185709104849299",
+    "created_at": "2025-05-21T13:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T14:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925185709104849299"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/penpunx/status/1925179277441708132",
+          "start": 44,
+          "url": "https://t.co/mDqwKdePy9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925185709104849299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925179277441708132",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还好，困扰我半年多的电脑问题解决了，还明白了为什么制造焦虑可以吸引粉丝，非常充实的晚上 https://t.co/mDqwKdePy9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1925185709104849299",
+        "created_at": "2025-05-21T13:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T14:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925185709104849299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/penpunx/status/1925179277441708132",
+              "start": 44,
+              "url": "https://t.co/mDqwKdePy9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925185709104849299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925179277441708132",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还好，困扰我半年多的电脑问题解决了，还明白了为什么制造焦虑可以吸引粉丝，非常充实的晚上 https://t.co/mDqwKdePy9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1925179277441708132",
+        "created_at": "2025-05-21T13:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T14:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925179277441708132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925179277441708132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有种忙了一晚上什么也没做成的感觉.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo neurodivergent guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 204,
+          "like_count": 5848,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1282
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

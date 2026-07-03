@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2049249424547909717",
+    "created_at": "2026-04-29T09:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049414939841094118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1505242176560656386",
+          "start": 0,
+          "username": "ia0001_"
+        },
+        {
+          "end": 20,
+          "id": "1623285210090721281",
+          "start": 9,
+          "username": "yokosu_kaz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049414939841094118",
+    "in_reply_to_user_id": "1505242176560656386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049296966266576946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ia0001_ @yokosu_kaz 前几天还30度☠️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2049249424547909717",
+        "created_at": "2026-04-29T09:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049414939841094118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1505242176560656386",
+              "start": 0,
+              "username": "ia0001_"
+            },
+            {
+              "end": 20,
+              "id": "1623285210090721281",
+              "start": 9,
+              "username": "yokosu_kaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049414939841094118",
+        "in_reply_to_user_id": "1505242176560656386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049296966266576946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ia0001_ @yokosu_kaz 前几天还30度☠️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505242176560656386",
+        "conversation_id": "2049249424547909717",
+        "created_at": "2026-04-29T01:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049296966266576946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1623285210090721281",
+              "start": 0,
+              "username": "yokosu_kaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049296966266576946",
+        "in_reply_to_user_id": "1623285210090721281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049249424547909717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yokosu_kaz 晕了，一天掉 8 度谁顶得住啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 446,
+          "like_count": 12288,
+          "listed_count": 1,
+          "media_count": 469,
+          "tweet_count": 3925
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T17:58:09.000Z",
+        "description": "the flip side @4pinkmatter",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "4pinkmatter"
+              }
+            ]
+          }
+        },
+        "id": "1505242176560656386",
+        "name": "ia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867013851029606400/A9xjdc2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 373,
+          "like_count": 54304,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 9246
+        },
+        "username": "ia0001_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-08T11:38:56.000Z",
+        "description": "希望可以活到跟恋人结婚",
+        "id": "1623285210090721281",
+        "location": "日本",
+        "name": "𝐘𝐨𝐤𝐨𝐬𝐮𝐤𝐚𝐳⌫",
+        "pinned_tweet_id": "2026846017375920145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000027078994055168/uumY62GN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2142,
+          "following_count": 140,
+          "like_count": 28000,
+          "listed_count": 3,
+          "media_count": 852,
+          "tweet_count": 11739
+        },
+        "username": "yokosu_kaz",
+        "verified": false
+      }
+    ]
+  }
+}

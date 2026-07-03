@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2069400007426630042",
+    "created_at": "2026-06-23T12:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069400269683826963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1476198137589268480",
+          "start": 0,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069400269683826963",
+    "in_reply_to_user_id": "1476198137589268480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069400007426630042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N3kuv 福瑞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2069399989424726016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLf8U4PboAAYx3V.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2069400007426630042",
+        "created_at": "2026-06-23T12:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069400269683826963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1476198137589268480",
+              "start": 0,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069400269683826963",
+        "in_reply_to_user_id": "1476198137589268480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069400007426630042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3kuv 福瑞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069399989424726016"
+          ]
+        },
+        "author_id": "1476198137589268480",
+        "conversation_id": "2069400007426630042",
+        "created_at": "2026-06-23T12:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069400007426630042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TXDBBeAvMZ",
+              "end": 30,
+              "expanded_url": "https://x.com/N3kuv/status/2069400007426630042/photo/1",
+              "media_key": "3_2069399989424726016",
+              "start": 7,
+              "url": "https://t.co/TXDBBeAvMZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069400007426630042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和我的伙计 https://t.co/TXDBBeAvMZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 585,
+          "like_count": 14062,
+          "listed_count": 1,
+          "media_count": 678,
+          "tweet_count": 5490
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "既往不咎/伴有精神病性症状的重度抑郁发作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekocaline",
+                "end": 23,
+                "expanded_url": "https://t.me/nekocaline",
+                "start": 0,
+                "url": "https://t.co/y3ZllgnZVb"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "name": "分享4-keto-PCP不好体验",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068637245763174400/reRLmemx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 472,
+          "like_count": 5218,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 367
+        },
+        "url": "https://t.co/y3ZllgnZVb",
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

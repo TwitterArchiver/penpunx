@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2028073703620382914",
+    "created_at": "2026-03-01T11:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T12:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028075114752098747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841093178268794881",
+          "start": 0,
+          "username": "idle_beaver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028075114752098747",
+    "in_reply_to_user_id": "1841093178268794881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028073703620382914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idle_beaver 的确是如此轻易，在我的看法中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2028073703620382914",
+        "created_at": "2026-03-01T11:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T12:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028075114752098747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841093178268794881",
+              "start": 0,
+              "username": "idle_beaver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028075114752098747",
+        "in_reply_to_user_id": "1841093178268794881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028073703620382914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idle_beaver 的确是如此轻易，在我的看法中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841093178268794881",
+        "conversation_id": "2028073703620382914",
+        "created_at": "2026-03-01T11:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T12:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028073703620382914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/idle_beaver/st…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/idle_beaver/status/2028069667168977280",
+              "start": 66,
+              "url": "https://t.co/zSP6PjaPwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028073703620382914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028069667168977280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "存在的意义是自己赋予的，但居然可以以这么轻易的方式吗？还是说「是」并非一种意义呢？being说的是一种本质吧，它不总是伴随着意义。 https://t.co/zSP6PjaPwd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 328,
+          "like_count": 11166,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 3136
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:30:02.000Z",
+        "description": "aroace agender audhd / dissociatist / email: u@uhio.uk",
+        "id": "1841093178268794881",
+        "location": "now here",
+        "name": "ne",
+        "pinned_tweet_id": "2016108859497316560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014953111018995716/b08b8vYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 29,
+          "like_count": 5320,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 94
+        },
+        "username": "idle_beaver",
+        "verified": false
+      }
+    ]
+  }
+}

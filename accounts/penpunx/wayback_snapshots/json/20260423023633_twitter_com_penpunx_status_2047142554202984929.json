@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2047089190224199732",
+    "created_at": "2026-04-23T02:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T03:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047142554202984929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1782303137136852992",
+          "start": 0,
+          "username": "h1zh816060"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047142554202984929",
+    "in_reply_to_user_id": "1782303137136852992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047123226472624367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h1zh816060 说点大家不想要的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2047089190224199732",
+        "created_at": "2026-04-23T02:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047142554202984929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1782303137136852992",
+              "start": 0,
+              "username": "h1zh816060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047142554202984929",
+        "in_reply_to_user_id": "1782303137136852992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047123226472624367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h1zh816060 说点大家不想要的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782303137136852992",
+        "conversation_id": "2047089190224199732",
+        "created_at": "2026-04-23T01:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T02:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047123226472624367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047123226472624367",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047089190224199732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 我也要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 427,
+          "like_count": 12191,
+          "listed_count": 1,
+          "media_count": 461,
+          "tweet_count": 3841
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T06:59:28.000Z",
+        "description": "是个牛逼超级双双双向INFP-T音乐制作人/DJ/下北沢传奇吉他手(勉強中😉\n化学试剂经销商，可私信询问物质CAS号［重要提醒：所有物质均仅限科研，严禁用于人体］",
+        "id": "1782303137136852992",
+        "location": "Suginami-ku, Tokyo",
+        "name": "一澤子",
+        "pinned_tweet_id": "2035385903506759842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041814931683848192/zcl-cu0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 96,
+          "like_count": 1008,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 434
+        },
+        "username": "h1zh816060",
+        "verified": false
+      }
+    ]
+  }
+}

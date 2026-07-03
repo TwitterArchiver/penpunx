@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2030699093996261673",
+    "created_at": "2026-03-09T14:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T15:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031017634553327723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2009074459970555905",
+          "start": 0,
+          "username": "nylvim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031017634553327723",
+    "in_reply_to_user_id": "2009074459970555905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030699093996261673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nylvim 我能接受含服pr但绝对不能接受含服茶氨酸，茶氨酸太难吃了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2030699093996261673",
+        "created_at": "2026-03-09T14:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031017634553327723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2009074459970555905",
+              "start": 0,
+              "username": "nylvim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031017634553327723",
+        "in_reply_to_user_id": "2009074459970555905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030699093996261673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nylvim 我能接受含服pr但绝对不能接受含服茶氨酸，茶氨酸太难吃了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009074459970555905",
+        "conversation_id": "2030699093996261673",
+        "created_at": "2026-03-08T17:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T18:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030699093996261673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030699093996261673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了睡好觉再补了150mg，今天总共750mg，又od了，不好！还是试试茶氨酸吧TT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 348,
+          "like_count": 11332,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 3222
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T01:27:44.000Z",
+        "description": "解离症患者，大概吧，",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/vinylch",
+                "end": 23,
+                "expanded_url": "https://t.me/vinylch",
+                "start": 0,
+                "url": "https://t.co/K6ePPDfWrs"
+              }
+            ]
+          }
+        },
+        "id": "2009074459970555905",
+        "location": "dump群: 724794166",
+        "name": "vi is not nyl",
+        "pinned_tweet_id": "2029398794207687099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029192498338566144/G1mHHIUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 22,
+          "like_count": 2809,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 338
+        },
+        "url": "https://t.co/K6ePPDfWrs",
+        "username": "nylvim",
+        "verified": false
+      }
+    ]
+  }
+}

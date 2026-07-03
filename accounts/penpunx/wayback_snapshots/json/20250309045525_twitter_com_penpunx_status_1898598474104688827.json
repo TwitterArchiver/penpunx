@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1898598474104688827",
+    "created_at": "2025-03-09T04:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T05:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898598474104688827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1366668512043892739",
+          "start": 3,
+          "username": "Tsundoku3141592"
+        },
+        {
+          "end": 32,
+          "id": "2289619658",
+          "start": 21,
+          "username": "youquzhiji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898598474104688827",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897471842375623060",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tsundoku3141592: @youquzhiji 适合当Brat"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1898598474104688827",
+        "created_at": "2025-03-09T04:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T05:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898598474104688827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1366668512043892739",
+              "start": 3,
+              "username": "Tsundoku3141592"
+            },
+            {
+              "end": 32,
+              "id": "2289619658",
+              "start": 21,
+              "username": "youquzhiji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898598474104688827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897471842375623060",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tsundoku3141592: @youquzhiji 适合当Brat"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1366668512043892739",
+        "conversation_id": "1897468390681272562",
+        "created_at": "2025-03-06T02:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T03:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897471842375623060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2289619658",
+              "start": 0,
+              "username": "youquzhiji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897471842375623060",
+        "in_reply_to_user_id": "2289619658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897468390681272562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youquzhiji 适合当Brat"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "Is Thalstanian - never gives up / metal & rock & dungeon synth lover / 16yo weirdo guy / Chinese, English, Portuguese in learning",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898235281863852037/maSqb7YF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 80,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 78
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-02T08:35:47.000Z",
+        "description": "DOOMED ANARCHO-EGO/MUTUALIST,半吊子文革/共和国时期研究, Chinese politics, 佢(keoi5), Chinese/English/learn Japanese and Cantonese, Cyborg, Gender Fluid, HRT since May 2022",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EisernfrontTsu…",
+                "end": 23,
+                "expanded_url": "https://t.me/EisernfrontTsundoku3141592",
+                "start": 0,
+                "url": "https://t.co/op1NaHsRAc"
+              }
+            ]
+          }
+        },
+        "id": "1366668512043892739",
+        "name": "Eiserne Front - Tsundoku/積ん読🏳️‍⚧️🏴🏹🏹🏹🧋",
+        "pinned_tweet_id": "1621450793378320384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812675542686019587/dCxJ0v6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3943,
+          "following_count": 3615,
+          "like_count": 55957,
+          "listed_count": 15,
+          "media_count": 856,
+          "tweet_count": 13906
+        },
+        "url": "https://t.co/op1NaHsRAc",
+        "username": "Tsundoku3141592",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-13T12:39:58.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2289619658",
+        "name": "无聊至极🏳️‍⚧️",
+        "pinned_tweet_id": "1637127694184853507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690381924466937857/gcIObNkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 336,
+          "like_count": 22779,
+          "listed_count": 4,
+          "media_count": 407,
+          "tweet_count": 7609
+        },
+        "username": "youquzhiji",
+        "verified": false
+      }
+    ]
+  }
+}

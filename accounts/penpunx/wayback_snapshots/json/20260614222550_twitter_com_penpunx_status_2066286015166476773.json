@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2066210164706074751",
+    "created_at": "2026-06-14T22:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T23:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066286015166476773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1941289376669106177",
+          "start": 0,
+          "username": "jelllllyfiiiish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066286015166476773",
+    "in_reply_to_user_id": "1941289376669106177",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066210164706074751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jelllllyfiiiish 42"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2066210154463608832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKynMDAbwAAfuzl.jpg",
+        "width": 546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2066210164706074751",
+        "created_at": "2026-06-14T22:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066286015166476773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1941289376669106177",
+              "start": 0,
+              "username": "jelllllyfiiiish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066286015166476773",
+        "in_reply_to_user_id": "1941289376669106177",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066210164706074751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jelllllyfiiiish 42"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066210154463608832"
+          ]
+        },
+        "author_id": "1941289376669106177",
+        "conversation_id": "2066210164706074751",
+        "created_at": "2026-06-14T17:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066210164706074751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FbX9aPSBXV",
+              "end": 37,
+              "expanded_url": "https://x.com/jelllllyfiiiish/status/2066210164706074751/photo/1",
+              "media_key": "3_2066210154463608832",
+              "start": 14,
+              "url": "https://t.co/FbX9aPSBXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066210164706074751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吧其实我觉得没有人会理我 https://t.co/FbX9aPSBXV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "巴卡巴拉，苏卡纳纳马斯。",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 572,
+          "like_count": 13864,
+          "listed_count": 1,
+          "media_count": 618,
+          "tweet_count": 5209
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T00:14:14.000Z",
+        "description": "垃圾桶@kllppeaea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "kllppeaea"
+              }
+            ]
+          }
+        },
+        "id": "1941289376669106177",
+        "name": "kllppeaea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064388328313724928/8CaE0BxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 504,
+          "like_count": 11445,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1420
+        },
+        "username": "jelllllyfiiiish",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2026270556476277067",
+    "created_at": "2026-02-24T13:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026285203187245468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680508885394927616",
+          "start": 0,
+          "username": "04177_realname"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026285203187245468",
+    "in_reply_to_user_id": "1680508885394927616",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026284483352408458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04177_realname 🫂🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2026270556476277067",
+        "created_at": "2026-02-24T13:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026285203187245468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680508885394927616",
+              "start": 0,
+              "username": "04177_realname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026285203187245468",
+        "in_reply_to_user_id": "1680508885394927616",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026284483352408458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04177_realname 🫂🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680508885394927616",
+        "conversation_id": "2026270556476277067",
+        "created_at": "2026-02-24T13:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026284483352408458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026284483352408458",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026279800562954740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 抱抱🤗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2024557534829564202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 323,
+          "like_count": 11005,
+          "listed_count": 1,
+          "media_count": 403,
+          "tweet_count": 3020
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "ftm/注射剂hrt初始日期 2025.10.8 每月一针ing\n🦋：@04177realname.bsky.social（互fo）\n推特大号：@04177realname（同类和顾客互fo）\n推特小号：@04177_truth（互fo）\n提问箱：有问题私信问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "04177realname"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "04177realname"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "04177_truth"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "location": "🚪68",
+        "name": "🍥真名🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988315939272851456/-MD8Lh9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10540,
+          "following_count": 5853,
+          "like_count": 64416,
+          "listed_count": 30,
+          "media_count": 2837,
+          "tweet_count": 20262
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

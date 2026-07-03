@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1960301120678465774",
+    "created_at": "2025-08-26T12:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T13:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960314342534230260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1227949934655070208",
+          "start": 0,
+          "username": "ZokSwafford"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960314342534230260",
+    "in_reply_to_user_id": "1227949934655070208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960301120678465774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZokSwafford 怎么才能一个人住"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1960301120678465774].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1960301120678465774",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1960301120678465774"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1960301120678465774",
+        "created_at": "2025-08-26T12:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T13:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960314342534230260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1227949934655070208",
+              "start": 0,
+              "username": "ZokSwafford"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960314342534230260",
+        "in_reply_to_user_id": "1227949934655070208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960301120678465774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZokSwafford 怎么才能一个人住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 255,
+          "like_count": 8727,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 2019
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-13T13:38:49.000Z",
+        "description": "🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️ 🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mastodon.social/@ZinSwafford",
+                "end": 23,
+                "expanded_url": "https://mastodon.social/@ZinSwafford",
+                "start": 0,
+                "url": "https://t.co/ROWauSeUVq"
+              }
+            ]
+          }
+        },
+        "id": "1227949934655070208",
+        "name": "🫎+🦊=鹿角狐狸世界驻地球观察员",
+        "pinned_tweet_id": "1782813295914913806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796785467830210560/P73QYox__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 379,
+          "like_count": 16065,
+          "listed_count": 4,
+          "media_count": 1135,
+          "tweet_count": 21147
+        },
+        "url": "https://t.co/ROWauSeUVq",
+        "username": "ZokSwafford",
+        "verified": false
+      }
+    ]
+  }
+}

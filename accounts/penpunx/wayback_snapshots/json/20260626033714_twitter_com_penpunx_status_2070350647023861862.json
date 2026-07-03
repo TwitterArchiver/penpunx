@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2070350647023861862",
+    "created_at": "2026-06-26T03:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070350647023861862"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070350647023861862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然我还是好高骛远但是学校太让人痛苦了\n我讨厌“高三的暑假只是换个地方学习”这种话，就像我讨厌禁毒宣传—学习和健康是我的权利不是我对权威的义务\n和初中不一样，我再听到这种话不只是骂两句学校就完了，而是会转化为精神和身体痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2070350647023861862",
+        "created_at": "2026-06-26T03:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070350647023861862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070350647023861862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我还是好高骛远但是学校太让人痛苦了\n我讨厌“高三的暑假只是换个地方学习”这种话，就像我讨厌禁毒宣传—学习和健康是我的权利不是我对权威的义务\n和初中不一样，我再听到这种话不只是骂两句学校就完了，而是会转化为精神和身体痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 591,
+          "like_count": 14171,
+          "listed_count": 1,
+          "media_count": 694,
+          "tweet_count": 5645
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

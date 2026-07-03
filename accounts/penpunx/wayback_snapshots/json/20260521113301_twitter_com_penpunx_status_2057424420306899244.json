@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2057424420306899244",
+    "created_at": "2026-05-21T11:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057424420306899244"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057424420306899244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "电话手表很适合在冬天当暖手宝，哈哈！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2057424420306899244",
+        "created_at": "2026-05-21T11:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057424420306899244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057424420306899244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电话手表很适合在冬天当暖手宝，哈哈！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 539,
+          "like_count": 13468,
+          "listed_count": 1,
+          "media_count": 523,
+          "tweet_count": 4705
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

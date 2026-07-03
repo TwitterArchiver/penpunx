@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1817252134150131712"
+      ],
+      "media_source_tweet_id": [
+        "1817252180333932584"
+      ]
+    },
+    "author_id": "1549234895188176897",
+    "conversation_id": "1817352643838357953",
+    "created_at": "2024-07-28T00:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T01:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817352643838357953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1556695959064690689",
+          "start": 3,
+          "username": "pohasims"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/FPozNEmNIL",
+          "end": 37,
+          "expanded_url": "https://twitter.com/pohasims/status/1817252180333932584/photo/1",
+          "media_key": "3_1817252134150131712",
+          "start": 14,
+          "url": "https://t.co/FPozNEmNIL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817352643838357953",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 257
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817252180333932584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pohasims: https://t.co/FPozNEmNIL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 629,
+        "media_key": "3_1817252134150131712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTgtMBNW0AAcX_h.jpg",
+        "width": 470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817252134150131712"
+          ],
+          "media_source_tweet_id": [
+            "1817252180333932584"
+          ]
+        },
+        "author_id": "1549234895188176897",
+        "conversation_id": "1817352643838357953",
+        "created_at": "2024-07-28T00:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T01:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817352643838357953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1556695959064690689",
+              "start": 3,
+              "username": "pohasims"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/FPozNEmNIL",
+              "end": 37,
+              "expanded_url": "https://twitter.com/pohasims/status/1817252180333932584/photo/1",
+              "media_key": "3_1817252134150131712",
+              "start": 14,
+              "url": "https://t.co/FPozNEmNIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817352643838357953",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 257
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817252180333932584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pohasims: https://t.co/FPozNEmNIL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817252134150131712"
+          ]
+        },
+        "author_id": "1556695959064690689",
+        "conversation_id": "1817252180333932584",
+        "created_at": "2024-07-27T17:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T18:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817252180333932584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/FPozNEmNIL",
+              "end": 23,
+              "expanded_url": "https://twitter.com/pohasims/status/1817252180333932584/photo/1",
+              "media_key": "3_1817252134150131712",
+              "start": 0,
+              "url": "https://t.co/FPozNEmNIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817252180333932584",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 19888,
+          "like_count": 1911,
+          "quote_count": 15,
+          "reply_count": 20,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FPozNEmNIL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-19T03:29:23.000Z",
+        "description": "im not there this isnt happening",
+        "id": "1549234895188176897",
+        "name": "-",
+        "pinned_tweet_id": "1815326942641508512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800030979840671744/YWVe7Yy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 443,
+          "like_count": 11522,
+          "listed_count": 1,
+          "tweet_count": 5592
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T17:37:00.000Z",
+        "description": "Manda sugestões na DM 📨 | Divulgação e RTs chame na DM 💸\nseguiu = humilde #meta200k",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 74,
+                "tag": "meta200k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/theutopia",
+                "end": 23,
+                "expanded_url": "https://discord.gg/theutopia",
+                "start": 0,
+                "url": "https://t.co/pMIzWvOj32"
+              }
+            ]
+          }
+        },
+        "id": "1556695959064690689",
+        "location": "TBM POSTS DE GRUPOS THE SIMS ",
+        "name": "q porra é essa? ata, são só jogadores de the sims",
+        "pinned_tweet_id": "1753090771522105526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580668840995864581/5e4fpR4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187822,
+          "following_count": 0,
+          "like_count": 453,
+          "listed_count": 45,
+          "tweet_count": 1260
+        },
+        "url": "https://t.co/pMIzWvOj32",
+        "username": "pohasims",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2051130620726956090",
+    "created_at": "2026-05-04T03:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T04:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051141305829634197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1933875040485036032",
+          "start": 0,
+          "username": "N4zEG6SBNY36001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051141305829634197",
+    "in_reply_to_user_id": "1933875040485036032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051141023980761412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N4zEG6SBNY36001 ご心配ありがとうございます。体調が優れません。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2051130620726956090",
+        "created_at": "2026-05-04T03:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051141305829634197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1933875040485036032",
+              "start": 0,
+              "username": "N4zEG6SBNY36001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051141305829634197",
+        "in_reply_to_user_id": "1933875040485036032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051141023980761412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N4zEG6SBNY36001 ご心配ありがとうございます。体調が優れません。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933875040485036032",
+        "conversation_id": "2051130620726956090",
+        "created_at": "2026-05-04T03:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051141023980761412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051141023980761412",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051130620726956090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx だいじょぶ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 492,
+          "like_count": 12709,
+          "listed_count": 1,
+          "media_count": 488,
+          "tweet_count": 4212
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-14T13:12:10.000Z",
+        "description": "＝小妍 ｜12不登校｜中國語OK 日本語勉強｜ヒメヒナ激推｜有對象不互男｜⛩",
+        "id": "1933875040485036032",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "グレイス",
+        "pinned_tweet_id": "1952641328119955957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050464457151946752/TuXTGf6s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 389,
+          "like_count": 5450,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 313
+        },
+        "username": "N4zEG6SBNY36001",
+        "verified": false
+      }
+    ]
+  }
+}

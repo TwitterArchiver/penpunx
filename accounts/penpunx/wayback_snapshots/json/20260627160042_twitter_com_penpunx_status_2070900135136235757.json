@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2070900135136235757",
+    "created_at": "2026-06-27T16:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070900135136235757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/evangelionshot…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/evangelionshots/status/2067095646314615021",
+          "start": 5,
+          "url": "https://t.co/QDyvzF0KuU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070900135136235757",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067095646314615021",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "gork https://t.co/QDyvzF0KuU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 971,
+        "media_key": "3_2067095644389482497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_MiWCXoAEfhqL.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2070900135136235757",
+        "created_at": "2026-06-27T16:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070900135136235757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/evangelionshot…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/evangelionshots/status/2067095646314615021",
+              "start": 5,
+              "url": "https://t.co/QDyvzF0KuU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070900135136235757",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067095646314615021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "gork https://t.co/QDyvzF0KuU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067095644389482497"
+          ]
+        },
+        "author_id": "857328227228024832",
+        "conversation_id": "2067095646314615021",
+        "created_at": "2026-06-17T04:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067095646314615021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eSSRXEs7kz",
+              "end": 43,
+              "expanded_url": "https://x.com/EvangelionShots/status/2067095646314615021/photo/1",
+              "media_key": "3_2067095644389482497",
+              "start": 20,
+              "url": "https://t.co/eSSRXEs7kz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067095646314615021",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2615,
+          "impression_count": 750813,
+          "like_count": 39419,
+          "quote_count": 95,
+          "reply_count": 105,
+          "retweet_count": 2239
+        },
+        "reply_settings": "everyone",
+        "text": "These look familiar https://t.co/eSSRXEs7kz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 594,
+          "like_count": 14294,
+          "listed_count": 1,
+          "media_count": 710,
+          "tweet_count": 5734
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-26T20:19:12.000Z",
+        "description": "Posting Evangelion until Third Impact",
+        "id": "857328227228024832",
+        "location": "NERV",
+        "name": "Evangelion Perfect Shots",
+        "pinned_tweet_id": "2067095646314615021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899215195156717568/-Q1iHpd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56262,
+          "following_count": 154,
+          "like_count": 3832,
+          "listed_count": 90,
+          "media_count": 2224,
+          "tweet_count": 2286
+        },
+        "url": "",
+        "username": "EvangelionShots",
+        "verified": true
+      }
+    ]
+  }
+}

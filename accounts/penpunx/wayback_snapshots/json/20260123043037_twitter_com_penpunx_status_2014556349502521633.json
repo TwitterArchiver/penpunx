@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014556341285859328"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2014556349502521633",
+    "created_at": "2026-01-23T04:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T05:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014556349502521633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JpdBvUsSRe",
+          "end": 31,
+          "expanded_url": "https://x.com/penpunx/status/2014556349502521633/photo/1",
+          "media_key": "3_2014556341285859328",
+          "start": 8,
+          "url": "https://t.co/JpdBvUsSRe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014556349502521633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在学校吃泡面（ https://t.co/JpdBvUsSRe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014556341285859328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_UkUZ5asAA_bFl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014556341285859328"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2014556349502521633",
+        "created_at": "2026-01-23T04:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T05:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014556349502521633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JpdBvUsSRe",
+              "end": 31,
+              "expanded_url": "https://x.com/penpunx/status/2014556349502521633/photo/1",
+              "media_key": "3_2014556341285859328",
+              "start": 8,
+              "url": "https://t.co/JpdBvUsSRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014556349502521633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在学校吃泡面（ https://t.co/JpdBvUsSRe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2012869391504023900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 297,
+          "like_count": 10420,
+          "listed_count": 1,
+          "media_count": 379,
+          "tweet_count": 2795
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

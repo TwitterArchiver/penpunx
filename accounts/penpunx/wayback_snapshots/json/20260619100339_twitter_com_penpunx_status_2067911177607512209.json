@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2067909832817119638",
+    "created_at": "2026-06-19T10:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067911177607512209"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067911177607512209",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067909832817119638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也许是为了表达自己的无助，即“我现在像女人一样无法决定自己命运了”\n天作为神秘学爱好者偏向解读为，楚地本来就有草药、性别模糊等巫术表演行为和神话传统("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2067909832817119638",
+        "created_at": "2026-06-19T10:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067911177607512209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067911177607512209",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067909832817119638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也许是为了表达自己的无助，即“我现在像女人一样无法决定自己命运了”\n天作为神秘学爱好者偏向解读为，楚地本来就有草药、性别模糊等巫术表演行为和神话传统("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2067909832817119638",
+        "created_at": "2026-06-19T09:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067909832817119638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2067869962304360904",
+              "start": 137,
+              "url": "https://t.co/3ELhxhmRTr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067909832817119638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067869962304360904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过之前上屈原列传的时候我就觉得屈原放现在可能是那种asd小男娘()\n自比香草美人这个传统倒的确是屈原开创的，他是第一个这么写的\n我确实思考过为什么从屈原开始很多男性文人都会自比女性抒发怀才不遇之类的情感，难道是因为古代男子必须保持硬汉形象？又或者无法直接写对君王的不满？ https://t.co/3ELhxhmRTr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "%",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 578,
+          "like_count": 13948,
+          "listed_count": 1,
+          "media_count": 644,
+          "tweet_count": 5336
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

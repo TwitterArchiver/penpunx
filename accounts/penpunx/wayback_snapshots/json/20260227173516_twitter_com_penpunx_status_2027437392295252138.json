@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2027434310505283953",
+    "created_at": "2026-02-27T17:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027437392295252138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027437392295252138",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027434310505283953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 余华你这么有钱怎么不住市区"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2027434310505283953",
+        "created_at": "2026-02-27T17:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027437392295252138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027437392295252138",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027434310505283953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 余华你这么有钱怎么不住市区"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845491203124441093",
+        "conversation_id": "2027434310505283953",
+        "created_at": "2026-02-27T17:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027434310505283953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "余华成霜’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1RJZz…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1RJZzjzZWbgJB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2027434311771967488/4y8j8Oaj?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2027434311771967488/4y8j8Oaj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 余华突然惊醒",
+              "unwound_url": "https://twitter.com/i/spaces/1RJZzjzZWbgJB/peek",
+              "url": "https://t.co/5bYB0q1sLV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027434310505283953",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5bYB0q1sLV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2024557534829564202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 328,
+          "like_count": 11135,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 3116
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "不知名的yu huacs 泛性恋 混乱与淫乱的集合体 友所有群体  爱着你们深 深的喜欢着你们\n成分复杂 双相焦虑治疗中 overdose lain 了解公路车 在役公路车s works old venge\n第二人格 @yuhuacs5570\n窝的哦尼酱@lizzy_522",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 137,
+                "start": 127,
+                "username": "lizzy_522"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "尼特",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2026648623505879381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009204093987028992/H3zOBPI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 1206,
+          "like_count": 106743,
+          "listed_count": 9,
+          "media_count": 1936,
+          "tweet_count": 18079
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2066882725446062188",
+    "created_at": "2026-06-16T13:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066882725446062188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1903701047589343232",
+          "start": 3,
+          "username": "tanchixiaofang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066882725446062188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066789383672656189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tanchixiaofang: 对于我来说我觉得男女性征的形成手术还不如切掉所有性征"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2066882725446062188",
+        "created_at": "2026-06-16T13:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066882725446062188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1903701047589343232",
+              "start": 3,
+              "username": "tanchixiaofang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066882725446062188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066789383672656189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tanchixiaofang: 对于我来说我觉得男女性征的形成手术还不如切掉所有性征"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903701047589343232",
+        "conversation_id": "2066789383672656189",
+        "created_at": "2026-06-16T07:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066789383672656189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066789383672656189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 377,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对于我来说我觉得男女性征的形成手术还不如切掉所有性征"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "巴卡巴拉，苏卡纳纳马斯。",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 577,
+          "like_count": 13913,
+          "listed_count": 1,
+          "media_count": 623,
+          "tweet_count": 5244
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "饭菜点赞bot丨ISFP-T丨含E2丨非顺直丨无标签丨代词: I / me / my",
+        "id": "1903701047589343232",
+        "name": "贪吃小方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063957443366035456/OVAH9btp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4849,
+          "following_count": 1675,
+          "like_count": 10197,
+          "listed_count": 12,
+          "media_count": 25,
+          "tweet_count": 1967
+        },
+        "username": "tanchixiaofang",
+        "verified": false
+      }
+    ]
+  }
+}

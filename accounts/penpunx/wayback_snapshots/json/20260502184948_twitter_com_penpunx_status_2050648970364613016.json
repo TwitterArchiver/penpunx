@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2050613163071295995",
+    "created_at": "2026-05-02T18:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T19:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050648970364613016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041360911936720896",
+          "start": 0,
+          "username": "teacherYing_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050648970364613016",
+    "in_reply_to_user_id": "2041360911936720896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050648726184866263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teacherYing_ 哇，那你看汉密尔顿吗，我也很喜欢这部🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2050613163071295995",
+        "created_at": "2026-05-02T18:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050648970364613016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041360911936720896",
+              "start": 0,
+              "username": "teacherYing_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050648970364613016",
+        "in_reply_to_user_id": "2041360911936720896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050648726184866263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teacherYing_ 哇，那你看汉密尔顿吗，我也很喜欢这部🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041360911936720896",
+        "conversation_id": "2050613163071295995",
+        "created_at": "2026-05-02T18:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050648726184866263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050648726184866263",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050646744124543427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 看呀大悲我看了挺多遍的不过都是10周年和25周年版的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 484,
+          "like_count": 12604,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 4143
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T03:43:08.000Z",
+        "description": "queer🏳️‍🌈/泛性恋/05年学音乐制作的毒虫大学生（休学中）/重度玉米焦虑症/拉康派精神分析爱好者/药物交流/bilibili同名时不时直播打打游戏/都可互fo",
+        "id": "2041360911936720896",
+        "location": "天堂",
+        "name": "迷人的应老师",
+        "pinned_tweet_id": "2049208399427166257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041361579682480129/YnCHJwWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 77,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 214
+        },
+        "username": "teacherYing_",
+        "verified": false
+      }
+    ]
+  }
+}

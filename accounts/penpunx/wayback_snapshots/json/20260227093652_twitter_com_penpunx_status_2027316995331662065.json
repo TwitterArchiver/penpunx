@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2027316995331662065",
+    "created_at": "2026-02-27T09:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T10:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027316995331662065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds0/status/2…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/hgds0/status/2027295369995100658",
+          "start": 11,
+          "url": "https://t.co/WcDG0Oxqxj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027316995331662065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027295369995100658",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来法友百科指的是… https://t.co/WcDG0Oxqxj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 491,
+        "media_key": "3_2027295364328669184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJmZI2bQAAsYLR.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2027316995331662065",
+        "created_at": "2026-02-27T09:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027316995331662065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds0/status/2…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/hgds0/status/2027295369995100658",
+              "start": 11,
+              "url": "https://t.co/WcDG0Oxqxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027316995331662065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027295369995100658",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来法友百科指的是… https://t.co/WcDG0Oxqxj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027295364328669184"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027295369995100658",
+        "created_at": "2026-02-27T08:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027295369995100658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARbMpzw2ly",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/2027295369995100658/photo/1",
+              "media_key": "3_2027295364328669184",
+              "start": 0,
+              "url": "https://t.co/ARbMpzw2ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027295369995100658",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4547,
+          "like_count": 100,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ARbMpzw2ly"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2024557534829564202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 328,
+          "like_count": 11108,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 3093
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删/推广自辩",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97575,
+          "following_count": 2521,
+          "like_count": 43929,
+          "listed_count": 140,
+          "media_count": 3734,
+          "tweet_count": 8108
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

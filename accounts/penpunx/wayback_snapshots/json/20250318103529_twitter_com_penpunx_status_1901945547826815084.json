@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1901945547826815084",
+    "created_at": "2025-03-18T10:35:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T11:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901945547826815084"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/apr_simone/sta…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/apr_simone/status/1901664534508531751",
+          "start": 18,
+          "url": "https://t.co/ph20Ity8J4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901945547826815084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901664534508531751",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怪不得除了写作业之外抗拒使用ai( https://t.co/ph20Ity8J4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1901945547826815084",
+        "created_at": "2025-03-18T10:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T11:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901945547826815084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/apr_simone/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/apr_simone/status/1901664534508531751",
+              "start": 18,
+              "url": "https://t.co/ph20Ity8J4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901945547826815084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901664534508531751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怪不得除了写作业之外抗拒使用ai( https://t.co/ph20Ity8J4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568268459674574848",
+        "conversation_id": "1901664534508531751",
+        "created_at": "2025-03-17T15:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T16:58:28.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901664439763353996",
+          "1901664534508531751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901664534508531751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2149,
+          "like_count": 36,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "习惯把所有事藏在心里的结果就是会抗拒使用AI\n\n是我们东亚小孩不配"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "metal & rock & dungeon synth lover / world of warcraft / 16yo neurodivergent guy / Chinese, English, Portuguese, Dutch in learning",
+        "id": "1896904934995656704",
+        "location": "He / him ",
+        "name": "penpunk",
+        "pinned_tweet_id": "1900570456283058246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898235281863852037/maSqb7YF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 115,
+          "like_count": 965,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 366
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T16:02:05.000Z",
+        "description": "ASD & BPD & C-PTSD & DID & Schizophrenia & TRDD | Write in Lisp | Sister @Simone_Luxem , Lover @HANLIANYI331 @S_S_Asuka_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Simone_Luxem"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "HANLIANYI331"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "S_S_Asuka_02"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/apr-ma…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/apr-may.bsky.social",
+                "start": 0,
+                "url": "https://t.co/wp1rLHaY6c"
+              }
+            ]
+          }
+        },
+        "id": "1568268459674574848",
+        "location": "Amsterdam",
+        "name": "April & May - The Calendar System🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898804235514368000/QV2HgGTV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795,
+          "following_count": 954,
+          "like_count": 41398,
+          "listed_count": 5,
+          "media_count": 218,
+          "tweet_count": 4168
+        },
+        "url": "https://t.co/wp1rLHaY6c",
+        "username": "apr_simone",
+        "verified": true
+      }
+    ]
+  }
+}

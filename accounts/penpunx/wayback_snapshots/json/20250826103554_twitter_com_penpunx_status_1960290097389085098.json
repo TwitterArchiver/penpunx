@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1960290090992718043",
+    "created_at": "2025-08-26T10:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T11:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960290097389085098"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1960290097389085098",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960290095140921430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "街上弥漫着怪味（大麻？），我们想找个摩登一点的地方。来到一个路口有很多人群聚集，车辆开不下去了，我们停车看人们在干什么。过了一会，灯光秀开始了，我觉得眼花缭乱要睡着的感觉。突然，我的恋人把我摇清醒，指给我看天上会飞的猪。接下来还有孔雀、蜜蜂、红毛猩猩等动物的气球飞过去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1960290090992718043",
+        "created_at": "2025-08-26T10:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T11:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960290097389085098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960290097389085098",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960290095140921430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "街上弥漫着怪味（大麻？），我们想找个摩登一点的地方。来到一个路口有很多人群聚集，车辆开不下去了，我们停车看人们在干什么。过了一会，灯光秀开始了，我觉得眼花缭乱要睡着的感觉。突然，我的恋人把我摇清醒，指给我看天上会飞的猪。接下来还有孔雀、蜜蜂、红毛猩猩等动物的气球飞过去。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1960290090992718043",
+        "created_at": "2025-08-26T10:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T11:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960290095140921430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960290095140921430",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960290090992718043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接下来，我在公园里和恋人一起开卡丁车。四周竹树环合，树根处有一些谷壳，路虽然是土的但是很平坦。路牌上显示前面有孔雀动物园。但是我们俩都迷路了，我们开到了国道上。远处有很多村庄和田地，还有鸡和狗的叫声，傍晚的蓝调天空让我感到很惆怅。再过了一会，我们开进了伦敦（地图上是这么显示的）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 255,
+          "like_count": 8725,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 2017
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

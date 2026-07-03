@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1943870739985445151",
+    "created_at": "2025-07-12T03:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T04:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943872337671004310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844103262292803587",
+          "start": 0,
+          "username": "JJ2597758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943872337671004310",
+    "in_reply_to_user_id": "1844103262292803587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943870739985445151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JJ2597758 卖药的都不会告诉你副作用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1943870739985445151",
+        "created_at": "2025-07-12T03:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T04:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943872337671004310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844103262292803587",
+              "start": 0,
+              "username": "JJ2597758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943872337671004310",
+        "in_reply_to_user_id": "1844103262292803587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943870739985445151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JJ2597758 卖药的都不会告诉你副作用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844103262292803587",
+        "conversation_id": "1943870739985445151",
+        "created_at": "2025-07-12T03:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T04:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943870739985445151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/someonesxiaoha…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/someonesxiaohao/status/1918990921980359079",
+              "start": 6,
+              "url": "https://t.co/rOY9s8qW4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943870739985445151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918990921980359079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这真的假的 https://t.co/rOY9s8qW4g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "Jupiter III",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 207,
+          "like_count": 6928,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1582
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T19:51:03.000Z",
+        "description": "🚪10*劳拉西泮1mg✖️14片",
+        "id": "1844103262292803587",
+        "name": "伴花作剑穗",
+        "pinned_tweet_id": "1943004623226442045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940839656532197376/hyHv_gZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 230,
+          "like_count": 16154,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1184
+        },
+        "username": "JJ2597758",
+        "verified": false
+      }
+    ]
+  }
+}

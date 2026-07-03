@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1973259486585593859",
+    "created_at": "2025-10-01T11:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T12:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973347482051789175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1574992446181838848",
+          "start": 0,
+          "username": "2fonteinen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973347482051789175",
+    "in_reply_to_user_id": "1574992446181838848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973259486585593859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2fonteinen 有点像swert trip的一个封面"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973259481778692096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2JtCz0XIAAgNzA.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1973259481766051840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2JtCzxWQAAVvZG.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1973259486585593859",
+        "created_at": "2025-10-01T11:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T12:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973347482051789175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1574992446181838848",
+              "start": 0,
+              "username": "2fonteinen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973347482051789175",
+        "in_reply_to_user_id": "1574992446181838848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973259486585593859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2fonteinen 有点像swert trip的一个封面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973259481778692096",
+            "3_1973259481766051840"
+          ]
+        },
+        "author_id": "1574992446181838848",
+        "conversation_id": "1973259486585593859",
+        "created_at": "2025-10-01T05:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T06:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973259486585593859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6OiVf6BnTH",
+              "end": 23,
+              "expanded_url": "https://x.com/2fonteinen/status/1973259486585593859/photo/1",
+              "media_key": "3_1973259481778692096",
+              "start": 0,
+              "url": "https://t.co/6OiVf6BnTH"
+            },
+            {
+              "display_url": "pic.x.com/6OiVf6BnTH",
+              "end": 23,
+              "expanded_url": "https://x.com/2fonteinen/status/1973259486585593859/photo/1",
+              "media_key": "3_1973259481766051840",
+              "start": 0,
+              "url": "https://t.co/6OiVf6BnTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973259486585593859",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6OiVf6BnTH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971570743306850304/n3PLdLKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 266,
+          "like_count": 9721,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 2305
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-28T05:20:45.000Z",
+        "description": "米男孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/31jbtjd7x…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/31jbtjd7xxyontxiwmxqyv63oztu?si=LdcwIfy8SkWTuxZCgsjHNg",
+                "start": 0,
+                "url": "https://t.co/NWGa0ZNHeS"
+              }
+            ]
+          }
+        },
+        "id": "1574992446181838848",
+        "name": "Riceboi",
+        "pinned_tweet_id": "1951134561221615645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835174249675280384/u_ukrTHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 718,
+          "like_count": 7400,
+          "listed_count": 1,
+          "media_count": 1503,
+          "tweet_count": 4494
+        },
+        "url": "https://t.co/NWGa0ZNHeS",
+        "username": "2fonteinen",
+        "verified": false
+      }
+    ]
+  }
+}

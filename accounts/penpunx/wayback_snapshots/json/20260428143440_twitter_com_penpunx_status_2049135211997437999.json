@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2048823994279973062",
+    "created_at": "2026-04-28T14:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049135211997437999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2023448969343545344",
+          "start": 0,
+          "username": "nryxsxwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049135211997437999",
+    "in_reply_to_user_id": "2023448969343545344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049134726926213505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nryxsxwx 不用处方吗\n未成年可以吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2048823994279973062",
+        "created_at": "2026-04-28T14:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049135211997437999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2023448969343545344",
+              "start": 0,
+              "username": "nryxsxwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049135211997437999",
+        "in_reply_to_user_id": "2023448969343545344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049134726926213505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nryxsxwx 不用处方吗\n未成年可以吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023448969343545344",
+        "conversation_id": "2048823994279973062",
+        "created_at": "2026-04-28T14:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049134726926213505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049134726926213505",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049115700506329516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 没管那么严，你一次不要像进货一样就可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 442,
+          "like_count": 12245,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 3902
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T17:26:52.000Z",
+        "description": "前世@XWXbl00dbunn1 一个弱智精神病｜🚪 58/88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "XWXbl00dbunn1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bzd83462",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bzd83462",
+                "start": 0,
+                "url": "https://t.co/64OlqtP7mt"
+              }
+            ]
+          }
+        },
+        "id": "2023448969343545344",
+        "location": "notfound",
+        "name": "豆包我全家死了",
+        "pinned_tweet_id": "2046538570471809172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048824801796784128/NIS1wRCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 234,
+          "like_count": 1625,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 286
+        },
+        "url": "https://t.co/64OlqtP7mt",
+        "username": "nryxsxwx",
+        "verified": false
+      }
+    ]
+  }
+}

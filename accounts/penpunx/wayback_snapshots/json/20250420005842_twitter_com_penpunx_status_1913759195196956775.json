@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1913691880648298650",
+    "created_at": "2025-04-20T00:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T01:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913759195196956775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1747027117345239040",
+          "start": 0,
+          "username": "incelfa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913759195196956775",
+    "in_reply_to_user_id": "1747027117345239040",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913691880648298650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@incelfa 🫂😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1913691880648298650",
+        "created_at": "2025-04-20T00:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T01:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913759195196956775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1747027117345239040",
+              "start": 0,
+              "username": "incelfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913759195196956775",
+        "in_reply_to_user_id": "1747027117345239040",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913691880648298650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@incelfa 🫂😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747027117345239040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "1913691880648298650",
+        "created_at": "2025-04-19T20:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T21:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913691880648298650"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 107,
+              "normalized_text": "minecraft",
+              "probability": 0.7468,
+              "start": 99,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913691880648298650",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "eu sofri mó bullying hoje da minha mãe quando eu falei que queria comprar o brinde do mc lanche do minecraft (que é um jogo que eu jogo desde os 13 anos)\nde acordo com ela eu não posso querer uma figura pra por na estante pq tenho 25 anos"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 183,
+          "like_count": 4285,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 948
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T22:47:26.000Z",
+        "description": "uma estudante de psicologia depressiva autista e tdah ☆\nvent account! please ignore",
+        "id": "1747027117345239040",
+        "location": "manicômio digital",
+        "name": "Lou",
+        "pinned_tweet_id": "1758317278930542943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866097366014517248/ppHMg95j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 133,
+          "like_count": 15864,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 2390
+        },
+        "username": "incelfa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2068030457103749192",
+    "created_at": "2026-06-19T17:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068030506172842105"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068030506172842105",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068030457103749192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天没吃阿普唑仑，一直浅睡眠。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2068030457103749192",
+        "created_at": "2026-06-19T17:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068030506172842105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068030506172842105",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068030457103749192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天没吃阿普唑仑，一直浅睡眠。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2068030457103749192",
+        "created_at": "2026-06-19T17:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068030457103749192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068030457103749192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听imagine\n一开始是在江南水乡小镇\n然后人像莲花一样散开，我向他们挥手\n我在后退，我在一辆巴士上\n然后还看到了罗马帝国鼎盛时代的样子，我五六年前梦魂萦绕的景象\n然后回到那量巴士\n我看着车厢另一侧面处坐着的%\n还有一车的乘客\n说不出一句话\n这个时候音乐也切到了the sound of silence"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 580,
+          "like_count": 13975,
+          "listed_count": 1,
+          "media_count": 647,
+          "tweet_count": 5376
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055548205153374208"
+      ],
+      "media_source_tweet_id": [
+        "2055548385181216779"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055661645683405166",
+    "created_at": "2026-05-16T14:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055661645683405166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vfBa74wAGW",
+          "end": 31,
+          "expanded_url": "https://x.com/xiaojingcanxue/status/2055548385181216779/video/1",
+          "media_key": "13_2055548205153374208",
+          "start": 8,
+          "url": "https://t.co/vfBa74wAGW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055661645683405166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看完不笑是这个 https://t.co/vfBa74wAGW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 366527,
+        "height": 976,
+        "media_key": "13_2055548205153374208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055548205153374208/img/IW5t0omtOC84gcYP.jpg",
+        "public_metrics": {
+          "view_count": 76570
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055548205153374208/vid/avc1/320x696/XYiEBSmIi7cIet3W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055548205153374208/vid/avc1/448x976/MgVaHCtLsl_Rdknl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055548205153374208/pl/DWMwKRDZyYgzT55L.m3u8?v=cfc"
+          }
+        ],
+        "width": 448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055548205153374208"
+          ],
+          "media_source_tweet_id": [
+            "2055548385181216779"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055661645683405166",
+        "created_at": "2026-05-16T14:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055661645683405166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfBa74wAGW",
+              "end": 31,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2055548385181216779/video/1",
+              "media_key": "13_2055548205153374208",
+              "start": 8,
+              "url": "https://t.co/vfBa74wAGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055661645683405166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看完不笑是这个 https://t.co/vfBa74wAGW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 530,
+          "like_count": 13364,
+          "listed_count": 1,
+          "media_count": 520,
+          "tweet_count": 4609
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

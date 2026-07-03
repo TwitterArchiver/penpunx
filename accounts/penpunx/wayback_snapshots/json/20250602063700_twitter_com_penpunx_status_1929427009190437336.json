@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1929425694716527067",
+    "created_at": "2025-06-02T06:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T07:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929427009190437336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1054322364870246400",
+          "start": 0,
+          "username": "mrwhat926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929427009190437336",
+    "in_reply_to_user_id": "1054322364870246400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929425694716527067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrwhat926 学的是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1929425694716527067",
+        "created_at": "2025-06-02T06:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T07:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929427009190437336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1054322364870246400",
+              "start": 0,
+              "username": "mrwhat926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929427009190437336",
+        "in_reply_to_user_id": "1054322364870246400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929425694716527067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrwhat926 学的是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1054322364870246400",
+        "conversation_id": "1929425694716527067",
+        "created_at": "2025-06-02T06:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T07:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929425694716527067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929425694716527067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "常常想起2020年10月不去學校在家自學計算機的日子，那時候，我不像現在這個樣子的，還有一點的動力。但這樣的日子沒有持續多久，很快便被打破了......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo neurodivergent guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 209,
+          "like_count": 6072,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1357
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-22T10:43:34.000Z",
+        "description": "獨立遊戲開發者、音樂作曲家（2018~2020）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "timegrass.bsky.social",
+                "end": 23,
+                "expanded_url": "http://timegrass.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Q2VGjYgAZy"
+              }
+            ]
+          }
+        },
+        "id": "1054322364870246400",
+        "location": "Earth",
+        "name": "Time Grass",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909334325851832320/WEsxBTfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 1719,
+          "like_count": 60019,
+          "listed_count": 3,
+          "media_count": 422,
+          "tweet_count": 9760
+        },
+        "url": "https://t.co/Q2VGjYgAZy",
+        "username": "mrwhat926",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2053753152437166582",
+    "created_at": "2026-05-11T12:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053814065009750524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1726314870780637185",
+          "start": 0,
+          "username": "uraracidus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053814065009750524",
+    "in_reply_to_user_id": "1726314870780637185",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053789643653697786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uraracidus 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2053753152437166582",
+        "created_at": "2026-05-11T12:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053814065009750524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1726314870780637185",
+              "start": 0,
+              "username": "uraracidus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053814065009750524",
+        "in_reply_to_user_id": "1726314870780637185",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053789643653697786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uraracidus 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726314870780637185",
+        "conversation_id": "2053753152437166582",
+        "created_at": "2026-05-11T10:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053789643653697786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053789643653697786",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053753152437166582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 爱潘妮，我的爱潘妮..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 513,
+          "like_count": 13150,
+          "listed_count": 1,
+          "media_count": 514,
+          "tweet_count": 4444
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T19:02:01.000Z",
+        "description": "很不幸地",
+        "id": "1726314870780637185",
+        "name": "火星特慢",
+        "pinned_tweet_id": "2042533386447978609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048946194848849920/NX2Br74C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 113,
+          "like_count": 25732,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 7102
+        },
+        "username": "uraracidus",
+        "verified": false
+      }
+    ]
+  }
+}

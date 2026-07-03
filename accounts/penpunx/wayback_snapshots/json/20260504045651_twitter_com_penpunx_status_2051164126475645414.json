@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2051156932564865142",
+    "created_at": "2026-05-04T04:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T05:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051164126475645414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2020831411520016384",
+          "start": 0,
+          "username": "PandaMing88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051164126475645414",
+    "in_reply_to_user_id": "2020831411520016384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051163941720715680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PandaMing88 谢谢你☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2051156932564865142",
+        "created_at": "2026-05-04T04:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051164126475645414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2020831411520016384",
+              "start": 0,
+              "username": "PandaMing88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051164126475645414",
+        "in_reply_to_user_id": "2020831411520016384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051163941720715680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PandaMing88 谢谢你☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020831411520016384",
+        "conversation_id": "2051156932564865142",
+        "created_at": "2026-05-04T04:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051163941720715680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051163941720715680",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051156932564865142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 哇，这句话太有力量了！初一就能想到这个，牛！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 492,
+          "like_count": 12726,
+          "listed_count": 1,
+          "media_count": 488,
+          "tweet_count": 4224
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T12:12:57.000Z",
+        "description": "📕AI 时代努力的老登 Always Climbing \n👂Stanley社群 科普健康/情绪管理大管家\n🔭专注健康·松弛·有趣·好奇的生命状态\n🌹 X 上真诚交流，不收徒 不卖课 \n💰 商务合作： 专业顶级交付 价格小贵",
+        "id": "2020831411520016384",
+        "name": "Ming",
+        "pinned_tweet_id": "2049673890985877594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037533588527497217/KZoev8Fo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4961,
+          "following_count": 675,
+          "like_count": 3462,
+          "listed_count": 17,
+          "media_count": 676,
+          "tweet_count": 8604
+        },
+        "username": "PandaMing88",
+        "verified": true
+      }
+    ]
+  }
+}

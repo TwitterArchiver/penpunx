@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070447215139811328"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2070447220869284222",
+    "created_at": "2026-06-26T10:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070447220869284222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/je5qTOBPy1",
+          "end": 32,
+          "expanded_url": "https://x.com/penpunx/status/2070447220869284222/photo/1",
+          "media_key": "3_2070447215139811328",
+          "start": 9,
+          "url": "https://t.co/je5qTOBPy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070447220869284222",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不懂药理的有福了 https://t.co/je5qTOBPy1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 229,
+        "media_key": "3_2070447215139811328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLu0xcCa8AACJnO.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070447215139811328"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2070447220869284222",
+        "created_at": "2026-06-26T10:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070447220869284222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/je5qTOBPy1",
+              "end": 32,
+              "expanded_url": "https://x.com/penpunx/status/2070447220869284222/photo/1",
+              "media_key": "3_2070447215139811328",
+              "start": 9,
+              "url": "https://t.co/je5qTOBPy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070447220869284222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不懂药理的有福了 https://t.co/je5qTOBPy1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 592,
+          "like_count": 14188,
+          "listed_count": 1,
+          "media_count": 699,
+          "tweet_count": 5663
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

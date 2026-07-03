@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2032497655876919320",
+    "created_at": "2026-03-14T07:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T08:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032720019772289392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "D3XTR0M3TH_0w0"
+        },
+        {
+          "end": 30,
+          "id": "1455784742922555395",
+          "start": 16,
+          "username": "lengcuicui119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032720019772289392",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032670107139452963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D3XTR0M3TH_0w0 @lengcuicui119 终于找到同好了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2032670107139452963].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2032670107139452963",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2032670107139452963"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2032497655876919320",
+        "created_at": "2026-03-14T07:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T08:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032720019772289392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "D3XTR0M3TH_0w0"
+            },
+            {
+              "end": 30,
+              "id": "1455784742922555395",
+              "start": 16,
+              "username": "lengcuicui119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032720019772289392",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032670107139452963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D3XTR0M3TH_0w0 @lengcuicui119 终于找到同好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 351,
+          "like_count": 11420,
+          "listed_count": 1,
+          "media_count": 419,
+          "tweet_count": 3269
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "【锁推只是防止被推送出去】关注人=我喜欢你的内容!/同类想互关喵\n成分：磕药od/🏳️‍🌈🏳️‍⚧️💛🤍💜🖤/神经多样性\n#drugtwt #shtwt #nonbinary #transmasc #lgbtq\n画画大号@StrawberryC208",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 76,
+                "start": 70,
+                "tag": "shtwt"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "tag": "nonbinary"
+              },
+              {
+                "end": 98,
+                "start": 88,
+                "tag": "transmasc"
+              },
+              {
+                "end": 105,
+                "start": 99,
+                "tag": "lgbtq"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 110,
+                "username": "StrawberryC208"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "location": "they/them｜💉2025.8.25｜AuDHD",
+        "name": "🐱（想要互fo！）",
+        "pinned_tweet_id": "2031826542763131336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009441540230549504/cD1B4AtO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 980,
+          "like_count": 3296,
+          "listed_count": 1,
+          "media_count": 391,
+          "tweet_count": 2557
+        },
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "白兔pr重度依赖，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/请找我聊天/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/1yoxxnHPt6"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2032330373351555249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 624,
+          "like_count": 575,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 589
+        },
+        "url": "https://t.co/1yoxxnHPt6",
+        "username": "lengcuicui119",
+        "verified": false
+      }
+    ]
+  }
+}

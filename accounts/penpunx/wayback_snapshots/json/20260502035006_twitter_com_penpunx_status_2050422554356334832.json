@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2050422540624113831",
+    "created_at": "2026-05-02T03:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T04:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050422554356334832"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050422554356334832",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050422552477204629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我发现我的英语老师居然和我是邻居，原来她也这么富。她和我说为什么丧尸病毒会复发，好像和一个美国富人有关，但我没听懂。我在鼠舍里一边和朋友打电话，一边陪老鼠玩。这个时候是2025年12月31日，我正准备跨年。我和朋友约定第二天见面。然后我和几个朋友一起打电话，倒数跨年，然后互相祝福。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2050422540624113831",
+        "created_at": "2026-05-02T03:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T04:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050422554356334832"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050422554356334832",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050422552477204629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现我的英语老师居然和我是邻居，原来她也这么富。她和我说为什么丧尸病毒会复发，好像和一个美国富人有关，但我没听懂。我在鼠舍里一边和朋友打电话，一边陪老鼠玩。这个时候是2025年12月31日，我正准备跨年。我和朋友约定第二天见面。然后我和几个朋友一起打电话，倒数跨年，然后互相祝福。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2050422540624113831",
+        "created_at": "2026-05-02T03:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T04:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050422552477204629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050422552477204629",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050422550078038413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是我不小心把那个包弄破了，原来只是一个很大的水泡。我家长回来了，告诉我丧尸病毒卷土重来了，我们必须搬到乡下去（注：怀疑这里借鉴了《十日谈》）。我用炒币的钱直接买了一栋大豪斯（注：在现实中我不炒币），这栋豪宅有3层楼，因此我家长完全管不到我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 478,
+          "like_count": 12497,
+          "listed_count": 1,
+          "media_count": 482,
+          "tweet_count": 4078
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

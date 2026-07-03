@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2028448474803712030",
+    "created_at": "2026-03-02T12:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T13:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028448474803712030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1754795826713686016",
+          "start": 3,
+          "username": "xxxxinTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028448474803712030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028107926691574161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxxxinTvT: 大家总是说什么死亡超过18岁就没有美感了 那未成年的美感是是什么？ 是被学业家庭压垮的失败未成年？ 死亡只是死亡罢了 只是一个个人选择罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2028448474803712030",
+        "created_at": "2026-03-02T12:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028448474803712030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1754795826713686016",
+              "start": 3,
+              "username": "xxxxinTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028448474803712030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028107926691574161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxxxinTvT: 大家总是说什么死亡超过18岁就没有美感了 那未成年的美感是是什么？ 是被学业家庭压垮的失败未成年？ 死亡只是死亡罢了 只是一个个人选择罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754795826713686016",
+        "conversation_id": "2028107926691574161",
+        "created_at": "2026-03-01T13:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028107926691574161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028107926691574161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 11343,
+          "like_count": 346,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "大家总是说什么死亡超过18岁就没有美感了 那未成年的美感是是什么？ 是被学业家庭压垮的失败未成年？ 死亡只是死亡罢了 只是一个个人选择罢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 329,
+          "like_count": 11177,
+          "listed_count": 1,
+          "media_count": 407,
+          "tweet_count": 3144
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T09:15:12.000Z",
+        "description": "乞丐",
+        "id": "1754795826713686016",
+        "name": "xxxxin",
+        "pinned_tweet_id": "2026797349973143714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840479748897849344/7GMzuxFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 587,
+          "like_count": 24764,
+          "listed_count": 5,
+          "media_count": 50,
+          "tweet_count": 9368
+        },
+        "username": "xxxxinTvT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2011041072500416925",
+    "created_at": "2026-01-13T11:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T12:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011045471452811646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1091709361745850368",
+          "start": 0,
+          "username": "YuyuzuSoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011045471452811646",
+    "in_reply_to_user_id": "1091709361745850368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011045174894608664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuyuzuSoft 我草 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2011041072500416925",
+        "created_at": "2026-01-13T11:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T12:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011045471452811646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1091709361745850368",
+              "start": 0,
+              "username": "YuyuzuSoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011045471452811646",
+        "in_reply_to_user_id": "1091709361745850368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011045174894608664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuyuzuSoft 我草 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1091709361745850368",
+        "conversation_id": "2011041072500416925",
+        "created_at": "2026-01-13T11:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T12:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011045174894608664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011045174894608664",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011044969776365597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 我特喜欢红辣椒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 286,
+          "like_count": 10198,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 2656
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-02T14:46:09.000Z",
+        "description": "你好，我弹电贝斯，弹电吉他，谈日语，谈小语种，听电子音乐，听摇滚，玩fl，玩东方，玩音游，玩galgame，玩抑郁症，玩完了强迫症，现在玩解离，建议你和我玩",
+        "id": "1091709361745850368",
+        "location": "西安",
+        "name": "玉玉足",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010575580593524736/J4mFEfAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 129,
+          "like_count": 599,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 329
+        },
+        "username": "YuyuzuSoft",
+        "verified": false
+      }
+    ]
+  }
+}

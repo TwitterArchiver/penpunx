@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1927029286654882202",
+    "created_at": "2025-05-26T15:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T16:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927030472850202831"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1927030472850202831",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927029961136673011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的情绪被万事万物牵动，可是它们缺一不可。哪怕我很努力在外表现得坚强了，我总得歇一歇。但是这段日子没有人是好过的，所有人都喘不过气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1927029286654882202",
+        "created_at": "2025-05-26T15:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T16:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927030472850202831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927030472850202831",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927029961136673011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的情绪被万事万物牵动，可是它们缺一不可。哪怕我很努力在外表现得坚强了，我总得歇一歇。但是这段日子没有人是好过的，所有人都喘不过气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1927029286654882202",
+        "created_at": "2025-05-26T15:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T16:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927029961136673011"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927029961136673011",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927029286654882202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "精神状态上几个月来尝试了这么多但还是迷茫，学习更是没有兴趣。我不能只专供调整精神状态，而且哪怕我这么做也不能保证找到一条好的路"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo neurodivergent guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 205,
+          "like_count": 6011,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1329
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

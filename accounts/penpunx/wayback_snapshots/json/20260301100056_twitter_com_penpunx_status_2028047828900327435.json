@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2028047828900327435",
+    "created_at": "2026-03-01T10:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T11:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028047828900327435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/karmanimaXwX/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/karmanimaXwX/status/2028042756351021378",
+          "start": 15,
+          "url": "https://t.co/fxT951E11R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028047828900327435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028042756351021378",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "金发傻子，池核，...喜欢！ https://t.co/fxT951E11R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2908,
+        "media_key": "3_2028042733315903488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUOHvSbUAAZCyn.jpg",
+        "width": 2185
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2028047828900327435",
+        "created_at": "2026-03-01T10:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T11:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028047828900327435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/karmanimaXwX/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/karmanimaXwX/status/2028042756351021378",
+              "start": 15,
+              "url": "https://t.co/fxT951E11R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028047828900327435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028042756351021378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "金发傻子，池核，...喜欢！ https://t.co/fxT951E11R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028042733315903488"
+          ]
+        },
+        "author_id": "1738459764118769664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028042756351021378",
+        "created_at": "2026-03-01T09:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T10:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028042756351021378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9HJullfi6t",
+              "end": 23,
+              "expanded_url": "https://x.com/karmanimaXwX/status/2028042756351021378/photo/1",
+              "media_key": "3_2028042733315903488",
+              "start": 0,
+              "url": "https://t.co/9HJullfi6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028042756351021378",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 390,
+          "like_count": 92,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9HJullfi6t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2024557534829564202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 328,
+          "like_count": 11158,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 3134
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T07:21:43.000Z",
+        "description": "たまに絵を描いています。 AIやめてね",
+        "id": "1738459764118769664",
+        "name": "Kr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023756063015923712/cJYdCh7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 246,
+          "like_count": 88752,
+          "listed_count": 12,
+          "media_count": 63,
+          "tweet_count": 3624
+        },
+        "username": "karmanimaXwX",
+        "verified": false
+      }
+    ]
+  }
+}

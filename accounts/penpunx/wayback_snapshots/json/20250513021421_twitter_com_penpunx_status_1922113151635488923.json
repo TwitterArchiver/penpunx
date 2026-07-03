@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1921919751321739528",
+    "created_at": "2025-05-13T02:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T03:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922113151635488923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1858497031482097664",
+          "start": 0,
+          "username": "HeinrichBatman"
+        },
+        {
+          "end": 28,
+          "id": "1888664824089067520",
+          "start": 16,
+          "username": "LampWithMBV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922113151635488923",
+    "in_reply_to_user_id": "1858497031482097664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921940567895757121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HeinrichBatman @LampWithMBV 确实有些孩子气，有些歌也比较平，不过我觉得是特点之一吧"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1921940567895757121].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1921940567895757121",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1921940567895757121"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1921919751321739528",
+        "created_at": "2025-05-13T02:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T03:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922113151635488923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1858497031482097664",
+              "start": 0,
+              "username": "HeinrichBatman"
+            },
+            {
+              "end": 28,
+              "id": "1888664824089067520",
+              "start": 16,
+              "username": "LampWithMBV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922113151635488923",
+        "in_reply_to_user_id": "1858497031482097664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921940567895757121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeinrichBatman @LampWithMBV 确实有些孩子气，有些歌也比较平，不过我觉得是特点之一吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 201,
+          "like_count": 5472,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1197
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T13:06:48.000Z",
+        "description": "史上最强小孩哥\n装疯卖傻装大人第一",
+        "id": "1858497031482097664",
+        "name": "Psyche is a trip of new life",
+        "pinned_tweet_id": "1888659613987610754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918972958418309120/o0b-WWPX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 19,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1140
+        },
+        "username": "HeinrichBatman",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T19:02:44.000Z",
+        "description": "希冀在你心中不断滋长\n我却在怀疑中溺亡",
+        "id": "1888664824089067520",
+        "location": "Sunny Day Real Estate",
+        "name": "Star Fruit Surf Rider",
+        "pinned_tweet_id": "1895034510636654997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921827813021396992/2KKj5WQ6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 158,
+          "like_count": 10943,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 3196
+        },
+        "username": "LampWithMBV",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1955399100998058177",
+    "created_at": "2025-08-13T14:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T15:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955642784549110230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1240202079789961217",
+          "start": 0,
+          "username": "rain_1587"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955642784549110230",
+    "in_reply_to_user_id": "1240202079789961217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955399100998058177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rain_1587 锦江乐园地铁站"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955399090541670400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyL5HNnbsAA_AXo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1955399100998058177",
+        "created_at": "2025-08-13T14:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T15:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955642784549110230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1240202079789961217",
+              "start": 0,
+              "username": "rain_1587"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955642784549110230",
+        "in_reply_to_user_id": "1240202079789961217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955399100998058177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rain_1587 锦江乐园地铁站"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955399090541670400"
+          ]
+        },
+        "author_id": "1240202079789961217",
+        "conversation_id": "1955399100998058177",
+        "created_at": "2025-08-12T22:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T23:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955399100998058177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pWFiZZeleH",
+              "end": 34,
+              "expanded_url": "https://x.com/rain_1587/status/1955399100998058177/photo/1",
+              "media_key": "3_1955399090541670400",
+              "start": 11,
+              "url": "https://t.co/pWFiZZeleH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955399100998058177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看帅哥让我心情愉悦。 https://t.co/pWFiZZeleH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y NB ASD CN, EN, PO",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 237,
+          "like_count": 8103,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 1899
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-18T09:03:24.000Z",
+        "description": "🦊/🚗/全职猎人/nirvana/六英尺九英寸/自封珠宝设计师可以找我买珠宝",
+        "id": "1240202079789961217",
+        "location": "距你 114514 米",
+        "name": "🦊Rain（煊赫门重度依赖）",
+        "pinned_tweet_id": "1732371525880402126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869403714995568641/wWxP73Ff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 2110,
+          "like_count": 140024,
+          "listed_count": 4,
+          "media_count": 2643,
+          "tweet_count": 22416
+        },
+        "username": "rain_1587",
+        "verified": false
+      }
+    ]
+  }
+}

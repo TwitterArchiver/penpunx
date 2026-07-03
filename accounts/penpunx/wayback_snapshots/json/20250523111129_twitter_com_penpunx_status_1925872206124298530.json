@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1925872160100303083",
+    "created_at": "2025-05-23T11:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T12:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925872206124298530"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1925872206124298530",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925872160100303083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "数学老师适合去讲脱口秀（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1925872160100303083",
+        "created_at": "2025-05-23T11:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T12:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925872206124298530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925872206124298530",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925872160100303083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "数学老师适合去讲脱口秀（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1925872160100303083",
+        "created_at": "2025-05-23T11:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T12:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925872160100303083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925872160100303083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这张卷子我出的 能给你的分就55分啊\n哎来看第十题 上海的高考题就是这样的 想的多算的少 就是智力测试题\n​这种题你放到小学换个说法 小学生也能做的\n​你懂吗 这种题跟年龄没关系\n​你小时候能做出来 大了也能做 小时候做不出来你大了也别想了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo neurodivergent guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 203,
+          "like_count": 5920,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 1303
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

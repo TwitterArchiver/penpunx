@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2050778959349199340",
+    "created_at": "2026-05-03T21:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T22:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051055455133471191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "27288411",
+          "start": 0,
+          "username": "wanghm7419"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051055455133471191",
+    "in_reply_to_user_id": "27288411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051054982086967760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanghm7419 和哥伦比亚比起来呢\n我对安第斯文化确实挺感兴趣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2051054974944067584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHbPofxWwAAnneO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2050778959349199340",
+        "created_at": "2026-05-03T21:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T22:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051055455133471191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "27288411",
+              "start": 0,
+              "username": "wanghm7419"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051055455133471191",
+        "in_reply_to_user_id": "27288411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051054982086967760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanghm7419 和哥伦比亚比起来呢\n我对安第斯文化确实挺感兴趣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051054974944067584"
+          ]
+        },
+        "author_id": "27288411",
+        "conversation_id": "2050778959349199340",
+        "created_at": "2026-05-03T21:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T22:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051054982086967760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A8xTjio245",
+              "end": 98,
+              "expanded_url": "https://x.com/wanghm7419/status/2051054982086967760/photo/1",
+              "media_key": "3_2051054974944067584",
+              "start": 75,
+              "url": "https://t.co/A8xTjio245"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051054982086967760",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051054567513841672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 看地区，乱的地方很乱，但这也只是局限在某些地区，但这里也有还可以的地方，在路上拿着手机也不用担心被抢，这样的地方也不少。比如这里。 https://t.co/A8xTjio245"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 488,
+          "like_count": 12702,
+          "listed_count": 1,
+          "media_count": 488,
+          "tweet_count": 4206
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-28T19:13:21.000Z",
+        "description": "",
+        "id": "27288411",
+        "location": "Quito, Ecuador",
+        "name": "王威廉🚀🚀🚀🌝",
+        "pinned_tweet_id": "1841833712071114757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853928918799052801/syZNK2Y2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 1650,
+          "like_count": 10509,
+          "listed_count": 18,
+          "media_count": 1036,
+          "tweet_count": 25088
+        },
+        "username": "wanghm7419",
+        "verified": false
+      }
+    ]
+  }
+}

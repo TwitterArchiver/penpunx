@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2041471771417911547",
+    "created_at": "2026-04-07T11:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T12:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041471771417911547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RXdruglab/stat…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/RXdruglab/status/2041150206654480586",
+          "start": 31,
+          "url": "https://t.co/HX9DmXC57U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041471771417911547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041150206654480586",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我买，我妈也买，没被抓（可能我们买的那会正好是流感高发期吧） https://t.co/HX9DmXC57U"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2041471771417911547",
+        "created_at": "2026-04-07T11:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041471771417911547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RXdruglab/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/RXdruglab/status/2041150206654480586",
+              "start": 31,
+              "url": "https://t.co/HX9DmXC57U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041471771417911547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041150206654480586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我买，我妈也买，没被抓（可能我们买的那会正好是流感高发期吧） https://t.co/HX9DmXC57U"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2041150206654480586",
+        "created_at": "2026-04-06T13:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041150206654480586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041150206654480586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 11753,
+          "like_count": 102,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "根据综合反馈来看，买愈美片是会被上门的，被上门这个事主要看你买的次数频率，美团和淘宝都会被抓，pdd好像也会。\n一个月内买三次大概就会触发，和单次买多少没关系，一次买非常多也没事。\n这个是经验综合，不一定完全准确，各地标准也不一定统一，还是要以实际情况为准。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 395,
+          "like_count": 11813,
+          "listed_count": 1,
+          "media_count": 446,
+          "tweet_count": 3566
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18879,
+          "following_count": 16,
+          "like_count": 35,
+          "listed_count": 23,
+          "media_count": 53,
+          "tweet_count": 1663
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

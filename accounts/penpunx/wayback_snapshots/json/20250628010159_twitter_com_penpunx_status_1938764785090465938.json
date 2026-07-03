@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938764779444965376"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1938752293563965671",
+    "created_at": "2025-06-28T01:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T02:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938764785090465938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1661567984815489026",
+          "start": 0,
+          "username": "sentientGirlx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eqmAgQgFXs",
+          "end": 38,
+          "expanded_url": "https://x.com/penpunx/status/1938764785090465938/photo/1",
+          "media_key": "3_1938764779444965376",
+          "start": 15,
+          "url": "https://t.co/eqmAgQgFXs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938764785090465938",
+    "in_reply_to_user_id": "1661567984815489026",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938752293563965671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sentientGirlx https://t.co/eqmAgQgFXs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 120,
+        "media_key": "3_1938764779444965376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GufgS33bEAA8kTs.jpg",
+        "width": 592
+      },
+      {
+        "height": 892,
+        "media_key": "3_1938752288551489536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GufU7zqWUAAVgyt.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938764779444965376"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1938752293563965671",
+        "created_at": "2025-06-28T01:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T02:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938764785090465938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1661567984815489026",
+              "start": 0,
+              "username": "sentientGirlx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eqmAgQgFXs",
+              "end": 38,
+              "expanded_url": "https://x.com/penpunx/status/1938764785090465938/photo/1",
+              "media_key": "3_1938764779444965376",
+              "start": 15,
+              "url": "https://t.co/eqmAgQgFXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938764785090465938",
+        "in_reply_to_user_id": "1661567984815489026",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938752293563965671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sentientGirlx https://t.co/eqmAgQgFXs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938752288551489536"
+          ]
+        },
+        "author_id": "1661567984815489026",
+        "conversation_id": "1938752293563965671",
+        "created_at": "2025-06-28T00:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T01:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938752293563965671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H1jugtEW6B",
+              "end": 36,
+              "expanded_url": "https://x.com/sentientGirlx/status/1938752293563965671/photo/1",
+              "media_key": "3_1938752288551489536",
+              "start": 13,
+              "url": "https://t.co/H1jugtEW6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938752293563965671",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 604,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "am i winning https://t.co/H1jugtEW6B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 204,
+          "like_count": 6588,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1493
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-25T03:01:01.000Z",
+        "description": "⊹ ࣪ ˖ ~ 🍰🌸 # 1 greens on toast cheerleader🎵🐭💌🐝˗ˏˋ ꒰bmi 1.6 , 8.5lbs , 5ft 1in꒱ ˎˊ˗🍪🍀🐾🍓 ⋆｡˚ 🥨. ݁₊ 🐛🍎charlotte fang,save me.!!⊹ ✏️🐠. ݁˖ . ݁⋆౨ৎ˚⟡˖ ࣪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ashbie.straw.page",
+                "end": 23,
+                "expanded_url": "https://ashbie.straw.page",
+                "start": 0,
+                "url": "https://t.co/fm3nvVMOG7"
+              }
+            ]
+          }
+        },
+        "id": "1661567984815489026",
+        "location": "sentientgirl.eth ❤︎ milady ",
+        "name": "ashbie🧁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921002075275526144/2aAJrW2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10819,
+          "following_count": 2032,
+          "like_count": 145563,
+          "listed_count": 54,
+          "media_count": 1170,
+          "tweet_count": 19619
+        },
+        "url": "https://t.co/fm3nvVMOG7",
+        "username": "sentientGirlx",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1898582511501885639",
+    "created_at": "2025-03-09T12:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T13:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898707516718243893"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "omori",
+          "probability": 0.7145,
+          "start": 16,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "KillBasil_2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898707516718243893",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898582511501885639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KillBasil_2008 omori!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1898582511501885639",
+        "created_at": "2025-03-09T12:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T13:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898707516718243893"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "omori",
+              "probability": 0.7145,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "KillBasil_2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898707516718243893",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898582511501885639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillBasil_2008 omori!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "1898582511501885639",
+        "created_at": "2025-03-09T03:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T04:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898582511501885639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898582511501885639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3223,
+          "like_count": 68,
+          "quote_count": 4,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一人说一款你们最喜欢的游戏！\n我先说：Omori！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "Is Thalstanian - never gives up / metal & rock & dungeon synth lover / 16yo neurodivergent guy / Chinese, English, Portuguese in learning / he/him",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898235281863852037/maSqb7YF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 90,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 95
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "最喜欢做的事是睡觉，最喜欢的角色是七海千秋，最喜欢的饮料是维他柠檬茶，最喜欢的天气是雨天，最喜欢的人是你 互动小号：@qhqq114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "qhqq114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "帕拉迪岛",
+        "name": "灼眼的時行",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894479853765726208/WMvXgosb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4219,
+          "following_count": 1203,
+          "like_count": 21679,
+          "listed_count": 11,
+          "media_count": 102,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "KillBasil_2008",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1340030029003071488",
+          "name": "Julius Caesar"
+        }
+      }
+    ],
+    "conversation_id": "2066167705317872044",
+    "created_at": "2026-06-14T14:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066167705317872044"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/leodavinciwave…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/leodavinciwave/status/2065715798673633733",
+          "start": 5,
+          "url": "https://t.co/OKqzRAjrq3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066167705317872044",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065715798673633733",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "need https://t.co/OKqzRAjrq3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2065647956930555905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqn31_bcAEIpYg.png",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1340030029003071488",
+              "name": "Julius Caesar"
+            }
+          }
+        ],
+        "conversation_id": "2066167705317872044",
+        "created_at": "2026-06-14T14:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066167705317872044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/leodavinciwave…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/leodavinciwave/status/2065715798673633733",
+              "start": 5,
+              "url": "https://t.co/OKqzRAjrq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066167705317872044",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065715798673633733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "need https://t.co/OKqzRAjrq3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065647956930555905"
+          ]
+        },
+        "author_id": "1926505021153144832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1340030029003071488",
+              "name": "Julius Caesar"
+            }
+          }
+        ],
+        "conversation_id": "2065715798673633733",
+        "created_at": "2026-06-13T08:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065715798673633733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ilhgIUp8PX",
+              "end": 50,
+              "expanded_url": "https://x.com/LeoDaVinciWave/status/2065715798673633733/photo/1",
+              "media_key": "3_2065647956930555905",
+              "start": 27,
+              "url": "https://t.co/ilhgIUp8PX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065715798673633733",
+        "lang": "cy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6081,
+          "impression_count": 2574537,
+          "like_count": 86930,
+          "quote_count": 1179,
+          "reply_count": 905,
+          "retweet_count": 8374
+        },
+        "reply_settings": "everyone",
+        "text": "Julius Caesar knife block. https://t.co/ilhgIUp8PX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "巴卡巴拉，苏卡纳纳马斯。",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 571,
+          "like_count": 13860,
+          "listed_count": 1,
+          "media_count": 618,
+          "tweet_count": 5208
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T05:06:14.000Z",
+        "description": "🏛 History । Culture । Art । Science & Nature । Politics l🏛 Always curious, always learning.",
+        "id": "1926505021153144832",
+        "location": "🌎 ",
+        "name": "LeoDaVinciWave",
+        "pinned_tweet_id": "2065715798673633733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926505143782014976/WW9FH2Kl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36890,
+          "following_count": 6703,
+          "like_count": 22443,
+          "listed_count": 251,
+          "media_count": 4481,
+          "tweet_count": 8874
+        },
+        "username": "LeoDaVinciWave",
+        "verified": true
+      }
+    ]
+  }
+}

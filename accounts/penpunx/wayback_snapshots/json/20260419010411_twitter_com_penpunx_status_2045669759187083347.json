@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2038400603966337148",
+    "created_at": "2026-04-19T01:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T02:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045669759187083347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeikuhakushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045669759187083347",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038400603966337148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeikuhakushi 好热带🌴的图片"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2038400582260830208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEnah5ebMAAT_wQ.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2038400596353630208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEnait-aQAAGvPV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2038400603966337148",
+        "created_at": "2026-04-19T01:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T02:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045669759187083347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045669759187083347",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038400603966337148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 好热带🌴的图片"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038400582260830208",
+            "3_2038400596353630208"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038400603966337148",
+        "created_at": "2026-03-29T23:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T00:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038400603966337148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d4P9yhxxx9",
+              "end": 30,
+              "expanded_url": "https://x.com/bungeihaku8964/status/2038400603966337148/photo/1",
+              "media_key": "3_2038400582260830208",
+              "start": 7,
+              "url": "https://t.co/d4P9yhxxx9"
+            },
+            {
+              "display_url": "pic.x.com/d4P9yhxxx9",
+              "end": 30,
+              "expanded_url": "https://x.com/bungeihaku8964/status/2038400603966337148/photo/1",
+              "media_key": "3_2038400596353630208",
+              "start": 7,
+              "url": "https://t.co/d4P9yhxxx9"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2038400603966337148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1098,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什麼鬼天氣😰 https://t.co/d4P9yhxxx9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 415,
+          "like_count": 12091,
+          "listed_count": 1,
+          "media_count": 456,
+          "tweet_count": 3777
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生 炒作小男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1698,
+          "following_count": 385,
+          "like_count": 10942,
+          "listed_count": 4,
+          "media_count": 618,
+          "tweet_count": 3105
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

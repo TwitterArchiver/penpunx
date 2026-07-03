@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2013971722815287598",
+    "created_at": "2026-01-21T13:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T14:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013973405586854159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1576323818087649281",
+          "start": 0,
+          "username": "Ez0Qu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013973405586854159",
+    "in_reply_to_user_id": "1576323818087649281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013971722815287598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ez0Qu 好听这张"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013971710530523136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_MQmanbkAAyaJc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2013971722815287598",
+        "created_at": "2026-01-21T13:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013973405586854159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1576323818087649281",
+              "start": 0,
+              "username": "Ez0Qu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013973405586854159",
+        "in_reply_to_user_id": "1576323818087649281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013971722815287598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ez0Qu 好听这张"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013971710530523136"
+          ]
+        },
+        "author_id": "1576323818087649281",
+        "conversation_id": "2013971722815287598",
+        "created_at": "2026-01-21T13:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013971722815287598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJEn00eGk3",
+              "end": 26,
+              "expanded_url": "https://x.com/Ez0Qu/status/2013971722815287598/photo/1",
+              "media_key": "3_2013971710530523136",
+              "start": 3,
+              "url": "https://t.co/fJEn00eGk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013971722815287598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吊牌 https://t.co/fJEn00eGk3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2012869391504023900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 296,
+          "like_count": 10399,
+          "listed_count": 1,
+          "media_count": 374,
+          "tweet_count": 2762
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T21:31:11.000Z",
+        "description": "I.",
+        "id": "1576323818087649281",
+        "name": "rakka",
+        "pinned_tweet_id": "1878020076215116095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012185264446373888/OuoTgxUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 491,
+          "like_count": 3659,
+          "listed_count": 3,
+          "media_count": 32,
+          "tweet_count": 1470
+        },
+        "username": "Ez0Qu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2050194456914382990",
+    "created_at": "2026-05-01T12:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T13:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050195799888597148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1324382456078884865",
+          "start": 0,
+          "username": "zszszz5211314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050195799888597148",
+    "in_reply_to_user_id": "1324382456078884865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050195133728243962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zszszz5211314 是变成电信号了 但没有消亡 只有传输的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2050194456914382990",
+        "created_at": "2026-05-01T12:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T13:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050195799888597148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1324382456078884865",
+              "start": 0,
+              "username": "zszszz5211314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050195799888597148",
+        "in_reply_to_user_id": "1324382456078884865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050195133728243962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zszszz5211314 是变成电信号了 但没有消亡 只有传输的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324382456078884865",
+        "conversation_id": "2050194456914382990",
+        "created_at": "2026-05-01T12:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T13:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050195133728243962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050195133728243962",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050194456914382990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 感觉自己变成电信号在逐渐消亡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 471,
+          "like_count": 12457,
+          "listed_count": 1,
+          "media_count": 480,
+          "tweet_count": 4046
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T16:06:10.000Z",
+        "description": "",
+        "id": "1324382456078884865",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "benx",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 71,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "zszszz5211314",
+        "verified": false
+      }
+    ]
+  }
+}

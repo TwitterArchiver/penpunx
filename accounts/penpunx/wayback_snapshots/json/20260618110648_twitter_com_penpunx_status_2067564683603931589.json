@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2067439392063705349",
+    "created_at": "2026-06-18T11:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067564683603931589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2014216293705187328",
+          "start": 0,
+          "username": "Mandykwko"
+        },
+        {
+          "end": 27,
+          "id": "1492808050461196288",
+          "start": 11,
+          "username": "Breaking_Lead_G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067564683603931589",
+    "in_reply_to_user_id": "2014216293705187328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067455971681808742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mandykwko @Breaking_Lead_G 她18（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2067439392063705349",
+        "created_at": "2026-06-18T11:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067564683603931589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2014216293705187328",
+              "start": 0,
+              "username": "Mandykwko"
+            },
+            {
+              "end": 27,
+              "id": "1492808050461196288",
+              "start": 11,
+              "username": "Breaking_Lead_G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067564683603931589",
+        "in_reply_to_user_id": "2014216293705187328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067455971681808742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mandykwko @Breaking_Lead_G 她18（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014216293705187328",
+        "conversation_id": "2067439392063705349",
+        "created_at": "2026-06-18T03:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067455971681808742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492808050461196288",
+              "start": 0,
+              "username": "Breaking_Lead_G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067455971681808742",
+        "in_reply_to_user_id": "1492808050461196288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067439392063705349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Breaking_Lead_G 我在上海找过实习，确实很困难…（）而且不知道你成年没，没成年的话没人敢招的…qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "巴卡巴拉，苏卡纳纳马斯。",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 575,
+          "like_count": 13917,
+          "listed_count": 1,
+          "media_count": 629,
+          "tweet_count": 5276
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T06:00:22.000Z",
+        "description": "And nobody, in all of Oz, no wizard that there is or was, is ever gonna bring me down.",
+        "id": "2014216293705187328",
+        "name": "倘若不可相约在和平地方",
+        "pinned_tweet_id": "2064904342755549408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067427541770706944/TGIMjxWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 80,
+          "like_count": 4614,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 751
+        },
+        "username": "Mandykwko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T10:29:22.000Z",
+        "description": "- 我愛 函數式編程 古典音樂 中古漢語 魔法 @10lulu2 还有你！\n- 我恨 數學分析 實分析 傅裡葉分析 泛函分析 精神分析 犯愁論\n- 初级程序员，时不时折腾小东西（\n- 我讨厌 Scheme ，wy 最爱的垃圾语言\n- 我是古法编程仙人\n- 18yo\n計算機科學/數學討論群 613637913",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "10lulu2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lmgtfy.com",
+                "end": 23,
+                "expanded_url": "http://lmgtfy.com",
+                "start": 0,
+                "url": "https://t.co/ZJLsEbzS7P"
+              }
+            ]
+          }
+        },
+        "id": "1492808050461196288",
+        "location": "Xi'an",
+        "name": "月",
+        "pinned_tweet_id": "2066054416197885980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050418708611571712/-6VIffCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 761,
+          "like_count": 1856,
+          "listed_count": 8,
+          "media_count": 891,
+          "tweet_count": 10392
+        },
+        "url": "https://t.co/ZJLsEbzS7P",
+        "username": "Breaking_Lead_G",
+        "verified": false
+      }
+    ]
+  }
+}

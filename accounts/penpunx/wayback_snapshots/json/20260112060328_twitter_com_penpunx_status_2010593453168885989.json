@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2010566285609099355",
+    "created_at": "2026-01-12T06:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T07:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010593453168885989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1091709361745850368",
+          "start": 0,
+          "username": "YuyuzuSoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010593453168885989",
+    "in_reply_to_user_id": "1091709361745850368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010576717166129286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuyuzuSoft 那我要继续吃吗🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2010566285609099355",
+        "created_at": "2026-01-12T06:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T07:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010593453168885989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1091709361745850368",
+              "start": 0,
+              "username": "YuyuzuSoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010593453168885989",
+        "in_reply_to_user_id": "1091709361745850368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010576717166129286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuyuzuSoft 那我要继续吃吗🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1091709361745850368",
+        "conversation_id": "2010566285609099355",
+        "created_at": "2026-01-12T04:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T05:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010576717166129286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010576717166129286",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010566285609099355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 其实你突然停药也会，突然开始吃药也是会的，精神药品吃出问题主要是因为剂量突然变动，任何调整都得慢慢加量的其实()"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 282,
+          "like_count": 10129,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 2634
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-02T14:46:09.000Z",
+        "description": "你好，我弹电贝斯，弹电吉他，谈日语，谈小语种，听电子音乐，听摇滚，玩fl，玩东方，玩音游，玩galgame，玩抑郁症，玩完了强迫症，现在玩解离，建议你和我玩",
+        "id": "1091709361745850368",
+        "location": "西安",
+        "name": "玉玉足",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010575580593524736/J4mFEfAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 130,
+          "like_count": 587,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 303
+        },
+        "username": "YuyuzuSoft",
+        "verified": false
+      }
+    ]
+  }
+}

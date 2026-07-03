@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2055874073482420511",
+    "created_at": "2026-05-17T04:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055874073482420511"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/smiroyama/stat…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/smiroyama/status/2055836899626094727",
+          "start": 62,
+          "url": "https://t.co/TJMB5EYIZ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055874073482420511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055836899626094727",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我以前一直以为只有中国和台湾说华语\n没想到大马华人华语好得超乎想象\n\n从这种角度来说华语这个词比中文、汉语更好，更去中心化 https://t.co/TJMB5EYIZ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1372,
+        "media_key": "3_2055836843619524608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfMt4waIAAuAb9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2055874073482420511",
+        "created_at": "2026-05-17T04:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055874073482420511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/smiroyama/status/2055836899626094727",
+              "start": 62,
+              "url": "https://t.co/TJMB5EYIZ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055874073482420511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055836899626094727",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以前一直以为只有中国和台湾说华语\n没想到大马华人华语好得超乎想象\n\n从这种角度来说华语这个词比中文、汉语更好，更去中心化 https://t.co/TJMB5EYIZ6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055836843619524608"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2055836899626094727",
+        "created_at": "2026-05-17T02:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055836899626094727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wku0a2U23a",
+              "end": 40,
+              "expanded_url": "https://x.com/smiroyama/status/2055836899626094727/photo/1",
+              "media_key": "3_2055836843619524608",
+              "start": 17,
+              "url": "https://t.co/wku0a2U23a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055836899626094727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2013,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小时候看哆啦A梦听的是le se https://t.co/wku0a2U23a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 532,
+          "like_count": 13380,
+          "listed_count": 1,
+          "media_count": 521,
+          "tweet_count": 4628
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5085,
+          "following_count": 2236,
+          "like_count": 11269,
+          "listed_count": 18,
+          "media_count": 1673,
+          "tweet_count": 6595
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

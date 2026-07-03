@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1955012627673104830",
+    "created_at": "2025-08-12T03:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T04:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955114650204508361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1917182944416030720",
+          "start": 0,
+          "username": "solf1sh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955114650204508361",
+    "in_reply_to_user_id": "1917182944416030720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955114360529096851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@solf1sh 没听说cup还打瓦)🤯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1955012627673104830",
+        "created_at": "2025-08-12T03:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T04:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955114650204508361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917182944416030720",
+              "start": 0,
+              "username": "solf1sh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955114650204508361",
+        "in_reply_to_user_id": "1917182944416030720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955114360529096851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@solf1sh 没听说cup还打瓦)🤯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917182944416030720",
+        "conversation_id": "1955012627673104830",
+        "created_at": "2025-08-12T03:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T04:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955114360529096851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955114360529096851",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955020665612038611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 你来当我的爸爸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y NB ASD CN, EN, PO",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 233,
+          "like_count": 8021,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 1880
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T11:43:50.000Z",
+        "description": "埏埴以為器",
+        "id": "1917182944416030720",
+        "location": "UTC+08:00",
+        "name": "Solfish",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952314280818495488/2T-O1guR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 113,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 39
+        },
+        "username": "solf1sh",
+        "verified": false
+      }
+    ]
+  }
+}

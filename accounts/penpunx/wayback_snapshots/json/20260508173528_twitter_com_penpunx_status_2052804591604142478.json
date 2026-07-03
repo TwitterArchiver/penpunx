@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052479361350074374"
+      ],
+      "media_source_tweet_id": [
+        "2052479366131585036"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2052804591604142478",
+    "created_at": "2026-05-08T17:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052804591604142478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1251281212804681729",
+          "start": 3,
+          "username": "aurapills"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aU9QxLB4JR",
+          "end": 38,
+          "expanded_url": "https://x.com/aurapills/status/2052479366131585036/photo/1",
+          "media_key": "3_2052479361350074374",
+          "start": 15,
+          "url": "https://t.co/aU9QxLB4JR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052804591604142478",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1823
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052479366131585036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aurapills: https://t.co/aU9QxLB4JR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 566,
+        "media_key": "3_2052479361350074374",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHvfGsoXgAYzT4g.jpg",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052479361350074374"
+          ],
+          "media_source_tweet_id": [
+            "2052479366131585036"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2052804591604142478",
+        "created_at": "2026-05-08T17:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052804591604142478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1251281212804681729",
+              "start": 3,
+              "username": "aurapills"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aU9QxLB4JR",
+              "end": 38,
+              "expanded_url": "https://x.com/aurapills/status/2052479366131585036/photo/1",
+              "media_key": "3_2052479361350074374",
+              "start": 15,
+              "url": "https://t.co/aU9QxLB4JR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052804591604142478",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1823
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052479366131585036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aurapills: https://t.co/aU9QxLB4JR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052479361350074374"
+          ]
+        },
+        "author_id": "1251281212804681729",
+        "conversation_id": "2052479366131585036",
+        "created_at": "2026-05-07T20:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T21:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052479366131585036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aU9QxLB4JR",
+              "end": 23,
+              "expanded_url": "https://x.com/aurapills/status/2052479366131585036/photo/1",
+              "media_key": "3_2052479361350074374",
+              "start": 0,
+              "url": "https://t.co/aU9QxLB4JR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052479366131585036",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 452,
+          "impression_count": 137971,
+          "like_count": 8353,
+          "quote_count": 107,
+          "reply_count": 10,
+          "retweet_count": 1823
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aU9QxLB4JR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 509,
+          "like_count": 13011,
+          "listed_count": 1,
+          "media_count": 503,
+          "tweet_count": 4354
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-17T22:47:53.000Z",
+        "description": "parezco la ruleta de un casino",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nott.aura?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nott.aura?igsh=bzMxOG95bHRpN243&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/ENYpVeGM25"
+              }
+            ]
+          }
+        },
+        "id": "1251281212804681729",
+        "name": "🪷",
+        "pinned_tweet_id": "2051111670810873866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033535758917885954/MID6u-_k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 392,
+          "like_count": 16686,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 2042
+        },
+        "url": "https://t.co/ENYpVeGM25",
+        "username": "aurapills",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1955107435557031937"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1955107581745303694",
+    "created_at": "2025-08-12T03:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T04:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955107581745303694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8U9pLDY0LR",
+          "end": 35,
+          "expanded_url": "https://x.com/penpunx/status/1955107581745303694/video/1",
+          "media_key": "13_1955107435557031937",
+          "start": 12,
+          "url": "https://t.co/8U9pLDY0LR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955107581745303694",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "luv sic pt4 https://t.co/8U9pLDY0LR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24263,
+        "height": 496,
+        "media_key": "13_1955107435557031937",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1955107435557031937/img/uwd0q7Ry9nO1oRDU.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955107435557031937/vid/avc1/230x496/5A-xnbG_Hr7N3EFq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1955107435557031937/pl/VI_nJjc_K3fKTbaz.m3u8"
+          }
+        ],
+        "width": 230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1955107435557031937"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1955107581745303694",
+        "created_at": "2025-08-12T03:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T04:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955107581745303694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8U9pLDY0LR",
+              "end": 35,
+              "expanded_url": "https://x.com/penpunx/status/1955107581745303694/video/1",
+              "media_key": "13_1955107435557031937",
+              "start": 12,
+              "url": "https://t.co/8U9pLDY0LR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955107581745303694",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "luv sic pt4 https://t.co/8U9pLDY0LR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y NB ASD CN, EN, PO",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 233,
+          "like_count": 8025,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 1879
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

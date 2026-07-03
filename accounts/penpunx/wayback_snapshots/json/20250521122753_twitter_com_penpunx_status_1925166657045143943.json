@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1925110432420757616",
+    "created_at": "2025-05-21T12:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T13:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925166657045143943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1000994344914972672",
+          "start": 0,
+          "username": "mirrorzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925166657045143943",
+    "in_reply_to_user_id": "1000994344914972672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925110432420757616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mirrorzk 地方警务系统公开技术引进采购清单公示的网址是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1925110432420757616",
+        "created_at": "2025-05-21T12:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T13:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925166657045143943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1000994344914972672",
+              "start": 0,
+              "username": "mirrorzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925166657045143943",
+        "in_reply_to_user_id": "1000994344914972672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925110432420757616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mirrorzk 地方警务系统公开技术引进采购清单公示的网址是什么"
+      },
+      {
+        "article": {
+          "title": "鹰眼-B：边检口岸的数字审查利器"
+        },
+        "attachments": {},
+        "author_id": "1000994344914972672",
+        "conversation_id": "1925110432420757616",
+        "created_at": "2025-05-21T08:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T09:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925110432420757616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/1925…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/1925106276759175170",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/1925106276759175170",
+              "url": "https://t.co/dDTJZ60l7O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925110432420757616",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 44265,
+          "like_count": 110,
+          "quote_count": 6,
+          "reply_count": 18,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dDTJZ60l7O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo neurodivergent guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 204,
+          "like_count": 5844,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1280
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-28T06:57:04.000Z",
+        "description": "负责人 @ZEROBASEzk & @SALUS_sec ✨密码学产业教授 @SJTU1896 🎖️科创领军 🥳由伟大者资助 @NSF @EF_ESP @PrivacyScaling 分享里世界知识，知识、隐私与平权运动请关注 @ZEROBASEzk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "ZEROBASEzk"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "SALUS_sec"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "SJTU1896"
+              },
+              {
+                "end": 67,
+                "start": 63,
+                "username": "NSF"
+              },
+              {
+                "end": 75,
+                "start": 68,
+                "username": "EF_ESP"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "PrivacyScaling"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "ZEROBASEzk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zerobase.pro",
+                "end": 23,
+                "expanded_url": "http://zerobase.pro",
+                "start": 0,
+                "url": "https://t.co/4GQ206yGTO"
+              }
+            ]
+          }
+        },
+        "id": "1000994344914972672",
+        "location": "+1 (779) 2777777",
+        "name": "Mirror Tang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900601735170723840/Kj2GofIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28095,
+          "following_count": 912,
+          "like_count": 4399,
+          "listed_count": 137,
+          "media_count": 360,
+          "tweet_count": 3169
+        },
+        "url": "https://t.co/4GQ206yGTO",
+        "username": "mirrorzk",
+        "verified": true
+      }
+    ]
+  }
+}

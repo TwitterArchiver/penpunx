@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2023339958698922370",
+    "created_at": "2026-02-16T10:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T11:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023339958698922370"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aigxiapbpkix3/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/aigxiapbpkix3/status/2023289836493476136",
+          "start": 7,
+          "url": "https://t.co/cqOBbxNWdN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023339958698922370",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023289836493476136",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也有一次😨 https://t.co/cqOBbxNWdN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023289828461453312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQrYQ8bIAAaIbg.jpg",
+        "width": 1045
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2023339958698922370",
+        "created_at": "2026-02-16T10:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023339958698922370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aigxiapbpkix3/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/aigxiapbpkix3/status/2023289836493476136",
+              "start": 7,
+              "url": "https://t.co/cqOBbxNWdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023339958698922370",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023289836493476136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也有一次😨 https://t.co/cqOBbxNWdN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023289828461453312"
+          ]
+        },
+        "author_id": "1529373912764514304",
+        "conversation_id": "2023289836493476136",
+        "created_at": "2026-02-16T06:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023289836493476136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YdW9CvlS6d",
+              "end": 40,
+              "expanded_url": "https://x.com/AigXiApbPKiX3/status/2023289836493476136/photo/1",
+              "media_key": "3_2023289828461453312",
+              "start": 17,
+              "url": "https://t.co/YdW9CvlS6d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023289836493476136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 972,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我似乎见过两次濒死了诶？.... https://t.co/YdW9CvlS6d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2012869391504023900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 303,
+          "like_count": 10634,
+          "listed_count": 1,
+          "media_count": 396,
+          "tweet_count": 2899
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T08:08:57.000Z",
+        "description": "中文 / 🇯🇵日本語勉強中    日本留学 ♂️    电子核重度依赖 / 邦ロック / 迷子 / 夢限大みゅーたいぷ / 盯鞋 / 金属 / 核  / OD / カード     抑郁焦虑...",
+        "id": "1529373912764514304",
+        "location": "中野駅",
+        "name": "Relic",
+        "pinned_tweet_id": "2005681609413107866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009458384773492736/PjBe_ohx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 421,
+          "like_count": 21127,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 858
+        },
+        "username": "AigXiApbPKiX3",
+        "verified": false
+      }
+    ]
+  }
+}

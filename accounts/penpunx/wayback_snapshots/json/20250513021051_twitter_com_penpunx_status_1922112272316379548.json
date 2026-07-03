@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1922095020535939321",
+    "created_at": "2025-05-13T02:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T03:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922112272316379548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1637043124248928256",
+          "start": 0,
+          "username": "god_afternon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922112272316379548",
+    "in_reply_to_user_id": "1637043124248928256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922095020535939321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@god_afternon 🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1922095020535939321",
+        "created_at": "2025-05-13T02:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T03:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922112272316379548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1637043124248928256",
+              "start": 0,
+              "username": "god_afternon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922112272316379548",
+        "in_reply_to_user_id": "1637043124248928256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922095020535939321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@god_afternon 🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637043124248928256",
+        "conversation_id": "1922095020535939321",
+        "created_at": "2025-05-13T01:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T02:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922095020535939321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922095020535939321",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 201,
+          "like_count": 5469,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1195
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T10:48:11.000Z",
+        "description": "saddest player on chain",
+        "id": "1637043124248928256",
+        "name": "天真黑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918978782888968192/-8WAziJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 2161,
+          "like_count": 4324,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "username": "god_afternon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2057432511287071203",
+    "created_at": "2026-05-31T22:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T23:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061217445269156100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1498281208182050817",
+          "start": 0,
+          "username": "YINGIsNotGnu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061217445269156100",
+    "in_reply_to_user_id": "1498281208182050817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061214048541462953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YINGIsNotGnu 一个药理学bot"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2057432511287071203",
+        "created_at": "2026-05-31T22:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T23:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061217445269156100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1498281208182050817",
+              "start": 0,
+              "username": "YINGIsNotGnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061217445269156100",
+        "in_reply_to_user_id": "1498281208182050817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061214048541462953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YINGIsNotGnu 一个药理学bot"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498281208182050817",
+        "conversation_id": "2057432511287071203",
+        "created_at": "2026-05-31T22:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T23:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061214048541462953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061214048541462953",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057432511287071203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 这是什么bot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱",
+        "id": "1896904934995656704",
+        "name": "天",
+        "pinned_tweet_id": "2060383283750510858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060765626717933568/2wiuiD_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 554,
+          "like_count": 13523,
+          "listed_count": 1,
+          "media_count": 554,
+          "tweet_count": 4867
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-28T12:58:00.000Z",
+        "description": "",
+        "id": "1498281208182050817",
+        "name": "泠 LING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052985318236995584/kh8jGIwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3745,
+          "following_count": 1070,
+          "like_count": 34770,
+          "listed_count": 13,
+          "media_count": 1413,
+          "tweet_count": 14304
+        },
+        "username": "YINGIsNotGnu",
+        "verified": false
+      }
+    ]
+  }
+}

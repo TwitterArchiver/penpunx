@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2039294807101845563",
+    "created_at": "2026-04-01T12:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T13:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039311937256009972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841093178268794881",
+          "start": 0,
+          "username": "idle_beaver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039311937256009972",
+    "in_reply_to_user_id": "1841093178268794881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039294807101845563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idle_beaver 不过我觉得每个乐句的第二处的连续三个C改成连续三个D更好（？）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29933,
+        "height": 1080,
+        "media_key": "13_2039294512925904896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039294512925904896/img/wHQJjkEMbrBxGQ15.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039294512925904896/vid/avc1/480x270/vS_bEncyRtnuB2C2.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039294512925904896/vid/avc1/640x360/HkB0Ez2-C54gp7Hm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039294512925904896/vid/avc1/1280x720/CpIQWbOts4DN_eoG.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039294512925904896/pl/sMl0Yae_QBMlZdjS.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2039294807101845563",
+        "created_at": "2026-04-01T12:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039311937256009972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841093178268794881",
+              "start": 0,
+              "username": "idle_beaver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039311937256009972",
+        "in_reply_to_user_id": "1841093178268794881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039294807101845563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idle_beaver 不过我觉得每个乐句的第二处的连续三个C改成连续三个D更好（？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039294512925904896"
+          ]
+        },
+        "author_id": "1841093178268794881",
+        "conversation_id": "2039294807101845563",
+        "created_at": "2026-04-01T10:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039294807101845563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X1IKVfmbfc",
+              "end": 82,
+              "expanded_url": "https://x.com/idle_beaver/status/2039294807101845563/video/1",
+              "media_key": "13_2039294512925904896",
+              "start": 59,
+              "url": "https://t.co/X1IKVfmbfc"
+            },
+            {
+              "display_url": "x.com/idle_beaver/st…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/idle_beaver/status/2039233107585577303",
+              "start": 83,
+              "url": "https://t.co/xq1jK10UJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039294807101845563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039233107585577303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同样的模式里从来没听过这么美好的旋律……\n尝试复刻了一下，学到了一点东西，音感+++\n（不知道为什么OBS录制好糊） https://t.co/X1IKVfmbfc https://t.co/xq1jK10UJa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 387,
+          "like_count": 11741,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 3490
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:30:02.000Z",
+        "description": "dissociatist / email: u@uhio.uk",
+        "id": "1841093178268794881",
+        "location": "now here",
+        "name": "自走人形",
+        "pinned_tweet_id": "2038017975064957428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014953111018995716/b08b8vYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 29,
+          "like_count": 5942,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 70
+        },
+        "username": "idle_beaver",
+        "verified": false
+      }
+    ]
+  }
+}

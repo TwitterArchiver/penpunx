@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2055952534045679751",
+    "created_at": "2026-05-17T12:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055995534436180339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1847898031561330690",
+          "start": 0,
+          "username": "whj___1001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055995534436180339",
+    "in_reply_to_user_id": "1847898031561330690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055991423183528194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whj___1001 我去，，这么累"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2055952534045679751",
+        "created_at": "2026-05-17T12:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055995534436180339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1847898031561330690",
+              "start": 0,
+              "username": "whj___1001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055995534436180339",
+        "in_reply_to_user_id": "1847898031561330690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055991423183528194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whj___1001 我去，，这么累"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847898031561330690",
+        "conversation_id": "2055952534045679751",
+        "created_at": "2026-05-17T12:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055991423183528194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055991423183528194",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055990568627699959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 要。。。这次还他妈考四篇古诗两篇文言文文言文还爆炸长。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 532,
+          "like_count": 13408,
+          "listed_count": 1,
+          "media_count": 522,
+          "tweet_count": 4650
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T07:10:18.000Z",
+        "description": "中/eng ok//\n🏳️‍⚧️ ftmasc, he/they\nocyume ❤️",
+        "id": "1847898031561330690",
+        "location": "Cute boy island",
+        "name": "酱酱johnjohn",
+        "pinned_tweet_id": "1982307290410549377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052397251365044224/c1yRZo-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 150,
+          "like_count": 16940,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1395
+        },
+        "username": "whj___1001",
+        "verified": false
+      }
+    ]
+  }
+}

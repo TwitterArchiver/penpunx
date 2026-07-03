@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1549234895188176897",
+    "conversation_id": "1815401978102763549",
+    "created_at": "2024-07-22T15:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-22T16:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1815401978102763549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/galthanica/sta…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/galthanica/status/1815181154468729201",
+          "start": 79,
+          "url": "https://t.co/xQpmpE2Ekk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815401978102763549",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815181154468729201",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "my Chinese friend just discovered this epic album a few days ago I’m surprised https://t.co/xQpmpE2Ekk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1549234895188176897",
+        "conversation_id": "1815401978102763549",
+        "created_at": "2024-07-22T15:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T16:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815401978102763549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/galthanica/sta…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/galthanica/status/1815181154468729201",
+              "start": 79,
+              "url": "https://t.co/xQpmpE2Ekk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815401978102763549",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815181154468729201",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "my Chinese friend just discovered this epic album a few days ago I’m surprised https://t.co/xQpmpE2Ekk"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815181151599730688"
+          ]
+        },
+        "author_id": "1498879036369641475",
+        "conversation_id": "1815181154468729201",
+        "created_at": "2024-07-22T00:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T01:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815181154468729201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/AmLfWuoL8G",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Galthanica/status/1815181154468729201/photo/1",
+              "media_key": "3_1815181151599730688",
+              "start": 0,
+              "url": "https://t.co/AmLfWuoL8G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815181154468729201",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 28493,
+          "like_count": 2330,
+          "quote_count": 17,
+          "reply_count": 4,
+          "retweet_count": 582
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AmLfWuoL8G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-19T03:29:23.000Z",
+        "description": "im not there this isnt happening",
+        "id": "1549234895188176897",
+        "name": "-",
+        "pinned_tweet_id": "1815326942641508512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800030979840671744/YWVe7Yy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 439,
+          "like_count": 11244,
+          "listed_count": 0,
+          "tweet_count": 5531
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-02T04:33:33.000Z",
+        "description": "entregue-se. deixe. o mistério vai fazer o seu trabalho. aí é que é o grande teste do “eu”, do ego. só o mistério vai poder lhe salvar. | @amantedempb_ 💍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 138,
+                "username": "amantedempb_"
+              }
+            ]
+          }
+        },
+        "id": "1498879036369641475",
+        "location": "sou dela e d'Iemanjá",
+        "name": "cachorra mais mpbicha desse calçadão",
+        "pinned_tweet_id": "1813893677712023596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796760845227061248/aT-UbOiZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10566,
+          "following_count": 849,
+          "like_count": 14157,
+          "listed_count": 6,
+          "tweet_count": 10668
+        },
+        "username": "Galthanica",
+        "verified": false
+      }
+    ]
+  }
+}

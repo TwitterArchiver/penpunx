@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2065497340384022635",
+    "created_at": "2026-06-13T03:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T04:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065637025685074078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2014216293705187328",
+          "start": 0,
+          "username": "Mandykwko"
+        },
+        {
+          "end": 27,
+          "id": "2037381870204198912",
+          "start": 11,
+          "username": "980thVGRegiment"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065637025685074078",
+    "in_reply_to_user_id": "2014216293705187328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065634497677451378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mandykwko @980thVGRegiment 反抗只是为了自尊而已，我不在乎被打得多惨。实在打伤了就报警"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2065497340384022635",
+        "created_at": "2026-06-13T03:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065637025685074078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2014216293705187328",
+              "start": 0,
+              "username": "Mandykwko"
+            },
+            {
+              "end": 27,
+              "id": "2037381870204198912",
+              "start": 11,
+              "username": "980thVGRegiment"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065637025685074078",
+        "in_reply_to_user_id": "2014216293705187328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065634497677451378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mandykwko @980thVGRegiment 反抗只是为了自尊而已，我不在乎被打得多惨。实在打伤了就报警"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014216293705187328",
+        "conversation_id": "2065497340384022635",
+        "created_at": "2026-06-13T03:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065634497677451378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            },
+            {
+              "end": 25,
+              "id": "2037381870204198912",
+              "start": 9,
+              "username": "980thVGRegiment"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065634497677451378",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065633756527088073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx @980thVGRegiment 。亲身经历是反抗之后被打的更惨了。好在现在已断联。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "%%%%%%%",
+        "id": "1896904934995656704",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 570,
+          "like_count": 13774,
+          "listed_count": 1,
+          "media_count": 614,
+          "tweet_count": 5142
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T06:00:22.000Z",
+        "description": "ASD, ADHD, Aromatic, Agender, and American.\nAnd nobody, in all of Oz, no wizard that there is or was, is ever gonna bring me down.",
+        "id": "2014216293705187328",
+        "name": "Mandy",
+        "pinned_tweet_id": "2055130333289550121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047952507742416896/Ru54lhoG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 78,
+          "like_count": 4299,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 600
+        },
+        "username": "Mandykwko",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T04:11:13.000Z",
+        "description": "东方白@432Ifantrygroup小号，https://t.co/JmbqtJGYqD匿名提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "432Ifantrygroup"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 45,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 22,
+                "url": "https://t.co/JmbqtJGYqD"
+              }
+            ]
+          }
+        },
+        "id": "2037381870204198912",
+        "name": "980th VG Regiment",
+        "pinned_tweet_id": "2065256324385145233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037382208261079040/7f2pwRnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 240,
+          "like_count": 1950,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 469
+        },
+        "username": "980thVGRegiment",
+        "verified": false
+      }
+    ]
+  }
+}

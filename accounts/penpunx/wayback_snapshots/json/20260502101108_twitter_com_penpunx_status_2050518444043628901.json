@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2050454603263803399",
+    "created_at": "2026-05-02T10:11:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T11:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050518444043628901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2043300901050322944",
+          "start": 0,
+          "username": "lindong2200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050518444043628901",
+    "in_reply_to_user_id": "2043300901050322944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050454603263803399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lindong2200 感康"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2050454603263803399",
+        "created_at": "2026-05-02T10:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T11:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050518444043628901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043300901050322944",
+              "start": 0,
+              "username": "lindong2200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050518444043628901",
+        "in_reply_to_user_id": "2043300901050322944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050454603263803399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lindong2200 感康"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2050454603263803399",
+        "created_at": "2026-05-02T05:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050454603263803399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050454603263803399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去药店买药然后那个医师说，OTC是吃不死人的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 481,
+          "like_count": 12519,
+          "listed_count": 1,
+          "media_count": 482,
+          "tweet_count": 4092
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖od‖🔪🩸‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖前世@Xilne_cc寻找推u中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Xilne_cc"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2049507075437515208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 121,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 163
+        },
+        "username": "lindong2200",
+        "verified": false
+      }
+    ]
+  }
+}

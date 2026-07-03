@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2061052474564436348",
+    "created_at": "2026-05-31T15:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T16:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061109760792145925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1847898031561330690",
+          "start": 0,
+          "username": "whj___1001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061109760792145925",
+    "in_reply_to_user_id": "1847898031561330690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061052474564436348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whj___1001 脱毛膏，请\n真的很方便，对我来说不会过敏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2061052474564436348",
+        "created_at": "2026-05-31T15:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061109760792145925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1847898031561330690",
+              "start": 0,
+              "username": "whj___1001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061109760792145925",
+        "in_reply_to_user_id": "1847898031561330690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061052474564436348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whj___1001 脱毛膏，请\n真的很方便，对我来说不会过敏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847898031561330690",
+        "conversation_id": "2061052474564436348",
+        "created_at": "2026-05-31T11:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061052474564436348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061052474564436348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉。逼毛打结了。好忧郁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱",
+        "id": "1896904934995656704",
+        "name": "天",
+        "pinned_tweet_id": "2060383283750510858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060765626717933568/2wiuiD_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 555,
+          "like_count": 13519,
+          "listed_count": 1,
+          "media_count": 554,
+          "tweet_count": 4865
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T07:10:18.000Z",
+        "description": "中/eng ok//\n🏳️‍⚧️ ftmasc, he/they\nocyume ❤️",
+        "id": "1847898031561330690",
+        "location": "Cute boy island",
+        "name": "酱酱酱johnjohn-chan",
+        "pinned_tweet_id": "1982307290410549377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059914728357670913/Dpe9T8Nm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 169,
+          "like_count": 18346,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 1629
+        },
+        "username": "whj___1001",
+        "verified": false
+      }
+    ]
+  }
+}

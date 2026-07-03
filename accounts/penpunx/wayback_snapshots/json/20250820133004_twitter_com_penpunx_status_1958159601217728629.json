@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1958159601217728629",
+    "created_at": "2025-08-20T13:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T14:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958159601217728629"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/papaquesito/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/papaquesito/status/1957916056753959392",
+          "start": 9,
+          "url": "https://t.co/iSC2yzaq7M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958159601217728629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957916056753959392",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在看什么呢😨🤯 https://t.co/iSC2yzaq7M"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19900,
+        "height": 720,
+        "media_key": "13_1957915995097690118",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957915995097690118/img/tLGRig6_D1GSgCe9.jpg",
+        "public_metrics": {
+          "view_count": 88183
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957915995097690118/vid/avc1/324x270/CeW0It-937dEFVtR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957915995097690118/vid/avc1/432x360/f9wcqWfBj0BTMYSv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957915995097690118/vid/avc1/866x720/1Ek49ypEi7LtnTc6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957915995097690118/pl/moT0b2kR_AOPZlGS.m3u8?v=cfc"
+          }
+        ],
+        "width": 866
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1958159601217728629",
+        "created_at": "2025-08-20T13:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T14:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958159601217728629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/papaquesito/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/papaquesito/status/1957916056753959392",
+              "start": 9,
+              "url": "https://t.co/iSC2yzaq7M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958159601217728629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957916056753959392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在看什么呢😨🤯 https://t.co/iSC2yzaq7M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957915995097690118"
+          ]
+        },
+        "author_id": "1214071016260960257",
+        "conversation_id": "1957916056753959392",
+        "created_at": "2025-08-19T21:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T22:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957916056753959392"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "valveplug",
+              "probability": 0.7221,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 19,
+              "tag": "valveplug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sb7FERTrDA",
+              "end": 53,
+              "expanded_url": "https://x.com/papaquesito/status/1957916056753959392/video/1",
+              "media_key": "13_1957915995097690118",
+              "start": 30,
+              "url": "https://t.co/sb7FERTrDA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957916056753959392",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5650,
+          "impression_count": 153192,
+          "like_count": 19917,
+          "quote_count": 59,
+          "reply_count": 32,
+          "retweet_count": 1214
+        },
+        "reply_settings": "everyone",
+        "text": "tried to animate \n\n#valveplug https://t.co/sb7FERTrDA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 248,
+          "like_count": 8418,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 1959
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-06T06:27:51.000Z",
+        "description": "20 | multishipper | robots | 🔞 sometimes | comm slots: 0/3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "papaquesito.straw.page",
+                "end": 23,
+                "expanded_url": "https://papaquesito.straw.page",
+                "start": 0,
+                "url": "https://t.co/PtlnN5hnjX"
+              }
+            ]
+          }
+        },
+        "id": "1214071016260960257",
+        "location": "Do not repost/pfp w/o credit",
+        "name": "Quesito",
+        "pinned_tweet_id": "1929801900079435948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944333999742308352/_j2JHa0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2585,
+          "following_count": 292,
+          "like_count": 25751,
+          "listed_count": 3,
+          "media_count": 540,
+          "tweet_count": 4683
+        },
+        "url": "https://t.co/PtlnN5hnjX",
+        "username": "papaquesito",
+        "verified": false
+      }
+    ]
+  }
+}

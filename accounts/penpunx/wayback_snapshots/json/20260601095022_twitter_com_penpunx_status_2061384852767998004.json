@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2061358283991261485",
+    "created_at": "2026-06-01T09:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T10:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061384852767998004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2006380815618539520",
+          "start": 0,
+          "username": "Samb8u3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061384852767998004",
+    "in_reply_to_user_id": "2006380815618539520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061381476395192428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Samb8u3 对不起我也没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2061358283991261485",
+        "created_at": "2026-06-01T09:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061384852767998004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2006380815618539520",
+              "start": 0,
+              "username": "Samb8u3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061384852767998004",
+        "in_reply_to_user_id": "2006380815618539520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061381476395192428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Samb8u3 对不起我也没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006380815618539520",
+        "conversation_id": "2061358283991261485",
+        "created_at": "2026-06-01T09:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061381476395192428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061381476395192428",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061358283991261485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 老师可以分享一下处方吗有偿！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱",
+        "id": "1896904934995656704",
+        "name": "天",
+        "pinned_tweet_id": "2060383283750510858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060765626717933568/2wiuiD_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 556,
+          "like_count": 13539,
+          "listed_count": 1,
+          "media_count": 558,
+          "tweet_count": 4891
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T15:04:32.000Z",
+        "description": "cn苗苗/热衷搞同人/欢迎互fo",
+        "id": "2006380815618539520",
+        "location": "喵",
+        "name": "winter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060301129477693440/RjgWLq4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 134,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 52
+        },
+        "username": "Samb8u3",
+        "verified": false
+      }
+    ]
+  }
+}

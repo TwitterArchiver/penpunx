@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2071121662460997679",
+    "created_at": "2026-06-28T08:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071151731522842829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1492808050461196288",
+          "start": 0,
+          "username": "Breaking_Lead_G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071151731522842829",
+    "in_reply_to_user_id": "1492808050461196288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071121662460997679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Breaking_Lead_G 什么梗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1053,
+        "media_key": "3_2071121659873083392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4aLSdaQAAGK8s.jpg",
+        "width": 1491
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2071121662460997679",
+        "created_at": "2026-06-28T08:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071151731522842829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492808050461196288",
+              "start": 0,
+              "username": "Breaking_Lead_G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071151731522842829",
+        "in_reply_to_user_id": "1492808050461196288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071121662460997679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Breaking_Lead_G 什么梗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071121659873083392"
+          ]
+        },
+        "author_id": "1492808050461196288",
+        "conversation_id": "2071121662460997679",
+        "created_at": "2026-06-28T06:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071121662460997679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/70AzUhmNRj",
+              "end": 23,
+              "expanded_url": "https://x.com/Breaking_Lead_G/status/2071121662460997679/photo/1",
+              "media_key": "3_2071121659873083392",
+              "start": 0,
+              "url": "https://t.co/70AzUhmNRj"
+            },
+            {
+              "display_url": "x.com/Breaking_Lead_…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Breaking_Lead_G/status/1806499994855522591",
+              "start": 24,
+              "url": "https://t.co/9m6SNEnd8n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071121662460997679",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806499994855522591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/70AzUhmNRj https://t.co/9m6SNEnd8n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 597,
+          "like_count": 14316,
+          "listed_count": 1,
+          "media_count": 710,
+          "tweet_count": 5749
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T10:29:22.000Z",
+        "description": "∏ ☰ 函数式编程/音韵学/古典音乐/理论魔法学\n∏ ☱ 数学分析，精神分析等分析学不爱好者。\n∏ ☲ 初级程序员，时不时折腾小东西。\n∏ ☳ 知乎 千秋Lead\n∏ ☴ 古法编程爱好者\n∏ ☵ 活了18年。\n∏ ☶ CS/数学讨论组 613637913\n∏ ☷ 这样就凑齐了八卦。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "infmemories.netlify.app",
+                "end": 23,
+                "expanded_url": "http://infmemories.netlify.app",
+                "start": 0,
+                "url": "https://t.co/YcUqF3obxH"
+              }
+            ]
+          }
+        },
+        "id": "1492808050461196288",
+        "location": "Xi'an",
+        "name": "月",
+        "pinned_tweet_id": "2068942213565063549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050418708611571712/-6VIffCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1826,
+          "following_count": 776,
+          "like_count": 1865,
+          "listed_count": 8,
+          "media_count": 901,
+          "tweet_count": 10515
+        },
+        "url": "https://t.co/YcUqF3obxH",
+        "username": "Breaking_Lead_G",
+        "verified": false
+      }
+    ]
+  }
+}

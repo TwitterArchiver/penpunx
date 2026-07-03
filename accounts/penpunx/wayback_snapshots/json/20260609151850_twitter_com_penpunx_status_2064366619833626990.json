@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2064222982038507612",
+    "created_at": "2026-06-09T15:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064366619833626990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1863233896403628033",
+          "start": 0,
+          "username": "dontweepalone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064366619833626990",
+    "in_reply_to_user_id": "1863233896403628033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064222982038507612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dontweepalone 爱并非一种互动吗？当爱变成双方之间的，又不一样了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1867,
+        "media_key": "3_2064222972077060097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWX2zvasAER7oB.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2015,
+        "media_key": "3_2064222972072919040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWX2zubgAAhE4i.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2064222982038507612",
+        "created_at": "2026-06-09T15:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064366619833626990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1863233896403628033",
+              "start": 0,
+              "username": "dontweepalone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064366619833626990",
+        "in_reply_to_user_id": "1863233896403628033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064222982038507612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontweepalone 爱并非一种互动吗？当爱变成双方之间的，又不一样了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064222972077060097",
+            "3_2064222972072919040"
+          ]
+        },
+        "author_id": "1863233896403628033",
+        "conversation_id": "2064222982038507612",
+        "created_at": "2026-06-09T05:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064222982038507612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mJBTwolJYV",
+              "end": 60,
+              "expanded_url": "https://x.com/dontweepalone/status/2064222982038507612/photo/1",
+              "media_key": "3_2064222972077060097",
+              "start": 37,
+              "url": "https://t.co/mJBTwolJYV"
+            },
+            {
+              "display_url": "pic.x.com/mJBTwolJYV",
+              "end": 60,
+              "expanded_url": "https://x.com/dontweepalone/status/2064222982038507612/photo/1",
+              "media_key": "3_2064222972072919040",
+              "start": 37,
+              "url": "https://t.co/mJBTwolJYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064222982038507612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 247,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我谈论“爱”时，我在谈论什么。\n(我个人所理解的精神的爱意的最高形态。 https://t.co/mJBTwolJYV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱，月亮。",
+        "id": "1896904934995656704",
+        "name": "天",
+        "pinned_tweet_id": "2062947551297622499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063995632331952129/xElklqid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 563,
+          "like_count": 13654,
+          "listed_count": 1,
+          "media_count": 601,
+          "tweet_count": 5035
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 144,
+          "like_count": 993,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 193
+        },
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}

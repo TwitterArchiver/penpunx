@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067893228943364096"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2067881540420620775",
+    "created_at": "2026-06-19T08:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067893266385879480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wKLnwIFnRT",
+          "end": 39,
+          "expanded_url": "https://x.com/penpunx/status/2067893266385879480/photo/1",
+          "media_key": "3_2067893228943364096",
+          "start": 16,
+          "url": "https://t.co/wKLnwIFnRT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067893266385879480",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067881540420620775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "sogno di volare https://t.co/wKLnwIFnRT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_2067893228943364096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKh74Ca0AAnlGH.jpg",
+        "width": 2557
+      },
+      {
+        "height": 1438,
+        "media_key": "3_2067881493410861056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKXQxxb0AAAaaC.jpg",
+        "width": 2557
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067893228943364096"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2067881540420620775",
+        "created_at": "2026-06-19T08:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067893266385879480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKLnwIFnRT",
+              "end": 39,
+              "expanded_url": "https://x.com/penpunx/status/2067893266385879480/photo/1",
+              "media_key": "3_2067893228943364096",
+              "start": 16,
+              "url": "https://t.co/wKLnwIFnRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067893266385879480",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067881540420620775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "sogno di volare https://t.co/wKLnwIFnRT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067881493410861056"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067881540420620775",
+        "created_at": "2026-06-19T08:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067881540420620775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m9GZTczCaL",
+              "end": 36,
+              "expanded_url": "https://x.com/penpunx/status/2067881540420620775/photo/1",
+              "media_key": "3_2067881493410861056",
+              "start": 13,
+              "url": "https://t.co/m9GZTczCaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067881540420620775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天哪，不要使我热泪盈眶。 https://t.co/m9GZTczCaL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "%",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 578,
+          "like_count": 13948,
+          "listed_count": 1,
+          "media_count": 644,
+          "tweet_count": 5334
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

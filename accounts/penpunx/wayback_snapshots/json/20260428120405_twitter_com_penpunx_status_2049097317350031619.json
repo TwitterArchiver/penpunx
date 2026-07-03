@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2048985921098481684",
+    "created_at": "2026-04-28T12:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T13:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049097317350031619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841093178268794881",
+          "start": 0,
+          "username": "idle_beaver"
+        },
+        {
+          "end": 21,
+          "id": "978546324323762177",
+          "start": 13,
+          "username": "d1yum1d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049097317350031619",
+    "in_reply_to_user_id": "1841093178268794881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049096242807095774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idle_beaver @d1yum1d 谁家变种人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2048985921098481684",
+        "created_at": "2026-04-28T12:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049097317350031619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841093178268794881",
+              "start": 0,
+              "username": "idle_beaver"
+            },
+            {
+              "end": 21,
+              "id": "978546324323762177",
+              "start": 13,
+              "username": "d1yum1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049097317350031619",
+        "in_reply_to_user_id": "1841093178268794881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049096242807095774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idle_beaver @d1yum1d 谁家变种人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841093178268794881",
+        "conversation_id": "2048985921098481684",
+        "created_at": "2026-04-28T11:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049096242807095774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "978546324323762177",
+              "start": 0,
+              "username": "d1yum1d"
+            },
+            {
+              "end": 17,
+              "id": "1896904934995656704",
+              "start": 9,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049096242807095774",
+        "in_reply_to_user_id": "978546324323762177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049005229585404248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d1yum1d @penpunx 传下去，od维C全身发光"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 442,
+          "like_count": 12233,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 3894
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:30:02.000Z",
+        "description": "semper erit dolor / email: u@uhio.uk",
+        "id": "1841093178268794881",
+        "location": "now here",
+        "name": "kuxyfztv3nwdqw2y",
+        "pinned_tweet_id": "2039663897532407924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014953111018995716/b08b8vYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 28,
+          "like_count": 6271,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 83
+        },
+        "username": "idle_beaver",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-27T08:16:39.000Z",
+        "description": "Telegram 个人频道：https://t.co/sHMo6L43nJ\nFreeODwiki——可自由编辑的开源 Overdose 百科：https://t.co/cfOVefgmpA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/downwind_hmy5v…",
+                "end": 37,
+                "expanded_url": "https://t.me/downwind_hmy5voZrUneRUNePjEqQpBg",
+                "start": 14,
+                "url": "https://t.co/sHMo6L43nJ"
+              },
+              {
+                "display_url": "freeodwiki.org",
+                "end": 94,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 71,
+                "url": "https://t.co/cfOVefgmpA"
+              }
+            ]
+          }
+        },
+        "id": "978546324323762177",
+        "location": "nowhere",
+        "name": "零℃可乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034222946865328128/KcZL-1YP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 2086,
+          "like_count": 19120,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 511
+        },
+        "username": "d1yum1d",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1974646307441738085",
+    "created_at": "2025-10-05T01:22:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T02:22:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974646307441738085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cutiespuppies/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/cutiespuppies/status/1974484653676364109",
+          "start": 4,
+          "url": "https://t.co/4vFS5CMEW5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974646307441738085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974484653676364109",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好可爱 https://t.co/4vFS5CMEW5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 601,
+        "media_key": "3_1808183922582327297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRf1sooXkAEz2Ez.jpg",
+        "width": 563
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1974646307441738085",
+        "created_at": "2025-10-05T01:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T02:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974646307441738085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cutiespuppies/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/cutiespuppies/status/1974484653676364109",
+              "start": 4,
+              "url": "https://t.co/4vFS5CMEW5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974646307441738085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974484653676364109",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可爱 https://t.co/4vFS5CMEW5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1808183922582327297"
+          ]
+        },
+        "author_id": "1729148718497009664",
+        "conversation_id": "1974484653676364109",
+        "created_at": "2025-10-04T14:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T15:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974484653676364109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sf0uIpqT60",
+              "end": 23,
+              "expanded_url": "https://x.com/cutiespuppies/status/1974484653676364109/photo/1",
+              "media_key": "3_1808183922582327297",
+              "start": 0,
+              "url": "https://t.co/Sf0uIpqT60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974484653676364109",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 5646,
+          "like_count": 472,
+          "quote_count": 12,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Sf0uIpqT60"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1974498041756569769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973873501179387904/uvpLq1zI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 272,
+          "like_count": 9959,
+          "listed_count": 1,
+          "media_count": 343,
+          "tweet_count": 2376
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T14:42:42.000Z",
+        "description": "Here we post the cutest dogs! 🐶💖 #LoveDogs. We own no content posted—all credit goes to the respected original owner. 🐾✨",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 33,
+                "tag": "LoveDogs"
+              }
+            ]
+          }
+        },
+        "id": "1729148718497009664",
+        "name": "Cuties Puppies",
+        "pinned_tweet_id": "1936829031892275397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757734753749389312/zK5tiJDm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39963,
+          "following_count": 27233,
+          "like_count": 5591,
+          "listed_count": 83,
+          "media_count": 21964,
+          "tweet_count": 28968
+        },
+        "username": "cutiespuppies",
+        "verified": true
+      }
+    ]
+  }
+}

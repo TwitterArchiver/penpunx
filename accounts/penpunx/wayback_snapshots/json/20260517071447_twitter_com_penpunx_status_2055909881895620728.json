@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2055909881895620728",
+    "created_at": "2026-05-17T07:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055909881895620728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 140,
+          "expanded_url": "https://twitter.com/penpunx/status/2055688380705612197",
+          "start": 117,
+          "url": "https://t.co/3kBo5kpw5e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055909881895620728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055688380705612197",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "昨晚发烧，神经痛，只好吃了1t pr\n然后梦里我到处传送，无限循环，还看见很恐怖的幻觉，比如全是骷髅头的分形，看见自己的手被冰封、化作沙土最后只剩白骨，像吸dpt/dmt了。还梦到自己变成了一匹马被骑，我完全无法控制，似鼠尾草药效。 https://t.co/3kBo5kpw5e"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2055909881895620728",
+        "created_at": "2026-05-17T07:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055909881895620728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/penpunx/status/2055688380705612197",
+              "start": 117,
+              "url": "https://t.co/3kBo5kpw5e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055909881895620728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055688380705612197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨晚发烧，神经痛，只好吃了1t pr\n然后梦里我到处传送，无限循环，还看见很恐怖的幻觉，比如全是骷髅头的分形，看见自己的手被冰封、化作沙土最后只剩白骨，像吸dpt/dmt了。还梦到自己变成了一匹马被骑，我完全无法控制，似鼠尾草药效。 https://t.co/3kBo5kpw5e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2055688380705612197",
+        "created_at": "2026-05-16T16:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055688380705612197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055688380705612197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1350,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我和另外两个asd朋友都声称闭眼内幻/睡前会有内幻，每天像在无止尽的致幻剂trip中/闭眼可以自动渲染\n\n让我想起了上次看到的假说，asd可能脑内dmt分泌过量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 532,
+          "like_count": 13386,
+          "listed_count": 1,
+          "media_count": 522,
+          "tweet_count": 4635
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

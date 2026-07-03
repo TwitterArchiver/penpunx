@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1916297555165778227",
+    "created_at": "2025-04-27T03:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T04:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916334221670646235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1860224342778609665",
+          "start": 0,
+          "username": "VonLinne2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916334221670646235",
+    "in_reply_to_user_id": "1860224342778609665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916297555165778227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VonLinne2004 我初中早上7.50到下午，5.30走，初二之前可以下午4.10走，有双休"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1916297555165778227",
+        "created_at": "2025-04-27T03:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T04:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916334221670646235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1860224342778609665",
+              "start": 0,
+              "username": "VonLinne2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916334221670646235",
+        "in_reply_to_user_id": "1860224342778609665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916297555165778227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VonLinne2004 我初中早上7.50到下午，5.30走，初二之前可以下午4.10走，有双休"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860224342778609665",
+        "conversation_id": "1916297555165778227",
+        "created_at": "2025-04-27T01:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T02:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916297555165778227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916297555165778227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有中国的00后是不上私立学校，上公立学校，特别还是那种没有晚自习没有早6早7且正常双休的，然后课余时间自己去报辅导班的，类型。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 189,
+          "like_count": 4913,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1050
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T07:30:29.000Z",
+        "description": "医专护士生冯琳奈的四号机，没那么日常有些严肃的内容在三号机@VonLinne2003\n\n❤️好姬友：@LING_bdnit\n🌟背景板插图的作者：@mo__zk31\n\n❤️喜欢一切可爱的人和美好的事物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "VonLinne2003"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "LING_bdnit"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "mo__zk31"
+              }
+            ]
+          }
+        },
+        "id": "1860224342778609665",
+        "location": "Taiwan",
+        "name": "VonLinne（四号机）",
+        "pinned_tweet_id": "1893876559309611452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891857065489924097/pip6muZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 242,
+          "like_count": 13668,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 4402
+        },
+        "username": "VonLinne2004",
+        "verified": false
+      }
+    ]
+  }
+}

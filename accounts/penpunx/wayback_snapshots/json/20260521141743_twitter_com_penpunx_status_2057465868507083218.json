@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2057465868507083218",
+    "created_at": "2026-05-21T14:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T15:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057465868507083218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/penpunx/status/2057431526967771609",
+          "start": 29,
+          "url": "https://t.co/yD50rJ9VEx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057465868507083218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057431526967771609",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "难道我吃苯乙胺和专注达都没用也和这个有关 确实疼痛敏感（ https://t.co/yD50rJ9VEx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 478,
+        "media_key": "3_2057431431585107969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI12_H1akAEn_8v.png",
+        "width": 712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2057465868507083218",
+        "created_at": "2026-05-21T14:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057465868507083218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/penpunx/status/2057431526967771609",
+              "start": 29,
+              "url": "https://t.co/yD50rJ9VEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057465868507083218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057431526967771609",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难道我吃苯乙胺和专注达都没用也和这个有关 确实疼痛敏感（ https://t.co/yD50rJ9VEx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057431431585107969"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2057431526967771609",
+        "created_at": "2026-05-21T12:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057431526967771609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xephsEdEe",
+              "end": 44,
+              "expanded_url": "https://x.com/penpunx/status/2057431526967771609/photo/1",
+              "media_key": "3_2057431431585107969",
+              "start": 21,
+              "url": "https://t.co/7xephsEdEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057431526967771609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 357,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个ai还推荐我氯胺酮和美金刚，何意味( https://t.co/7xephsEdEe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 541,
+          "like_count": 13474,
+          "listed_count": 1,
+          "media_count": 525,
+          "tweet_count": 4716
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

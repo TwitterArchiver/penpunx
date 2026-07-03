@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1906196528516976924",
+    "created_at": "2025-03-30T04:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T05:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906198992570171779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1858497031482097664",
+          "start": 0,
+          "username": "HeinrichBatman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906198992570171779",
+    "in_reply_to_user_id": "1858497031482097664",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906196528516976924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HeinrichBatman And as we wind on down the road\nOur shadows taller than our soul\nThere walks a lady we all know\nWho shines white light and wants to show"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1906196528516976924].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1906196528516976924",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1906196528516976924"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1906196528516976924",
+        "created_at": "2025-03-30T04:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T05:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906198992570171779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1858497031482097664",
+              "start": 0,
+              "username": "HeinrichBatman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906198992570171779",
+        "in_reply_to_user_id": "1858497031482097664",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906196528516976924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeinrichBatman And as we wind on down the road\nOur shadows taller than our soul\nThere walks a lady we all know\nWho shines white light and wants to show"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "metal & rock & dungeon synth lover / world of warcraft / 16yo audhd guy / Chinese, English, Portuguese, Japanese in learning",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 148,
+          "like_count": 2085,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 634
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T13:06:48.000Z",
+        "description": "史上最强小孩哥\n装疯卖傻装大人第一",
+        "id": "1858497031482097664",
+        "name": "姓名不能为空",
+        "pinned_tweet_id": "1888659613987610754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904122557147783168/eEzkqB-J_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 16,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 576
+        },
+        "username": "HeinrichBatman",
+        "verified": false
+      }
+    ]
+  }
+}

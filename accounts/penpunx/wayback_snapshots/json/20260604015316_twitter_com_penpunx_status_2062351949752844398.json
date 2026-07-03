@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2062351949752844398",
+    "created_at": "2026-06-04T01:53:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T02:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062351949752844398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/penpunx/status/2062148356542263309",
+          "start": 11,
+          "url": "https://t.co/JwkwlSYhXl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062351949752844398",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062148356542263309",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈！皆治标不治本。 https://t.co/JwkwlSYhXl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2062351949752844398",
+        "created_at": "2026-06-04T01:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062351949752844398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/penpunx/status/2062148356542263309",
+              "start": 11,
+              "url": "https://t.co/JwkwlSYhXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062351949752844398",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062148356542263309",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈！皆治标不治本。 https://t.co/JwkwlSYhXl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2062148356542263309",
+        "created_at": "2026-06-03T12:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062148356542263309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062148356542263309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1130,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "尽管日常很少抑郁但还是偶尔会想自杀\n到底怎么才能治好抑郁..我要持之以恒么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱",
+        "id": "1896904934995656704",
+        "name": "天",
+        "pinned_tweet_id": "2060383283750510858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060765626717933568/2wiuiD_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 557,
+          "like_count": 13597,
+          "listed_count": 1,
+          "media_count": 569,
+          "tweet_count": 4929
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

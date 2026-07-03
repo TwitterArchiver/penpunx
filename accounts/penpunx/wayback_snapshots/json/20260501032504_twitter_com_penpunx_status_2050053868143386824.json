@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2050050737649164632",
+    "created_at": "2026-05-01T03:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T04:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050053868143386824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2043994337126563840",
+          "start": 0,
+          "username": "Lomyral8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050053868143386824",
+    "in_reply_to_user_id": "2043994337126563840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050050737649164632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral8964 怎么问有没有愈美片，求话术（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2050050737649164632",
+        "created_at": "2026-05-01T03:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T04:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050053868143386824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043994337126563840",
+              "start": 0,
+              "username": "Lomyral8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050053868143386824",
+        "in_reply_to_user_id": "2043994337126563840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050050737649164632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral8964 怎么问有没有愈美片，求话术（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043994337126563840",
+        "conversation_id": "2050050737649164632",
+        "created_at": "2026-05-01T03:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T04:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050050737649164632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050050737649164632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我突然有点后悔了，这个药房看起来就不像是有右美沙芬的样子，但是我发现他们线下有疼痛门诊()我现在已经形成了一种神秘的条件反射，看到药店就想进去问问有没有愚昧片，看见疼痛科就想进去乞讨羟考酮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 459,
+          "like_count": 12377,
+          "listed_count": 1,
+          "media_count": 471,
+          "tweet_count": 3981
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T10:06:53.000Z",
+        "description": "大号@Lomyral。enby，he/they。依然不吸毒不卖东西，不参与任何违法违规活动。网页版操作困难所以回复会比较慢TT\n\n互关寻回中。\n\n不鼓励任何药物滥用行为，反对宣传自杀、自残与暴力行为。Love and Peace❤️🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "Lomyral"
+              }
+            ]
+          }
+        },
+        "id": "2043994337126563840",
+        "name": "Larymol",
+        "pinned_tweet_id": "2046873757164438002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043994610247368704/9oRpXu3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 234,
+          "like_count": 1448,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 426
+        },
+        "username": "Lomyral8964",
+        "verified": false
+      }
+    ]
+  }
+}

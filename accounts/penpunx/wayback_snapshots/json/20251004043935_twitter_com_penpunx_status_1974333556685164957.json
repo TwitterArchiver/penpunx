@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1974333556685164957",
+    "created_at": "2025-10-04T04:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T05:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974333556685164957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1872976314723971072",
+          "start": 3,
+          "username": "fisher202412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974333556685164957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972465074112700922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fisher202412: 相信自己、相信幸福、相信爱，你会拥有美好的一天。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1974333556685164957",
+        "created_at": "2025-10-04T04:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T05:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974333556685164957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1872976314723971072",
+              "start": 3,
+              "username": "fisher202412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974333556685164957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972465074112700922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fisher202412: 相信自己、相信幸福、相信爱，你会拥有美好的一天。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872976314723971072",
+        "conversation_id": "1972465074112700922",
+        "created_at": "2025-09-29T00:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T01:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972465074112700922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972465074112700922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "相信自己、相信幸福、相信爱，你会拥有美好的一天。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973873501179387904/uvpLq1zI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 270,
+          "like_count": 9912,
+          "listed_count": 1,
+          "media_count": 340,
+          "tweet_count": 2361
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T12:02:16.000Z",
+        "description": "♡Milady 1000 year!                                                                  \n我爱你是如此的深沉，我是让世界充满爱的混蛋。",
+        "id": "1872976314723971072",
+        "name": "Fisher",
+        "pinned_tweet_id": "1963940384637121014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969409227035983873/sw_qxWiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 30,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "username": "fisher202412",
+        "verified": false
+      }
+    ]
+  }
+}

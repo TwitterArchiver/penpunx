@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2027377762944815530",
+    "created_at": "2026-02-27T13:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T14:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027379007537447227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841093178268794881",
+          "start": 0,
+          "username": "idle_beaver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027379007537447227",
+    "in_reply_to_user_id": "1841093178268794881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027377762944815530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idle_beaver 你认为这是你吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1709,
+        "media_key": "3_2027377566240387072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKxJ61asAAYaln.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2027377762944815530",
+        "created_at": "2026-02-27T13:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027379007537447227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841093178268794881",
+              "start": 0,
+              "username": "idle_beaver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027379007537447227",
+        "in_reply_to_user_id": "1841093178268794881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027377762944815530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idle_beaver 你认为这是你吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027377566240387072"
+          ]
+        },
+        "author_id": "1841093178268794881",
+        "conversation_id": "2027377762944815530",
+        "created_at": "2026-02-27T13:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027377762944815530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJzqmEQuam",
+              "end": 53,
+              "expanded_url": "https://x.com/idle_beaver/status/2027377762944815530/photo/1",
+              "media_key": "3_2027377566240387072",
+              "start": 30,
+              "url": "https://t.co/gJzqmEQuam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027377762944815530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "意味何？不过现在没什么成就，如果有，或者尝试获得的话，嗯。 https://t.co/gJzqmEQuam"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2024557534829564202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 328,
+          "like_count": 11119,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 3097
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:30:02.000Z",
+        "description": "aroace agender audhd / dissociatist / email: u@uhio.uk",
+        "id": "1841093178268794881",
+        "location": "now here",
+        "name": "𝐏𝐚𝐧𝐢𝐪𝐮𝐞",
+        "pinned_tweet_id": "2016108859497316560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014953111018995716/b08b8vYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 29,
+          "like_count": 5240,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 79
+        },
+        "username": "idle_beaver",
+        "verified": false
+      }
+    ]
+  }
+}

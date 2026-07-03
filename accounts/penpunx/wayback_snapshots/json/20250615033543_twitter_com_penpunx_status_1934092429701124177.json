@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1933740347420782970",
+    "created_at": "2025-06-15T03:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T04:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934092429701124177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1004362078956613632",
+          "start": 0,
+          "username": "OliviaWantsHugs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934092429701124177",
+    "in_reply_to_user_id": "1004362078956613632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933740347420782970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OliviaWantsHugs 相比于家长党还是自己整个外籍比较简单"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1933740347420782970",
+        "created_at": "2025-06-15T03:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T04:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934092429701124177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1004362078956613632",
+              "start": 0,
+              "username": "OliviaWantsHugs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934092429701124177",
+        "in_reply_to_user_id": "1004362078956613632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933740347420782970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OliviaWantsHugs 相比于家长党还是自己整个外籍比较简单"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1004362078956613632",
+        "conversation_id": "1933740347420782970",
+        "created_at": "2025-06-14T04:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T05:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933740347420782970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XiaoHuiHuiH/st…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/XiaoHuiHuiH/status/1933725629528354986",
+              "start": 35,
+              "url": "https://t.co/qQFq7P8rJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933740347420782970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 650,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933725629528354986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国小朋友别整你那跟家长妥协了\n相比于家长党还是自己整个外籍比较简单 https://t.co/qQFq7P8rJb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 202,
+          "like_count": 6183,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1413
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-06T13:59:14.000Z",
+        "description": "女的 \\ Colourful & Free \\ On my new journey in life. \\ 温顺可爱粘人幼年萨摩耶 \\ 最可爱的妹妹: @Azuelle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "Azuelle"
+              }
+            ]
+          }
+        },
+        "id": "1004362078956613632",
+        "location": "Singapore",
+        "name": "O泡耶奶 🇸🇬 Re: OLV",
+        "pinned_tweet_id": "1807816448360042949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847978083649040385/K7ZdNTap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4289,
+          "following_count": 580,
+          "like_count": 23559,
+          "listed_count": 18,
+          "media_count": 1293,
+          "tweet_count": 23245
+        },
+        "username": "OliviaWantsHugs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1973606682602442967",
+    "created_at": "2025-10-02T04:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T05:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973606682602442967"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/humansnocontex…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/humansnocontext/status/1973387906992554283",
+          "start": 8,
+          "url": "https://t.co/CrSsqBjDOl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973606682602442967",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973387906992554283",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "16yo me https://t.co/CrSsqBjDOl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1340,
+        "media_key": "3_1973387902919798786",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Lh152WcAIKy3C.jpg",
+        "width": 1249
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1973606682602442967",
+        "created_at": "2025-10-02T04:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T05:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973606682602442967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/humansnocontex…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/humansnocontext/status/1973387906992554283",
+              "start": 8,
+              "url": "https://t.co/CrSsqBjDOl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973606682602442967",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973387906992554283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "16yo me https://t.co/CrSsqBjDOl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973387902919798786"
+          ]
+        },
+        "author_id": "855300206086168576",
+        "conversation_id": "1973387906992554283",
+        "created_at": "2025-10-01T14:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T15:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973387906992554283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tL5xC4oN7N",
+              "end": 43,
+              "expanded_url": "https://x.com/HumansNoContext/status/1973387906992554283/photo/1",
+              "media_key": "3_1973387902919798786",
+              "start": 20,
+              "url": "https://t.co/tL5xC4oN7N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973387906992554283",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 752,
+          "impression_count": 231634,
+          "like_count": 20217,
+          "quote_count": 46,
+          "reply_count": 57,
+          "retweet_count": 2443
+        },
+        "reply_settings": "everyone",
+        "text": "Adulthood hits hard https://t.co/tL5xC4oN7N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971570743306850304/n3PLdLKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 267,
+          "like_count": 9765,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 2324
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-21T06:00:34.000Z",
+        "description": "humans being humans",
+        "id": "855300206086168576",
+        "name": "NO CONTEXT HUMANS",
+        "pinned_tweet_id": "1973380503802642655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833050358479826944/A2qj0e6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5994239,
+          "following_count": 0,
+          "like_count": 1553,
+          "listed_count": 12985,
+          "media_count": 40853,
+          "tweet_count": 43019
+        },
+        "username": "HumansNoContext",
+        "verified": true
+      }
+    ]
+  }
+}

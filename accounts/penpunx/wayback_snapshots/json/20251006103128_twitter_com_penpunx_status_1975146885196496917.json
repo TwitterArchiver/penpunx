@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975146876782710784"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1975146885196496917",
+    "created_at": "2025-10-06T10:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T11:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975146885196496917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/phKSaXLR8p",
+          "end": 26,
+          "expanded_url": "https://x.com/penpunx/status/1975146885196496917/photo/1",
+          "media_key": "3_1975146876782710784",
+          "start": 3,
+          "url": "https://t.co/phKSaXLR8p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975146885196496917",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小g https://t.co/phKSaXLR8p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975146876782710784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2khnqHbEAApu4v.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975146876782710784"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975146885196496917",
+        "created_at": "2025-10-06T10:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T11:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975146885196496917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/phKSaXLR8p",
+              "end": 26,
+              "expanded_url": "https://x.com/penpunx/status/1975146885196496917/photo/1",
+              "media_key": "3_1975146876782710784",
+              "start": 3,
+              "url": "https://t.co/phKSaXLR8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975146885196496917",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小g https://t.co/phKSaXLR8p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1974498041756569769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975082924950310912/JRet2r2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 274,
+          "like_count": 10035,
+          "listed_count": 1,
+          "media_count": 348,
+          "tweet_count": 2402
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

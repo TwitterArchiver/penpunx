@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1908775412538499471",
+    "created_at": "2025-04-06T07:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T08:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908777941938635226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1891683174964658176",
+          "start": 0,
+          "username": "Solarkey514"
+        },
+        {
+          "end": 28,
+          "id": "1858497031482097664",
+          "start": 13,
+          "username": "HeinrichBatman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908777941938635226",
+    "in_reply_to_user_id": "1891683174964658176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908777777337426238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Solarkey514 @HeinrichBatman 🤩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1908775412538499471",
+        "created_at": "2025-04-06T07:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T08:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908777941938635226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1891683174964658176",
+              "start": 0,
+              "username": "Solarkey514"
+            },
+            {
+              "end": 28,
+              "id": "1858497031482097664",
+              "start": 13,
+              "username": "HeinrichBatman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908777941938635226",
+        "in_reply_to_user_id": "1891683174964658176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908777777337426238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Solarkey514 @HeinrichBatman 🤩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891683174964658176",
+        "conversation_id": "1908775412538499471",
+        "created_at": "2025-04-06T07:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T08:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908777777337426238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1858497031482097664",
+              "start": 0,
+              "username": "HeinrichBatman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908777777337426238",
+        "in_reply_to_user_id": "1858497031482097664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908775412538499471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeinrichBatman 我可以组这套"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / world of warcraft / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 157,
+          "like_count": 2655,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 730
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T02:59:33.000Z",
+        "description": "我玩贝斯和煮🔥\nI play Bass and cook\n新号别搞😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@solarkey404",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@solarkey404",
+                "start": 0,
+                "url": "https://t.co/mPBM76tahN"
+              }
+            ]
+          }
+        },
+        "id": "1891683174964658176",
+        "name": "Solarkey（二周目新号",
+        "pinned_tweet_id": "1892575478944584074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891684000080723968/bO3AgS2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 66,
+          "like_count": 3448,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 462
+        },
+        "url": "https://t.co/mPBM76tahN",
+        "username": "Solarkey514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T13:06:48.000Z",
+        "description": "史上最强小孩哥\n装疯卖傻装大人第一",
+        "id": "1858497031482097664",
+        "name": "Psyche is a trip of new life",
+        "pinned_tweet_id": "1888659613987610754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907324075288281088/I8GC3Bw8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 15,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 662
+        },
+        "username": "HeinrichBatman",
+        "verified": false
+      }
+    ]
+  }
+}

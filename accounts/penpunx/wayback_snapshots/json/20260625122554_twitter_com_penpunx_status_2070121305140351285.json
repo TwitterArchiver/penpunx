@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Hayley Williams",
+          "id": "808351447980982273",
+          "name": "Hayley Williams"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "689566306014617600",
+          "name": "American football"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Hayley Williams",
+          "id": "808351447980982273",
+          "name": "Hayley Williams"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Alternative",
+          "id": "849684194242338816",
+          "name": "Alternative rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "689566306014617600",
+          "name": "American football"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hayley Williams",
+          "id": "808351447980982273",
+          "name": "Hayley Williams"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292893220909670400",
+          "name": "Pop Punk"
+        }
+      }
+    ],
+    "conversation_id": "2070121305140351285",
+    "created_at": "2026-06-25T12:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070121305140351285"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《Uncomfortably Numb (feat. Hayley Williams)》，由 American Football、Hayley Williams 演唱，收录于《American Football (LP3)》专辑中，《Uncomfortably Numb (feat. Hayley Williams)》下载，《Uncomfortably Numb (feat. Hayley Williams)》在线试听，更多Uncomfortably Numb (feat. Hayley Williams)相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/9IEcxuJ",
+          "end": 105,
+          "expanded_url": "https://163cn.tv/9IEcxuJ",
+          "start": 82,
+          "status": 200,
+          "title": "Uncomfortably Numb (feat. Hayley Williams) - American Football/Hayley Williams - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t2&id=1330106783&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=WwwGb2QYDGgTljaMmINxmg==&playerUIModeId=76001&app_version=9.5.35&dlt=0846",
+          "url": "https://t.co/Si6XcUBkjX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070121305140351285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享American Football/Hayley Williams的单曲《Uncomfortably Numb (feat. Hayley Williams)》https://t.co/Si6XcUBkjX (@网易云音乐)\n\n这首的riff好有宇宙氛围\n还好我那次嗑大了ego death不是听的这首是american football大另外一首\n不然sensitivity deprived后可能意识都飞不回来了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Hayley Williams",
+              "id": "808351447980982273",
+              "name": "Hayley Williams"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "689566306014617600",
+              "name": "American football"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Hayley Williams",
+              "id": "808351447980982273",
+              "name": "Hayley Williams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566306014617600",
+              "name": "American football"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hayley Williams",
+              "id": "808351447980982273",
+              "name": "Hayley Williams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292893220909670400",
+              "name": "Pop Punk"
+            }
+          }
+        ],
+        "conversation_id": "2070121305140351285",
+        "created_at": "2026-06-25T12:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070121305140351285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《Uncomfortably Numb (feat. Hayley Williams)》，由 American Football、Hayley Williams 演唱，收录于《American Football (LP3)》专辑中，《Uncomfortably Numb (feat. Hayley Williams)》下载，《Uncomfortably Numb (feat. Hayley Williams)》在线试听，更多Uncomfortably Numb (feat. Hayley Williams)相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/9IEcxuJ",
+              "end": 105,
+              "expanded_url": "https://163cn.tv/9IEcxuJ",
+              "start": 82,
+              "status": 200,
+              "title": "Uncomfortably Numb (feat. Hayley Williams) - American Football/Hayley Williams - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t2&id=1330106783&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=WwwGb2QYDGgTljaMmINxmg==&playerUIModeId=76001&app_version=9.5.35&dlt=0846",
+              "url": "https://t.co/Si6XcUBkjX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070121305140351285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享American Football/Hayley Williams的单曲《Uncomfortably Numb (feat. Hayley Williams)》https://t.co/Si6XcUBkjX (@网易云音乐)\n\n这首的riff好有宇宙氛围\n还好我那次嗑大了ego death不是听的这首是american football大另外一首\n不然sensitivity deprived后可能意识都飞不回来了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 588,
+          "like_count": 14123,
+          "listed_count": 1,
+          "media_count": 694,
+          "tweet_count": 5610
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

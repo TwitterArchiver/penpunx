@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945682063627005952"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1945682074540876237",
+    "created_at": "2025-07-17T03:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T04:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945682074540876237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LsYu0JOJZT",
+          "end": 69,
+          "expanded_url": "https://x.com/penpunx/status/1945682074540876237/photo/1",
+          "media_key": "3_1945682063627005952",
+          "start": 46,
+          "url": "https://t.co/LsYu0JOJZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945682074540876237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "牛肉很老 番茄太甜 米饭太黏 但是不舒服的时候不需要走太多路就能吃到热乎的东西还是很满足的 https://t.co/LsYu0JOJZT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945682063627005952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwBzhzhWMAA75T6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945682063627005952"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1945682074540876237",
+        "created_at": "2025-07-17T03:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T04:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945682074540876237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LsYu0JOJZT",
+              "end": 69,
+              "expanded_url": "https://x.com/penpunx/status/1945682074540876237/photo/1",
+              "media_key": "3_1945682063627005952",
+              "start": 46,
+              "url": "https://t.co/LsYu0JOJZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945682074540876237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛肉很老 番茄太甜 米饭太黏 但是不舒服的时候不需要走太多路就能吃到热乎的东西还是很满足的 https://t.co/LsYu0JOJZT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "autistic 16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "Jupiter III",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 208,
+          "like_count": 7091,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 1628
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

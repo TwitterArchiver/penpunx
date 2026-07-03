@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1968817468362670347",
+    "created_at": "2025-09-18T23:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T00:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968826664529404156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1591761041133895680",
+          "start": 0,
+          "username": "Robert_Bumaro11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968826664529404156",
+    "in_reply_to_user_id": "1591761041133895680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968817468362670347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Robert_Bumaro11 但是哭的时候就是会发出奇怪的吼声 哪怕是未成年男女)("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1968817468362670347",
+        "created_at": "2025-09-18T23:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T00:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968826664529404156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968826664529404156",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968817468362670347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 但是哭的时候就是会发出奇怪的吼声 哪怕是未成年男女)("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "1968817468362670347",
+        "created_at": "2025-09-18T23:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T00:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968817468362670347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ajisai1207_/st…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/Ajisai1207_/status/1968662781839753338",
+              "start": 47,
+              "url": "https://t.co/WfOiBFGF7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968817468362670347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968662781839753338",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我小时候参加葬礼时第一次看到身边成年男女性的哭泣，因为感觉太怪诞滑稽导致笑出了声被批评... https://t.co/WfOiBFGF7a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 267,
+          "like_count": 9436,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 2184
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 432,
+          "like_count": 3197,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 279
+        },
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

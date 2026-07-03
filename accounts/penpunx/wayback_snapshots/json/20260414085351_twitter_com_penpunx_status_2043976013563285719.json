@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2043879812666929224",
+    "created_at": "2026-04-14T08:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043976013563285719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2009074459970555905",
+          "start": 0,
+          "username": "nylvim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043976013563285719",
+    "in_reply_to_user_id": "2009074459970555905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043967785248927987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nylvim 我不知道，但是我会小改（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2043879812666929224",
+        "created_at": "2026-04-14T08:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043976013563285719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2009074459970555905",
+              "start": 0,
+              "username": "nylvim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043976013563285719",
+        "in_reply_to_user_id": "2009074459970555905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043967785248927987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nylvim 我不知道，但是我会小改（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009074459970555905",
+        "conversation_id": "2043879812666929224",
+        "created_at": "2026-04-14T08:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043967785248927987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043967785248927987",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043879812666929224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 你会写代码吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 412,
+          "like_count": 11987,
+          "listed_count": 1,
+          "media_count": 456,
+          "tweet_count": 3692
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T01:27:44.000Z",
+        "description": "「时间」胶囊\n来自你的过去。起初被作为抗失忆药物被开发，随后被证实导致████，但民间仍有秘密生产。每四小时服用两粒以减轻失忆症状。支援你的未来。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/vinylch",
+                "end": 23,
+                "expanded_url": "https://t.me/vinylch",
+                "start": 0,
+                "url": "https://t.co/K6ePPDfWrs"
+              }
+            ]
+          }
+        },
+        "id": "2009074459970555905",
+        "location": "dump群: 724794166",
+        "name": "vi is not nyl",
+        "pinned_tweet_id": "2029398794207687099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029192498338566144/G1mHHIUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 26,
+          "like_count": 3386,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 423
+        },
+        "url": "https://t.co/K6ePPDfWrs",
+        "username": "nylvim",
+        "verified": false
+      }
+    ]
+  }
+}

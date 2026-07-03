@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1908469386572423584",
+    "created_at": "2025-04-05T10:38:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T11:38:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908469386572423584"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/hsn8086/status/1908354561825530323",
+          "start": 26,
+          "url": "https://t.co/K9PqOUDp0P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908469386572423584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908354561825530323",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "英语老师这一点还真是(\n不过每个老师都会比进度的) https://t.co/K9PqOUDp0P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 382,
+        "media_key": "3_1908354559141175297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnvWXFMbYAEuJtu.jpg",
+        "width": 517
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1908469386572423584",
+        "created_at": "2025-04-05T10:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T11:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908469386572423584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/hsn8086/status/1908354561825530323",
+              "start": 26,
+              "url": "https://t.co/K9PqOUDp0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908469386572423584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908354561825530323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "英语老师这一点还真是(\n不过每个老师都会比进度的) https://t.co/K9PqOUDp0P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908354559141175297"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1908354561825530323",
+        "created_at": "2025-04-05T03:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T04:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908354561825530323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0OZ8opTGd9",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1908354561825530323/photo/1",
+              "media_key": "3_1908354559141175297",
+              "start": 0,
+              "url": "https://t.co/0OZ8opTGd9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908354561825530323",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 14734,
+          "like_count": 379,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0OZ8opTGd9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / world of warcraft / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 155,
+          "like_count": 2561,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 711
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1895271678005125582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54254,
+          "following_count": 947,
+          "like_count": 38370,
+          "listed_count": 131,
+          "media_count": 8555,
+          "tweet_count": 14497
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

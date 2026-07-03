@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2070315271613784413",
+    "created_at": "2026-06-26T03:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070346365729931447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1748688710307115008",
+          "start": 0,
+          "username": "nine_and_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070346365729931447",
+    "in_reply_to_user_id": "1748688710307115008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070331119405600887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nine_and_9 工科跨很少吗（\n我感觉工科才多吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2070315271613784413",
+        "created_at": "2026-06-26T03:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070346365729931447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1748688710307115008",
+              "start": 0,
+              "username": "nine_and_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070346365729931447",
+        "in_reply_to_user_id": "1748688710307115008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070331119405600887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nine_and_9 工科跨很少吗（\n我感觉工科才多吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748688710307115008",
+        "conversation_id": "2070315271613784413",
+        "created_at": "2026-06-26T02:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070331119405600887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070331119405600887",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070329990600855855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 那我觉得可能海洋和海事比较多（？，毕竟专业大部分偏理科一点，但不全是工科"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 591,
+          "like_count": 14169,
+          "listed_count": 1,
+          "media_count": 694,
+          "tweet_count": 5644
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T12:47:43.000Z",
+        "description": "",
+        "id": "1748688710307115008",
+        "name": "九某人",
+        "pinned_tweet_id": "2040311755105255633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748689466552942592/cN2J5xLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 219,
+          "like_count": 2043,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1372
+        },
+        "url": "",
+        "username": "nine_and_9",
+        "verified": true
+      }
+    ]
+  }
+}

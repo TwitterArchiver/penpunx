@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051379330",
+          "name": "少女終末旅行"
+        }
+      }
+    ],
+    "conversation_id": "2060763062475591717",
+    "created_at": "2026-05-30T16:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060763062475591717"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rh_parasol_/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/rh_parasol_/status/2060725025771307037",
+          "start": 15,
+          "url": "https://t.co/Y2AgtPUu18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060763062475591717",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060725025771307037",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Have some rest https://t.co/Y2AgtPUu18"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1900,
+        "media_key": "3_2060724909312270336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkqYwdbYAAgV8k.jpg",
+        "width": 2650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379330",
+              "name": "少女終末旅行"
+            }
+          }
+        ],
+        "conversation_id": "2060763062475591717",
+        "created_at": "2026-05-30T16:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060763062475591717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rh_parasol_/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/rh_parasol_/status/2060725025771307037",
+              "start": 15,
+              "url": "https://t.co/Y2AgtPUu18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060763062475591717",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060725025771307037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Have some rest https://t.co/Y2AgtPUu18"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060724909312270336"
+          ]
+        },
+        "author_id": "1363162323393736704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379330",
+              "name": "少女終末旅行"
+            }
+          }
+        ],
+        "conversation_id": "2060725025771307037",
+        "created_at": "2026-05-30T14:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060725025771307037"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "少女終末旅行"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l1YvipM4AY",
+              "end": 31,
+              "expanded_url": "https://x.com/Rh_parasol_/status/2060725025771307037/photo/1",
+              "media_key": "3_2060724909312270336",
+              "start": 8,
+              "url": "https://t.co/l1YvipM4AY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060725025771307037",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 1349,
+          "like_count": 212,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "#少女終末旅行 https://t.co/l1YvipM4AY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱",
+        "id": "1896904934995656704",
+        "name": "天",
+        "pinned_tweet_id": "2060383283750510858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060747387942150144/M4fMX5va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 555,
+          "like_count": 13496,
+          "listed_count": 1,
+          "media_count": 551,
+          "tweet_count": 4836
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-20T16:24:48.000Z",
+        "description": "그림과 커미션",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ccoli.co/@Rh_parasol_",
+                "end": 23,
+                "expanded_url": "https://ccoli.co/@Rh_parasol_",
+                "start": 0,
+                "url": "https://t.co/e50h8TVXLP"
+              }
+            ]
+          }
+        },
+        "id": "1363162323393736704",
+        "name": "파라솔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1536669367135797248/SXB6NcQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 50,
+          "like_count": 436,
+          "listed_count": 6,
+          "media_count": 233,
+          "tweet_count": 847
+        },
+        "url": "https://t.co/e50h8TVXLP",
+        "username": "Rh_parasol_",
+        "verified": false
+      }
+    ]
+  }
+}

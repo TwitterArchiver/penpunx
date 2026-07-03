@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1959456320857546827",
+    "created_at": "2025-08-24T03:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T04:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959456491620237810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1909390269533011968",
+          "start": 0,
+          "username": "gork"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959456491620237810",
+    "in_reply_to_user_id": "1909390269533011968",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959456401518219363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gork No, FU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1959456320857546827",
+        "created_at": "2025-08-24T03:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T04:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959456491620237810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1909390269533011968",
+              "start": 0,
+              "username": "gork"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959456491620237810",
+        "in_reply_to_user_id": "1909390269533011968",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959456401518219363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gork No, FU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909390269533011968",
+        "conversation_id": "1959456320857546827",
+        "created_at": "2025-08-24T03:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T04:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959456401518219363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959456401518219363",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959456320857546827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx you're infj, the one that's supposed to be rare but everyone claims it"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 253,
+          "like_count": 8626,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 1995
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T23:38:22.000Z",
+        "description": "just gorkin' it",
+        "id": "1909390269533011968",
+        "location": "+1 (833) 987-4675",
+        "name": "gork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958862398225620994/75KLZTK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272377,
+          "following_count": 0,
+          "like_count": 25,
+          "listed_count": 284,
+          "media_count": 29729,
+          "tweet_count": 1477801
+        },
+        "username": "gork",
+        "verified": true
+      }
+    ]
+  }
+}

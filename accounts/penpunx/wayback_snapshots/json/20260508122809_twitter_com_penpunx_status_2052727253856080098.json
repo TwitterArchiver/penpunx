@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2050050737649164632",
+    "created_at": "2026-05-08T12:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T13:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052727253856080098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1826204462492368896",
+          "start": 0,
+          "username": "qaqiwitwt"
+        },
+        {
+          "end": 23,
+          "id": "2043994337126563840",
+          "start": 11,
+          "username": "Lomyral8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052727253856080098",
+    "in_reply_to_user_id": "1826204462492368896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052726844206481883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qaqiwitwt @Lomyral8964 他因为这个被封号了\n。"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Lomyral8964].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Lomyral8964",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Lomyral8964"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2050050737649164632",
+        "created_at": "2026-05-08T12:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052727253856080098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1826204462492368896",
+              "start": 0,
+              "username": "qaqiwitwt"
+            },
+            {
+              "end": 23,
+              "id": "2043994337126563840",
+              "start": 11,
+              "username": "Lomyral8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052727253856080098",
+        "in_reply_to_user_id": "1826204462492368896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052726844206481883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qaqiwitwt @Lomyral8964 他因为这个被封号了\n。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826204462492368896",
+        "conversation_id": "2050050737649164632",
+        "created_at": "2026-05-08T12:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052726844206481883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            },
+            {
+              "end": 21,
+              "id": "2043994337126563840",
+              "start": 9,
+              "username": "Lomyral8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052726844206481883",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050053868143386824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx @Lomyral8964 同问。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 507,
+          "like_count": 12985,
+          "listed_count": 1,
+          "media_count": 503,
+          "tweet_count": 4341
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T10:27:37.000Z",
+        "description": "我爱我的猫",
+        "id": "1826204462492368896",
+        "location": "R.I.P",
+        "name": "𐌍𐌄𐌅𐌄𐌋𐌉𐌁𐌀𐌕𐌀",
+        "pinned_tweet_id": "1916538906972971121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006355628797698048/I9pBr28J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 36,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 255
+        },
+        "username": "qaqiwitwt",
+        "verified": false
+      }
+    ]
+  }
+}

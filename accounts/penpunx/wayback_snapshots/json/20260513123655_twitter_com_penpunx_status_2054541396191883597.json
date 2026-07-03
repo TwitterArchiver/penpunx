@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2054461716680032469",
+    "created_at": "2026-05-13T12:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054541396191883597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1498281208182050817",
+          "start": 0,
+          "username": "YINGIsNotGnu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054541396191883597",
+    "in_reply_to_user_id": "1498281208182050817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054539354497069565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YINGIsNotGnu 我想研究佛教了..！\n不过我对藏传佛教更感兴趣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2054461716680032469",
+        "created_at": "2026-05-13T12:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054541396191883597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1498281208182050817",
+              "start": 0,
+              "username": "YINGIsNotGnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054541396191883597",
+        "in_reply_to_user_id": "1498281208182050817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054539354497069565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YINGIsNotGnu 我想研究佛教了..！\n不过我对藏传佛教更感兴趣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498281208182050817",
+        "conversation_id": "2054461716680032469",
+        "created_at": "2026-05-13T12:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054539354497069565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054539354497069565",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054461716680032469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 早期文本中只讲如何去除苦，最终达到苦灭。人人都知道趋乐避苦，但早期文本如何论证追求苦灭的合理性呢？先假设不只有此生，那苦灭当然是好的；再假设只有此生，那此生也可以得到离苦得乐。相比之下，采取第一个假设显然风险更小，因为你不知道之后会不会比你经历过的更苦，这个当然也适用于此刻之后。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 519,
+          "like_count": 13248,
+          "listed_count": 1,
+          "media_count": 514,
+          "tweet_count": 4515
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-28T12:58:00.000Z",
+        "description": "",
+        "id": "1498281208182050817",
+        "name": "泠 LING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052985318236995584/kh8jGIwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3750,
+          "following_count": 1073,
+          "like_count": 34804,
+          "listed_count": 14,
+          "media_count": 1412,
+          "tweet_count": 14292
+        },
+        "username": "YINGIsNotGnu",
+        "verified": false
+      }
+    ]
+  }
+}

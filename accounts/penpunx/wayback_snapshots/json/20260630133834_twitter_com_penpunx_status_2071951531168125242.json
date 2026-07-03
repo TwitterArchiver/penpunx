@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2071788186142134426",
+    "created_at": "2026-06-30T13:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071951531168125242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866050038088024064",
+          "start": 0,
+          "username": "123456wwerr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071951531168125242",
+    "in_reply_to_user_id": "1866050038088024064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071788186142134426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123456wwerr 哪里能买到羊肉馄饨，我超级喜欢吃羊肉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2071788186142134426",
+        "created_at": "2026-06-30T13:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071951531168125242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866050038088024064",
+              "start": 0,
+              "username": "123456wwerr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071951531168125242",
+        "in_reply_to_user_id": "1866050038088024064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071788186142134426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456wwerr 哪里能买到羊肉馄饨，我超级喜欢吃羊肉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866050038088024064",
+        "conversation_id": "2071788186142134426",
+        "created_at": "2026-06-30T02:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071788186142134426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/123456wwerr/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/123456wwerr/status/2071784985770721354",
+              "start": 14,
+              "url": "https://t.co/SJYv0t8sd4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071788186142134426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 546,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071784985770721354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "四千大卡，朋友你麻麻私掉了 https://t.co/SJYv0t8sd4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "万物",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 606,
+          "like_count": 14485,
+          "listed_count": 1,
+          "media_count": 733,
+          "tweet_count": 5924
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "恒人党委员会荣誉会员，百分之八十皮特人间体，悲观主义者，重度抑郁（非常严重），中度焦虑，没有逻辑，没有情商和口才，高强度玩游戏看动漫小说脱离社会太久\n经常找我聊天的朋友@bazhuayu98808\n@ningmeng______",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "bazhuayu98808"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "ningmeng______"
+              }
+            ]
+          }
+        },
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "2007153346533306830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020775111813713921/6QpcftfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 434,
+          "like_count": 131492,
+          "listed_count": 2,
+          "media_count": 827,
+          "tweet_count": 20114
+        },
+        "url": "",
+        "username": "123456wwerr",
+        "verified": false
+      }
+    ]
+  }
+}

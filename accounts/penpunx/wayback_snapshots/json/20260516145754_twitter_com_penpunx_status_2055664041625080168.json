@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2055664041625080168",
+    "created_at": "2026-05-16T14:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055664041625080168"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055664041625080168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国先秦文章通常不靠逻辑推理来论证，而是打比方并让你自己体会。以前我很不喜欢这样，但现在我反倒觉得有些东西再精确的语言再严密的逻辑也描述不出，用感受去思考可能更高效更准确"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2055664041625080168",
+        "created_at": "2026-05-16T14:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055664041625080168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055664041625080168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国先秦文章通常不靠逻辑推理来论证，而是打比方并让你自己体会。以前我很不喜欢这样，但现在我反倒觉得有些东西再精确的语言再严密的逻辑也描述不出，用感受去思考可能更高效更准确"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 530,
+          "like_count": 13364,
+          "listed_count": 1,
+          "media_count": 520,
+          "tweet_count": 4610
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

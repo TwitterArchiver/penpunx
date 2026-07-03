@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1958144380231200919",
+    "created_at": "2025-08-20T13:24:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T14:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958158108896981127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1742424148947988480",
+          "start": 0,
+          "username": "luckyrich333"
+        },
+        {
+          "end": 23,
+          "id": "1916301557643034624",
+          "start": 14,
+          "username": "neet_sol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958158108896981127",
+    "in_reply_to_user_id": "1742424148947988480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958144380231200919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luckyrich333 @neet_sol 划船玩手机，小心翻了🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1958144365702041600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyy57QiaUAALR6t.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1958144380231200919",
+        "created_at": "2025-08-20T13:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T14:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958158108896981127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1742424148947988480",
+              "start": 0,
+              "username": "luckyrich333"
+            },
+            {
+              "end": 23,
+              "id": "1916301557643034624",
+              "start": 14,
+              "username": "neet_sol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958158108896981127",
+        "in_reply_to_user_id": "1742424148947988480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958144380231200919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luckyrich333 @neet_sol 划船玩手机，小心翻了🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958144365702041600"
+          ]
+        },
+        "author_id": "1742424148947988480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1260289779318419456",
+              "name": "Paddleboarding"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1260289779318419456",
+              "name": "Paddleboarding"
+            }
+          }
+        ],
+        "conversation_id": "1958144380231200919",
+        "created_at": "2025-08-20T12:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T13:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958144380231200919"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "neet",
+              "probability": 0.5115,
+              "start": 4,
+              "type": "Other"
+            }
+          ],
+          "cashtags": [
+            {
+              "end": 8,
+              "start": 3,
+              "tag": "neet"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 61,
+              "id": "1916301557643034624",
+              "start": 52,
+              "username": "neet_sol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhtVFhunGm",
+              "end": 85,
+              "expanded_url": "https://x.com/luckyrich333/status/1958144380231200919/photo/1",
+              "media_key": "3_1958144365702041600",
+              "start": 62,
+              "url": "https://t.co/lhtVFhunGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958144380231200919",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 497,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "my $neet day\n\nbe unemployed and go paddle boarding\n\n@neet_sol https://t.co/lhtVFhunGm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 248,
+          "like_count": 8413,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 1958
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T05:54:38.000Z",
+        "description": "WAGMI",
+        "id": "1742424148947988480",
+        "name": "🍚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957731748185571328/dcWiIJYn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4635,
+          "following_count": 887,
+          "like_count": 10292,
+          "listed_count": 87,
+          "media_count": 989,
+          "tweet_count": 2476
+        },
+        "username": "luckyrich333",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-27T01:21:16.000Z",
+        "description": "Not in Employment, Education, or Training\n\nCe2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "neetcoin.xyz",
+                "end": 23,
+                "expanded_url": "http://neetcoin.xyz",
+                "start": 0,
+                "url": "https://t.co/A1uQvvykir"
+              }
+            ]
+          }
+        },
+        "id": "1916301557643034624",
+        "name": "Neet",
+        "pinned_tweet_id": "1952419920945320216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917570611427123200/EV0AWZ4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16350,
+          "following_count": 31,
+          "like_count": 5825,
+          "listed_count": 48,
+          "media_count": 1370,
+          "tweet_count": 4104
+        },
+        "url": "https://t.co/A1uQvvykir",
+        "username": "neet_sol",
+        "verified": true
+      }
+    ]
+  }
+}

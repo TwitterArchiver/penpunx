@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2057425079383068867",
+    "created_at": "2026-05-21T11:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057425079383068867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/penpunx/status/2057396057475285478",
+          "start": 53,
+          "url": "https://t.co/8MsxfLaXuw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057425079383068867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057396057475285478",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在我怀疑我的焦虑症并非心理问题而是身体问题了\n不过至少经过一段时间戒断，耐受很低，3-5t加巴都有感觉 https://t.co/8MsxfLaXuw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2057425079383068867",
+        "created_at": "2026-05-21T11:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057425079383068867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/penpunx/status/2057396057475285478",
+              "start": 53,
+              "url": "https://t.co/8MsxfLaXuw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057425079383068867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057396057475285478",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在我怀疑我的焦虑症并非心理问题而是身体问题了\n不过至少经过一段时间戒断，耐受很低，3-5t加巴都有感觉 https://t.co/8MsxfLaXuw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2057396057475285478",
+        "created_at": "2026-05-21T09:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057396057475285478"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057396057475285478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "氯硝西泮及阿普唑仑差极，除了能让人睡着，感觉对我的焦虑和神经痛没有什么作用。整个早上我都在动来动去，身上极痒极痛，最后还是1t巴氯芬+5t加巴治好了，呜呼！冬天的时候，身上冷得发痛，普瑞巴林也能治好。只有普瑞巴林的类似物才是最好的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 539,
+          "like_count": 13468,
+          "listed_count": 1,
+          "media_count": 523,
+          "tweet_count": 4706
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

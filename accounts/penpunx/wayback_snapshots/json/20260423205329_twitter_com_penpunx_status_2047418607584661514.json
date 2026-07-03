@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2047418607584661514",
+    "created_at": "2026-04-23T20:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T21:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047418607584661514"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047418607584661514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我感觉很多时候人们都太重视“现在还存在什么问题”了，是这种状态制造出了更多的问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2047418607584661514",
+        "created_at": "2026-04-23T20:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047418607584661514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047418607584661514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉很多时候人们都太重视“现在还存在什么问题”了，是这种状态制造出了更多的问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 434,
+          "like_count": 12197,
+          "listed_count": 1,
+          "media_count": 462,
+          "tweet_count": 3850
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

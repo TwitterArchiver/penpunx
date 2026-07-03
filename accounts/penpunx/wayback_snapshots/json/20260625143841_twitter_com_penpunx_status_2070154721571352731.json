@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2070143947993714724",
+    "created_at": "2026-06-25T14:38:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T15:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070154721571352731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1695406391609966592",
+          "start": 0,
+          "username": "sashiburi519534"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070154721571352731",
+    "in_reply_to_user_id": "1695406391609966592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070143947993714724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sashiburi519534 发扬德铁精神"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18563,
+        "height": 1280,
+        "media_key": "13_2070143824656023552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070143824656023552/img/gQ0XOYDdCMAIJTBD.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070143824656023552/vid/avc1/320x568/tpy65UdWT05Hwu3W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070143824656023552/vid/avc1/480x852/l7nn6IyQkvfiC9tF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070143824656023552/vid/avc1/720x1280/YACmRovQAkRFz3ga.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070143824656023552/pl/rrxBBoGixLJQMBqu.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2070143947993714724",
+        "created_at": "2026-06-25T14:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070154721571352731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695406391609966592",
+              "start": 0,
+              "username": "sashiburi519534"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070154721571352731",
+        "in_reply_to_user_id": "1695406391609966592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070143947993714724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sashiburi519534 发扬德铁精神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070143824656023552"
+          ]
+        },
+        "author_id": "1695406391609966592",
+        "conversation_id": "2070143947993714724",
+        "created_at": "2026-06-25T13:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070143947993714724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CKHmZ3O3NO",
+              "end": 76,
+              "expanded_url": "https://x.com/sashiburi519534/status/2070143947993714724/video/1",
+              "media_key": "13_2070143824656023552",
+              "start": 53,
+              "url": "https://t.co/CKHmZ3O3NO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070143947993714724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我到集合点了\n但是我有个不好的预感\n\n因为还有5分钟集合\n这里只有我一个人\n\n不会只有我来了吧（荡秋千中 https://t.co/CKHmZ3O3NO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 588,
+          "like_count": 14133,
+          "listed_count": 1,
+          "media_count": 694,
+          "tweet_count": 5621
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T12:03:04.000Z",
+        "description": "我是叉子/玩很多ns游戏/喜欢开心果味/不是DJ小女孩/麸质过敏/hazy ipa/烤鸭/裸睡/大蒜酱/喜欢水水獭/喜欢橘子/不爱吃饭很瘦/怕冷怕热/讨厌蚊子/喜欢蟑螂/《爱蠊说/葱花好吃/喫煙/会骑自行车/不吃韭菜/死了已经/Shoegaze/ NGL https://t.co/DyGKzxrd0I",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sashiburi51953…",
+                "end": 151,
+                "expanded_url": "http://ngl.link/sashiburi5195342",
+                "start": 128,
+                "url": "https://t.co/DyGKzxrd0I"
+              }
+            ]
+          }
+        },
+        "id": "1695406391609966592",
+        "location": "Sintra, Portugal",
+        "name": "怒羅衛門",
+        "pinned_tweet_id": "1872574195990974933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801746828297117696/ht4Uakoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 1181,
+          "like_count": 23756,
+          "listed_count": 3,
+          "media_count": 1683,
+          "tweet_count": 8230
+        },
+        "url": "",
+        "username": "sashiburi519534",
+        "verified": false
+      }
+    ]
+  }
+}

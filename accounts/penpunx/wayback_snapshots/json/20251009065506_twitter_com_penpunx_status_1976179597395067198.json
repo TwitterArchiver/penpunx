@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1976146934911119628",
+    "created_at": "2025-10-09T06:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T07:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976179597395067198"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 11,
+          "normalized_text": "平平",
+          "probability": 0.6568,
+          "start": 10,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1048022597823164416",
+          "start": 0,
+          "username": "HiallouL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976179597395067198",
+    "in_reply_to_user_id": "1048022597823164416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976146934911119628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HiallouL 平平的真好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1976146934911119628",
+        "created_at": "2025-10-09T06:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T07:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976179597395067198"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "平平",
+              "probability": 0.6568,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1048022597823164416",
+              "start": 0,
+              "username": "HiallouL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976179597395067198",
+        "in_reply_to_user_id": "1048022597823164416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976146934911119628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiallouL 平平的真好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1048022597823164416",
+        "conversation_id": "1976146934911119628",
+        "created_at": "2025-10-09T04:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T05:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976146934911119628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976146934911119628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自从和平行世界amab的自己建立共情联系，btw开发了cuntboy的xp，看裆部越来越顺眼，摸一摸感叹平平的真好🫴😤👌✌🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1974498041756569769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975082924950310912/JRet2r2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 278,
+          "like_count": 10227,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 2475
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-05T01:30:33.000Z",
+        "description": "🌈🏳️‍🌈🏳️‍⚧️ 🌱 📸 ☕ 💛🤍💜🖤",
+        "id": "1048022597823164416",
+        "location": "把不息的生机种在每一个旅人心里",
+        "name": "Hallo",
+        "pinned_tweet_id": "1963969849065164812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972658949611769856/_J0xXhpn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 1263,
+          "like_count": 17404,
+          "listed_count": 5,
+          "media_count": 845,
+          "tweet_count": 4860
+        },
+        "username": "HiallouL",
+        "verified": false
+      }
+    ]
+  }
+}

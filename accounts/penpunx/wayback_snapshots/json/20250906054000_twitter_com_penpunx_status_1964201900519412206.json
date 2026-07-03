@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1964201897348518177",
+    "created_at": "2025-09-06T05:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T06:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964201900519412206"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1964201900519412206",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964201897348518177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个暑假我才好不容易认识到这一点，我最引以为傲的初一竟然是后来一系列问题的起源。所以我对成为焦点祛魅，也慢慢对社交祛魅了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1964201897348518177",
+        "created_at": "2025-09-06T05:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T06:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964201900519412206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964201900519412206",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964201897348518177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个暑假我才好不容易认识到这一点，我最引以为傲的初一竟然是后来一系列问题的起源。所以我对成为焦点祛魅，也慢慢对社交祛魅了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1964201897348518177",
+        "created_at": "2025-09-06T05:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T06:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964201897348518177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964201897348518177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和丧女里的小智社交属性差不多。但是我不想成为人群的焦点，或者受欢迎，我觉得那样又耗费精力又没有意义。我曾经是想的，因为初中成绩好又被当时的班主任护着还做班长，我一直在享受这种骄傲的感觉，哪怕后来换了班主任。我初三在人际关系上很拧巴，也是因为还是潜意识认为自己是“班长”那样的人物。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 265,
+          "like_count": 9139,
+          "listed_count": 1,
+          "media_count": 286,
+          "tweet_count": 2097
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

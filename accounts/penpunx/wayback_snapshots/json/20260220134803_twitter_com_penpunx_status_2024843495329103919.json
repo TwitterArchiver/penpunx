@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2024835348501876941",
+    "created_at": "2026-02-20T13:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T14:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024843495329103919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1738459764118769664",
+          "start": 0,
+          "username": "karmanimaXwX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024843495329103919",
+    "in_reply_to_user_id": "1738459764118769664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024842979161387158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karmanimaXwX 我也是（我会用你画的图作为新桌面！）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2024835348501876941",
+        "created_at": "2026-02-20T13:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024843495329103919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1738459764118769664",
+              "start": 0,
+              "username": "karmanimaXwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024843495329103919",
+        "in_reply_to_user_id": "1738459764118769664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024842979161387158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karmanimaXwX 我也是（我会用你画的图作为新桌面！）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738459764118769664",
+        "conversation_id": "2024835348501876941",
+        "created_at": "2026-02-20T13:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024842979161387158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024842979161387158",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024835348501876941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx この画像良いですよね！\nドリームコアの雰囲気がとても気に入ってます！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2024557534829564202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 313,
+          "like_count": 10810,
+          "listed_count": 1,
+          "media_count": 401,
+          "tweet_count": 2939
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T07:21:43.000Z",
+        "description": "たまに絵を描いています。 AIやめてね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@karmanimaXwX",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@karmanimaXwX",
+                "start": 0,
+                "url": "https://t.co/p0XwHE8g1m"
+              }
+            ]
+          }
+        },
+        "id": "1738459764118769664",
+        "name": "Kr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023756063015923712/cJYdCh7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 241,
+          "like_count": 87896,
+          "listed_count": 10,
+          "media_count": 62,
+          "tweet_count": 3613
+        },
+        "url": "https://t.co/p0XwHE8g1m",
+        "username": "karmanimaXwX",
+        "verified": false
+      }
+    ]
+  }
+}

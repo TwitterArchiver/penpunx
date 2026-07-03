@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1947272123611074560"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1947272215554117695",
+    "created_at": "2025-07-21T12:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T13:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947272215554117695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xkuL1W08VH",
+          "end": 29,
+          "expanded_url": "https://x.com/penpunx/status/1947272215554117695/video/1",
+          "media_key": "13_1947272123611074560",
+          "start": 6,
+          "url": "https://t.co/xkuL1W08VH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947272215554117695",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主包唱歌( https://t.co/xkuL1W08VH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 254633,
+        "height": 640,
+        "media_key": "13_1947272123611074560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1947272123611074560/img/f4qCQfFzG6yXMdqf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947272123611074560/vid/avc1/320x580/_awkzyK-mOC0o1n_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947272123611074560/vid/avc1/352x640/yUyf-ZmznVtRZ9dl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1947272123611074560/pl/eqzoRlEZKrCflr9p.m3u8"
+          }
+        ],
+        "width": 352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1947272123611074560"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1947272215554117695",
+        "created_at": "2025-07-21T12:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947272215554117695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkuL1W08VH",
+              "end": 29,
+              "expanded_url": "https://x.com/penpunx/status/1947272215554117695/video/1",
+              "media_key": "13_1947272123611074560",
+              "start": 6,
+              "url": "https://t.co/xkuL1W08VH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947272215554117695",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主包唱歌( https://t.co/xkuL1W08VH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "autistic 16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "Jupiter III",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 207,
+          "like_count": 7155,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 1654
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

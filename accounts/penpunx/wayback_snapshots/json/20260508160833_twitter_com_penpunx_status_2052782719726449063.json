@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2052782719726449063",
+    "created_at": "2026-05-08T16:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052782719726449063"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zxy1473129/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/zxy1473129/status/2052433821841477744",
+          "start": 7,
+          "url": "https://t.co/vszDiNoXvx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052782719726449063",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052433821841477744",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持！支持。 https://t.co/vszDiNoXvx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2052782719726449063",
+        "created_at": "2026-05-08T16:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052782719726449063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zxy1473129/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/zxy1473129/status/2052433821841477744",
+              "start": 7,
+              "url": "https://t.co/vszDiNoXvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052782719726449063",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052433821841477744",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持！支持。 https://t.co/vszDiNoXvx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858042250158358528",
+        "conversation_id": "2052433821841477744",
+        "created_at": "2026-05-07T17:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052433821841477744"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052433821841477744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8319,
+          "like_count": 243,
+          "quote_count": 9,
+          "reply_count": 24,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "都有炮友了，能不能来个哭友？两个人只要其中一个有伤心事就二话不说一起哭，哭到天昏地暗都没人管，就单纯哭。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 508,
+          "like_count": 13005,
+          "listed_count": 1,
+          "media_count": 503,
+          "tweet_count": 4347
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T06:59:36.000Z",
+        "description": "|07|无门槛|纯吐槽|怨气很大|绿色玩家|\n觉得我有趣可以给我money而不是选择骚扰我 ꒦ິ^꒦ິ\n（骚扰我骂你全家你就受着吧）",
+        "id": "1858042250158358528",
+        "location": "神仙国",
+        "name": "Ruruuuuu",
+        "pinned_tweet_id": "2052685427602321444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051259844838207488/auq7BQZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 16,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 103
+        },
+        "username": "zxy1473129",
+        "verified": false
+      }
+    ]
+  }
+}

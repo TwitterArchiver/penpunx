@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1976075498343235880",
+    "created_at": "2025-10-09T00:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T01:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976086779565621560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1747027117345239040",
+          "start": 0,
+          "username": "incelfa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976086779565621560",
+    "in_reply_to_user_id": "1747027117345239040",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976084727779164339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@incelfa 🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1976075498343235880",
+        "created_at": "2025-10-09T00:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T01:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976086779565621560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1747027117345239040",
+              "start": 0,
+              "username": "incelfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976086779565621560",
+        "in_reply_to_user_id": "1747027117345239040",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976084727779164339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@incelfa 🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747027117345239040",
+        "conversation_id": "1976075498343235880",
+        "created_at": "2025-10-09T00:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T01:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976084727779164339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976084727779164339",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976075498343235880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx me too 😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1974498041756569769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975082924950310912/JRet2r2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 278,
+          "like_count": 10211,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 2467
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T22:47:26.000Z",
+        "description": "uma estudante de psicologia depressiva autista e tdah ☆\nvent account! please ignore",
+        "id": "1747027117345239040",
+        "location": "manicômio digital",
+        "name": "Lou",
+        "pinned_tweet_id": "1758317278930542943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866097366014517248/ppHMg95j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 138,
+          "like_count": 19799,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 2610
+        },
+        "username": "incelfa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2031383193258189051",
+    "created_at": "2026-03-10T14:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T15:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031383193258189051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nktblovekris99…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/nktblovekris99/status/1999798493263868364",
+          "start": 20,
+          "url": "https://t.co/9xyr3cALGr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031383193258189051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999798493263868364",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要完蛋啊😭😭没有pr我真的会死掉😭😭 https://t.co/9xyr3cALGr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 821,
+        "media_key": "3_1999798479695310848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8C2HzSa8AAe7Zz.jpg",
+        "width": 1134
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2031383193258189051",
+        "created_at": "2026-03-10T14:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031383193258189051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nktblovekris99…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/nktblovekris99/status/1999798493263868364",
+              "start": 20,
+              "url": "https://t.co/9xyr3cALGr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031383193258189051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999798493263868364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要完蛋啊😭😭没有pr我真的会死掉😭😭 https://t.co/9xyr3cALGr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999798479695310848"
+          ]
+        },
+        "author_id": "1915124824126427137",
+        "conversation_id": "1999798493263868364",
+        "created_at": "2025-12-13T11:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T12:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999798493263868364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E4htnMH4XB",
+              "end": 28,
+              "expanded_url": "https://x.com/nktblovekris99/status/1999798493263868364/photo/1",
+              "media_key": "3_1999798479695310848",
+              "start": 5,
+              "url": "https://t.co/E4htnMH4XB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999798493263868364",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 32544,
+          "like_count": 184,
+          "quote_count": 12,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "快完蛋了 https://t.co/E4htnMH4XB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 349,
+          "like_count": 11347,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 3231
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T19:25:21.000Z",
+        "description": "前世竹蜻蜓 @zqtlovekris99 翻车顺女HRT23.05.29/多意识体喵七休日系统/OSDD+cptsd/od💊ed BMI15 / pfp @LeonRui_ / 里帐 @Luminme_Vas 互关请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "LeonRui_"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Luminme_Vas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "http://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/D6mYti9yH7"
+              }
+            ]
+          }
+        },
+        "id": "1915124824126427137",
+        "name": "🐱🍥灰尾猫🍥🐱（复活赛打赢版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998235803676463104/qPOn02np_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 643,
+          "like_count": 113,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 236
+        },
+        "url": "https://t.co/D6mYti9yH7",
+        "username": "nktblovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

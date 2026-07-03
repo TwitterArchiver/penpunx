@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1549234895188176897",
+    "conversation_id": "1815146018473759187",
+    "created_at": "2024-07-22T09:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-22T10:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815321554630148101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1358622204888547329",
+          "start": 0,
+          "username": "ilyfvck0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815321554630148101",
+    "in_reply_to_user_id": "1358622204888547329",
+    "lang": "es",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815146018473759187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ilyfvck0 infancia?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1549234895188176897",
+        "conversation_id": "1815146018473759187",
+        "created_at": "2024-07-22T09:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T10:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815321554630148101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1358622204888547329",
+              "start": 0,
+              "username": "ilyfvck0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815321554630148101",
+        "in_reply_to_user_id": "1358622204888547329",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815146018473759187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ilyfvck0 infancia?"
+      },
+      {
+        "attachments": {},
+        "author_id": "1358622204888547329",
+        "conversation_id": "1815146018473759187",
+        "created_at": "2024-07-21T22:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T23:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815146018473759187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1815146018473759187",
+        "lang": "pt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "odeio adolescente"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-19T03:29:23.000Z",
+        "description": "im not there this isnt happening",
+        "id": "1549234895188176897",
+        "name": "-",
+        "pinned_tweet_id": "1801192637367787669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800030979840671744/YWVe7Yy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 451,
+          "like_count": 11210,
+          "listed_count": 0,
+          "tweet_count": 5518
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-08T03:44:19.000Z",
+        "description": "em breve eu serei apenas uma memória ruim.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/zeroly",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/zeroly",
+                "start": 0,
+                "url": "https://t.co/iaxTptiv4t"
+              }
+            ]
+          }
+        },
+        "id": "1358622204888547329",
+        "location": "Brasil",
+        "name": "0",
+        "pinned_tweet_id": "1811926626537459870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813158133105102848/CBZGFSKS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 180,
+          "like_count": 2853,
+          "listed_count": 0,
+          "tweet_count": 1610
+        },
+        "url": "https://t.co/iaxTptiv4t",
+        "username": "ilyfvck0",
+        "verified": false
+      }
+    ]
+  }
+}

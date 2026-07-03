@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1976588970835537982",
+    "created_at": "2025-10-10T14:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T15:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976653117786907047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1686063963111374859",
+          "start": 0,
+          "username": "mo_chen6191"
+        },
+        {
+          "end": 20,
+          "id": "1613079089879076864",
+          "start": 13,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976653117786907047",
+    "in_reply_to_user_id": "1686063963111374859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976649694349815883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mo_chen6191 @Cldeop 这是针对“伤害你的人”而不是“伤害”的一段话\n吃了毒蘑菇要积极就医治疗\n但是不要乱摘蘑菇，不要纠结为什么森林里有毒蘑菇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1976588970835537982",
+        "created_at": "2025-10-10T14:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T15:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976653117786907047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1686063963111374859",
+              "start": 0,
+              "username": "mo_chen6191"
+            },
+            {
+              "end": 20,
+              "id": "1613079089879076864",
+              "start": 13,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976653117786907047",
+        "in_reply_to_user_id": "1686063963111374859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976649694349815883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo_chen6191 @Cldeop 这是针对“伤害你的人”而不是“伤害”的一段话\n吃了毒蘑菇要积极就医治疗\n但是不要乱摘蘑菇，不要纠结为什么森林里有毒蘑菇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686063963111374859",
+        "conversation_id": "1976588970835537982",
+        "created_at": "2025-10-10T14:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T15:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976649694349815883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976649694349815883",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976588970835537982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 不恰当的比喻。被伤害了就是被伤害了，伤痕会存在，会刺痛，会发痒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1974498041756569769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975082924950310912/JRet2r2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 282,
+          "like_count": 10296,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 2512
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T17:19:22.000Z",
+        "description": "路人。逃生舱@yedeng1919",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "yedeng1919"
+              }
+            ]
+          }
+        },
+        "id": "1686063963111374859",
+        "location": "Central Region, Singapore",
+        "name": "陈",
+        "pinned_tweet_id": "1916975337134821752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974141021534760967/dQhGKk6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 995,
+          "like_count": 32751,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 7639
+        },
+        "username": "mo_chen6191",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82473,
+          "following_count": 646,
+          "like_count": 30749,
+          "listed_count": 255,
+          "media_count": 12667,
+          "tweet_count": 17936
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

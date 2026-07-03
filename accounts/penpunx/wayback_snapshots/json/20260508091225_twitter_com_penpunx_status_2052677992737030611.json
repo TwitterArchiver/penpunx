@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2052584086410252338",
+    "created_at": "2026-05-08T09:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T10:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052677992737030611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2037090530467995648",
+          "start": 0,
+          "username": "A920520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052677992737030611",
+    "in_reply_to_user_id": "2037090530467995648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052677934457278474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A920520 脑子坏了🤯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2052584086410252338",
+        "created_at": "2026-05-08T09:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052677992737030611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2037090530467995648",
+              "start": 0,
+              "username": "A920520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052677992737030611",
+        "in_reply_to_user_id": "2037090530467995648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052677934457278474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A920520 脑子坏了🤯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037090530467995648",
+        "conversation_id": "2052584086410252338",
+        "created_at": "2026-05-08T09:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052677934457278474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052677934457278474",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052584086410252338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 为什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 507,
+          "like_count": 12977,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 4334
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T08:53:36.000Z",
+        "description": "身高188.体重135，土象处女座，妹控，infj绿老头，有点爱喝酒，开心的时候不怎么喝，喜欢冒险，刺激，有激情，有挑战的事，属性s，会点绳缚，另外接私人定制小狗小猫项圈，脾气很好，性格很好，想认识好多新朋友",
+        "id": "2037090530467995648",
+        "name": "林飞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037090657848942592/kDT51ZvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 106,
+          "like_count": 1636,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 340
+        },
+        "username": "A920520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2049988642664538157",
+    "created_at": "2026-05-01T05:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T06:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050081094557671712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1695406391609966592",
+          "start": 0,
+          "username": "sashiburi519534"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050081094557671712",
+    "in_reply_to_user_id": "1695406391609966592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049988642664538157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sashiburi519534 可以6月等我考完试来上海找我玩！\n可以逛逛街或者去公园"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2049988642664538157",
+        "created_at": "2026-05-01T05:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050081094557671712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695406391609966592",
+              "start": 0,
+              "username": "sashiburi519534"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050081094557671712",
+        "in_reply_to_user_id": "1695406391609966592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049988642664538157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sashiburi519534 可以6月等我考完试来上海找我玩！\n可以逛逛街或者去公园"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695406391609966592",
+        "conversation_id": "2049988642664538157",
+        "created_at": "2026-04-30T23:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T00:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049988642664538157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049988642664538157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人愿意陪我出去逛街吗\n这几天\n\n想买夏天漂亮衣服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 459,
+          "like_count": 12397,
+          "listed_count": 1,
+          "media_count": 474,
+          "tweet_count": 3995
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T12:03:04.000Z",
+        "description": "我是叉子/玩很多ns游戏/喜欢开心果味/不是DJ小女孩/麸质过敏/hazy ipa/烤鸭/裸睡/大蒜酱/喜欢水水獭/喜欢橘子/不爱吃饭很瘦/怕冷怕热/讨厌蚊子/喜欢蟑螂/《爱蠊说/葱花好吃/喫煙/会骑自行车/不吃韭菜/死了已经/Shoegaze/ NGL https://t.co/DyGKzxrd0I",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sashiburi51953…",
+                "end": 151,
+                "expanded_url": "http://ngl.link/sashiburi5195342",
+                "start": 128,
+                "url": "https://t.co/DyGKzxrd0I"
+              }
+            ]
+          }
+        },
+        "id": "1695406391609966592",
+        "location": "Sintra, Portugal",
+        "name": "怒羅衛門",
+        "pinned_tweet_id": "1872574195990974933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801746828297117696/ht4Uakoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 1128,
+          "like_count": 22004,
+          "listed_count": 3,
+          "media_count": 1498,
+          "tweet_count": 7606
+        },
+        "username": "sashiburi519534",
+        "verified": false
+      }
+    ]
+  }
+}

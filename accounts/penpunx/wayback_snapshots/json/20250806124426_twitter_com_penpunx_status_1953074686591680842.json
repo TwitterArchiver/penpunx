@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1953074686591680842",
+    "created_at": "2025-08-06T12:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T13:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953074686591680842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cerelyje/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/cerelyje/status/1952902540288496008",
+          "start": 11,
+          "url": "https://t.co/1pQnkfRiRl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953074686591680842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952902540288496008",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我怎么有点想玩(🤯？ https://t.co/1pQnkfRiRl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14033,
+        "height": 938,
+        "media_key": "13_1952902472009433088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952902472009433088/img/Wl9jSdUdzJWm23kB.jpg",
+        "public_metrics": {
+          "view_count": 735946
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952902472009433088/vid/avc1/320x418/aAkJ3hIGV_44rj7A.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952902472009433088/vid/avc1/480x626/dye5LGRfkCy9H2Sj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952902472009433088/vid/avc1/718x938/UfxSYuD91oFg0h3o.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952902472009433088/pl/F16gnrHLJ7b5NPmh.m3u8?v=cfc"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1953074686591680842",
+        "created_at": "2025-08-06T12:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T13:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953074686591680842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cerelyje/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/cerelyje/status/1952902540288496008",
+              "start": 11,
+              "url": "https://t.co/1pQnkfRiRl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953074686591680842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952902540288496008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我怎么有点想玩(🤯？ https://t.co/1pQnkfRiRl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952902472009433088"
+          ]
+        },
+        "author_id": "1444178528270909443",
+        "conversation_id": "1952902540288496008",
+        "created_at": "2025-08-06T01:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T02:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952902540288496008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rGYz4idn32",
+              "end": 60,
+              "expanded_url": "https://x.com/cerelyje/status/1952902540288496008/video/1",
+              "media_key": "13_1952902472009433088",
+              "start": 37,
+              "url": "https://t.co/rGYz4idn32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952902540288496008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 452,
+          "impression_count": 1723210,
+          "like_count": 4865,
+          "quote_count": 85,
+          "reply_count": 140,
+          "retweet_count": 442
+        },
+        "reply_settings": "everyone",
+        "text": "My inner child wants this so badly😔😔 https://t.co/rGYz4idn32"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 226,
+          "like_count": 7777,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 1816
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-02T05:52:56.000Z",
+        "description": "hidup mengikuti arus walau terombang-ambing",
+        "id": "1444178528270909443",
+        "location": "handled by admin.",
+        "name": "Berlyn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877927696556331008/ZMeOgixh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5805,
+          "following_count": 3348,
+          "like_count": 80974,
+          "listed_count": 2,
+          "media_count": 986,
+          "tweet_count": 83560
+        },
+        "username": "cerelyje",
+        "verified": true
+      }
+    ]
+  }
+}

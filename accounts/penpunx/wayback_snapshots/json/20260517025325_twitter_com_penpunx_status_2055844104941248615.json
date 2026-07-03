@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2055844104941248615",
+    "created_at": "2026-05-17T02:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T03:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055844104941248615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/penpunx/status/2055654918095262052",
+          "start": 144,
+          "url": "https://t.co/F0lYM1wiri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055844104941248615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055654918095262052",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "比如我不愿意承认我要坚持不下去了\n我一直都不敢想和说“想死”\n\n但我更不愿意承认我的邪恶和仇恨，因为我希望我父母都去死\n\n换做以前我会想“我一定能把它们咒死”，现在我已力竭，无法力！\n\n总的来说就是不愿意承认自己的脆弱。但是说出来会让我好点。主要原因不是好面子而是不想给自己负面心理暗示 https://t.co/F0lYM1wiri"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2055844104941248615",
+        "created_at": "2026-05-17T02:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055844104941248615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/penpunx/status/2055654918095262052",
+              "start": 144,
+              "url": "https://t.co/F0lYM1wiri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055844104941248615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055654918095262052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比如我不愿意承认我要坚持不下去了\n我一直都不敢想和说“想死”\n\n但我更不愿意承认我的邪恶和仇恨，因为我希望我父母都去死\n\n换做以前我会想“我一定能把它们咒死”，现在我已力竭，无法力！\n\n总的来说就是不愿意承认自己的脆弱。但是说出来会让我好点。主要原因不是好面子而是不想给自己负面心理暗示 https://t.co/F0lYM1wiri"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2055654918095262052",
+        "created_at": "2026-05-16T14:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055654918095262052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055654918095262052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人总有一些不愿意承认的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 532,
+          "like_count": 13376,
+          "listed_count": 1,
+          "media_count": 520,
+          "tweet_count": 4621
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

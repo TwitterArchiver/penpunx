@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2056011938514276752",
+    "created_at": "2026-05-17T14:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056011938514276752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_nekokage/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/_nekokage/status/2055911084696203679",
+          "start": 17,
+          "url": "https://t.co/Os0VM9ZY3d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056011938514276752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055911084696203679",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看起来确实好解压，想割腕再缝上（ https://t.co/Os0VM9ZY3d"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35944,
+        "height": 1024,
+        "media_key": "7_2055343617233797120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2055343617233797120/pu/img/Z09g94HlQIYfX0vC.jpg",
+        "public_metrics": {
+          "view_count": 42788
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055343617233797120/pu/vid/avc1/320x568/dqnm5XT1HZazp_H9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055343617233797120/pu/vid/avc1/480x852/Acx39DcAHsiFcczs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055343617233797120/pu/vid/avc1/576x1024/8wkVSUImJLgKroG-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2055343617233797120/pu/pl/_HZLCgFn2FFuQP3U.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2056011938514276752",
+        "created_at": "2026-05-17T14:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056011938514276752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_nekokage/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/_nekokage/status/2055911084696203679",
+              "start": 17,
+              "url": "https://t.co/Os0VM9ZY3d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056011938514276752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055911084696203679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看起来确实好解压，想割腕再缝上（ https://t.co/Os0VM9ZY3d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055343617233797120"
+          ],
+          "media_source_tweet_id": [
+            "2055343695902196155"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055911084696203679",
+        "created_at": "2026-05-17T07:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055911084696203679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uA0MtOzD3o",
+              "end": 23,
+              "expanded_url": "https://x.com/Ace_mustdiee/status/2055343695902196155/video/1",
+              "media_key": "7_2055343617233797120",
+              "start": 0,
+              "url": "https://t.co/uA0MtOzD3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055911084696203679",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 378,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uA0MtOzD3o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 532,
+          "like_count": 13410,
+          "listed_count": 1,
+          "media_count": 521,
+          "tweet_count": 4649
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8613,
+          "following_count": 6577,
+          "like_count": 15092,
+          "listed_count": 18,
+          "media_count": 2887,
+          "tweet_count": 21104
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      }
+    ]
+  }
+}

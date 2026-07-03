@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1665109384307920896"
+      ],
+      "media_source_tweet_id": [
+        "1665109688529334272"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1917961456915735036",
+    "created_at": "2025-05-01T15:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T16:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917961456915735036"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "yoñlu",
+          "probability": 0.4717,
+          "start": 18,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1383779742248173568",
+          "start": 3,
+          "username": "jaozablonski"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NaBxhpnH1m",
+          "end": 75,
+          "expanded_url": "https://x.com/jaozablonski/status/1665109688529334272/video/1",
+          "media_key": "13_1665109384307920896",
+          "start": 52,
+          "url": "https://t.co/NaBxhpnH1m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917961456915735036",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 246
+    },
+    "referenced_tweets": [
+      {
+        "id": "1665109688529334272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jaozablonski: yoñlu - mecanica celeste aplicada https://t.co/NaBxhpnH1m"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 194133,
+        "height": 1080,
+        "media_key": "13_1665109384307920896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1665109384307920896/img/SO_AK6OgUv8OIncg.jpg",
+        "public_metrics": {
+          "view_count": 18608
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1665109384307920896/vid/480x270/uojVBal5MDEr1_CJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1665109384307920896/vid/640x360/d21tITD8Qq6ufTs2.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1665109384307920896/vid/1280x720/L7X8O6yNl9KLO0Df.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1665109384307920896/pl/hhKJ1Vrv1PEY-VKF.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1665109384307920896"
+          ],
+          "media_source_tweet_id": [
+            "1665109688529334272"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1917961456915735036",
+        "created_at": "2025-05-01T15:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T16:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917961456915735036"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "yoñlu",
+              "probability": 0.4717,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1383779742248173568",
+              "start": 3,
+              "username": "jaozablonski"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NaBxhpnH1m",
+              "end": 75,
+              "expanded_url": "https://x.com/jaozablonski/status/1665109688529334272/video/1",
+              "media_key": "13_1665109384307920896",
+              "start": 52,
+              "url": "https://t.co/NaBxhpnH1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917961456915735036",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 246
+        },
+        "referenced_tweets": [
+          {
+            "id": "1665109688529334272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jaozablonski: yoñlu - mecanica celeste aplicada https://t.co/NaBxhpnH1m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1665109384307920896"
+          ]
+        },
+        "author_id": "1383779742248173568",
+        "conversation_id": "1665109688529334272",
+        "created_at": "2023-06-03T21:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-03T22:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1665109688529334272"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "yoñlu",
+              "probability": 0.4368,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NaBxhpnH1m",
+              "end": 57,
+              "expanded_url": "https://x.com/jaozablonski/status/1665109688529334272/video/1",
+              "media_key": "13_1665109384307920896",
+              "start": 34,
+              "url": "https://t.co/NaBxhpnH1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1665109688529334272",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 55975,
+          "like_count": 1144,
+          "quote_count": 88,
+          "reply_count": 95,
+          "retweet_count": 246
+        },
+        "reply_settings": "everyone",
+        "text": "yoñlu - mecanica celeste aplicada https://t.co/NaBxhpnH1m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 193,
+          "like_count": 5157,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1104
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-18T13:49:50.000Z",
+        "description": "baixo e voz na @terrainabitavel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "terrainabitavel"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/joaozablonski",
+                "end": 23,
+                "expanded_url": "http://instagram.com/joaozablonski",
+                "start": 0,
+                "url": "https://t.co/lhxdk1RRH5"
+              }
+            ]
+          }
+        },
+        "id": "1383779742248173568",
+        "name": "joao zablonski",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917658189861928960/zKjcuY0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11068,
+          "following_count": 3340,
+          "like_count": 135320,
+          "listed_count": 8,
+          "media_count": 3405,
+          "tweet_count": 36929
+        },
+        "url": "https://t.co/lhxdk1RRH5",
+        "username": "jaozablonski",
+        "verified": false
+      }
+    ]
+  }
+}

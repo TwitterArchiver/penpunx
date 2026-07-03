@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068919753662701569"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2068866620207047121",
+    "created_at": "2026-06-22T04:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068919762252595282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1951181920022437889",
+          "start": 0,
+          "username": "blackdoginmyhed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g7C9Jyy26u",
+          "end": 40,
+          "expanded_url": "https://x.com/penpunx/status/2068919762252595282/photo/1",
+          "media_key": "3_2068919753662701569",
+          "start": 17,
+          "url": "https://t.co/g7C9Jyy26u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068919762252595282",
+    "in_reply_to_user_id": "1951181920022437889",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068866620207047121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blackdoginmyhed https://t.co/g7C9Jyy26u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068919753662701569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZHjenaoAExQ98.jpg",
+        "width": 1536
+      },
+      {
+        "height": 990,
+        "media_key": "3_2068866617434664960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYXOivbcAAjeO9.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068919753662701569"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2068866620207047121",
+        "created_at": "2026-06-22T04:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068919762252595282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g7C9Jyy26u",
+              "end": 40,
+              "expanded_url": "https://x.com/penpunx/status/2068919762252595282/photo/1",
+              "media_key": "3_2068919753662701569",
+              "start": 17,
+              "url": "https://t.co/g7C9Jyy26u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068919762252595282",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068866620207047121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed https://t.co/g7C9Jyy26u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068866617434664960"
+          ]
+        },
+        "author_id": "1951181920022437889",
+        "conversation_id": "2068866620207047121",
+        "created_at": "2026-06-22T01:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068866620207047121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lg70k6kdph",
+              "end": 27,
+              "expanded_url": "https://x.com/blackdoginmyhed/status/2068866620207047121/photo/1",
+              "media_key": "3_2068866617434664960",
+              "start": 4,
+              "url": "https://t.co/Lg70k6kdph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068866620207047121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我本人 https://t.co/Lg70k6kdph"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 586,
+          "like_count": 14032,
+          "listed_count": 1,
+          "media_count": 663,
+          "tweet_count": 5444
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n电子烟及纸烟相关可以联系我（ 推文能看到很多交流记录！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 650,
+          "like_count": 4434,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1274
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

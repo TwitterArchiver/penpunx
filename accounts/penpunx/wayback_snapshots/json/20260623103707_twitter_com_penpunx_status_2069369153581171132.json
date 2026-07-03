@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2069311052219904142",
+    "created_at": "2026-06-23T10:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069369153581171132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829548387936681984",
+          "start": 0,
+          "username": "Othercypl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069369153581171132",
+    "in_reply_to_user_id": "1829548387936681984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069355411468349867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Othercypl 先o100t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2069311052219904142",
+        "created_at": "2026-06-23T10:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069369153581171132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829548387936681984",
+              "start": 0,
+              "username": "Othercypl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069369153581171132",
+        "in_reply_to_user_id": "1829548387936681984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069355411468349867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Othercypl 先o100t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829548387936681984",
+        "conversation_id": "2069311052219904142",
+        "created_at": "2026-06-23T09:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069355411468349867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069355411468349867",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069311052219904142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 拉杆书包怎么吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 586,
+          "like_count": 14055,
+          "listed_count": 1,
+          "media_count": 678,
+          "tweet_count": 5486
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T15:55:13.000Z",
+        "description": "08 17河北苦命高中生/重抑中焦/od/不键政/互fo\n可以称呼为我鸽子，鸽子神万岁！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/otherb1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/otherb1",
+                "start": 0,
+                "url": "https://t.co/02ZX2AOpC1"
+              }
+            ]
+          }
+        },
+        "id": "1829548387936681984",
+        "location": "石家庄",
+        "name": "OtherB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063101517180317696/v-47W4Nc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 142,
+          "like_count": 533,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 230
+        },
+        "url": "https://t.co/02ZX2AOpC1",
+        "username": "Othercypl",
+        "verified": false
+      }
+    ]
+  }
+}

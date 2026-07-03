@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062390340393525248"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2062390413215072390",
+    "created_at": "2026-06-04T04:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T05:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062390413215072390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IDw4DEAX1P",
+          "end": 31,
+          "expanded_url": "https://x.com/penpunx/status/2062390413215072390/video/1",
+          "media_key": "13_2062390340393525248",
+          "start": 8,
+          "url": "https://t.co/IDw4DEAX1P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062390413215072390",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "即兴唱歌何如。 https://t.co/IDw4DEAX1P"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27333,
+        "height": 440,
+        "media_key": "13_2062390340393525248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062390340393525248/img/Nhsknax22Pj3S6ZS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062390340393525248/vid/avc1/320x322/ZWYZrzgdMe344bLI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062390340393525248/vid/avc1/436x440/L2_aecYS0gfbsaLo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062390340393525248/pl/mECa9poOB42QYTep.m3u8"
+          }
+        ],
+        "width": 436
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062390340393525248"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2062390413215072390",
+        "created_at": "2026-06-04T04:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062390413215072390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IDw4DEAX1P",
+              "end": 31,
+              "expanded_url": "https://x.com/penpunx/status/2062390413215072390/video/1",
+              "media_key": "13_2062390340393525248",
+              "start": 8,
+              "url": "https://t.co/IDw4DEAX1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062390413215072390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "即兴唱歌何如。 https://t.co/IDw4DEAX1P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱",
+        "id": "1896904934995656704",
+        "name": "天",
+        "pinned_tweet_id": "2060383283750510858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060765626717933568/2wiuiD_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 557,
+          "like_count": 13599,
+          "listed_count": 1,
+          "media_count": 570,
+          "tweet_count": 4930
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

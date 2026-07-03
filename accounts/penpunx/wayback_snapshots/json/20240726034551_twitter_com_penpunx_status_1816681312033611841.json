@@ -1,0 +1,226 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1549234895188176897",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+          "id": "1502374025170882561",
+          "name": "WhatsApp"
+        }
+      }
+    ],
+    "conversation_id": "1815326942641508512",
+    "created_at": "2024-07-26T03:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T04:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816681312033611841"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "WhatsApp",
+          "probability": 0.8844,
+          "start": 27,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1518193420820492288",
+          "start": 0,
+          "username": "itsnicodobeco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816681312033611841",
+    "in_reply_to_user_id": "1518193420820492288",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816662226071077225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsnicodobeco I can’t use WhatsApp now. I think they banned Chinese phone numbers"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1549234895188176897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          }
+        ],
+        "conversation_id": "1815326942641508512",
+        "created_at": "2024-07-26T03:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T04:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816681312033611841"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "WhatsApp",
+              "probability": 0.8844,
+              "start": 27,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518193420820492288",
+              "start": 0,
+              "username": "itsnicodobeco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816681312033611841",
+        "in_reply_to_user_id": "1518193420820492288",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816662226071077225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnicodobeco I can’t use WhatsApp now. I think they banned Chinese phone numbers"
+      },
+      {
+        "attachments": {},
+        "author_id": "1518193420820492288",
+        "conversation_id": "1815326942641508512",
+        "created_at": "2024-07-26T02:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T03:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816662226071077225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1549234895188176897",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816662226071077225",
+        "in_reply_to_user_id": "1549234895188176897",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816657494745440512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx We should talk more often"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-19T03:29:23.000Z",
+        "description": "im not there this isnt happening",
+        "id": "1549234895188176897",
+        "name": "-",
+        "pinned_tweet_id": "1815326942641508512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800030979840671744/YWVe7Yy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 443,
+          "like_count": 11331,
+          "listed_count": 1,
+          "tweet_count": 5553
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-24T11:42:11.000Z",
+        "description": "criatura desinteligente fã de Zelda• não binário• uso qualquer pronome• 16",
+        "id": "1518193420820492288",
+        "location": "any pronouns. pt, sumtimes eng",
+        "name": "Nick 🍉",
+        "pinned_tweet_id": "1801831899410620441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816516998261563392/ScZveFF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 1077,
+          "like_count": 54906,
+          "listed_count": 22,
+          "tweet_count": 76495
+        },
+        "username": "itsnicodobeco",
+        "verified": false
+      }
+    ]
+  }
+}

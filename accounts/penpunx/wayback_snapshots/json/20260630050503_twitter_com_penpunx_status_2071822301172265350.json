@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2071576163110302174",
+    "created_at": "2026-06-30T05:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T06:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071822301172265350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1980782799750852608",
+          "start": 0,
+          "username": "TD_Perturb"
+        },
+        {
+          "end": 23,
+          "id": "1859117911119720448",
+          "start": 12,
+          "username": "bp01110526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071822301172265350",
+    "in_reply_to_user_id": "1980782799750852608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071820931513675842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TD_Perturb @bp01110526 大学这么恐怖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2071576163110302174",
+        "created_at": "2026-06-30T05:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071822301172265350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1980782799750852608",
+              "start": 0,
+              "username": "TD_Perturb"
+            },
+            {
+              "end": 23,
+              "id": "1859117911119720448",
+              "start": 12,
+              "username": "bp01110526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071822301172265350",
+        "in_reply_to_user_id": "1980782799750852608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071820931513675842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TD_Perturb @bp01110526 大学这么恐怖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980782799750852608",
+        "conversation_id": "2071576163110302174",
+        "created_at": "2026-06-30T04:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071820931513675842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1859117911119720448",
+              "start": 0,
+              "username": "bp01110526"
+            },
+            {
+              "end": 20,
+              "id": "1896904934995656704",
+              "start": 12,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071820931513675842",
+        "in_reply_to_user_id": "1859117911119720448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071804312981062031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bp01110526 @penpunx 晚上失眠太严重了，不得不四点爬起来吃药。早八又必须去，结果竟然稀里糊涂做完了。也是错估了，不知道当时为何要吃2颗。如果是1颗的话四小时后应该差不多醒了的。\n幸好是小组形式。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "万物",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 605,
+          "like_count": 14454,
+          "listed_count": 1,
+          "media_count": 733,
+          "tweet_count": 5899
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T23:47:15.000Z",
+        "description": "FTX & transmasc | HRT 2025.10.21 | Physics | Math-rock | Observing Humanity |",
+        "id": "1980782799750852608",
+        "name": "含時微擾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980783913392865280/5JM-SjtJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 136,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 160
+        },
+        "url": "",
+        "username": "TD_Perturb",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "",
+        "id": "1859117911119720448",
+        "location": "日本 東京",
+        "name": "bp",
+        "pinned_tweet_id": "2068055875265405084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068470591666204672/ekn4YUFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 76,
+          "like_count": 5083,
+          "listed_count": 2,
+          "media_count": 260,
+          "tweet_count": 3473
+        },
+        "url": "",
+        "username": "bp01110526",
+        "verified": false
+      }
+    ]
+  }
+}

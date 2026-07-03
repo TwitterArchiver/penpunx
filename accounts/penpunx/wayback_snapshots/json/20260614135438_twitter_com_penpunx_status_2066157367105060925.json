@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2066052489951215775",
+    "created_at": "2026-06-14T13:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066157367105060925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1505242176560656386",
+          "start": 0,
+          "username": "iaa77_7"
+        },
+        {
+          "end": 21,
+          "id": "3012350599",
+          "start": 9,
+          "username": "__Ju___Ju__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066157367105060925",
+    "in_reply_to_user_id": "1505242176560656386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066143286138646830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iaa77_7 @__Ju___Ju__ 今天正好吃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2066052489951215775",
+        "created_at": "2026-06-14T13:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066157367105060925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1505242176560656386",
+              "start": 0,
+              "username": "iaa77_7"
+            },
+            {
+              "end": 21,
+              "id": "3012350599",
+              "start": 9,
+              "username": "__Ju___Ju__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066157367105060925",
+        "in_reply_to_user_id": "1505242176560656386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066143286138646830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iaa77_7 @__Ju___Ju__ 今天正好吃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505242176560656386",
+        "conversation_id": "2066052489951215775",
+        "created_at": "2026-06-14T12:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066143286138646830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066143286138646830",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066052489951215775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Ju___Ju__ 肯德基那个薄脆金沙鸡翅好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "谛室多摩他槃，巴卡巴拉，苏卡纳纳马斯。",
+        "id": "1896904934995656704",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 571,
+          "like_count": 13854,
+          "listed_count": 1,
+          "media_count": 618,
+          "tweet_count": 5204
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T17:58:09.000Z",
+        "description": "",
+        "id": "1505242176560656386",
+        "name": "ia",
+        "pinned_tweet_id": "2050983023248814174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052409054769954816/eixaHL2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 427,
+          "like_count": 60166,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 10555
+        },
+        "username": "iaa77_7",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "为什么我不能只是一只毛绒小兔子？🐰🍊/#すこ部 推し /可以叫我桔桔/我要出去玩了！！\n💕@GiveProofToLove \n🫎@mukdengise\n🐑@jinpingslutflop",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "mukdengise"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "jinpingslutflop"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "Daegu, Republic of Korea",
+        "name": "夸张桔🍊",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4477,
+          "following_count": 503,
+          "like_count": 44071,
+          "listed_count": 17,
+          "media_count": 3357,
+          "tweet_count": 47052
+        },
+        "username": "__Ju___Ju__",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2049988642664538157",
+    "created_at": "2026-05-01T15:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T16:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050239688460673380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1782303137136852992",
+          "start": 0,
+          "username": "h1zh816060"
+        },
+        {
+          "end": 28,
+          "id": "1695406391609966592",
+          "start": 12,
+          "username": "sashiburi519534"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050239688460673380",
+    "in_reply_to_user_id": "1782303137136852992",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050239543983710488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h1zh816060 @sashiburi519534 😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2049988642664538157",
+        "created_at": "2026-05-01T15:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050239688460673380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1782303137136852992",
+              "start": 0,
+              "username": "h1zh816060"
+            },
+            {
+              "end": 28,
+              "id": "1695406391609966592",
+              "start": 12,
+              "username": "sashiburi519534"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050239688460673380",
+        "in_reply_to_user_id": "1782303137136852992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050239543983710488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h1zh816060 @sashiburi519534 😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782303137136852992",
+        "conversation_id": "2049988642664538157",
+        "created_at": "2026-05-01T15:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050239543983710488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            },
+            {
+              "end": 25,
+              "id": "1695406391609966592",
+              "start": 9,
+              "username": "sashiburi519534"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050239543983710488",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050081094557671712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx @sashiburi519534 来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 475,
+          "like_count": 12470,
+          "listed_count": 1,
+          "media_count": 482,
+          "tweet_count": 4054
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T06:59:28.000Z",
+        "description": "是个牛逼超级双双双向INFP-T音乐制作人/DJ/下北沢传奇吉他手(勉強中🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h1zh8160",
+                "end": 23,
+                "expanded_url": "https://ngl.link/h1zh8160",
+                "start": 0,
+                "url": "https://t.co/EfFuKlfeku"
+              }
+            ]
+          }
+        },
+        "id": "1782303137136852992",
+        "location": "Suginami-ku, Tokyo",
+        "name": "一澤子",
+        "pinned_tweet_id": "2035385903506759842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041814931683848192/zcl-cu0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 112,
+          "like_count": 1017,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 460
+        },
+        "url": "https://t.co/EfFuKlfeku",
+        "username": "h1zh816060",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T12:03:04.000Z",
+        "description": "我是叉子/玩很多ns游戏/喜欢开心果味/不是DJ小女孩/麸质过敏/hazy ipa/烤鸭/裸睡/大蒜酱/喜欢水水獭/喜欢橘子/不爱吃饭很瘦/怕冷怕热/讨厌蚊子/喜欢蟑螂/《爱蠊说/葱花好吃/喫煙/会骑自行车/不吃韭菜/死了已经/Shoegaze/ NGL https://t.co/DyGKzxrd0I",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sashiburi51953…",
+                "end": 151,
+                "expanded_url": "http://ngl.link/sashiburi5195342",
+                "start": 128,
+                "url": "https://t.co/DyGKzxrd0I"
+              }
+            ]
+          }
+        },
+        "id": "1695406391609966592",
+        "location": "Sintra, Portugal",
+        "name": "怒羅衛門",
+        "pinned_tweet_id": "1872574195990974933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801746828297117696/ht4Uakoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 1128,
+          "like_count": 22050,
+          "listed_count": 3,
+          "media_count": 1500,
+          "tweet_count": 7618
+        },
+        "username": "sashiburi519534",
+        "verified": false
+      }
+    ]
+  }
+}

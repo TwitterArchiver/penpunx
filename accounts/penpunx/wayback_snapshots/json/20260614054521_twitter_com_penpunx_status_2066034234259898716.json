@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2065871716333859291",
+    "created_at": "2026-06-14T05:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066034234259898716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1941289376669106177",
+          "start": 0,
+          "username": "jelllllyfiiiish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066034234259898716",
+    "in_reply_to_user_id": "1941289376669106177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065871716333859291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jelllllyfiiiish 幽默"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2065871716333859291",
+        "created_at": "2026-06-14T05:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066034234259898716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1941289376669106177",
+              "start": 0,
+              "username": "jelllllyfiiiish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066034234259898716",
+        "in_reply_to_user_id": "1941289376669106177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065871716333859291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jelllllyfiiiish 幽默"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941289376669106177",
+        "conversation_id": "2065871716333859291",
+        "created_at": "2026-06-13T18:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065871716333859291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065871716333859291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想给自己打印一个遗像挂房间里每天晚上上厕所的时候把自己吓一跳 万一有天晚上就吓死了呢 办丧的时候还不用再给我打印遗像了房间墙上直接有现成的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "%%%%%%%",
+        "id": "1896904934995656704",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 570,
+          "like_count": 13836,
+          "listed_count": 1,
+          "media_count": 617,
+          "tweet_count": 5191
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T00:14:14.000Z",
+        "description": "垃圾桶@kllppeaea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "kllppeaea"
+              }
+            ]
+          }
+        },
+        "id": "1941289376669106177",
+        "name": "kllppeaea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064388328313724928/8CaE0BxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 501,
+          "like_count": 11343,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1366
+        },
+        "username": "jelllllyfiiiish",
+        "verified": false
+      }
+    ]
+  }
+}

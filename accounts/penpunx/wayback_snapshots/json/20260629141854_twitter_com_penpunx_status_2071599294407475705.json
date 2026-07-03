@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2071599294407475705",
+    "created_at": "2026-06-29T14:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071599294407475705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/locm0c/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/locm0c/status/2071418380956147750",
+          "start": 8,
+          "url": "https://t.co/JTByyQQ8qw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071599294407475705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071418380956147750",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小孩掉进后室了 https://t.co/JTByyQQ8qw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17733,
+        "height": 1280,
+        "media_key": "13_2071418041561440256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071418041561440256/img/RQ136fK1fQYXfYRA.jpg",
+        "public_metrics": {
+          "view_count": 5218011
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071418041561440256/vid/avc1/320x568/X_XFDFs4DabP8QCv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071418041561440256/vid/avc1/480x852/bCb6QEoPGi01jkoL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071418041561440256/vid/avc1/720x1280/dIR_NYF6gHbuYQP9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071418041561440256/pl/480cq42sdzNh4v7e.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2071599294407475705",
+        "created_at": "2026-06-29T14:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071599294407475705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/locm0c/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/locm0c/status/2071418380956147750",
+              "start": 8,
+              "url": "https://t.co/JTByyQQ8qw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071599294407475705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071418380956147750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小孩掉进后室了 https://t.co/JTByyQQ8qw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071418041561440256"
+          ]
+        },
+        "author_id": "1476882057670402051",
+        "conversation_id": "2071418380956147750",
+        "created_at": "2026-06-29T02:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071418380956147750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XIf33b3a1w",
+              "end": 203,
+              "expanded_url": "https://x.com/locm0c/status/2071418380956147750/video/1",
+              "media_key": "13_2071418041561440256",
+              "start": 180,
+              "url": "https://t.co/XIf33b3a1w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071418380956147750",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1780,
+          "impression_count": 9966678,
+          "like_count": 6127,
+          "quote_count": 131,
+          "reply_count": 443,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "một công viên khủng long bị mất an toàn như thế này khi không kiểm tra, bảo trì thường xuyên\nnếu trẻ em rơi vào đây tôi không biết chuyện gì sẽ xảy ra, làm sao có thể tìm thấy nó? https://t.co/XIf33b3a1w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "万物",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 602,
+          "like_count": 14407,
+          "listed_count": 1,
+          "media_count": 725,
+          "tweet_count": 5842
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T11:45:08.000Z",
+        "description": "Vun trồng giá trị mỗi ngày",
+        "id": "1476882057670402051",
+        "location": "evergreen",
+        "name": "Loc Moc",
+        "pinned_tweet_id": "2071418380956147750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022022317665374208/-8ycvpPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4164,
+          "following_count": 2602,
+          "like_count": 17194,
+          "listed_count": 4,
+          "media_count": 180,
+          "tweet_count": 16179
+        },
+        "url": "",
+        "username": "locm0c",
+        "verified": true
+      }
+    ]
+  }
+}

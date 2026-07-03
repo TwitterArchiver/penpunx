@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2055872997224042758",
+    "created_at": "2026-05-17T04:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055872997224042758"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/starknight/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/starknight/status/2055468764762910759",
+          "start": 6,
+          "url": "https://t.co/a5XJ9JsU8a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055872997224042758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055468764762910759",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有无情对 https://t.co/a5XJ9JsU8a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2055872997224042758",
+        "created_at": "2026-05-17T04:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055872997224042758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/starknight/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/starknight/status/2055468764762910759",
+              "start": 6,
+              "url": "https://t.co/a5XJ9JsU8a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055872997224042758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055468764762910759",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有无情对 https://t.co/a5XJ9JsU8a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "8956502",
+        "conversation_id": "2055468764762910759",
+        "created_at": "2026-05-16T02:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055468764762910759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055468764762910759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 27764,
+          "like_count": 544,
+          "quote_count": 3,
+          "reply_count": 39,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "基本盘的反义词是超级碗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 532,
+          "like_count": 13379,
+          "listed_count": 1,
+          "media_count": 521,
+          "tweet_count": 4624
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2007-09-18T17:50:58.000Z",
+        "description": "人们对我说：你不过是尘与土。可是他们忘了告诉我，那其实是星星的尘埃。時々日本語。两个小朋友的爸爸。",
+        "id": "8956502",
+        "name": "StarKnight",
+        "pinned_tweet_id": "2051597211398770988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014879396814061569/D9PxYnO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91538,
+          "following_count": 3080,
+          "like_count": 33598,
+          "listed_count": 680,
+          "media_count": 9293,
+          "tweet_count": 85587
+        },
+        "username": "StarKnight",
+        "verified": true
+      }
+    ]
+  }
+}

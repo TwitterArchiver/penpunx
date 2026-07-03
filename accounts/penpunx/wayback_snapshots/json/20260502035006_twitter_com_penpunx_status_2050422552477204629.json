@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2050422540624113831",
+    "created_at": "2026-05-02T03:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T04:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050422552477204629"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050422552477204629",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050422550078038413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是我不小心把那个包弄破了，原来只是一个很大的水泡。我家长回来了，告诉我丧尸病毒卷土重来了，我们必须搬到乡下去（注：怀疑这里借鉴了《十日谈》）。我用炒币的钱直接买了一栋大豪斯（注：在现实中我不炒币），这栋豪宅有3层楼，因此我家长完全管不到我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2050422540624113831",
+        "created_at": "2026-05-02T03:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T04:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050422552477204629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050422552477204629",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050422550078038413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是我不小心把那个包弄破了，原来只是一个很大的水泡。我家长回来了，告诉我丧尸病毒卷土重来了，我们必须搬到乡下去（注：怀疑这里借鉴了《十日谈》）。我用炒币的钱直接买了一栋大豪斯（注：在现实中我不炒币），这栋豪宅有3层楼，因此我家长完全管不到我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2050422540624113831",
+        "created_at": "2026-05-02T03:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T04:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050422550078038413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050422550078038413",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050422548236796017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本来想找个地铁站躲起来但是太远了，我只好躲在路边服装店里。我打开手机相机，里面我居然显示为一个骷髅！我强行让自己镇定，然后我发现相机拍任何人都会把他们显示为骷髅。我觉得是相机的问题，这个秘密值得我保护，所以我没有惊讶或声张。回到家里，我担心是紫外线让我得了癌症所以长了个肿瘤。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 478,
+          "like_count": 12497,
+          "listed_count": 1,
+          "media_count": 482,
+          "tweet_count": 4078
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1549234895188176897",
+    "conversation_id": "1817260760831021499",
+    "created_at": "2024-07-28T15:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T16:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817583453657092179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1417629368478801923",
+          "start": 0,
+          "username": "llucenzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817583453657092179",
+    "in_reply_to_user_id": "1417629368478801923",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817577490199847229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llucenzzz Actually\nThey look like boobs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549234895188176897",
+        "conversation_id": "1817260760831021499",
+        "created_at": "2024-07-28T15:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T16:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817583453657092179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1417629368478801923",
+              "start": 0,
+              "username": "llucenzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817583453657092179",
+        "in_reply_to_user_id": "1417629368478801923",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817577490199847229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llucenzzz Actually\nThey look like boobs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417629368478801923",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          }
+        ],
+        "conversation_id": "1817260760831021499",
+        "created_at": "2024-07-28T15:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T16:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817577490199847229"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Olympics",
+              "probability": 0.9613,
+              "start": 35,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1549234895188176897",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817577490199847229",
+        "in_reply_to_user_id": "1549234895188176897",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817454511344246973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx I was participating in an Olympics and I moved on to the in-person phase🤑🤑😝😝😝😝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-19T03:29:23.000Z",
+        "description": "im not there this isnt happening",
+        "id": "1549234895188176897",
+        "name": "-",
+        "pinned_tweet_id": "1815326942641508512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800030979840671744/YWVe7Yy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 443,
+          "like_count": 11554,
+          "listed_count": 1,
+          "tweet_count": 5600
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-20T23:36:27.000Z",
+        "description": "⟡ ˲˲˲   𝘚𝘦𝘳 𝘤𝘰𝘳𝘯𝘰 𝘰𝘶 𝘯𝘢̃𝘰 𝘴𝘦𝘳            \n                 𝘌𝘪𝘴 𝘢 𝘮𝘪𝘯𝘩𝘢 𝘪𝘯𝘥𝘢𝘨𝘢𝘤̧𝘢̃𝘰 𖧧࣪    ִֶָ 𖥻\n         ᵈⁱʳᵉᶜᵗⁱᵒⁿ  ִֶָ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/track/3eGLOy7Q…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/track/3eGLOy7QYApLIrDMz1rjQj?si=GeUkFgOxScq5T5RvI3S2vg",
+                "start": 0,
+                "url": "https://t.co/dcKOuxwshg"
+              }
+            ]
+          }
+        },
+        "id": "1417629368478801923",
+        "location": "🎱",
+        "name": "sodo's daughter",
+        "pinned_tweet_id": "1756002360529166601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734607230866018304/hchdQzbR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 194,
+          "like_count": 5285,
+          "listed_count": 1,
+          "tweet_count": 3887
+        },
+        "url": "https://t.co/dcKOuxwshg",
+        "username": "llucenzzz",
+        "verified": false
+      }
+    ]
+  }
+}

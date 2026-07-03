@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2067963282112319701",
+    "created_at": "2026-06-19T14:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067979899231666662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053440124856467456",
+          "start": 0,
+          "username": "ZOMBIEKING1111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/penpunx/status/2067959488146182429",
+          "start": 22,
+          "url": "https://t.co/KdogsIoOLn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067979899231666662",
+    "in_reply_to_user_id": "2053440124856467456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067959488146182429",
+        "type": "quoted"
+      },
+      {
+        "id": "2067976773183369674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZOMBIEKING1111 这个才是（ https://t.co/KdogsIoOLn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2067959441526566912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLeJ9IbMAA7Jfe.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067959441530802176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLeJ9Jb0AAPVgW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2067963282112319701",
+        "created_at": "2026-06-19T14:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067979899231666662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053440124856467456",
+              "start": 0,
+              "username": "ZOMBIEKING1111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/penpunx/status/2067959488146182429",
+              "start": 22,
+              "url": "https://t.co/KdogsIoOLn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067979899231666662",
+        "in_reply_to_user_id": "2053440124856467456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067959488146182429",
+            "type": "quoted"
+          },
+          {
+            "id": "2067976773183369674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZOMBIEKING1111 这个才是（ https://t.co/KdogsIoOLn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067959441526566912",
+            "3_2067959441530802176"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2067959488146182429",
+        "created_at": "2026-06-19T13:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067959488146182429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/djQHw0yA7I",
+              "end": 40,
+              "expanded_url": "https://x.com/penpunx/status/2067959488146182429/photo/1",
+              "media_key": "3_2067959441526566912",
+              "start": 17,
+              "url": "https://t.co/djQHw0yA7I"
+            },
+            {
+              "display_url": "pic.x.com/djQHw0yA7I",
+              "end": 40,
+              "expanded_url": "https://x.com/penpunx/status/2067959488146182429/photo/1",
+              "media_key": "3_2067959441530802176",
+              "start": 17,
+              "url": "https://t.co/djQHw0yA7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067959488146182429",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "javert and yonlu https://t.co/djQHw0yA7I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053440124856467456",
+        "conversation_id": "2067963282112319701",
+        "created_at": "2026-06-19T14:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067976773183369674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067976773183369674",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067963282112319701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 古埃及"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 578,
+          "like_count": 13962,
+          "listed_count": 1,
+          "media_count": 646,
+          "tweet_count": 5356
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T11:41:01.000Z",
+        "description": "od/shtwt king of the earth he/him\n专心过好自己的唐人生活",
+        "id": "2053440124856467456",
+        "name": "我以为尿的高就可以遮住我的眼泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066772444346499072/A-MyxOhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 30,
+          "like_count": 637,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 327
+        },
+        "url": "",
+        "username": "ZOMBIEKING1111",
+        "verified": false
+      }
+    ]
+  }
+}

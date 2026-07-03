@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1949122557971722242",
+    "created_at": "2025-07-26T16:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T17:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949142234529767605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1054322364870246400",
+          "start": 0,
+          "username": "mrwhat926"
+        },
+        {
+          "end": 19,
+          "id": "1609380631917776896",
+          "start": 11,
+          "username": "_Yt8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949142234529767605",
+    "in_reply_to_user_id": "1054322364870246400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949129656957042997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrwhat926 @_Yt8964 嘻哈一则\n一体四嘎\n神之无之"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1949122557971722242",
+        "created_at": "2025-07-26T16:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T17:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949142234529767605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1054322364870246400",
+              "start": 0,
+              "username": "mrwhat926"
+            },
+            {
+              "end": 19,
+              "id": "1609380631917776896",
+              "start": 11,
+              "username": "_Yt8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949142234529767605",
+        "in_reply_to_user_id": "1054322364870246400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949129656957042997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrwhat926 @_Yt8964 嘻哈一则\n一体四嘎\n神之无之"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1054322364870246400",
+        "conversation_id": "1949122557971722242",
+        "created_at": "2025-07-26T15:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T16:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949129656957042997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609380631917776896",
+              "start": 0,
+              "username": "_Yt8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949129656957042997",
+        "in_reply_to_user_id": "1609380631917776896",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949122557971722242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Yt8964 ga ba jin"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "autistic 16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "TR",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 207,
+          "like_count": 7352,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 1704
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-22T10:43:34.000Z",
+        "description": "獨立遊戲開發者、音樂作曲家（2018~2020）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "timegrass.bsky.social",
+                "end": 23,
+                "expanded_url": "http://timegrass.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Q2VGjYgAZy"
+              }
+            ]
+          }
+        },
+        "id": "1054322364870246400",
+        "location": "Earth",
+        "name": "Time Grass",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909334325851832320/WEsxBTfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 1714,
+          "like_count": 60166,
+          "listed_count": 3,
+          "media_count": 495,
+          "tweet_count": 10406
+        },
+        "url": "https://t.co/Q2VGjYgAZy",
+        "username": "mrwhat926",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T02:49:24.000Z",
+        "description": "多喜樂 長安寧｜人間になりたい｜里@_Ty8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "_Ty8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yt8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yt8964",
+                "start": 0,
+                "url": "https://t.co/Ew8SXRZ4ZH"
+              }
+            ]
+          }
+        },
+        "id": "1609380631917776896",
+        "location": "宛平南路600號",
+        "name": "晨昏線",
+        "pinned_tweet_id": "1946909210257834210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925749620065320960/9l5tabww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 331,
+          "like_count": 20924,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 2562
+        },
+        "url": "https://t.co/Ew8SXRZ4ZH",
+        "username": "_Yt8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2030497895489896726",
+    "created_at": "2026-03-08T04:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T05:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030502051919417544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1896404668462301185",
+          "start": 0,
+          "username": "garconch12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030502051919417544",
+    "in_reply_to_user_id": "1896404668462301185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030499640634757355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@garconch12 2太贵了(\n我等促销吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2030497895489896726",
+        "created_at": "2026-03-08T04:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T05:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030502051919417544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1896404668462301185",
+              "start": 0,
+              "username": "garconch12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030502051919417544",
+        "in_reply_to_user_id": "1896404668462301185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030499640634757355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garconch12 2太贵了(\n我等促销吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896404668462301185",
+        "conversation_id": "2030497895489896726",
+        "created_at": "2026-03-08T04:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T05:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030499640634757355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030499640634757355",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030499238178943220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 都买😋，1又要出赛车场dlc了我太期待了，2优化实在太差30w以上游戏速度慢死了，但是非常写实喜欢第一视角在城里走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 346,
+          "like_count": 11303,
+          "listed_count": 1,
+          "media_count": 412,
+          "tweet_count": 3197
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T03:38:08.000Z",
+        "description": "青韭/用来记录个人交易/失败的商学生/amateur photographer/……ing/请不要挡住阳光",
+        "id": "1896404668462301185",
+        "name": "不问不侃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021033277021356033/qUUb39EY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 1062,
+          "like_count": 140,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 534
+        },
+        "username": "garconch12",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2072183362954179012",
+    "created_at": "2026-07-01T04:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T05:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072183362954179012"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072183362954179012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我打算暑假去游泳\n我感觉我脑子和神经损伤让我没法像以前一样学习\n我真是个笨蛋，为什么以前要掐自己脖子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2072183362954179012",
+        "created_at": "2026-07-01T04:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072183362954179012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072183362954179012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我打算暑假去游泳\n我感觉我脑子和神经损伤让我没法像以前一样学习\n我真是个笨蛋，为什么以前要掐自己脖子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 611,
+          "like_count": 14517,
+          "listed_count": 1,
+          "media_count": 735,
+          "tweet_count": 5942
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

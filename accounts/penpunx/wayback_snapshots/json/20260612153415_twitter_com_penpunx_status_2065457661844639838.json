@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2065457661844639838",
+    "created_at": "2026-06-12T15:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065457661844639838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1863233896403628033",
+          "start": 3,
+          "username": "dontweepalone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065457661844639838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065424964023644641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dontweepalone: 我的药物伦理观念是：只要哪怕普瑞巴林还对我的头痛有效，被扣上系度帽子也无所吊谓。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2065457661844639838",
+        "created_at": "2026-06-12T15:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065457661844639838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1863233896403628033",
+              "start": 3,
+              "username": "dontweepalone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065457661844639838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065424964023644641",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dontweepalone: 我的药物伦理观念是：只要哪怕普瑞巴林还对我的头痛有效，被扣上系度帽子也无所吊谓。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2065424964023644641",
+        "created_at": "2026-06-12T13:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065424964023644641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065424964023644641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的药物伦理观念是：只要哪怕普瑞巴林还对我的头痛有效，被扣上系度帽子也无所吊谓。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "%%%%%%%",
+        "id": "1896904934995656704",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 567,
+          "like_count": 13745,
+          "listed_count": 1,
+          "media_count": 614,
+          "tweet_count": 5129
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 169,
+          "like_count": 1337,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 229
+        },
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}

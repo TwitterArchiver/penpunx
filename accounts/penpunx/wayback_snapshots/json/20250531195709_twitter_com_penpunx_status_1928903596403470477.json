@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928903394212851713"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1928903596403470477",
+    "created_at": "2025-05-31T19:57:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T20:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928903596403470477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lqd0ds5ZnH",
+          "end": 105,
+          "expanded_url": "https://x.com/penpunx/status/1928903596403470477/photo/1",
+          "media_key": "3_1928903394212851713",
+          "start": 82,
+          "url": "https://t.co/Lqd0ds5ZnH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928903596403470477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好不容易放假了不用上学感觉自己不好好休息就是浪费时间..好绝望，计划被打乱了，星期二就要上学，时间越来越少了，我真的不想上学，只因为要上学连休息时间的容错都减少了 https://t.co/Lqd0ds5ZnH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 175,
+        "media_key": "3_1928903394212851713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsTXatIaMAEFOW2.jpg",
+        "width": 521
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928903394212851713"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1928903596403470477",
+        "created_at": "2025-05-31T19:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T20:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928903596403470477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lqd0ds5ZnH",
+              "end": 105,
+              "expanded_url": "https://x.com/penpunx/status/1928903596403470477/photo/1",
+              "media_key": "3_1928903394212851713",
+              "start": 82,
+              "url": "https://t.co/Lqd0ds5ZnH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928903596403470477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好不容易放假了不用上学感觉自己不好好休息就是浪费时间..好绝望，计划被打乱了，星期二就要上学，时间越来越少了，我真的不想上学，只因为要上学连休息时间的容错都减少了 https://t.co/Lqd0ds5ZnH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo neurodivergent guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 208,
+          "like_count": 6047,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1353
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2057661451872125082",
+    "created_at": "2026-06-28T09:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071166506659197253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2052994836266196992",
+          "start": 0,
+          "username": "Nanwhju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071166506659197253",
+    "in_reply_to_user_id": "2052994836266196992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057661451872125082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nanwhju 可以扔给我吗我代替你销毁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1878,
+        "media_key": "3_2057661442309111808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5ILgjaQAADp5o.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2057661451872125082",
+        "created_at": "2026-06-28T09:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071166506659197253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2052994836266196992",
+              "start": 0,
+              "username": "Nanwhju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071166506659197253",
+        "in_reply_to_user_id": "2052994836266196992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057661451872125082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nanwhju 可以扔给我吗我代替你销毁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057661442309111808"
+          ]
+        },
+        "author_id": "2052994836266196992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057661451872125082",
+        "created_at": "2026-05-22T03:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057661451872125082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LTvXaXLGRB",
+              "end": 60,
+              "expanded_url": "https://x.com/Nanwhju/status/2057661451872125082/photo/1",
+              "media_key": "3_2057661442309111808",
+              "start": 37,
+              "url": "https://t.co/LTvXaXLGRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057661451872125082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6215,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "继续戒，再也不od这些了，永远不吃4-ho-met了。扔掉全部的药药💊。 https://t.co/LTvXaXLGRB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 597,
+          "like_count": 14326,
+          "listed_count": 1,
+          "media_count": 711,
+          "tweet_count": 5766
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T06:11:46.000Z",
+        "description": "楠教授三世：https://t.co/RgOC6C06xC\n\n飞机信息专人回复，推特私信一般不会",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/anan995555",
+                "end": 29,
+                "expanded_url": "https://t.me/anan995555",
+                "start": 6,
+                "url": "https://t.co/RgOC6C06xC"
+              }
+            ]
+          }
+        },
+        "id": "2052994836266196992",
+        "location": "专注一款产品",
+        "name": "分享4-ho-met不好体验//jiel全网倡议禁止阿片类",
+        "pinned_tweet_id": "2057661451872125082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053016318086201344/0a8jdtk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 279,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "Nanwhju",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2050901184794521789",
+    "created_at": "2026-05-03T12:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T13:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050914964693733878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1647980508297719815",
+          "start": 0,
+          "username": "yanyejilennon"
+        },
+        {
+          "end": 22,
+          "id": "1719362940007067648",
+          "start": 15,
+          "username": "youtub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050914964693733878",
+    "in_reply_to_user_id": "1647980508297719815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050901184794521789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyejilennon @youtub 我喜欢他们乐队的骆驼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2050901184794521789",
+        "created_at": "2026-05-03T12:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050914964693733878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1647980508297719815",
+              "start": 0,
+              "username": "yanyejilennon"
+            },
+            {
+              "end": 22,
+              "id": "1719362940007067648",
+              "start": 15,
+              "username": "youtub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050914964693733878",
+        "in_reply_to_user_id": "1647980508297719815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050901184794521789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyejilennon @youtub 我喜欢他们乐队的骆驼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647980508297719815",
+        "conversation_id": "2050901184794521789",
+        "created_at": "2026-05-03T11:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T12:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050901184794521789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 140,
+              "id": "1719362940007067648",
+              "start": 133,
+              "username": "youtub"
+            }
+          ],
+          "urls": [
+            {
+              "description": "1.2K likes, 45 comments. \"my little airport - 我愛郊野，但不愛派對 i love the country but not the party\"",
+              "display_url": "youtu.be/CcjTTDeeNFE?si…",
+              "end": 129,
+              "expanded_url": "https://youtu.be/CcjTTDeeNFE?si=InAvAukRK1iQwc-v",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2050901227236741120/zadKTPLE?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2050901227236741120/zadKTPLE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "my little airport",
+              "unwound_url": "https://www.youtube.com/watch?si=InAvAukRK1iQwc-v&v=CcjTTDeeNFE&feature=youtu.be",
+              "url": "https://t.co/pIqrfFH19Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050901184794521789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I luv the country，but not the party😂\n\nmy little airport - 我愛郊野，但不愛派對 i love the country but not the party https://t.co/pIqrfFH19Y 來自 @YouTub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 489,
+          "like_count": 12682,
+          "listed_count": 1,
+          "media_count": 488,
+          "tweet_count": 4191
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T15:09:18.000Z",
+        "description": "握紧我矛盾密布的手",
+        "id": "1647980508297719815",
+        "location": "Liverpool, England",
+        "name": "21st Century Schizoid Man",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041206438568296448/01syet9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 302,
+          "like_count": 26838,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1594
+        },
+        "username": "yanyejilennon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-31T14:37:57.000Z",
+        "description": "pinky Roy \nCollege CSE Student \nStudy tips\nmotivation video",
+        "id": "1719362940007067648",
+        "location": "india,indore",
+        "name": "pinkystudytips",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729508315321790466/E6h4smfW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 1,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 16
+        },
+        "username": "youtub",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2033326355392373008",
+    "created_at": "2026-03-15T23:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T00:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033326355392373008"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033326355392373008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "逃升旗仪式在厕所里听列侬的歌，happy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2033326355392373008",
+        "created_at": "2026-03-15T23:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T00:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033326355392373008"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033326355392373008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逃升旗仪式在厕所里听列侬的歌，happy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 365,
+          "like_count": 11499,
+          "listed_count": 1,
+          "media_count": 424,
+          "tweet_count": 3311
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

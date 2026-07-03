@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2065455909212651874",
+    "created_at": "2026-06-12T15:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065455909212651874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "795089303680458752",
+          "start": 3,
+          "username": "sailornammie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065455909212651874",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1929
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065141794803798253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sailornammie: um grupo de cinco pessoas de lugares e épocas completamente diferentes se encontrando no backrooms, eles não falam o mesm…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2065455909212651874",
+        "created_at": "2026-06-12T15:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065455909212651874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "795089303680458752",
+              "start": 3,
+              "username": "sailornammie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065455909212651874",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1929
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065141794803798253",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sailornammie: um grupo de cinco pessoas de lugares e épocas completamente diferentes se encontrando no backrooms, eles não falam o mesm…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "795089303680458752",
+        "conversation_id": "2065141794803798253",
+        "created_at": "2026-06-11T18:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065141794803798253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MettaCipher/st…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/MettaCipher/status/2064510632125219165",
+              "start": 130,
+              "url": "https://t.co/37zwbox6Tu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065141794803798253",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1667,
+          "impression_count": 158275,
+          "like_count": 18604,
+          "quote_count": 44,
+          "reply_count": 37,
+          "retweet_count": 1929
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064510632125219165",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "um grupo de cinco pessoas de lugares e épocas completamente diferentes se encontrando no backrooms, eles não falam o mesmo idioma https://t.co/37zwbox6Tu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "%%%%%%%",
+        "id": "1896904934995656704",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 566,
+          "like_count": 13742,
+          "listed_count": 1,
+          "media_count": 614,
+          "tweet_count": 5127
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-06T02:23:56.000Z",
+        "description": "certified Jester since kindergarten || INFP || 24 y/o || ela/dela/elu/delu || pt-br / eng || Brazilian CEO of Trish Una || jurídico Avenida Brasil",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "socadoradesatorugojo.straw.page",
+                "end": 23,
+                "expanded_url": "https://socadoradesatorugojo.straw.page",
+                "start": 0,
+                "url": "https://t.co/PFUYw8xudA"
+              }
+            ]
+          }
+        },
+        "id": "795089303680458752",
+        "name": "Jupter⁷ CR: TJL",
+        "pinned_tweet_id": "1636820091063943181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055288494533091328/sVRasxq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4955,
+          "following_count": 5679,
+          "like_count": 631703,
+          "listed_count": 35,
+          "media_count": 17592,
+          "tweet_count": 393841
+        },
+        "url": "https://t.co/PFUYw8xudA",
+        "username": "sailornammie",
+        "verified": false
+      }
+    ]
+  }
+}

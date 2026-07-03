@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1962547558246646227",
+    "created_at": "2025-09-01T18:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T19:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962590858362134865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1726314870780637185",
+          "start": 0,
+          "username": "uraracidus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962590858362134865",
+    "in_reply_to_user_id": "1726314870780637185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962547558246646227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uraracidus 拉屎爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1962547558246646227",
+        "created_at": "2025-09-01T18:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T19:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962590858362134865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1726314870780637185",
+              "start": 0,
+              "username": "uraracidus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962590858362134865",
+        "in_reply_to_user_id": "1726314870780637185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962547558246646227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uraracidus 拉屎爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726314870780637185",
+        "conversation_id": "1962547558246646227",
+        "created_at": "2025-09-01T16:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T17:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962547558246646227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962547558246646227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "排泄是最廉价的娱乐消化不良是最廉价的刑罚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 264,
+          "like_count": 9045,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 2071
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T19:02:01.000Z",
+        "description": "可以你给我所有速率我缺失！",
+        "id": "1726314870780637185",
+        "location": "马桶空调电热毯微波炉是新的四大发明",
+        "name": "momolulu",
+        "pinned_tweet_id": "1738036663136432382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949352400143474688/laW0ELjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 89,
+          "like_count": 17164,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 5285
+        },
+        "username": "uraracidus",
+        "verified": false
+      }
+    ]
+  }
+}

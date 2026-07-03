@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2069325368750903512",
+    "created_at": "2026-06-23T08:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069343801852997790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1951181920022437889",
+          "start": 0,
+          "username": "blackdoginmyhed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069343801852997790",
+    "in_reply_to_user_id": "1951181920022437889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069325368750903512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blackdoginmyhed 这是哪个口味（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2069325368750903512",
+        "created_at": "2026-06-23T08:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069343801852997790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069343801852997790",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069325368750903512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed 这是哪个口味（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2069325368750903512",
+        "created_at": "2026-06-23T07:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069325368750903512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xinggu233893/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/xinggu233893/status/2069294152706375949",
+              "start": 4,
+              "url": "https://t.co/QJI3EDyYgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069325368750903512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069294152706375949",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好耶（ https://t.co/QJI3EDyYgj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 586,
+          "like_count": 14050,
+          "listed_count": 1,
+          "media_count": 674,
+          "tweet_count": 5478
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n电子烟及纸烟相关可以联系我（ 推文能看到很多交流记录！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 649,
+          "like_count": 4465,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1283
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2055875390208610537",
+    "created_at": "2026-05-17T05:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T06:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055877499087937564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2014216293705187328",
+          "start": 0,
+          "username": "Mandykwko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055877499087937564",
+    "in_reply_to_user_id": "2014216293705187328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055875390208610537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mandykwko 你的对象去世了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2055875390208610537",
+        "created_at": "2026-05-17T05:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055877499087937564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2014216293705187328",
+              "start": 0,
+              "username": "Mandykwko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055877499087937564",
+        "in_reply_to_user_id": "2014216293705187328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055875390208610537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mandykwko 你的对象去世了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014216293705187328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2055875390208610537",
+        "created_at": "2026-05-17T04:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055875390208610537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mandykwko/stat…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/mandykwko/status/2055874626996339113",
+              "start": 119,
+              "url": "https://t.co/2eWFiPEZT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055875390208610537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055874626996339113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反正这里也没有人认识我啊，我之所以读完了高中考上了大学完全就是抱着可以离我对象更近一点的心态来硬着头皮做那些让我发自内心觉得很恶心的事情的啊，一直以来只要是为了我对象我做什么都愿意做什么都可以啊，如果我死了就能见到我对象那我就去死好了。 https://t.co/2eWFiPEZT1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 532,
+          "like_count": 13382,
+          "listed_count": 1,
+          "media_count": 521,
+          "tweet_count": 4630
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T06:00:22.000Z",
+        "description": "",
+        "id": "2014216293705187328",
+        "name": "Mandy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047952507742416896/Ru54lhoG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 105,
+          "like_count": 2897,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 137
+        },
+        "username": "Mandykwko",
+        "verified": false
+      }
+    ]
+  }
+}

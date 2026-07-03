@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2065973263831114058",
+    "created_at": "2026-06-14T01:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T02:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065973263831114058"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/penpunx/status/2065972946888446184",
+          "start": 40,
+          "url": "https://t.co/X1hiy1hXwC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065973263831114058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065972946888446184",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我写的金属核的歌词（\n最近听金属核比较多，想尝试创作一首，结合我个人精神信仰（ https://t.co/X1hiy1hXwC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2065973263831114058",
+        "created_at": "2026-06-14T01:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065973263831114058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/penpunx/status/2065972946888446184",
+              "start": 40,
+              "url": "https://t.co/X1hiy1hXwC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065973263831114058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065972946888446184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我写的金属核的歌词（\n最近听金属核比较多，想尝试创作一首，结合我个人精神信仰（ https://t.co/X1hiy1hXwC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2065972946888446184",
+        "created_at": "2026-06-14T01:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065972946888446184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065972946888446184",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "[Verse 1]\n\nStop saying your heart is broken,\nStop saying you’ve lost your way.\nYou beg for hands to hold you,\nYet the light was never far away.\n\nYou kneel before the heavens,\nYou scream into the void above.\nBut what if the god you’ve worshipped\nWas only the shadow of your blood?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "%%%%%%%",
+        "id": "1896904934995656704",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 570,
+          "like_count": 13832,
+          "listed_count": 1,
+          "media_count": 617,
+          "tweet_count": 5188
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

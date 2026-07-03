@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2011041072500416925",
+    "created_at": "2026-01-13T12:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T13:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011050671089582511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1091709361745850368",
+          "start": 0,
+          "username": "YuyuzuSoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011050671089582511",
+    "in_reply_to_user_id": "1091709361745850368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011047484903289185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuyuzuSoft 我五六月的时候经常听，温暖的春夏之交走在放学路上听感觉心情很舒畅，像天空一样深远"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2011041072500416925",
+        "created_at": "2026-01-13T12:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T13:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011050671089582511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1091709361745850368",
+              "start": 0,
+              "username": "YuyuzuSoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011050671089582511",
+        "in_reply_to_user_id": "1091709361745850368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011047484903289185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuyuzuSoft 我五六月的时候经常听，温暖的春夏之交走在放学路上听感觉心情很舒畅，像天空一样深远"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1091709361745850368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10028398579",
+              "name": "Californication"
+            }
+          }
+        ],
+        "conversation_id": "2011041072500416925",
+        "created_at": "2026-01-13T12:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T13:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011047484903289185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011047484903289185",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011045471452811646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 他们乐队活动时长特别久，风格变化特别大，不要只看网易云艺人页面的top50，那个专辑几百张也是国外乐队的通病了，可以只查看一些“骨干”的录音室专辑，456专《blood sugar sex magic》《one hot minute》《californication》我都特喜欢，有时候我躁狂了也会主动听会这些，人能好不少，直接去听专辑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 287,
+          "like_count": 10204,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 2657
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-02T14:46:09.000Z",
+        "description": "你好，我弹电贝斯，弹电吉他，谈日语，谈小语种，听电子音乐，听摇滚，玩fl，玩东方，玩音游，玩galgame，玩抑郁症，玩完了强迫症，现在玩解离，建议你和我玩",
+        "id": "1091709361745850368",
+        "location": "西安",
+        "name": "玉玉足",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010575580593524736/J4mFEfAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 129,
+          "like_count": 599,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 332
+        },
+        "username": "YuyuzuSoft",
+        "verified": false
+      }
+    ]
+  }
+}

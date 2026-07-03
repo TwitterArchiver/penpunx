@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1976153227256361355",
+    "created_at": "2025-10-09T13:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T14:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976285537372893387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1048022597823164416",
+          "start": 0,
+          "username": "HiallouL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976285537372893387",
+    "in_reply_to_user_id": "1048022597823164416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976284916360077392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HiallouL 怕对方失手把我杀了\n但是我也尝试过一次\n感觉之后几天都对我很客气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1976153227256361355",
+        "created_at": "2025-10-09T13:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T14:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976285537372893387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1048022597823164416",
+              "start": 0,
+              "username": "HiallouL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976285537372893387",
+        "in_reply_to_user_id": "1048022597823164416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976284916360077392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiallouL 怕对方失手把我杀了\n但是我也尝试过一次\n感觉之后几天都对我很客气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1048022597823164416",
+        "conversation_id": "1976153227256361355",
+        "created_at": "2025-10-09T13:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T14:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976284916360077392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976284916360077392",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976227671786053772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 胡闹，弄坏他们东西，死不认错，方法有的是，我也打不过啊，初中生难道干得过一个成年男性么，但还是可以把对方弄伤让他不敢随便打我，憋股狠劲儿往死里对着杠，这不难"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1974498041756569769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975082924950310912/JRet2r2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 279,
+          "like_count": 10235,
+          "listed_count": 1,
+          "media_count": 355,
+          "tweet_count": 2490
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-05T01:30:33.000Z",
+        "description": "🌈🏳️‍🌈🏳️‍⚧️ 🌱 📸 ☕ 💛🤍💜🖤",
+        "id": "1048022597823164416",
+        "location": "把不息的生机种在每一个旅人心里",
+        "name": "Hallo",
+        "pinned_tweet_id": "1963969849065164812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972658949611769856/_J0xXhpn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 1264,
+          "like_count": 17407,
+          "listed_count": 5,
+          "media_count": 845,
+          "tweet_count": 4861
+        },
+        "username": "HiallouL",
+        "verified": false
+      }
+    ]
+  }
+}

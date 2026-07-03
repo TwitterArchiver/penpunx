@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2044729605823811681",
+    "created_at": "2026-04-16T11:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T12:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044738000958242846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1936074788302454784",
+          "start": 0,
+          "username": "tsumugi_chen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044738000958242846",
+    "in_reply_to_user_id": "1936074788302454784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044729605823811681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsumugi_chen 我要开盒你的学校"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1060,
+        "media_key": "3_2044729399195680768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBWjhzbQAAzB2m.png",
+        "width": 1600
+      },
+      {
+        "height": 1060,
+        "media_key": "3_2044729422075539456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBWk3CaMAAcTR0.png",
+        "width": 1600
+      },
+      {
+        "height": 1060,
+        "media_key": "3_2044729454006829056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBWmt_bAAAZsWv.png",
+        "width": 1600
+      },
+      {
+        "height": 1060,
+        "media_key": "3_2044729587322830848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBWueobwAAMC8q.png",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2044729605823811681",
+        "created_at": "2026-04-16T11:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044738000958242846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1936074788302454784",
+              "start": 0,
+              "username": "tsumugi_chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044738000958242846",
+        "in_reply_to_user_id": "1936074788302454784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044729605823811681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsumugi_chen 我要开盒你的学校"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044729399195680768",
+            "3_2044729422075539456",
+            "3_2044729454006829056",
+            "3_2044729587322830848"
+          ]
+        },
+        "author_id": "1936074788302454784",
+        "conversation_id": "2044729605823811681",
+        "created_at": "2026-04-16T10:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044729605823811681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ppzcK0HGa",
+              "end": 88,
+              "expanded_url": "https://x.com/tsumugi_chen/status/2044729605823811681/photo/1",
+              "media_key": "3_2044729399195680768",
+              "start": 65,
+              "url": "https://t.co/6ppzcK0HGa"
+            },
+            {
+              "display_url": "pic.x.com/6ppzcK0HGa",
+              "end": 88,
+              "expanded_url": "https://x.com/tsumugi_chen/status/2044729605823811681/photo/1",
+              "media_key": "3_2044729422075539456",
+              "start": 65,
+              "url": "https://t.co/6ppzcK0HGa"
+            },
+            {
+              "display_url": "pic.x.com/6ppzcK0HGa",
+              "end": 88,
+              "expanded_url": "https://x.com/tsumugi_chen/status/2044729605823811681/photo/1",
+              "media_key": "3_2044729454006829056",
+              "start": 65,
+              "url": "https://t.co/6ppzcK0HGa"
+            },
+            {
+              "display_url": "pic.x.com/6ppzcK0HGa",
+              "end": 88,
+              "expanded_url": "https://x.com/tsumugi_chen/status/2044729605823811681/photo/1",
+              "media_key": "3_2044729587322830848",
+              "start": 65,
+              "url": "https://t.co/6ppzcK0HGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044729605823811681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2026.3\n上海 学校 高考前75天\n禄来100周年纪念卷 ISO 640\n美能达 Hi-matic 7s\n假装自己是森山大道 https://t.co/6ppzcK0HGa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 413,
+          "like_count": 12034,
+          "listed_count": 1,
+          "media_count": 456,
+          "tweet_count": 3735
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T14:53:16.000Z",
+        "description": "A student in Shanghai. Interested in History ,aviation ,motor racing and Photographing. Fujifilm XE-2s & Leica X1 & Minolta 7s & Rollei 35 LED & Contax T2",
+        "id": "1936074788302454784",
+        "location": "Shanghai China",
+        "name": "Yivan Chen",
+        "pinned_tweet_id": "1981332129603805328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004362310543200261/ZsDK_ztP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 196,
+          "like_count": 4887,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1044
+        },
+        "username": "tsumugi_chen",
+        "verified": true
+      }
+    ]
+  }
+}

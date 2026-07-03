@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2061246562551095785",
+    "created_at": "2026-06-01T00:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T01:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061246562551095785"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dayshead1/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/dayshead1/status/2061098053067497839",
+          "start": 5,
+          "url": "https://t.co/isSepZIfCD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061246562551095785",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061098053067497839",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "sure https://t.co/isSepZIfCD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2061246562551095785",
+        "created_at": "2026-06-01T00:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T01:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061246562551095785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dayshead1/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/dayshead1/status/2061098053067497839",
+              "start": 5,
+              "url": "https://t.co/isSepZIfCD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061246562551095785",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061098053067497839",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "sure https://t.co/isSepZIfCD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765722624569565184",
+        "conversation_id": "2061098053067497839",
+        "created_at": "2026-05-31T14:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061098053067497839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061098053067497839",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 234099,
+          "like_count": 7225,
+          "quote_count": 505,
+          "reply_count": 586,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "CONVERSA SÉRIA: você permitiria que seu filho perdesse um dia de escola só para descansar porque ele diz que está mentalmente ou emocionalmente cansado??"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱",
+        "id": "1896904934995656704",
+        "name": "天",
+        "pinned_tweet_id": "2060383283750510858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060765626717933568/2wiuiD_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 555,
+          "like_count": 13529,
+          "listed_count": 1,
+          "media_count": 554,
+          "tweet_count": 4876
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T12:54:55.000Z",
+        "description": "I am a gallagher",
+        "id": "1765722624569565184",
+        "name": "kaique",
+        "pinned_tweet_id": "1865529063940440269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005028152175640576/P_e9_YV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7123,
+          "following_count": 3238,
+          "like_count": 104458,
+          "listed_count": 4,
+          "media_count": 8068,
+          "tweet_count": 25829
+        },
+        "username": "dayshead1",
+        "verified": false
+      }
+    ]
+  }
+}

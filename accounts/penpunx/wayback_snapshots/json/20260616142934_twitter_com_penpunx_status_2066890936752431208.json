@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066542327468789760",
+        "3_2066542327494021121"
+      ],
+      "media_source_tweet_id": [
+        "2066542395265601898",
+        "2066542395265601898"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2066890936752431208",
+    "created_at": "2026-06-16T14:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T15:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066890936752431208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1675324482758537216",
+          "start": 3,
+          "username": "diotimacorina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QJ4bSnfnzY",
+          "end": 108,
+          "expanded_url": "https://x.com/diotimacorina/status/2066542395265601898/photo/1",
+          "media_key": "3_2066542327468789760",
+          "start": 85,
+          "url": "https://t.co/QJ4bSnfnzY"
+        },
+        {
+          "display_url": "pic.x.com/QJ4bSnfnzY",
+          "end": 108,
+          "expanded_url": "https://x.com/diotimacorina/status/2066542395265601898/photo/1",
+          "media_key": "3_2066542327494021121",
+          "start": 85,
+          "url": "https://t.co/QJ4bSnfnzY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066890936752431208",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1107
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066542395265601898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @diotimacorina: it's not enough to be non-binary, what i want is to be non-human. https://t.co/QJ4bSnfnzY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "3_2066542327468789760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3VTD4WEAAv1ZJ.jpg",
+        "width": 527
+      },
+      {
+        "height": 781,
+        "media_key": "3_2066542327494021121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3VTD-XEAEuwSM.jpg",
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066542327468789760",
+            "3_2066542327494021121"
+          ],
+          "media_source_tweet_id": [
+            "2066542395265601898",
+            "2066542395265601898"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2066890936752431208",
+        "created_at": "2026-06-16T14:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066890936752431208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1675324482758537216",
+              "start": 3,
+              "username": "diotimacorina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QJ4bSnfnzY",
+              "end": 108,
+              "expanded_url": "https://x.com/diotimacorina/status/2066542395265601898/photo/1",
+              "media_key": "3_2066542327468789760",
+              "start": 85,
+              "url": "https://t.co/QJ4bSnfnzY"
+            },
+            {
+              "display_url": "pic.x.com/QJ4bSnfnzY",
+              "end": 108,
+              "expanded_url": "https://x.com/diotimacorina/status/2066542395265601898/photo/1",
+              "media_key": "3_2066542327494021121",
+              "start": 85,
+              "url": "https://t.co/QJ4bSnfnzY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066890936752431208",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066542395265601898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @diotimacorina: it's not enough to be non-binary, what i want is to be non-human. https://t.co/QJ4bSnfnzY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066542327468789760",
+            "3_2066542327494021121"
+          ]
+        },
+        "author_id": "1675324482758537216",
+        "conversation_id": "2066542395265601898",
+        "created_at": "2026-06-15T15:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066542395265601898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QJ4bSnfnzY",
+              "end": 89,
+              "expanded_url": "https://x.com/diotimacorina/status/2066542395265601898/photo/1",
+              "media_key": "3_2066542327468789760",
+              "start": 66,
+              "url": "https://t.co/QJ4bSnfnzY"
+            },
+            {
+              "display_url": "pic.x.com/QJ4bSnfnzY",
+              "end": 89,
+              "expanded_url": "https://x.com/diotimacorina/status/2066542395265601898/photo/1",
+              "media_key": "3_2066542327494021121",
+              "start": 66,
+              "url": "https://t.co/QJ4bSnfnzY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066542395265601898",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 843,
+          "impression_count": 68860,
+          "like_count": 7361,
+          "quote_count": 42,
+          "reply_count": 14,
+          "retweet_count": 1107
+        },
+        "reply_settings": "everyone",
+        "text": "it's not enough to be non-binary, what i want is to be non-human. https://t.co/QJ4bSnfnzY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "巴卡巴拉，苏卡纳纳马斯。",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 577,
+          "like_count": 13916,
+          "listed_count": 1,
+          "media_count": 623,
+          "tweet_count": 5246
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T02:04:37.000Z",
+        "description": "«y si hay alguna moral, ésta es la moral del desastre.»\npriv: @femalerimbaud",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "femalerimbaud"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "last.fm/user/diotima_",
+                "end": 23,
+                "expanded_url": "https://www.last.fm/user/diotima_",
+                "start": 0,
+                "url": "https://t.co/6Q2Grd4iqw"
+              }
+            ]
+          }
+        },
+        "id": "1675324482758537216",
+        "location": "warning: i'm weird!!!",
+        "name": "𝑫𝒊𝒐𝒕𝒊𝒎𝒂 𝑪𝒐𝒓𝒊𝒏𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064918049438740480/j3z50Bjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 568,
+          "like_count": 114095,
+          "listed_count": 4,
+          "media_count": 1451,
+          "tweet_count": 16893
+        },
+        "url": "https://t.co/6Q2Grd4iqw",
+        "username": "diotimacorina",
+        "verified": false
+      }
+    ]
+  }
+}

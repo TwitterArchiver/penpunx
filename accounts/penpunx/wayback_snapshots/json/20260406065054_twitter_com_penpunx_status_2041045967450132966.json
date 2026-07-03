@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2041045967450132966",
+    "created_at": "2026-04-06T06:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T07:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041045967450132966"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041045967450132966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我再也不要吃笨海拉明了 昨天干了什么几乎都不记得 睡觉的时候还一直感觉虫子在身上爬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2041045967450132966",
+        "created_at": "2026-04-06T06:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041045967450132966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041045967450132966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我再也不要吃笨海拉明了 昨天干了什么几乎都不记得 睡觉的时候还一直感觉虫子在身上爬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 392,
+          "like_count": 11774,
+          "listed_count": 1,
+          "media_count": 445,
+          "tweet_count": 3537
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

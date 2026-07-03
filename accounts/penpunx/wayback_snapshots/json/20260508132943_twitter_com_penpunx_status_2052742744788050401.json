@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2052742744788050401",
+    "created_at": "2026-05-08T13:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T14:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052742744788050401"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/penpunx/status/1966749362282741785",
+          "start": 10,
+          "url": "https://t.co/jDGcqVlKCm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052742744788050401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966749362282741785",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不好，不好，不好！ https://t.co/jDGcqVlKCm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1966749353441456128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0tMHd4bcAAtJuy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2052742744788050401",
+        "created_at": "2026-05-08T13:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052742744788050401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/penpunx/status/1966749362282741785",
+              "start": 10,
+              "url": "https://t.co/jDGcqVlKCm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052742744788050401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966749362282741785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不好，不好，不好！ https://t.co/jDGcqVlKCm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966749353441456128"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1966749362282741785",
+        "created_at": "2025-09-13T06:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T07:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966749362282741785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cIFcn5qTHe",
+              "end": 25,
+              "expanded_url": "https://x.com/penpunx/status/1966749362282741785/photo/1",
+              "media_key": "3_1966749353441456128",
+              "start": 2,
+              "url": "https://t.co/cIFcn5qTHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966749362282741785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好 https://t.co/cIFcn5qTHe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 507,
+          "like_count": 12993,
+          "listed_count": 1,
+          "media_count": 503,
+          "tweet_count": 4343
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

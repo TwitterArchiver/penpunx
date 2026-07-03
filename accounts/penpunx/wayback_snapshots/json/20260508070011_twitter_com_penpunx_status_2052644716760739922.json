@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1139229372198469633",
+          "name": "Dogecoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Stocks",
+          "id": "847894852779900928",
+          "name": "Stocks & indices"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1139229372198469633",
+          "name": "Dogecoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491481998862348291",
+          "name": "Digital asset industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+          "id": "166",
+          "name": "Stocks"
+        },
+        "entity": {
+          "id": "1303026843365171206",
+          "name": "$DOGE"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "id": "1139229372198469633",
+          "name": "Dogecoin cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "2052644716760739922",
+    "created_at": "2026-05-08T07:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052644716760739922"
+    ],
+    "entities": {
+      "cashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "doge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/youy1qwq/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/youy1qwq/status/2052191691667292223",
+          "start": 6,
+          "url": "https://t.co/HC5QQoeMal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052644716760739922",
+    "lang": "qct",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052191691667292223",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "$doge https://t.co/HC5QQoeMal"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1301,
+        "media_key": "3_2052157761023000579",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHq6nGDWQAMH7Zo.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1303026843365171206",
+              "name": "$DOGE"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2052644716760739922",
+        "created_at": "2026-05-08T07:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052644716760739922"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "doge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/youy1qwq/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/youy1qwq/status/2052191691667292223",
+              "start": 6,
+              "url": "https://t.co/HC5QQoeMal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052644716760739922",
+        "lang": "qct",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052191691667292223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "$doge https://t.co/HC5QQoeMal"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052157761023000579"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2052191691667292223",
+        "created_at": "2026-05-07T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052191691667292223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yya6SYS4oR",
+              "end": 35,
+              "expanded_url": "https://x.com/youy1qwq/status/2052191691667292223/photo/1",
+              "media_key": "3_2052157761023000579",
+              "start": 12,
+              "url": "https://t.co/Yya6SYS4oR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052191691667292223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 556,
+          "impression_count": 359181,
+          "like_count": 13120,
+          "quote_count": 21,
+          "reply_count": 855,
+          "retweet_count": 599
+        },
+        "reply_settings": "everyone",
+        "text": "地球online补货了 https://t.co/Yya6SYS4oR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 506,
+          "like_count": 12968,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 4332
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12493,
+          "following_count": 1758,
+          "like_count": 4051,
+          "listed_count": 20,
+          "media_count": 1671,
+          "tweet_count": 2183
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

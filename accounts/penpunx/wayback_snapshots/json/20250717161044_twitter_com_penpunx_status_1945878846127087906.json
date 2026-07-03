@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1945877657079705950",
+    "created_at": "2025-07-17T16:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T17:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945878846127087906"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1945878846127087906",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 27,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945877657079705950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我很无奈但我不讨厌自己，我能尽量忍住不伤害身边的人就已经很棒了。我很渴肤，所以如果我的恋人在现实中抱抱我，我会快速恢复安全感。但我们不能经常见面。我期待和她同居的一天，但是能走到同居这一步的恋人大多已经经历了很多考验"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1945877657079705950",
+        "created_at": "2025-07-17T16:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T17:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945878846127087906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945878846127087906",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945877657079705950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很无奈但我不讨厌自己，我能尽量忍住不伤害身边的人就已经很棒了。我很渴肤，所以如果我的恋人在现实中抱抱我，我会快速恢复安全感。但我们不能经常见面。我期待和她同居的一天，但是能走到同居这一步的恋人大多已经经历了很多考验"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1945877657079705950",
+        "created_at": "2025-07-17T16:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T17:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945877657079705950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945877657079705950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我无法控制自己的不安。它常常发生在我非常渴望做某事的时候，像一场席卷而来的大火。我会感到全身发烫，想哭喊和捶人，或者必须做些什么才行。它也有帮助过我的时候，比如三天速通期末考试还得了年级第57名。但是我无法控制它只在需要的时候出现，事实上一天至少出现五次，而且会对任何事件发生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "autistic 16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "Jupiter III",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 208,
+          "like_count": 7100,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 1633
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

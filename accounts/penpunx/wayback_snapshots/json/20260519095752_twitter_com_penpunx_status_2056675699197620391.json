@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056641829685415936"
+      ],
+      "media_source_tweet_id": [
+        "2056641992202055799"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056675699197620391",
+    "created_at": "2026-05-19T09:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056675699197620391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2054912328978817024",
+          "start": 3,
+          "username": "jiuyouforwhite2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4JL1afBrAm",
+          "end": 59,
+          "expanded_url": "https://x.com/jiuyouforwhite2/status/2056641992202055799/photo/1",
+          "media_key": "3_2056641829685415936",
+          "start": 36,
+          "url": "https://t.co/4JL1afBrAm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056675699197620391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056641992202055799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiuyouforwhite2: 以后请不要相信任何卖雪尘的人 https://t.co/4JL1afBrAm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1303,
+        "media_key": "3_2056641829685415936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqo2Pib0AA6sRH.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056641829685415936"
+          ],
+          "media_source_tweet_id": [
+            "2056641992202055799"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056675699197620391",
+        "created_at": "2026-05-19T09:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056675699197620391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2054912328978817024",
+              "start": 3,
+              "username": "jiuyouforwhite2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4JL1afBrAm",
+              "end": 59,
+              "expanded_url": "https://x.com/jiuyouforwhite2/status/2056641992202055799/photo/1",
+              "media_key": "3_2056641829685415936",
+              "start": 36,
+              "url": "https://t.co/4JL1afBrAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056675699197620391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056641992202055799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiuyouforwhite2: 以后请不要相信任何卖雪尘的人 https://t.co/4JL1afBrAm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056641829685415936"
+          ]
+        },
+        "author_id": "2054912328978817024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056641992202055799",
+        "created_at": "2026-05-19T07:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056641992202055799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4JL1afBrAm",
+              "end": 38,
+              "expanded_url": "https://x.com/jiuyouforwhite2/status/2056641992202055799/photo/1",
+              "media_key": "3_2056641829685415936",
+              "start": 15,
+              "url": "https://t.co/4JL1afBrAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056641992202055799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2298,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以后请不要相信任何卖雪尘的人 https://t.co/4JL1afBrAm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 537,
+          "like_count": 13441,
+          "listed_count": 1,
+          "media_count": 522,
+          "tweet_count": 4674
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "And in yours you say,Your teeth are falling out.\n主账号:@jiuyouforwhite/偏爱:@xingstaro/师长:@futi999139732/好友:@Lomyral114514、@h1zh816060",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "jiuyouforwhite"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "xingstaro"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "futi999139732"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "h1zh816060"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "反胃的YozoOba",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054913557297610752/3NKcf-Cs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 54,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 58
+        },
+        "username": "jiuyouforwhite2",
+        "verified": false
+      }
+    ]
+  }
+}

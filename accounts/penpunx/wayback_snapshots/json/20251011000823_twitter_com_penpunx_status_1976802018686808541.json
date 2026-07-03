@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1976779394791489750",
+    "created_at": "2025-10-11T00:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T01:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976802018686808541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1726314870780637185",
+          "start": 0,
+          "username": "uraracidus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976802018686808541",
+    "in_reply_to_user_id": "1726314870780637185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976800769090502776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uraracidus 这倒不至于("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1976779394791489750",
+        "created_at": "2025-10-11T00:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T01:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976802018686808541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1726314870780637185",
+              "start": 0,
+              "username": "uraracidus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976802018686808541",
+        "in_reply_to_user_id": "1726314870780637185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976800769090502776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uraracidus 这倒不至于("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726314870780637185",
+        "conversation_id": "1976779394791489750",
+        "created_at": "2025-10-11T00:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T01:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976800769090502776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976800769090502776",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976779394791489750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx emo是蛆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1974498041756569769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975082924950310912/JRet2r2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 284,
+          "like_count": 10306,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 2514
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T19:02:01.000Z",
+        "description": "禁烟是仇恨犯罪环保是邪教",
+        "id": "1726314870780637185",
+        "name": "momolulu",
+        "pinned_tweet_id": "1738036663136432382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976478692412096513/qIIKdrmu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 93,
+          "like_count": 17980,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 5501
+        },
+        "username": "uraracidus",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1969927106877645123",
+    "created_at": "2025-09-22T00:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T01:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969927274679214290"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1969927274679214290",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969927106877645123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "gpt什么时候变这么蠢了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 582,
+        "media_key": "3_1969927097847267329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1aWQiSaQAEl99a.jpg",
+        "width": 1173
+      },
+      {
+        "height": 1591,
+        "media_key": "3_1969927097855692800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1aWQiUa0AA5dFy.jpg",
+        "width": 1179
+      },
+      {
+        "height": 365,
+        "media_key": "3_1969927097843154944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1aWQiRbgAApNsS.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1969927106877645123",
+        "created_at": "2025-09-22T00:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T01:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969927274679214290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969927274679214290",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969927106877645123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "gpt什么时候变这么蠢了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969927097847267329",
+            "3_1969927097855692800",
+            "3_1969927097843154944"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969927106877645123",
+        "created_at": "2025-09-22T00:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T01:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969927106877645123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eFCjIYyCNJ",
+              "end": 31,
+              "expanded_url": "https://x.com/penpunx/status/1969927106877645123/photo/1",
+              "media_key": "3_1969927097847267329",
+              "start": 8,
+              "url": "https://t.co/eFCjIYyCNJ"
+            },
+            {
+              "display_url": "pic.x.com/eFCjIYyCNJ",
+              "end": 31,
+              "expanded_url": "https://x.com/penpunx/status/1969927106877645123/photo/1",
+              "media_key": "3_1969927097855692800",
+              "start": 8,
+              "url": "https://t.co/eFCjIYyCNJ"
+            },
+            {
+              "display_url": "pic.x.com/eFCjIYyCNJ",
+              "end": 31,
+              "expanded_url": "https://x.com/penpunx/status/1969927106877645123/photo/1",
+              "media_key": "3_1969927097843154944",
+              "start": 8,
+              "url": "https://t.co/eFCjIYyCNJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969927106877645123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你在说什么呢😦 https://t.co/eFCjIYyCNJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 268,
+          "like_count": 9509,
+          "listed_count": 1,
+          "media_count": 309,
+          "tweet_count": 2205
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2044091568336904597",
+    "created_at": "2026-04-15T05:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T06:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044282532968182177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997644719908884480",
+          "start": 0,
+          "username": "Oz_Garlandd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044282532968182177",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044091568336904597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oz_Garlandd 帅想学"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57967,
+        "height": 720,
+        "media_key": "7_2044090543173480448",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044090543173480448/pu/img/4bYBQf6oHjpRzDH9.jpg",
+        "public_metrics": {
+          "view_count": 33
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044090543173480448/pu/vid/avc1/480x270/T0v_RHxIO63ckTLn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044090543173480448/pu/vid/avc1/640x360/SJrwixnDSXjt1qxe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044090543173480448/pu/vid/avc1/1280x720/ixK1Tepa4uxz9q28.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044090543173480448/pu/pl/_mj59RIrwzBQB0bo.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2044091568336904597",
+        "created_at": "2026-04-15T05:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044282532968182177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044282532968182177",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044091568336904597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 帅想学"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044090543173480448"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2044091568336904597",
+        "created_at": "2026-04-14T16:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044091568336904597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9KPUtVqf8N",
+              "end": 64,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2044091568336904597/video/1",
+              "media_key": "7_2044090543173480448",
+              "start": 41,
+              "url": "https://t.co/9KPUtVqf8N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044091568336904597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候震惊于我的臂力 居然能用那么重的刀转花😨\n后半段是在扎你(❌)扎蚂蚁(√) https://t.co/9KPUtVqf8N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 412,
+          "like_count": 12014,
+          "listed_count": 1,
+          "media_count": 456,
+          "tweet_count": 3708
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 139,
+          "like_count": 11931,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 735
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

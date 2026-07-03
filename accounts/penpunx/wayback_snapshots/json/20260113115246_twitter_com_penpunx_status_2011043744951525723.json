@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2010697837177421977",
+    "created_at": "2026-01-13T11:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T12:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011043744951525723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1091709361745850368",
+          "start": 0,
+          "username": "YuyuzuSoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011043744951525723",
+    "in_reply_to_user_id": "1091709361745850368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010697837177421977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuyuzuSoft 啥专业"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1425,
+        "media_key": "3_2010697622546534401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-du1aab0AEFF90.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1546,
+        "media_key": "3_2010697625604141056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-du1lzbMAAlYJ7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1548,
+        "media_key": "3_2010697636953878528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-du2QFacAAw0Kq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2010697837177421977",
+        "created_at": "2026-01-13T11:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T12:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011043744951525723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1091709361745850368",
+              "start": 0,
+              "username": "YuyuzuSoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011043744951525723",
+        "in_reply_to_user_id": "1091709361745850368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010697837177421977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuyuzuSoft 啥专业"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010697622546534401",
+            "3_2010697625604141056",
+            "3_2010697636953878528"
+          ]
+        },
+        "author_id": "1091709361745850368",
+        "conversation_id": "2010697837177421977",
+        "created_at": "2026-01-12T12:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T13:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010697837177421977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rOxFGlFQxu",
+              "end": 33,
+              "expanded_url": "https://x.com/YuyuzuSoft/status/2010697837177421977/photo/1",
+              "media_key": "3_2010697622546534401",
+              "start": 10,
+              "url": "https://t.co/rOxFGlFQxu"
+            },
+            {
+              "display_url": "pic.x.com/rOxFGlFQxu",
+              "end": 33,
+              "expanded_url": "https://x.com/YuyuzuSoft/status/2010697837177421977/photo/1",
+              "media_key": "3_2010697625604141056",
+              "start": 10,
+              "url": "https://t.co/rOxFGlFQxu"
+            },
+            {
+              "display_url": "pic.x.com/rOxFGlFQxu",
+              "end": 33,
+              "expanded_url": "https://x.com/YuyuzuSoft/status/2010697837177421977/photo/1",
+              "media_key": "3_2010697636953878528",
+              "start": 10,
+              "url": "https://t.co/rOxFGlFQxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010697837177421977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "期末考试绝赞复习中 https://t.co/rOxFGlFQxu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 286,
+          "like_count": 10190,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 2653
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-02T14:46:09.000Z",
+        "description": "你好，我弹电贝斯，弹电吉他，谈日语，谈小语种，听电子音乐，听摇滚，玩fl，玩东方，玩音游，玩galgame，玩抑郁症，玩完了强迫症，现在玩解离，建议你和我玩",
+        "id": "1091709361745850368",
+        "location": "西安",
+        "name": "玉玉足",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010575580593524736/J4mFEfAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 129,
+          "like_count": 599,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 325
+        },
+        "username": "YuyuzuSoft",
+        "verified": false
+      }
+    ]
+  }
+}

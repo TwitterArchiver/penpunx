@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2067204596980920366",
+    "created_at": "2026-06-17T12:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067228455775969298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1951181920022437889",
+          "start": 0,
+          "username": "blackdoginmyhed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067228455775969298",
+    "in_reply_to_user_id": "1951181920022437889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067204596980920366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blackdoginmyhed 玫瑰色的洛神花味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2067204596980920366",
+        "created_at": "2026-06-17T12:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067228455775969298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951181920022437889",
+              "start": 0,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067228455775969298",
+        "in_reply_to_user_id": "1951181920022437889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067204596980920366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackdoginmyhed 玫瑰色的洛神花味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2067204596980920366",
+        "created_at": "2026-06-17T11:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067204596980920366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/penpunx/status/2067175950803251299",
+              "start": 4,
+              "url": "https://t.co/br7XrdW9gf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067204596980920366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067175950803251299",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好看! https://t.co/br7XrdW9gf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "巴卡巴拉，苏卡纳纳马斯。",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 575,
+          "like_count": 13920,
+          "listed_count": 1,
+          "media_count": 624,
+          "tweet_count": 5261
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n电子烟及纸烟相关可以联系我（ 推文能看到很多交流记录！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 647,
+          "like_count": 4349,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 1260
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

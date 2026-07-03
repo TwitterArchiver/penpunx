@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1913433942453288963",
+    "created_at": "2025-04-19T03:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T04:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913434082756944324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1898008454138413057",
+          "start": 0,
+          "username": "swibtw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913434082756944324",
+    "in_reply_to_user_id": "1898008454138413057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913434016847724826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@swibtw 我知道（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1913433942453288963",
+        "created_at": "2025-04-19T03:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T04:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913434082756944324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1898008454138413057",
+              "start": 0,
+              "username": "swibtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913434082756944324",
+        "in_reply_to_user_id": "1898008454138413057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913434016847724826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swibtw 我知道（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898008454138413057",
+        "conversation_id": "1913433942453288963",
+        "created_at": "2025-04-19T03:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T04:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913434016847724826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913434016847724826",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913433942453288963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 我第一次看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 182,
+          "like_count": 4235,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 938
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T13:51:28.000Z",
+        "description": "gentle and strong",
+        "id": "1898008454138413057",
+        "name": "somewhereinbetween",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909180616425586688/-pMGlkYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 44,
+          "like_count": 659,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 129
+        },
+        "username": "swibtw",
+        "verified": false
+      }
+    ]
+  }
+}

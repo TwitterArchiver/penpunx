@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1948452584869822536",
+    "created_at": "2025-07-24T18:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T19:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948456314444939591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1735938952731693056",
+          "start": 0,
+          "username": "IWantMyLilDoggy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948456314444939591",
+    "in_reply_to_user_id": "1735938952731693056",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948456035766993218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IWantMyLilDoggy 🫂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1948456035766993218].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1948456035766993218",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1948456035766993218"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1948452584869822536",
+        "created_at": "2025-07-24T18:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T19:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948456314444939591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1735938952731693056",
+              "start": 0,
+              "username": "IWantMyLilDoggy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948456314444939591",
+        "in_reply_to_user_id": "1735938952731693056",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948456035766993218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IWantMyLilDoggy 🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "autistic 16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "TR",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 207,
+          "like_count": 7196,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 1688
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T08:24:56.000Z",
+        "description": "会在某天突然变成悲叹之种的魔法少猫饭团喵/请回关我我想和你聊天（也可以不回）/关注请求选择性通过/大号是@FTMiaoX /这个号含有理智丧失的胡言乱语和xp放出/通向“我”的门在此为你打开/对不起其实我真的只是个天天乱发抽象文案的弱智",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "FTMiaoX"
+              }
+            ]
+          }
+        },
+        "id": "1735938952731693056",
+        "name": "🏳️‍⚧️鬼楽坂 鬼斬🏳️‍🌈",
+        "pinned_tweet_id": "1948418960526893155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748867381575716865/7grjcDZc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 433,
+          "like_count": 7328,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 2697
+        },
+        "username": "IWantMyLilDoggy",
+        "verified": false
+      }
+    ]
+  }
+}

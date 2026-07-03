@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973406215247126528"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1973405855837016561",
+    "created_at": "2025-10-01T15:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T16:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973406221890879882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1574992446181838848",
+          "start": 0,
+          "username": "2fonteinen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jen3jXI4HS",
+          "end": 101,
+          "expanded_url": "https://x.com/penpunx/status/1973406221890879882/photo/1",
+          "media_key": "3_1973406215247126528",
+          "start": 78,
+          "url": "https://t.co/jen3jXI4HS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973406221890879882",
+    "in_reply_to_user_id": "1574992446181838848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973405855837016561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2fonteinen 我初二的时候很喜欢blur！我对charmless man印象比较深刻，有的时候放学跑回家会想象自己就是那个mv的主角。我还画过（ https://t.co/jen3jXI4HS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1973406215247126528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Lyf0laYAAlmv0.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973406215247126528"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1973405855837016561",
+        "created_at": "2025-10-01T15:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T16:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973406221890879882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1574992446181838848",
+              "start": 0,
+              "username": "2fonteinen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jen3jXI4HS",
+              "end": 101,
+              "expanded_url": "https://x.com/penpunx/status/1973406221890879882/photo/1",
+              "media_key": "3_1973406215247126528",
+              "start": 78,
+              "url": "https://t.co/jen3jXI4HS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973406221890879882",
+        "in_reply_to_user_id": "1574992446181838848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973405855837016561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2fonteinen 我初二的时候很喜欢blur！我对charmless man印象比较深刻，有的时候放学跑回家会想象自己就是那个mv的主角。我还画过（ https://t.co/jen3jXI4HS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574992446181838848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1973405855837016561",
+        "created_at": "2025-10-01T15:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T16:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973405855837016561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/penpunx/status/1973348141123649984",
+              "start": 57,
+              "url": "https://t.co/O1zQPx3r1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973405855837016561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973348141123649984",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的話記憶比較深刻的是blur的那首She’s So High，很早期的歌，還挺迷幻的，有點曼徹斯特噪音那種感覺 https://t.co/O1zQPx3r1B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971570743306850304/n3PLdLKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 266,
+          "like_count": 9738,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 2309
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-28T05:20:45.000Z",
+        "description": "米男孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/31jbtjd7x…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/31jbtjd7xxyontxiwmxqyv63oztu?si=LdcwIfy8SkWTuxZCgsjHNg",
+                "start": 0,
+                "url": "https://t.co/NWGa0ZNHeS"
+              }
+            ]
+          }
+        },
+        "id": "1574992446181838848",
+        "name": "Riceboi",
+        "pinned_tweet_id": "1951134561221615645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835174249675280384/u_ukrTHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 718,
+          "like_count": 7404,
+          "listed_count": 1,
+          "media_count": 1503,
+          "tweet_count": 4496
+        },
+        "url": "https://t.co/NWGa0ZNHeS",
+        "username": "2fonteinen",
+        "verified": false
+      }
+    ]
+  }
+}

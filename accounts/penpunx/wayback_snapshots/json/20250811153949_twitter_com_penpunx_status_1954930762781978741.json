@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1954930096990818316",
+    "created_at": "2025-08-11T15:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T16:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954930762781978741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1742424148947988480",
+          "start": 0,
+          "username": "luckyrich333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954930762781978741",
+    "in_reply_to_user_id": "1742424148947988480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954930096990818316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luckyrich333 人生最大的梦想是neet而不愁吃穿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1954930096990818316",
+        "created_at": "2025-08-11T15:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T16:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954930762781978741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1742424148947988480",
+              "start": 0,
+              "username": "luckyrich333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954930762781978741",
+        "in_reply_to_user_id": "1742424148947988480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954930096990818316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luckyrich333 人生最大的梦想是neet而不愁吃穿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742424148947988480",
+        "conversation_id": "1954930096990818316",
+        "created_at": "2025-08-11T15:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T16:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954930096990818316"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "neet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/neet_sol/statu…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/neet_sol/status/1954923083304968395",
+              "start": 25,
+              "url": "https://t.co/8xe9wCGJ16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954930096990818316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954923083304968395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "成为一个 $neet \n就这样静静地看着风景发呆 https://t.co/8xe9wCGJ16"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y NB ASD CN, EN, PO",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 232,
+          "like_count": 8012,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 1869
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T05:54:38.000Z",
+        "description": "有钱的废物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fanfan23333",
+                "end": 23,
+                "expanded_url": "http://t.me/fanfan23333",
+                "start": 0,
+                "url": "https://t.co/QLwN4m7GH7"
+              }
+            ]
+          }
+        },
+        "id": "1742424148947988480",
+        "name": "饭导爱玩小猫咪",
+        "pinned_tweet_id": "1923219091801747796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788893634051674112/5l1O6eN4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4653,
+          "following_count": 971,
+          "like_count": 10208,
+          "listed_count": 86,
+          "media_count": 987,
+          "tweet_count": 2456
+        },
+        "url": "https://t.co/QLwN4m7GH7",
+        "username": "luckyrich333",
+        "verified": true
+      }
+    ]
+  }
+}

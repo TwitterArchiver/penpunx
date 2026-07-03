@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2041123712825749771",
+    "created_at": "2026-04-07T08:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T09:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041432679619645857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2040556240493768704",
+          "start": 0,
+          "username": "dddlg520"
+        },
+        {
+          "end": 21,
+          "id": "1754774517594181632",
+          "start": 10,
+          "username": "ValenceLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041432679619645857",
+    "in_reply_to_user_id": "2040556240493768704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041218744056443229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dddlg520 @ValenceLab 我问的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2041123712825749771",
+        "created_at": "2026-04-07T08:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041432679619645857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2040556240493768704",
+              "start": 0,
+              "username": "dddlg520"
+            },
+            {
+              "end": 21,
+              "id": "1754774517594181632",
+              "start": 10,
+              "username": "ValenceLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041432679619645857",
+        "in_reply_to_user_id": "2040556240493768704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041218744056443229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddlg520 @ValenceLab 我问的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040556240493768704",
+        "conversation_id": "2041123712825749771",
+        "created_at": "2026-04-06T18:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T19:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041218744056443229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            },
+            {
+              "end": 20,
+              "id": "1754774517594181632",
+              "start": 9,
+              "username": "ValenceLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041218744056443229",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041137187560046767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx @ValenceLab 已问"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 395,
+          "like_count": 11809,
+          "listed_count": 1,
+          "media_count": 446,
+          "tweet_count": 3561
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T22:26:04.000Z",
+        "description": "都有卖啦!想和大家互fo喵 是Oder 副业主营电子烟冰爆之类的 请大家多多支持火花花喵 如有需要可联系纸飞机or微信or主页私信！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dlg5201314",
+                "end": 23,
+                "expanded_url": "http://t.me/dlg5201314",
+                "start": 0,
+                "url": "https://t.co/MZX59fedBe"
+              }
+            ]
+          }
+        },
+        "id": "2040556240493768704",
+        "location": "二相乐园",
+        "name": "@火花花Office/电子烟锐刻冰爆鸭嘴七星",
+        "pinned_tweet_id": "2040568912430145828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040560533070585856/9aPVSuHU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 23,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/MZX59fedBe",
+        "username": "dddlg520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥频道链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceRC_cp",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceRC_cp",
+                "start": 0,
+                "url": "https://t.co/3X53fRNTwL"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "location": "本栖湖",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 156,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/3X53fRNTwL",
+        "username": "ValenceLab",
+        "verified": false
+      }
+    ]
+  }
+}

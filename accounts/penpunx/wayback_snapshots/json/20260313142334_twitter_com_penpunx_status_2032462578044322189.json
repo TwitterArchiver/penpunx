@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2032414785455993214",
+    "created_at": "2026-03-13T14:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T15:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032462578044322189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789184782825615360",
+          "start": 0,
+          "username": "nonsweetsuger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032462578044322189",
+    "in_reply_to_user_id": "1789184782825615360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032414785455993214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nonsweetsuger 招待客人也不等于做爱吧 客厅英语里是living room和客也没有什么关系，我感觉可以看电视，聊天，打牌等，客卧可以放一些东西或者偶尔给朋友提供住宿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2032414785455993214",
+        "created_at": "2026-03-13T14:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T15:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032462578044322189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789184782825615360",
+              "start": 0,
+              "username": "nonsweetsuger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032462578044322189",
+        "in_reply_to_user_id": "1789184782825615360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032414785455993214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonsweetsuger 招待客人也不等于做爱吧 客厅英语里是living room和客也没有什么关系，我感觉可以看电视，聊天，打牌等，客卧可以放一些东西或者偶尔给朋友提供住宿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789184782825615360",
+        "conversation_id": "2032414785455993214",
+        "created_at": "2026-03-13T11:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T12:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032414785455993214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/beishanghebaod…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/beishanghebaod5/status/2031964924378038565",
+              "start": 24,
+              "url": "https://t.co/XpEiSls7x0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032414785455993214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031964924378038565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "家里如果不招待客人的话，客厅和客卧是干嘛用的🧐 https://t.co/XpEiSls7x0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 350,
+          "like_count": 11408,
+          "listed_count": 1,
+          "media_count": 420,
+          "tweet_count": 3271
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T06:44:59.000Z",
+        "description": "悲伤的设计狗/非二元有男友",
+        "id": "1789184782825615360",
+        "name": "不甜的某糖 nonsweetsuger 🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1820497848582201477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790064536709730304/6xzaU-q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 751,
+          "like_count": 22802,
+          "listed_count": 2,
+          "media_count": 479,
+          "tweet_count": 10481
+        },
+        "username": "nonsweetsuger",
+        "verified": false
+      }
+    ]
+  }
+}

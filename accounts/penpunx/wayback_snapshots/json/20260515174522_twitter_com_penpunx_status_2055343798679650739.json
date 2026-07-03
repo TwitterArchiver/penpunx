@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2055339663301493242",
+    "created_at": "2026-05-15T17:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T18:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055343798679650739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1797831340987195392",
+          "start": 0,
+          "username": "nagaikisetsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055343798679650739",
+    "in_reply_to_user_id": "1797831340987195392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055339663301493242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nagaikisetsu 银翼高人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2055339658331217920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYIh5Oa4AAT2wd.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2055339663301493242",
+        "created_at": "2026-05-15T17:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055343798679650739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1797831340987195392",
+              "start": 0,
+              "username": "nagaikisetsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055343798679650739",
+        "in_reply_to_user_id": "1797831340987195392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055339663301493242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nagaikisetsu 银翼高人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055339658331217920"
+          ]
+        },
+        "author_id": "1797831340987195392",
+        "conversation_id": "2055339663301493242",
+        "created_at": "2026-05-15T17:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055339663301493242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gjeern2Yth",
+              "end": 23,
+              "expanded_url": "https://x.com/nagaikisetsu/status/2055339663301493242/photo/1",
+              "media_key": "3_2055339658331217920",
+              "start": 0,
+              "url": "https://t.co/gjeern2Yth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055339663301493242",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gjeern2Yth"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 529,
+          "like_count": 13343,
+          "listed_count": 1,
+          "media_count": 517,
+          "tweet_count": 4581
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T03:23:07.000Z",
+        "description": "男女混血",
+        "id": "1797831340987195392",
+        "location": "Abyss",
+        "name": "iv",
+        "pinned_tweet_id": "1948671608551604689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052815328175165440/nAjTv9rM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 63,
+          "like_count": 4933,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 82
+        },
+        "username": "nagaikisetsu",
+        "verified": false
+      }
+    ]
+  }
+}

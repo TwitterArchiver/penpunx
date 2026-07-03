@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2070850421439230044",
+    "created_at": "2026-06-27T12:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070850421439230044"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070850421439230044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从我小学毕业到现在居然已经六年了，难以置信，我感觉自己像跑图即将飞出游戏边界，不知道什么时候会被判定死亡或者被传送回去又或者什么也没有，故怀揣不安和惶恐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2070850421439230044",
+        "created_at": "2026-06-27T12:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070850421439230044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070850421439230044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从我小学毕业到现在居然已经六年了，难以置信，我感觉自己像跑图即将飞出游戏边界，不知道什么时候会被判定死亡或者被传送回去又或者什么也没有，故怀揣不安和惶恐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 592,
+          "like_count": 14272,
+          "listed_count": 1,
+          "media_count": 709,
+          "tweet_count": 5715
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

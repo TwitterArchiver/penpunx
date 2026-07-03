@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940114266578632704"
+      ],
+      "media_source_tweet_id": [
+        "1940167278106222949"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1940526155029004492",
+    "created_at": "2025-07-02T21:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T22:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940526155029004492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1438053991192178692",
+          "start": 3,
+          "username": "_mymsgs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/scZXNIdMZH",
+          "end": 36,
+          "expanded_url": "https://x.com/_mymsgs/status/1940167278106222949/photo/1",
+          "media_key": "3_1940114266578632704",
+          "start": 13,
+          "url": "https://t.co/scZXNIdMZH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940526155029004492",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1504
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940167278106222949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_mymsgs: https://t.co/scZXNIdMZH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1201,
+        "media_key": "3_1940114266578632704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuyrpXMWQAAh8xO.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940114266578632704"
+          ],
+          "media_source_tweet_id": [
+            "1940167278106222949"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1940526155029004492",
+        "created_at": "2025-07-02T21:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T22:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940526155029004492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1438053991192178692",
+              "start": 3,
+              "username": "_mymsgs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/scZXNIdMZH",
+              "end": 36,
+              "expanded_url": "https://x.com/_mymsgs/status/1940167278106222949/photo/1",
+              "media_key": "3_1940114266578632704",
+              "start": 13,
+              "url": "https://t.co/scZXNIdMZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940526155029004492",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1504
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940167278106222949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_mymsgs: https://t.co/scZXNIdMZH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940114266578632704"
+          ]
+        },
+        "author_id": "1438053991192178692",
+        "conversation_id": "1940167278106222949",
+        "created_at": "2025-07-01T21:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T22:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940167278106222949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/scZXNIdMZH",
+              "end": 23,
+              "expanded_url": "https://x.com/_mymsgs/status/1940167278106222949/photo/1",
+              "media_key": "3_1940114266578632704",
+              "start": 0,
+              "url": "https://t.co/scZXNIdMZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940167278106222949",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1413,
+          "impression_count": 380570,
+          "like_count": 9593,
+          "quote_count": 109,
+          "reply_count": 63,
+          "retweet_count": 1504
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/scZXNIdMZH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 204,
+          "like_count": 6740,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1523
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-15T08:16:27.000Z",
+        "description": "best love page for my love in the world follow and turn on notifications 🔔",
+        "id": "1438053991192178692",
+        "name": "messages.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775178275305721856/fkm4vpU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81054,
+          "following_count": 9881,
+          "like_count": 6713,
+          "listed_count": 147,
+          "media_count": 5600,
+          "tweet_count": 49775
+        },
+        "username": "_mymsgs",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2061812579773681810",
+    "created_at": "2026-06-15T04:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066376150788747371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1485018407556820993",
+          "start": 0,
+          "username": "yonlupedia"
+        },
+        {
+          "end": 24,
+          "id": "1967018391916437504",
+          "start": 12,
+          "username": "yoshikitwin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066376150788747371",
+    "in_reply_to_user_id": "1485018407556820993",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061812579773681810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yonlupedia @yoshikitwin mds eu sempre pensei que essa música foi originalmente escrita por Vinicius."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 340,
+        "media_key": "3_2061638180521086976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxpAI1XkAAP_ZW.png",
+        "width": 340
+      },
+      {
+        "height": 250,
+        "media_key": "3_2061638235881664512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxpDXEW8AA_t2V.png",
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2061812579773681810",
+        "created_at": "2026-06-15T04:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066376150788747371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1485018407556820993",
+              "start": 0,
+              "username": "yonlupedia"
+            },
+            {
+              "end": 24,
+              "id": "1967018391916437504",
+              "start": 12,
+              "username": "yoshikitwin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066376150788747371",
+        "in_reply_to_user_id": "1485018407556820993",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061812579773681810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yonlupedia @yoshikitwin mds eu sempre pensei que essa música foi originalmente escrita por Vinicius."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061638180521086976",
+            "3_2061638235881664512"
+          ]
+        },
+        "author_id": "1485018407556820993",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1110964354113953793",
+              "name": "Erlend Øye"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1110964354113953793",
+              "name": "Erlend Øye"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1285999703704743938",
+              "name": "Dance & electronic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Electronic",
+              "id": "849684313704611840",
+              "name": "Electronic music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1110964354113953793",
+              "name": "Erlend Øye"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2061812579773681810",
+        "created_at": "2026-06-02T14:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061812579773681810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xy4GAd6FJu",
+              "end": 300,
+              "expanded_url": "https://x.com/yonlupedia/status/2061812579773681810/photo/1",
+              "media_key": "3_2061638180521086976",
+              "start": 277,
+              "url": "https://t.co/Xy4GAd6FJu"
+            },
+            {
+              "display_url": "pic.x.com/Xy4GAd6FJu",
+              "end": 300,
+              "expanded_url": "https://x.com/yonlupedia/status/2061812579773681810/photo/1",
+              "media_key": "3_2061638235881664512",
+              "start": 277,
+              "url": "https://t.co/Xy4GAd6FJu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061812579773681810",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 12554,
+          "like_count": 454,
+          "quote_count": 14,
+          "reply_count": 6,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "Com que idade você descobriu que a clássica jaqueta que o Yoñlu vestia era, possivelmente, inspirada na vestimenta de Erlend Oye, da dupla Kings of Convenience?\n\nEle chegou a gravar um cover de Little Kids, de autoria deles, e já afirmou admirar o trabalho da dupla norueguesa https://t.co/Xy4GAd6FJu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "巴卡巴拉，苏卡纳纳马斯。",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 572,
+          "like_count": 13879,
+          "listed_count": 1,
+          "media_count": 618,
+          "tweet_count": 5217
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-22T22:37:10.000Z",
+        "description": "Um archive da atividade do Yoñlu na internet",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/yonlupedia",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/yonlupedia",
+                "start": 0,
+                "url": "https://t.co/9bv8WNHCNr"
+              }
+            ]
+          }
+        },
+        "id": "1485018407556820993",
+        "location": "Cavucando o Wayback Machine",
+        "name": "Yoñlupedia",
+        "pinned_tweet_id": "1746991966716383623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059762826286182408/eoobfeD8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8411,
+          "following_count": 130,
+          "like_count": 1241,
+          "listed_count": 5,
+          "media_count": 1228,
+          "tweet_count": 3273
+        },
+        "url": "https://t.co/9bv8WNHCNr",
+        "username": "yonlupedia",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T00:12:05.000Z",
+        "description": "vida longa aos homossexuais, as mulheres e aos alternativos",
+        "id": "1967018391916437504",
+        "name": "clari (yoshiki's version) ᶻ 𝘇 𐰁",
+        "pinned_tweet_id": "2017081085809603046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025709271434846209/3CvLZ32g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 61,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 683
+        },
+        "username": "yoshikitwin",
+        "verified": false
+      }
+    ]
+  }
+}

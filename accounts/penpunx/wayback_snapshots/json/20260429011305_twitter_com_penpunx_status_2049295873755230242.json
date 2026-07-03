@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2049295873755230242",
+    "created_at": "2026-04-29T01:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T02:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049295873755230242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/llame_rainfall…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/llame_rainfall/status/2048800185783123985",
+          "start": 5,
+          "url": "https://t.co/rkkM0zDdAk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049295873755230242",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048800185783123985",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大力啥子 https://t.co/rkkM0zDdAk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2048800183799218177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7M6YMbgAECHUw.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2049295873755230242",
+        "created_at": "2026-04-29T01:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049295873755230242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/llame_rainfall…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/llame_rainfall/status/2048800185783123985",
+              "start": 5,
+              "url": "https://t.co/rkkM0zDdAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049295873755230242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048800185783123985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大力啥子 https://t.co/rkkM0zDdAk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048800183799218177"
+          ]
+        },
+        "author_id": "2009290216994115584",
+        "conversation_id": "2048800185783123985",
+        "created_at": "2026-04-27T16:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048800185783123985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7QQyhguPkk",
+              "end": 23,
+              "expanded_url": "https://x.com/llame_rainfall/status/2048800185783123985/photo/1",
+              "media_key": "3_2048800183799218177",
+              "start": 0,
+              "url": "https://t.co/7QQyhguPkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048800185783123985",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 8606,
+          "like_count": 1246,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7QQyhguPkk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 444,
+          "like_count": 12258,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 3909
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T15:48:24.000Z",
+        "description": "おえかき\n少女終末旅行/リバース1999/忘却前夜 など\nBluesky\nhttps://t.co/eSQVO2WvRf\n\n無断転載、営利利用など厳禁",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/llame-…",
+                "end": 60,
+                "expanded_url": "https://bsky.app/profile/llame-rainfall.bsky.social",
+                "start": 37,
+                "url": "https://t.co/eSQVO2WvRf"
+              }
+            ]
+          }
+        },
+        "id": "2009290216994115584",
+        "name": "あまだれ",
+        "pinned_tweet_id": "2040776647788613971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041770496640065536/AyeqZAkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 95,
+          "like_count": 1448,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 153
+        },
+        "username": "llame_rainfall",
+        "verified": false
+      }
+    ]
+  }
+}

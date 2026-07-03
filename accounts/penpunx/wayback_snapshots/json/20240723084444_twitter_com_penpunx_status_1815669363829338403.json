@@ -1,0 +1,161 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1549234895188176897",
+    "conversation_id": "1815669363829338403",
+    "created_at": "2024-07-23T08:44:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T09:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815669363829338403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1472022007797719048",
+          "start": 3,
+          "username": "user0000O0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815669363829338403",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 641
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815520821458145700",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @user0000O0: if my father got one hater it will always be me"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1549234895188176897",
+        "conversation_id": "1815669363829338403",
+        "created_at": "2024-07-23T08:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T09:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815669363829338403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1472022007797719048",
+              "start": 3,
+              "username": "user0000O0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815669363829338403",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 641
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815520821458145700",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @user0000O0: if my father got one hater it will always be me"
+      },
+      {
+        "attachments": {},
+        "author_id": "1472022007797719048",
+        "conversation_id": "1815520821458145700",
+        "created_at": "2024-07-22T22:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T23:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815520821458145700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1815520821458145700",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 42768,
+          "like_count": 1621,
+          "quote_count": 41,
+          "reply_count": 9,
+          "retweet_count": 641
+        },
+        "reply_settings": "everyone",
+        "text": "if my father got one hater it will always be me"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-19T03:29:23.000Z",
+        "description": "im not there this isnt happening",
+        "id": "1549234895188176897",
+        "name": "-",
+        "pinned_tweet_id": "1815326942641508512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800030979840671744/YWVe7Yy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 439,
+          "like_count": 11264,
+          "listed_count": 0,
+          "tweet_count": 5539
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T01:52:57.000Z",
+        "description": "i do not exist",
+        "id": "1472022007797719048",
+        "location": "deleted",
+        "name": "‏ً",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814460573003747329/2r7n2Ozw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62440,
+          "following_count": 179,
+          "like_count": 4603,
+          "listed_count": 71,
+          "tweet_count": 4468
+        },
+        "username": "user0000O0",
+        "verified": false
+      }
+    ]
+  }
+}

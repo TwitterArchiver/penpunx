@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2048256429040292026",
+    "created_at": "2026-04-26T04:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T05:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048256429040292026"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048256429040292026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有的时候哪怕只有自己一个人在也不敢哭出来，但其实哭出来后自然就会释放内啡肽平静下来😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2048256429040292026",
+        "created_at": "2026-04-26T04:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048256429040292026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048256429040292026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有的时候哪怕只有自己一个人在也不敢哭出来，但其实哭出来后自然就会释放内啡肽平静下来😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 438,
+          "like_count": 12194,
+          "listed_count": 1,
+          "media_count": 469,
+          "tweet_count": 3867
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

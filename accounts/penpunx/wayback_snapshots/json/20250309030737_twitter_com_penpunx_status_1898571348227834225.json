@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1897676812043641144",
+    "created_at": "2025-03-09T03:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T04:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898571348227834225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1707715421942788096",
+          "start": 0,
+          "username": "lostsonicbook"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898571348227834225",
+    "in_reply_to_user_id": "1707715421942788096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897676812043641144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lostsonicbook 你好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1897676812043641144",
+        "created_at": "2025-03-09T03:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T04:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898571348227834225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1707715421942788096",
+              "start": 0,
+              "username": "lostsonicbook"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898571348227834225",
+        "in_reply_to_user_id": "1707715421942788096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897676812043641144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lostsonicbook 你好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707715421942788096",
+        "conversation_id": "1897676812043641144",
+        "created_at": "2025-03-06T15:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T16:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897676812043641144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897676812043641144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想认识更多有趣的人！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "Is Thalstanian - never gives up",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898235281863852037/maSqb7YF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 51,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 70
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-29T11:14:28.000Z",
+        "description": "我們看見的宇宙是個平面 哀傷的反面是快樂//某書的話癆體平臺//危險的，是，彌賽亞的降臨，the moment。",
+        "id": "1707715421942788096",
+        "location": "獨家村",
+        "name": "in broad daylight",
+        "pinned_tweet_id": "1898017674283958358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866443462083813376/vvQTSkQ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 375,
+          "like_count": 2155,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 766
+        },
+        "username": "lostsonicbook",
+        "verified": false
+      }
+    ]
+  }
+}

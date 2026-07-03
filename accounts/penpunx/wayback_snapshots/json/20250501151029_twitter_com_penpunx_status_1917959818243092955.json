@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1656815763737436160"
+      ],
+      "media_source_tweet_id": [
+        "1656816278982492160"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1917959818243092955",
+    "created_at": "2025-05-01T15:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T16:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917959818243092955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1383779742248173568",
+          "start": 3,
+          "username": "jaozablonski"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EER48Azi4A",
+          "end": 66,
+          "expanded_url": "https://x.com/jaozablonski/status/1656816278982492160/video/1",
+          "media_key": "13_1656815763737436160",
+          "start": 43,
+          "url": "https://t.co/EER48Azi4A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917959818243092955",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "1656816278982492160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jaozablonski: yoñlu - estrela, estrela https://t.co/EER48Azi4A"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 123456,
+        "height": 1080,
+        "media_key": "13_1656815763737436160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1656815763737436160/img/stFJEattMVSs-rVO.jpg",
+        "public_metrics": {
+          "view_count": 9563
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1656815763737436160/vid/480x270/_oOnO1_2nT-RYP4w.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1656815763737436160/vid/640x360/kxl9QC_GKxne5Zez.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1656815763737436160/vid/1280x720/ZnNsJZvCit6yMjiK.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1656815763737436160/pl/BhZr1tgGxpnKDSf1.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1656815763737436160"
+          ],
+          "media_source_tweet_id": [
+            "1656816278982492160"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1917959818243092955",
+        "created_at": "2025-05-01T15:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T16:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917959818243092955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1383779742248173568",
+              "start": 3,
+              "username": "jaozablonski"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EER48Azi4A",
+              "end": 66,
+              "expanded_url": "https://x.com/jaozablonski/status/1656816278982492160/video/1",
+              "media_key": "13_1656815763737436160",
+              "start": 43,
+              "url": "https://t.co/EER48Azi4A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917959818243092955",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "1656816278982492160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jaozablonski: yoñlu - estrela, estrela https://t.co/EER48Azi4A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1656815763737436160"
+          ]
+        },
+        "author_id": "1383779742248173568",
+        "conversation_id": "1656816278982492160",
+        "created_at": "2023-05-12T00:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-12T00:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1656816278982492160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EER48Azi4A",
+              "end": 48,
+              "expanded_url": "https://x.com/jaozablonski/status/1656816278982492160/video/1",
+              "media_key": "13_1656815763737436160",
+              "start": 25,
+              "url": "https://t.co/EER48Azi4A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1656816278982492160",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 26073,
+          "like_count": 599,
+          "quote_count": 23,
+          "reply_count": 43,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "yoñlu - estrela, estrela https://t.co/EER48Azi4A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 193,
+          "like_count": 5154,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1103
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-18T13:49:50.000Z",
+        "description": "baixo e voz na @terrainabitavel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "terrainabitavel"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/joaozablonski",
+                "end": 23,
+                "expanded_url": "http://instagram.com/joaozablonski",
+                "start": 0,
+                "url": "https://t.co/lhxdk1RRH5"
+              }
+            ]
+          }
+        },
+        "id": "1383779742248173568",
+        "name": "joao zablonski",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917658189861928960/zKjcuY0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11068,
+          "following_count": 3340,
+          "like_count": 135320,
+          "listed_count": 8,
+          "media_count": 3405,
+          "tweet_count": 36929
+        },
+        "url": "https://t.co/lhxdk1RRH5",
+        "username": "jaozablonski",
+        "verified": false
+      }
+    ]
+  }
+}

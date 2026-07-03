@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1133389388329545728",
+          "name": "Legião Urbana"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1133389388329545728",
+          "name": "Legião Urbana"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Classic Rock",
+          "id": "1108100469778345984",
+          "name": "Classic rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1133389388329545728",
+          "name": "Legião Urbana"
+        }
+      }
+    ],
+    "conversation_id": "2050951598080422224",
+    "created_at": "2026-05-03T14:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T15:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050951598080422224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《Tempo Perdido》，由 Legião Urbana 演唱，收录于《Dois》专辑中，《Tempo Perdido》下载，《Tempo Perdido》在线试听，更多Tempo Perdido相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/6osUPIl",
+          "end": 56,
+          "expanded_url": "https://163cn.tv/6osUPIl",
+          "start": 33,
+          "status": 200,
+          "title": "Tempo Perdido - Legião Urbana - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t2&id=22473195&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=8740721074&playerUIModeId=76001&app_version=9.5.05&dlt=0846",
+          "url": "https://t.co/zkf6IGPWTa"
+        },
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 116,
+          "expanded_url": "https://twitter.com/penpunx/status/2050947678696284312",
+          "start": 93,
+          "url": "https://t.co/bAtJWWNKUF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050951598080422224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050947678696284312",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "分享Legião Urbana的单曲《Tempo Perdido》https://t.co/zkf6IGPWTa (@网易云音乐)\n\n解离的bgm\n\n我的内心os又变成了变声后的嗓音（ https://t.co/bAtJWWNKUF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1133389388329545728",
+              "name": "Legião Urbana"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1133389388329545728",
+              "name": "Legião Urbana"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1133389388329545728",
+              "name": "Legião Urbana"
+            }
+          }
+        ],
+        "conversation_id": "2050951598080422224",
+        "created_at": "2026-05-03T14:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050951598080422224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《Tempo Perdido》，由 Legião Urbana 演唱，收录于《Dois》专辑中，《Tempo Perdido》下载，《Tempo Perdido》在线试听，更多Tempo Perdido相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/6osUPIl",
+              "end": 56,
+              "expanded_url": "https://163cn.tv/6osUPIl",
+              "start": 33,
+              "status": 200,
+              "title": "Tempo Perdido - Legião Urbana - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t2&id=22473195&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=8740721074&playerUIModeId=76001&app_version=9.5.05&dlt=0846",
+              "url": "https://t.co/zkf6IGPWTa"
+            },
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/penpunx/status/2050947678696284312",
+              "start": 93,
+              "url": "https://t.co/bAtJWWNKUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050951598080422224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050947678696284312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "分享Legião Urbana的单曲《Tempo Perdido》https://t.co/zkf6IGPWTa (@网易云音乐)\n\n解离的bgm\n\n我的内心os又变成了变声后的嗓音（ https://t.co/bAtJWWNKUF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2050947678696284312",
+        "created_at": "2026-05-03T14:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050947678696284312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050947678696284312",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Todos os dias ante de dormir\nLembro e esqueço como foi o dia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 489,
+          "like_count": 12693,
+          "listed_count": 1,
+          "media_count": 488,
+          "tweet_count": 4195
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1959978778362544285",
+    "created_at": "2025-08-25T14:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T15:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959980676654252154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1025546987578556417",
+          "start": 0,
+          "username": "FTMiaoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959980676654252154",
+    "in_reply_to_user_id": "1025546987578556417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959978778362544285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FTMiaoX 三角洲/gtaol抢劫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1959978763032449024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzM-TPHb0AAM58A.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1959978778362544285",
+        "created_at": "2025-08-25T14:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T15:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959980676654252154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1025546987578556417",
+              "start": 0,
+              "username": "FTMiaoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959980676654252154",
+        "in_reply_to_user_id": "1025546987578556417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959978778362544285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FTMiaoX 三角洲/gtaol抢劫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959978763032449024"
+          ]
+        },
+        "author_id": "1025546987578556417",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1959978778362544285",
+        "created_at": "2025-08-25T13:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T14:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959978778362544285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WBLPKSC7Gr",
+              "end": 23,
+              "expanded_url": "https://x.com/FTMiaoX/status/1959978778362544285/photo/1",
+              "media_key": "3_1959978763032449024",
+              "start": 0,
+              "url": "https://t.co/WBLPKSC7Gr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959978778362544285",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WBLPKSC7Gr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 254,
+          "like_count": 8705,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 2007
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-04T01:00:30.000Z",
+        "description": "FTX/FTM/enby/ta/他/AuDHD/S/Dom/我是发条/人类友好/❤️属于我的@BakaHDT/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/转载授权在主页搜索“授权”/我爱你 希望你幸福快乐/我会在这里与你互动：@IWantMyLilDoggy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "BakaHDT"
+              },
+              {
+                "end": 144,
+                "start": 128,
+                "username": "IWantMyLilDoggy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveFTMiaoTV",
+                "end": 23,
+                "expanded_url": "https://t.me/LoveFTMiaoTV",
+                "start": 0,
+                "url": "https://t.co/OfJi4k397c"
+              }
+            ]
+          }
+        },
+        "id": "1025546987578556417",
+        "location": "关着BakaHDT的笼子旁边",
+        "name": "🏳️‍🌈发条喵🏳️‍⚧️",
+        "pinned_tweet_id": "1754185922885611679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7765,
+          "following_count": 3298,
+          "like_count": 165054,
+          "listed_count": 23,
+          "media_count": 3375,
+          "tweet_count": 27823
+        },
+        "url": "https://t.co/OfJi4k397c",
+        "username": "FTMiaoX",
+        "verified": true
+      }
+    ]
+  }
+}

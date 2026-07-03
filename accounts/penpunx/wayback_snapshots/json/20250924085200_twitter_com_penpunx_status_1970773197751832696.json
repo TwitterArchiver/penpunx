@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1970772847321858048"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1970773197751832696",
+    "created_at": "2025-09-24T08:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T09:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970773197751832696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7JfjayoxtD",
+          "end": 63,
+          "expanded_url": "https://x.com/penpunx/status/1970773197751832696/video/1",
+          "media_key": "13_1970772847321858048",
+          "start": 40,
+          "url": "https://t.co/7JfjayoxtD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970773197751832696",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "these are the days of life( by the pond https://t.co/7JfjayoxtD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 68313,
+        "height": 1280,
+        "media_key": "13_1970772847321858048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1970772847321858048/img/-NqNYdhBUPdj_ABB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970772847321858048/vid/avc1/320x568/kzbCCqxbrHI3JosC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970772847321858048/vid/avc1/480x852/syzjWqSQKBPTtWL5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970772847321858048/vid/avc1/720x1280/pMXS12uHoEbuivY2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1970772847321858048/pl/UB0jkD-c0yQ3JQAr.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1970772847321858048"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1970773197751832696",
+        "created_at": "2025-09-24T08:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T09:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970773197751832696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7JfjayoxtD",
+              "end": 63,
+              "expanded_url": "https://x.com/penpunx/status/1970773197751832696/video/1",
+              "media_key": "13_1970772847321858048",
+              "start": 40,
+              "url": "https://t.co/7JfjayoxtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970773197751832696",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "these are the days of life( by the pond https://t.co/7JfjayoxtD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "tren!",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970089191485964288/kig-kFVa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 268,
+          "like_count": 9454,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 2220
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

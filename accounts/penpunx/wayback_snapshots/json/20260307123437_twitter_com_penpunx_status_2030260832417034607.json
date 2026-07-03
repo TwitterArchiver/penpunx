@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2030167624706134026",
+    "created_at": "2026-03-07T12:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T13:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030260832417034607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1493482825546297349",
+          "start": 0,
+          "username": "maimaiPinkPlus"
+        },
+        {
+          "end": 26,
+          "id": "1641812125789069313",
+          "start": 16,
+          "username": "_chitong_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030260832417034607",
+    "in_reply_to_user_id": "1493482825546297349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030252299595989277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maimaiPinkPlus @_chitong_ 我也想炒，教我炒币😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2030167624706134026",
+        "created_at": "2026-03-07T12:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T13:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030260832417034607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493482825546297349",
+              "start": 0,
+              "username": "maimaiPinkPlus"
+            },
+            {
+              "end": 26,
+              "id": "1641812125789069313",
+              "start": 16,
+              "username": "_chitong_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030260832417034607",
+        "in_reply_to_user_id": "1493482825546297349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030252299595989277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maimaiPinkPlus @_chitong_ 我也想炒，教我炒币😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493482825546297349",
+        "conversation_id": "2030167624706134026",
+        "created_at": "2026-03-07T12:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T13:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030252299595989277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641812125789069313",
+              "start": 0,
+              "username": "_chitong_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030252299595989277",
+        "in_reply_to_user_id": "1641812125789069313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030167624706134026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_chitong_ 我也想炒，教我炒币😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 338,
+          "like_count": 11270,
+          "listed_count": 1,
+          "media_count": 411,
+          "tweet_count": 3184
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T07:10:51.000Z",
+        "description": "maimai苦练中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/uof72WwZtK"
+              }
+            ]
+          }
+        },
+        "id": "1493482825546297349",
+        "location": "乌蒙地插",
+        "name": "N9ko",
+        "pinned_tweet_id": "1755030644256915715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887895039277223936/7QmCebUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 1212,
+          "like_count": 11077,
+          "listed_count": 4,
+          "media_count": 242,
+          "tweet_count": 4689
+        },
+        "url": "https://t.co/uof72WwZtK",
+        "username": "maimaiPinkPlus",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T14:38:18.000Z",
+        "description": "推推日记本😇\n善用block与mute😋\n喜欢做白日梦😣",
+        "id": "1641812125789069313",
+        "location": "距你-15cm😈",
+        "name": "🍦tong🍦",
+        "pinned_tweet_id": "1977430013189439844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680886682575568896/Zkl9mDOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 783,
+          "like_count": 21666,
+          "listed_count": 5,
+          "media_count": 1016,
+          "tweet_count": 10825
+        },
+        "username": "_chitong_",
+        "verified": false
+      }
+    ]
+  }
+}

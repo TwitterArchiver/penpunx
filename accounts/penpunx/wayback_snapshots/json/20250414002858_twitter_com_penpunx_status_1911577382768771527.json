@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1911576235349795295",
+    "created_at": "2025-04-14T00:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T01:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911577382768771527"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1911577382768771527",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911576235349795295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实追求利益和真诚勇敢这两者本就可以出现在同一个人的身上，对于不同的事情可以有不同的应对方式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1911576235349795295",
+        "created_at": "2025-04-14T00:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T01:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911577382768771527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911577382768771527",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911576235349795295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实追求利益和真诚勇敢这两者本就可以出现在同一个人的身上，对于不同的事情可以有不同的应对方式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1911576235349795295",
+        "created_at": "2025-04-14T00:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T01:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911576235349795295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/penpunx/status/1904007543908884784",
+              "start": 142,
+              "url": "https://t.co/mnjXuBRa0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911576235349795295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904007543908884784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在在讲这个作文，把语境中的聪明人定义为有能力但是只追求利己，希望快速达到目标，能抓住风口的人，而笨人就是所谓吃苦耐劳，集体主义的人。但是真的不缺这种聪明人吗，真的缺笨人吗？我怎么觉得前者才是不被大众理解的，在大众认知之外的，而被认为是“笨”的。老老实实而被政治洗脑驯化才是真的笨吧 https://t.co/mnjXuBRa0c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 172,
+          "like_count": 3564,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 837
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

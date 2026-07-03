@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1960503058875736313",
+    "created_at": "2025-08-27T00:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T01:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960503058875736313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/elaine1064645/…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/elaine1064645/status/1960182717351342179",
+          "start": 27,
+          "url": "https://t.co/cr6mVs776r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960503058875736313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960182717351342179",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "厨房，厕所，洗衣机都在二楼，尿急了上完楼梯都漏出来了 https://t.co/cr6mVs776r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1960182703078449152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzP3yG_bIAA2weU.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1960503058875736313",
+        "created_at": "2025-08-27T00:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T01:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960503058875736313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/elaine1064645/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/elaine1064645/status/1960182717351342179",
+              "start": 27,
+              "url": "https://t.co/cr6mVs776r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960503058875736313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960182717351342179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "厨房，厕所，洗衣机都在二楼，尿急了上完楼梯都漏出来了 https://t.co/cr6mVs776r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960182703078449152"
+          ]
+        },
+        "author_id": "1826824328039858176",
+        "conversation_id": "1960182717351342179",
+        "created_at": "2025-08-26T03:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T04:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960182717351342179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3lpGBLJjNZ",
+              "end": 42,
+              "expanded_url": "https://x.com/Elaine1064645/status/1960182717351342179/photo/1",
+              "media_key": "3_1960182703078449152",
+              "start": 19,
+              "url": "https://t.co/3lpGBLJjNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960182717351342179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 468557,
+          "like_count": 1024,
+          "quote_count": 19,
+          "reply_count": 270,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "这应该是很多女孩子心中的梦中情房吧？ https://t.co/3lpGBLJjNZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 257,
+          "like_count": 8752,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 2027
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T03:30:52.000Z",
+        "description": "我来自一个小县城，但这里山美水美人更美（互关互赞）",
+        "id": "1826824328039858176",
+        "name": "Elaine(互)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892480460078665731/UdTJ7wBF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4873,
+          "following_count": 7306,
+          "like_count": 1994,
+          "listed_count": 1,
+          "media_count": 289,
+          "tweet_count": 451
+        },
+        "username": "Elaine1064645",
+        "verified": false
+      }
+    ]
+  }
+}

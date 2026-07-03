@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050132474156769280",
+        "3_2050132474160922624"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050132483602301287",
+    "created_at": "2026-05-01T08:37:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T09:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050132483602301287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dVn6iqebuo",
+          "end": 40,
+          "expanded_url": "https://x.com/penpunx/status/2050132483602301287/photo/1",
+          "media_key": "3_2050132474156769280",
+          "start": 17,
+          "url": "https://t.co/dVn6iqebuo"
+        },
+        {
+          "display_url": "pic.x.com/dVn6iqebuo",
+          "end": 40,
+          "expanded_url": "https://x.com/penpunx/status/2050132483602301287/photo/1",
+          "media_key": "3_2050132474160922624",
+          "start": 17,
+          "url": "https://t.co/dVn6iqebuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050132483602301287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雪尘 1t 研究时不慎进入嘴巴（ https://t.co/dVn6iqebuo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050132474156769280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOIn4ibYAAkBvO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050132474160922624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOIn4jawAAMvh9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050132474156769280",
+            "3_2050132474160922624"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050132483602301287",
+        "created_at": "2026-05-01T08:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050132483602301287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dVn6iqebuo",
+              "end": 40,
+              "expanded_url": "https://x.com/penpunx/status/2050132483602301287/photo/1",
+              "media_key": "3_2050132474156769280",
+              "start": 17,
+              "url": "https://t.co/dVn6iqebuo"
+            },
+            {
+              "display_url": "pic.x.com/dVn6iqebuo",
+              "end": 40,
+              "expanded_url": "https://x.com/penpunx/status/2050132483602301287/photo/1",
+              "media_key": "3_2050132474160922624",
+              "start": 17,
+              "url": "https://t.co/dVn6iqebuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050132483602301287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雪尘 1t 研究时不慎进入嘴巴（ https://t.co/dVn6iqebuo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 464,
+          "like_count": 12434,
+          "listed_count": 1,
+          "media_count": 478,
+          "tweet_count": 4017
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

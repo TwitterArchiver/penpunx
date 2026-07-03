@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2060276203735634105",
+    "created_at": "2026-05-29T08:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060276203735634105"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060276203735634105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我竟然被拯救了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2060276203735634105",
+        "created_at": "2026-05-29T08:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060276203735634105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060276203735634105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我竟然被拯救了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059461762014220288/ItL7Bk11_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 555,
+          "like_count": 13473,
+          "listed_count": 1,
+          "media_count": 545,
+          "tweet_count": 4812
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

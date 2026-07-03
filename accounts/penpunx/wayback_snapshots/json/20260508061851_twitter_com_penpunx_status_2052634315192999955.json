@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2052327790461280481",
+    "created_at": "2026-05-08T06:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T07:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052634315192999955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2009074459970555905",
+          "start": 0,
+          "username": "nylvim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052634315192999955",
+    "in_reply_to_user_id": "2009074459970555905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052327790461280481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nylvim 唔，想起昨天有人问我止吐药叫什么，我说“丹增嘉措”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2052327790461280481",
+        "created_at": "2026-05-08T06:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052634315192999955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2009074459970555905",
+              "start": 0,
+              "username": "nylvim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052634315192999955",
+        "in_reply_to_user_id": "2009074459970555905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052327790461280481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nylvim 唔，想起昨天有人问我止吐药叫什么，我说“丹增嘉措”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009074459970555905",
+        "conversation_id": "2052327790461280481",
+        "created_at": "2026-05-07T10:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052327790461280481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052327790461280481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「此函數是單增的」我說完這句話，丹增同學就將其據爲己有了！然而此種行爲實怪異至極。試想，函數乃客觀固有之概念，對全人類均爲平等，何談據有？儘管此樣，丹增同學亦做到這一點了！他一定是通過某些奇術概念工程，修改了什麼定義。在課堂上施行奇術手法是違反規則的，丹增同學正在面臨鉅額的罰款。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 506,
+          "like_count": 12961,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 4326
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T01:27:44.000Z",
+        "description": "「時間」膠囊\n來自你的過去。起初作爲抗失憶藥物被開發，隨後被證實導致████，但民間仍有祕密生產。每四小時服用兩粒以減輕失憶症狀。支援你的未來。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/vinylch",
+                "end": 23,
+                "expanded_url": "https://t.me/vinylch",
+                "start": 0,
+                "url": "https://t.co/K6ePPDfWrs"
+              }
+            ]
+          }
+        },
+        "id": "2009074459970555905",
+        "location": "dump群: 724794166",
+        "name": "vi is not nyl",
+        "pinned_tweet_id": "2029398794207687099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029192498338566144/G1mHHIUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 27,
+          "like_count": 4061,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/K6ePPDfWrs",
+        "username": "nylvim",
+        "verified": false
+      }
+    ]
+  }
+}

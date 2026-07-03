@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2049164541289021761",
+    "created_at": "2026-04-30T03:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T04:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049695031821496435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1414619528911220741",
+          "start": 0,
+          "username": "ChibanaK1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049695031821496435",
+    "in_reply_to_user_id": "1414619528911220741",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049164632011706393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChibanaK1 好好看的文字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2049164541289021761",
+        "created_at": "2026-04-30T03:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T04:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049695031821496435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1414619528911220741",
+              "start": 0,
+              "username": "ChibanaK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049695031821496435",
+        "in_reply_to_user_id": "1414619528911220741",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049164632011706393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChibanaK1 好好看的文字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414619528911220741",
+        "conversation_id": "2049164541289021761",
+        "created_at": "2026-04-28T16:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049164632011706393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049164632011706393",
+        "in_reply_to_user_id": "1414619528911220741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049164541289021761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一次用波斯语自己写随笔 而不是用来写作业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 453,
+          "like_count": 12325,
+          "listed_count": 1,
+          "media_count": 470,
+          "tweet_count": 3945
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-12T16:16:46.000Z",
+        "description": "پشت دریاها شهری است",
+        "id": "1414619528911220741",
+        "location": "Taiwan",
+        "name": "وقایه-ｶﾂｷ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911227782048219136/Kde_5fR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 78,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 570
+        },
+        "username": "ChibanaK1",
+        "verified": false
+      }
+    ]
+  }
+}

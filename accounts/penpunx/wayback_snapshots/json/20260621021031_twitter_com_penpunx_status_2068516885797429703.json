@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2068359637720793505",
+    "created_at": "2026-06-21T02:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T03:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068516885797429703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1492808050461196288",
+          "start": 0,
+          "username": "Breaking_Lead_G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068516885797429703",
+    "in_reply_to_user_id": "1492808050461196288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068359637720793505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Breaking_Lead_G 这个不会晃来晃去么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068359634579320832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRKIQbbcAAsv9X.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2068359637720793505",
+        "created_at": "2026-06-21T02:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068516885797429703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492808050461196288",
+              "start": 0,
+              "username": "Breaking_Lead_G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068516885797429703",
+        "in_reply_to_user_id": "1492808050461196288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068359637720793505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Breaking_Lead_G 这个不会晃来晃去么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068359634579320832"
+          ]
+        },
+        "author_id": "1492808050461196288",
+        "conversation_id": "2068359637720793505",
+        "created_at": "2026-06-20T15:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068359637720793505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gb267zH2wE",
+              "end": 59,
+              "expanded_url": "https://x.com/Breaking_Lead_G/status/2068359637720793505/photo/1",
+              "media_key": "3_2068359634579320832",
+              "start": 36,
+              "url": "https://t.co/Gb267zH2wE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068359637720793505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 136,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个自动铅笔性价比真的奇高，喜欢轻笔身的可以试试，缺点是那层橡胶容易掉 https://t.co/Gb267zH2wE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 583,
+          "like_count": 14005,
+          "listed_count": 1,
+          "media_count": 650,
+          "tweet_count": 5406
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T10:29:22.000Z",
+        "description": "- 我愛 函數式編程 古典音樂 中古漢語 魔法 @10lulu2 还有你！\n- 我恨 數學分析 實分析 傅裡葉分析 泛函分析 精神分析 犯愁論\n- 初级程序员，时不时折腾小东西（\n- 我讨厌 Scheme ，wy 最爱的垃圾语言\n- 我是古法编程仙人\n- 18yo\n計算機科學/數學討論群 613637913",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "10lulu2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lmgtfy.com",
+                "end": 23,
+                "expanded_url": "http://lmgtfy.com",
+                "start": 0,
+                "url": "https://t.co/ZJLsEbzS7P"
+              }
+            ]
+          }
+        },
+        "id": "1492808050461196288",
+        "location": "Xi'an",
+        "name": "月",
+        "pinned_tweet_id": "2067806099999486203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050418708611571712/-6VIffCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 768,
+          "like_count": 1859,
+          "listed_count": 8,
+          "media_count": 896,
+          "tweet_count": 10436
+        },
+        "url": "https://t.co/ZJLsEbzS7P",
+        "username": "Breaking_Lead_G",
+        "verified": false
+      }
+    ]
+  }
+}

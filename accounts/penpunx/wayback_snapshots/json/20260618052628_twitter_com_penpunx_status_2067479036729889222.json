@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067417089506504704"
+      ],
+      "media_source_tweet_id": [
+        "2067417093675663462"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2067479036729889222",
+    "created_at": "2026-06-18T05:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067479036729889222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1176305728346152961",
+          "start": 3,
+          "username": "tra_tra___"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6T0KwWcO6U",
+          "end": 39,
+          "expanded_url": "https://x.com/tra_tra___/status/2067417093675663462/photo/1",
+          "media_key": "3_2067417089506504704",
+          "start": 16,
+          "url": "https://t.co/6T0KwWcO6U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067479036729889222",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067417093675663462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tra_tra___: https://t.co/6T0KwWcO6U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2067417089506504704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDw46abcAAgsT4.jpg",
+        "width": 496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067417089506504704"
+          ],
+          "media_source_tweet_id": [
+            "2067417093675663462"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2067479036729889222",
+        "created_at": "2026-06-18T05:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067479036729889222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1176305728346152961",
+              "start": 3,
+              "username": "tra_tra___"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6T0KwWcO6U",
+              "end": 39,
+              "expanded_url": "https://x.com/tra_tra___/status/2067417093675663462/photo/1",
+              "media_key": "3_2067417089506504704",
+              "start": 16,
+              "url": "https://t.co/6T0KwWcO6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067479036729889222",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067417093675663462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tra_tra___: https://t.co/6T0KwWcO6U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067417089506504704"
+          ]
+        },
+        "author_id": "1176305728346152961",
+        "conversation_id": "2067417093675663462",
+        "created_at": "2026-06-18T01:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067417093675663462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6T0KwWcO6U",
+              "end": 23,
+              "expanded_url": "https://x.com/tra_tra___/status/2067417093675663462/photo/1",
+              "media_key": "3_2067417089506504704",
+              "start": 0,
+              "url": "https://t.co/6T0KwWcO6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067417093675663462",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 3684,
+          "like_count": 373,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6T0KwWcO6U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "巴卡巴拉，苏卡纳纳马斯。",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 575,
+          "like_count": 13909,
+          "listed_count": 1,
+          "media_count": 626,
+          "tweet_count": 5270
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T01:22:05.000Z",
+        "description": "",
+        "id": "1176305728346152961",
+        "name": "TRA",
+        "pinned_tweet_id": "1816800033221804299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600850882215964673/jkKfGNAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55310,
+          "following_count": 0,
+          "like_count": 390,
+          "listed_count": 262,
+          "media_count": 7479,
+          "tweet_count": 7511
+        },
+        "url": "",
+        "username": "tra_tra___",
+        "verified": false
+      }
+    ]
+  }
+}

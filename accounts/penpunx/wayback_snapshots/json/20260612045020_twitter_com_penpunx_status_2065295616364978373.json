@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2064401316835950640",
+    "created_at": "2026-06-12T04:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T05:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065295616364978373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1941289376669106177",
+          "start": 0,
+          "username": "jelllllyfiiiish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065295616364978373",
+    "in_reply_to_user_id": "1941289376669106177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064401316835950640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jelllllyfiiiish 我去，我好喜欢这首。我要和你wyy 互fo。可以一起听歌（不过如果你在和你的女朋友一起听就算了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2064401316835950640",
+        "created_at": "2026-06-12T04:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065295616364978373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1941289376669106177",
+              "start": 0,
+              "username": "jelllllyfiiiish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065295616364978373",
+        "in_reply_to_user_id": "1941289376669106177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064401316835950640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jelllllyfiiiish 我去，我好喜欢这首。我要和你wyy 互fo。可以一起听歌（不过如果你在和你的女朋友一起听就算了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941289376669106177",
+        "conversation_id": "2064401316835950640",
+        "created_at": "2026-06-09T17:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064401316835950640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《Famous Prophets (Stars)》，由 Car Seat Headrest 演唱，收录于《Twin Fantasy》专辑中，《Famous Prophets (Stars)》下载，《Famous Prophets (Stars)》在线试听，更多Famous Prophets (Stars)相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/8IijT2G",
+              "end": 23,
+              "expanded_url": "https://163cn.tv/8IijT2G",
+              "start": 0,
+              "status": 200,
+              "title": "Famous Prophets (Stars) - Car Seat Headrest - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=&fx-wordtest=&id=536057521&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=4993844649&playerUIModeId=76001&app_version=9.5.05&dlt=0846",
+              "url": "https://t.co/fH0UoiUyVP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064401316835950640",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fH0UoiUyVP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱，月亮。",
+        "id": "1896904934995656704",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 565,
+          "like_count": 13724,
+          "listed_count": 1,
+          "media_count": 610,
+          "tweet_count": 5104
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T00:14:14.000Z",
+        "description": "",
+        "id": "1941289376669106177",
+        "name": "kllppeaea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064388328313724928/8CaE0BxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 496,
+          "like_count": 11235,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1322
+        },
+        "username": "jelllllyfiiiish",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2070842939643953296",
+    "created_at": "2026-06-27T13:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070858078623551824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1542020482387456001",
+          "start": 0,
+          "username": "ki_3ri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070858078623551824",
+    "in_reply_to_user_id": "1542020482387456001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070842939643953296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ki_3ri 好巧你也是ftx你也喜欢绿洲("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2070842939643953296",
+        "created_at": "2026-06-27T13:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070858078623551824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1542020482387456001",
+              "start": 0,
+              "username": "ki_3ri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070858078623551824",
+        "in_reply_to_user_id": "1542020482387456001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070842939643953296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ki_3ri 好巧你也是ftx你也喜欢绿洲("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542020482387456001",
+        "conversation_id": "2070842939643953296",
+        "created_at": "2026-06-27T12:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070842939643953296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070842939643953296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在特别无聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 593,
+          "like_count": 14273,
+          "listed_count": 1,
+          "media_count": 710,
+          "tweet_count": 5718
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-29T05:42:03.000Z",
+        "description": "FtX｜Demiboy｜ASD\nHe/They\n我不知道我在干什么！",
+        "id": "1542020482387456001",
+        "name": "羊毛球🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062461350098702336/0Ci-o4UC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 235,
+          "like_count": 6881,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 632
+        },
+        "url": "",
+        "username": "ki_3ri",
+        "verified": false
+      }
+    ]
+  }
+}

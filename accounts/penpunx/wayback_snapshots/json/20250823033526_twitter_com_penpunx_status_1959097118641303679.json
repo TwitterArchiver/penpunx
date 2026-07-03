@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1959097118641303679",
+    "created_at": "2025-08-23T03:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T04:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959097118641303679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1648735654887718913",
+          "start": 3,
+          "username": "Hakadaooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959097118641303679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959096420797128887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hakadaooo: BV138tpzuEf9\n\n自閉症人好心接受採訪結果被一個死媽問題陷害且當做標題帶風向，心疼受採訪人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1959097118641303679",
+        "created_at": "2025-08-23T03:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T04:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959097118641303679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1648735654887718913",
+              "start": 3,
+              "username": "Hakadaooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959097118641303679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959096420797128887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hakadaooo: BV138tpzuEf9\n\n自閉症人好心接受採訪結果被一個死媽問題陷害且當做標題帶風向，心疼受採訪人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648735654887718913",
+        "conversation_id": "1959096420797128887",
+        "created_at": "2025-08-23T03:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T04:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959096420797128887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959096420797128887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "BV138tpzuEf9\n\n自閉症人好心接受採訪結果被一個死媽問題陷害且當做標題帶風向，心疼受採訪人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 254,
+          "like_count": 8562,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 1984
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T17:10:00.000Z",
+        "description": "#BewlyBewly 作者 | en: @hakadaoooo | 30歲平凡大叔",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 0,
+                "tag": "BewlyBewly"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "hakadaoooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/hakadao",
+                "end": 23,
+                "expanded_url": "https://bento.me/hakadao",
+                "start": 0,
+                "url": "https://t.co/uEPkl79Ui3"
+              }
+            ]
+          }
+        },
+        "id": "1648735654887718913",
+        "location": "Canton / Kwong Chow",
+        "name": "Hakadao",
+        "pinned_tweet_id": "1894800020693807359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958076550404038656/vsnKKwan_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 776,
+          "like_count": 40982,
+          "listed_count": 10,
+          "media_count": 1787,
+          "tweet_count": 6498
+        },
+        "url": "https://t.co/uEPkl79Ui3",
+        "username": "Hakadaooo",
+        "verified": false
+      }
+    ]
+  }
+}

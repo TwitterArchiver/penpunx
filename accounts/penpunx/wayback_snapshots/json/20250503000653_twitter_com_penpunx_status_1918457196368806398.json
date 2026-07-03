@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1918457196368806398",
+    "created_at": "2025-05-03T00:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T01:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918457196368806398"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1918457196368806398",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Now it feels like summer once again\nLast summer I was busy tackling my trauma but now I feel a lot better"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1918457196368806398",
+        "created_at": "2025-05-03T00:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T01:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918457196368806398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918457196368806398",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Now it feels like summer once again\nLast summer I was busy tackling my trauma but now I feel a lot better"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 196,
+          "like_count": 5194,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1111
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

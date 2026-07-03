@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2064173152717218079",
+    "created_at": "2026-06-13T13:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065792727737098617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1903061664137912320",
+          "start": 0,
+          "username": "blackna1201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065792727737098617",
+    "in_reply_to_user_id": "1903061664137912320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064173152717218079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blackna1201 你不会和我同学在一个学校吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2064173152717218079",
+        "created_at": "2026-06-13T13:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065792727737098617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1903061664137912320",
+              "start": 0,
+              "username": "blackna1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065792727737098617",
+        "in_reply_to_user_id": "1903061664137912320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064173152717218079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackna1201 你不会和我同学在一个学校吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903061664137912320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2064173152717218079",
+        "created_at": "2026-06-09T02:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064173152717218079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huantim1/statu…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/huantim1/status/2064001067751534955",
+              "start": 153,
+              "url": "https://t.co/hOur6heLti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064173152717218079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2516,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064001067751534955",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我各个学科水平：\n语文：吾辈青年吾辈青年吾辈青年\n数学：RanInt#(1,4)\n英语：40%的理解力加上160%的运气\n物理：踢踢母鸡等于死拍拍啊啊啊\n化学：全忘了\n生物：现在时代真是好了 你们还有高尔基体 有核膜包被的细胞核那些乱七八糟的细胞器 我们那时候连核膜都没得用\n地理：slfz是一个nc学校 https://t.co/hOur6heLti"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "%%%%%%%",
+        "id": "1896904934995656704",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 570,
+          "like_count": 13810,
+          "listed_count": 1,
+          "media_count": 617,
+          "tweet_count": 5168
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T12:32:02.000Z",
+        "description": "我是一位上海某高中的学生 男的\n喜欢音游（phigros osu malody等等） 赛车（f1 gt3之类的）骑车（一窍不通 骑着上下学玩）羽毛球（不是很会打）国际象棋（回坑 致力于回到60准度）等事物\n永远喜欢伊蕾娜 \n喜欢平常简单的事物 也喜欢干一些疯狂的事情\n只是一个梦想落空的笨蛋罢了\n只要是人类就可以互fo（",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blackna1201",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blackna1201",
+                "start": 0,
+                "url": "https://t.co/dpl2RpCUcJ"
+              }
+            ]
+          }
+        },
+        "id": "1903061664137912320",
+        "location": "和平国洛贝塔",
+        "name": "blackna1201",
+        "pinned_tweet_id": "2007063729146634649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059636137334116352/M77DQoq4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 535,
+          "like_count": 22170,
+          "listed_count": 0,
+          "media_count": 660,
+          "tweet_count": 4612
+        },
+        "url": "https://t.co/dpl2RpCUcJ",
+        "username": "blackna1201",
+        "verified": false
+      }
+    ]
+  }
+}

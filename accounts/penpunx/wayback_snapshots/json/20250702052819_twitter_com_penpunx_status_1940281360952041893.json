@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1940025578251317468",
+    "created_at": "2025-07-02T05:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T06:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940281360952041893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1307650424753786880",
+          "start": 0,
+          "username": "Vantasy15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940281360952041893",
+    "in_reply_to_user_id": "1307650424753786880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940274266483929342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vantasy15 辣鸡电脑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1940025578251317468",
+        "created_at": "2025-07-02T05:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T06:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940281360952041893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1307650424753786880",
+              "start": 0,
+              "username": "Vantasy15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940281360952041893",
+        "in_reply_to_user_id": "1307650424753786880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940274266483929342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vantasy15 辣鸡电脑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1307650424753786880",
+        "conversation_id": "1940025578251317468",
+        "created_at": "2025-07-02T05:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T06:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940274266483929342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940274266483929342",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940025578251317468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 机械革命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 205,
+          "like_count": 6724,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1520
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-20T11:59:00.000Z",
+        "description": "music/@HUI_Works /repost good art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "HUI_Works"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "soundcloud.com/vantasy-168334…",
+                "end": 23,
+                "expanded_url": "https://soundcloud.com/vantasy-168334452",
+                "start": 0,
+                "url": "https://t.co/4Co5igDtsY"
+              }
+            ]
+          }
+        },
+        "id": "1307650424753786880",
+        "location": "自宅",
+        "name": "vantasy",
+        "pinned_tweet_id": "1920347026035790030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664185119975018496/5T7dcv_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 2084,
+          "like_count": 44754,
+          "listed_count": 5,
+          "media_count": 1327,
+          "tweet_count": 16121
+        },
+        "url": "https://t.co/4Co5igDtsY",
+        "username": "Vantasy15",
+        "verified": false
+      }
+    ]
+  }
+}

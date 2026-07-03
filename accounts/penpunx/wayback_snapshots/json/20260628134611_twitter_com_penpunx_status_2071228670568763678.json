@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2071227368195436700",
+    "created_at": "2026-06-28T13:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071228670568763678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1494669485214633984",
+          "start": 0,
+          "username": "Nu1tZ333216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071228670568763678",
+    "in_reply_to_user_id": "1494669485214633984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071228211007242423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nu1tZ333216 是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2071227368195436700",
+        "created_at": "2026-06-28T13:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071228670568763678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1494669485214633984",
+              "start": 0,
+              "username": "Nu1tZ333216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071228670568763678",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071228211007242423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nu1tZ333216 是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2071227368195436700",
+        "created_at": "2026-06-28T13:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071228211007242423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071228211007242423",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071227368195436700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx superliminal好玩的就是流程感觉有点短"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "万物",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 597,
+          "like_count": 14348,
+          "listed_count": 1,
+          "media_count": 714,
+          "tweet_count": 5791
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音  07 asd/adhd可能性微存？ 航天/观鸟/音游 enby any pronoun hrt2026.3 阴湿自闭地雷精神病药蛆毒虫促智批 混沌中立 已去键政化......                 \n夜鹭窝➡️https://t.co/SuFqJ2PRQa⬅️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/edgeshelter2",
+                "end": 138,
+                "expanded_url": "http://t.me/edgeshelter2",
+                "start": 115,
+                "url": "https://t.co/SuFqJ2PRQa"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 1808,
+          "like_count": 80588,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 5117
+        },
+        "url": "",
+        "username": "Nu1tZ333216",
+        "verified": false
+      }
+    ]
+  }
+}

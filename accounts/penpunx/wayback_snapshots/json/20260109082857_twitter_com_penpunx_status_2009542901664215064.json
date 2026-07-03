@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2009241034329559510",
+    "created_at": "2026-01-09T08:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T09:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009542901664215064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1891683174964658176",
+          "start": 0,
+          "username": "Solarkey514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009542901664215064",
+    "in_reply_to_user_id": "1891683174964658176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009241034329559510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Solarkey514 百利甜是酒吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009241034329559510].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2009241034329559510",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2009241034329559510"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2009241034329559510",
+        "created_at": "2026-01-09T08:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T09:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009542901664215064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1891683174964658176",
+              "start": 0,
+              "username": "Solarkey514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009542901664215064",
+        "in_reply_to_user_id": "1891683174964658176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009241034329559510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Solarkey514 百利甜是酒吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 279,
+          "like_count": 10052,
+          "listed_count": 1,
+          "media_count": 361,
+          "tweet_count": 2595
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T02:59:33.000Z",
+        "description": "我玩贝斯和煮🔥\nI play Bass and cook\n\n这是我的推推空间",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@solarkey404",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@solarkey404",
+                "start": 0,
+                "url": "https://t.co/mPBM76tI7l"
+              }
+            ]
+          }
+        },
+        "id": "1891683174964658176",
+        "name": "Solarkey（Locked in版）",
+        "pinned_tweet_id": "1967880568160534958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891684000080723968/bO3AgS2l_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 107,
+          "like_count": 14815,
+          "listed_count": 2,
+          "media_count": 347,
+          "tweet_count": 2296
+        },
+        "url": "https://t.co/mPBM76tI7l",
+        "username": "Solarkey514",
+        "verified": false
+      }
+    ]
+  }
+}

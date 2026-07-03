@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2072180338248544301",
+    "created_at": "2026-07-01T04:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T05:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072180338248544301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/weiyux2021/sta…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/weiyux2021/status/2072138029079138595",
+          "start": 39,
+          "url": "https://t.co/RqODZnDINC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072180338248544301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072138029079138595",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我感觉24h开放的图书馆可以 有的公共卫生间也有淋浴的地方\n适合短期混日子（ https://t.co/RqODZnDINC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1111,
+        "media_key": "3_2072138012792606720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMG2i0IWUAAQsSG.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2072180338248544301",
+        "created_at": "2026-07-01T04:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072180338248544301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/weiyux2021/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/weiyux2021/status/2072138029079138595",
+              "start": 39,
+              "url": "https://t.co/RqODZnDINC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072180338248544301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072138029079138595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉24h开放的图书馆可以 有的公共卫生间也有淋浴的地方\n适合短期混日子（ https://t.co/RqODZnDINC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072138012792606720"
+          ]
+        },
+        "author_id": "1993659774370758656",
+        "conversation_id": "2072138029079138595",
+        "created_at": "2026-07-01T01:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T02:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072138029079138595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ezzf7v9Jri",
+              "end": 37,
+              "expanded_url": "https://x.com/weiyux2021/status/2072138029079138595/photo/1",
+              "media_key": "3_2072138012792606720",
+              "start": 14,
+              "url": "https://t.co/Ezzf7v9Jri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072138029079138595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 31597,
+          "like_count": 174,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "现阶段的时代红利是什么意思 https://t.co/Ezzf7v9Jri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 611,
+          "like_count": 14517,
+          "listed_count": 1,
+          "media_count": 735,
+          "tweet_count": 5941
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T12:35:38.000Z",
+        "description": "是自由职业者，也是超级奶爸，35岁实现人生当中第一次自驾游，分享个人成长经历及搞钱经验",
+        "id": "1993659774370758656",
+        "location": "Manchester, England",
+        "name": "动物园园长",
+        "pinned_tweet_id": "2053735690353971217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993662305121574912/H9i36Qhy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63835,
+          "following_count": 583,
+          "like_count": 153,
+          "listed_count": 185,
+          "media_count": 1704,
+          "tweet_count": 9949
+        },
+        "url": "",
+        "username": "weiyux2021",
+        "verified": true
+      }
+    ]
+  }
+}

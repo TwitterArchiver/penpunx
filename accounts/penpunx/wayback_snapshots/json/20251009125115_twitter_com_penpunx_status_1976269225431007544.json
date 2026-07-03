@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1976249958635536433",
+    "created_at": "2025-10-09T12:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T13:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976269225431007544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1505242176560656386",
+          "start": 0,
+          "username": "ia0001_"
+        },
+        {
+          "end": 22,
+          "id": "1934289544897245184",
+          "start": 9,
+          "username": "animasciolta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976269225431007544",
+    "in_reply_to_user_id": "1505242176560656386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976265653704364206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ia0001_ @animasciolta 好想吃没有卖的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1976249958635536433",
+        "created_at": "2025-10-09T12:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T13:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976269225431007544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1505242176560656386",
+              "start": 0,
+              "username": "ia0001_"
+            },
+            {
+              "end": 22,
+              "id": "1934289544897245184",
+              "start": 9,
+              "username": "animasciolta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976269225431007544",
+        "in_reply_to_user_id": "1505242176560656386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976265653704364206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ia0001_ @animasciolta 好想吃没有卖的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505242176560656386",
+        "conversation_id": "1976249958635536433",
+        "created_at": "2025-10-09T12:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T13:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976265653704364206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1934289544897245184",
+              "start": 0,
+              "username": "animasciolta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976265653704364206",
+        "in_reply_to_user_id": "1934289544897245184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976249958635536433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@animasciolta 怎么又吃这个饺子一样的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1974498041756569769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975082924950310912/JRet2r2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 278,
+          "like_count": 10233,
+          "listed_count": 1,
+          "media_count": 355,
+          "tweet_count": 2487
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T17:58:09.000Z",
+        "description": "掐人中",
+        "id": "1505242176560656386",
+        "name": "ia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867013851029606400/A9xjdc2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 273,
+          "like_count": 35920,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 5823
+        },
+        "username": "ia0001_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T16:39:09.000Z",
+        "description": "🛸🎐叫我千狸就好/中文+English+ русский/Nsfw dni !!/欢迎互fo！取关双取，拉黑你不一定是讨厌你/提供情绪价值的私信闲聊半小时200元，我喜欢神秘学，如果和我说黄色内容我会诅咒你，黄推关注我给我挡灾喵",
+        "id": "1934289544897245184",
+        "location": "Austria",
+        "name": "碎鏡千狸",
+        "pinned_tweet_id": "1959742272146473156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976103409737461760/F2na2G_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 325,
+          "like_count": 4449,
+          "listed_count": 1,
+          "media_count": 604,
+          "tweet_count": 4807
+        },
+        "username": "animasciolta",
+        "verified": false
+      }
+    ]
+  }
+}

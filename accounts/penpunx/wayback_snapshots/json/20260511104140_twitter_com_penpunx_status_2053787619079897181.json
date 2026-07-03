@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2053785694687175158",
+    "created_at": "2026-05-11T10:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053787619079897181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2040872171602694144",
+          "start": 0,
+          "username": "Joehxc0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053787619079897181",
+    "in_reply_to_user_id": "2040872171602694144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053785694687175158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Joehxc0 我喜欢神秘学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2053785694687175158",
+        "created_at": "2026-05-11T10:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053787619079897181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2040872171602694144",
+              "start": 0,
+              "username": "Joehxc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053787619079897181",
+        "in_reply_to_user_id": "2040872171602694144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053785694687175158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Joehxc0 我喜欢神秘学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040872171602694144",
+        "conversation_id": "2053785694687175158",
+        "created_at": "2026-05-11T10:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053785694687175158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053785694687175158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的高涨的自杀倾向在和道长朋友聊了聊死后之后瞬间降下去了\n我又开始对神秘学感兴趣了 上次是在十年前 果然宿命之类的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 513,
+          "like_count": 13148,
+          "listed_count": 1,
+          "media_count": 514,
+          "tweet_count": 4443
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T19:20:41.000Z",
+        "description": "entj 4w5 最新赛博算命\n我可能几个月才会出现一次，或者连着出现几个月。\n我不知道自己在做什么。但我猜我会后悔。",
+        "id": "2040872171602694144",
+        "name": "Joe",
+        "pinned_tweet_id": "2050290259775390162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040906449988304897/tRwQiakZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 386,
+          "like_count": 2155,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 390
+        },
+        "username": "Joehxc0",
+        "verified": false
+      }
+    ]
+  }
+}

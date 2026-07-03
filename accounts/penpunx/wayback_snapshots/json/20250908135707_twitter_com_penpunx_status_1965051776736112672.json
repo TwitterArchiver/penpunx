@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965051767835791360"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1965051776736112672",
+    "created_at": "2025-09-08T13:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T14:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965051776736112672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iBprjtj0MY",
+          "end": 161,
+          "expanded_url": "https://x.com/penpunx/status/1965051776736112672/photo/1",
+          "media_key": "3_1965051767835791360",
+          "start": 138,
+          "url": "https://t.co/iBprjtj0MY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965051776736112672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉开学之后的工作日从起床到睡觉都有固定的日程，然而其中的作业等不确定因素需要我作出大量的决策。我专注了好久好久(上学的时候，放学路上学日语，休息的时候打牌，晚上写作业和洗澡)，但是压力很大，而且工作完成之后专注限额就耗尽了。所以，我难以通过最常用的调整认知的手段改善情绪。 https://t.co/iBprjtj0MY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1965051767835791360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0VEK-sbEAAEK_p.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965051767835791360"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1965051776736112672",
+        "created_at": "2025-09-08T13:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T14:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965051776736112672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iBprjtj0MY",
+              "end": 161,
+              "expanded_url": "https://x.com/penpunx/status/1965051776736112672/photo/1",
+              "media_key": "3_1965051767835791360",
+              "start": 138,
+              "url": "https://t.co/iBprjtj0MY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965051776736112672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉开学之后的工作日从起床到睡觉都有固定的日程，然而其中的作业等不确定因素需要我作出大量的决策。我专注了好久好久(上学的时候，放学路上学日语，休息的时候打牌，晚上写作业和洗澡)，但是压力很大，而且工作完成之后专注限额就耗尽了。所以，我难以通过最常用的调整认知的手段改善情绪。 https://t.co/iBprjtj0MY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 265,
+          "like_count": 9134,
+          "listed_count": 1,
+          "media_count": 288,
+          "tweet_count": 2117
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

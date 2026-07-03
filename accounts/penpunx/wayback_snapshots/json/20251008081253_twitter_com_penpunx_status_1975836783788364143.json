@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1975834448957743369",
+    "created_at": "2025-10-08T08:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T09:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975836783788364143"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1975836783788364143",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975834448957743369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没有特别强烈和直接的感受\n可能是因为我有点asd没法理解\n也可能因为我不是刺猬\n\n但至少我可以明白刺猬是什么样的，不是吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1975834448957743369",
+        "created_at": "2025-10-08T08:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T09:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975836783788364143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975836783788364143",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975834448957743369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没有特别强烈和直接的感受\n可能是因为我有点asd没法理解\n也可能因为我不是刺猬\n\n但至少我可以明白刺猬是什么样的，不是吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1975834448957743369",
+        "created_at": "2025-10-08T08:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T09:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975834448957743369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975834448957743369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刺猬是防御也是深藏的美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1974498041756569769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975082924950310912/JRet2r2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 277,
+          "like_count": 10198,
+          "listed_count": 1,
+          "media_count": 353,
+          "tweet_count": 2451
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

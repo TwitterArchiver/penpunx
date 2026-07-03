@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2070467777694192065",
+    "created_at": "2026-06-26T12:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070485505695941077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597945043251187712",
+          "start": 0,
+          "username": "Sorsacerba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070485505695941077",
+    "in_reply_to_user_id": "1597945043251187712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070467777694192065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sorsacerba 什么游戏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2070467769381031936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvHd2jaEAAOUQi.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2070467777694192065",
+        "created_at": "2026-06-26T12:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070485505695941077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597945043251187712",
+              "start": 0,
+              "username": "Sorsacerba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070485505695941077",
+        "in_reply_to_user_id": "1597945043251187712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070467777694192065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorsacerba 什么游戏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070467769381031936"
+          ]
+        },
+        "author_id": "1597945043251187712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070467777694192065",
+        "created_at": "2026-06-26T11:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070467777694192065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZN332Q4l7",
+              "end": 34,
+              "expanded_url": "https://x.com/Sorsacerba/status/2070467777694192065/photo/1",
+              "media_key": "3_2070467769381031936",
+              "start": 11,
+              "url": "https://t.co/hZN332Q4l7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070467777694192065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么一炮给平民炸没了 https://t.co/hZN332Q4l7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 592,
+          "like_count": 14201,
+          "listed_count": 1,
+          "media_count": 700,
+          "tweet_count": 5669
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T13:26:10.000Z",
+        "description": "恋人 @HacchiTheMaid \n///\n农友：@ceciliahyve",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "HacchiTheMaid"
+              },
+              {
+                "end": 38,
+                "start": 26,
+                "username": "ceciliahyve"
+              }
+            ]
+          }
+        },
+        "id": "1597945043251187712",
+        "location": "我家",
+        "name": "芋恨明",
+        "pinned_tweet_id": "2056676906830082049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062831734115426304/MY_H4xXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 696,
+          "like_count": 69356,
+          "listed_count": 6,
+          "media_count": 1615,
+          "tweet_count": 20674
+        },
+        "url": "",
+        "username": "Sorsacerba",
+        "verified": false
+      }
+    ]
+  }
+}

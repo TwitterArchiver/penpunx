@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Traffic",
+          "id": "1037076073719025664",
+          "name": "Traffic"
+        }
+      }
+    ],
+    "conversation_id": "1973405855837016561",
+    "created_at": "2025-10-01T15:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T16:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973406912655007889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1574992446181838848",
+          "start": 0,
+          "username": "2fonteinen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973406912655007889",
+    "in_reply_to_user_id": "1574992446181838848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973405855837016561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2fonteinen 其实一开始知道blur是因为蛋黄头还有他们略带搞笑的mv，我听的第一首blur的歌是go out，有一种魔怔而魔幻的感觉\n\n初三之后，我特别喜欢under the westway。每次在放学的时候经过高架桥看到蓝天，我都会想到the old school was due and the traffic grew, upon the westway。这首歌给我希望的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traffic",
+              "id": "1037076073719025664",
+              "name": "Traffic"
+            }
+          }
+        ],
+        "conversation_id": "1973405855837016561",
+        "created_at": "2025-10-01T15:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T16:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973406912655007889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1574992446181838848",
+              "start": 0,
+              "username": "2fonteinen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973406912655007889",
+        "in_reply_to_user_id": "1574992446181838848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973405855837016561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2fonteinen 其实一开始知道blur是因为蛋黄头还有他们略带搞笑的mv，我听的第一首blur的歌是go out，有一种魔怔而魔幻的感觉\n\n初三之后，我特别喜欢under the westway。每次在放学的时候经过高架桥看到蓝天，我都会想到the old school was due and the traffic grew, upon the westway。这首歌给我希望的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574992446181838848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1973405855837016561",
+        "created_at": "2025-10-01T15:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T16:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973405855837016561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/penpunx/status/1973348141123649984",
+              "start": 57,
+              "url": "https://t.co/O1zQPx3r1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973405855837016561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973348141123649984",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的話記憶比較深刻的是blur的那首She’s So High，很早期的歌，還挺迷幻的，有點曼徹斯特噪音那種感覺 https://t.co/O1zQPx3r1B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971570743306850304/n3PLdLKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 266,
+          "like_count": 9739,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 2310
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-28T05:20:45.000Z",
+        "description": "米男孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/31jbtjd7x…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/31jbtjd7xxyontxiwmxqyv63oztu?si=LdcwIfy8SkWTuxZCgsjHNg",
+                "start": 0,
+                "url": "https://t.co/NWGa0ZNHeS"
+              }
+            ]
+          }
+        },
+        "id": "1574992446181838848",
+        "name": "Riceboi",
+        "pinned_tweet_id": "1951134561221615645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835174249675280384/u_ukrTHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 718,
+          "like_count": 7405,
+          "listed_count": 1,
+          "media_count": 1503,
+          "tweet_count": 4498
+        },
+        "url": "https://t.co/NWGa0ZNHeS",
+        "username": "2fonteinen",
+        "verified": false
+      }
+    ]
+  }
+}

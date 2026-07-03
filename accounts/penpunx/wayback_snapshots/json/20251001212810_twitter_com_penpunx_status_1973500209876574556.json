@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1973498670361485630",
+    "created_at": "2025-10-01T21:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T22:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973500209876574556"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1973500209876574556",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973498670361485630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然我喜欢金工但是我选的政史地，只能说兴趣爱好十分广泛了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1973498670361485630",
+        "created_at": "2025-10-01T21:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T22:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973500209876574556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973500209876574556",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973498670361485630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然我喜欢金工但是我选的政史地，只能说兴趣爱好十分广泛了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1973498670361485630",
+        "created_at": "2025-10-01T21:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T22:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973498670361485630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973498670361485630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做会历史作业\n历史课我最喜欢的一部分，不是各种史实，不是人类文明的波澜壮阔，而是xx史料折射出xx现象，xx观点的思维"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971570743306850304/n3PLdLKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 266,
+          "like_count": 9744,
+          "listed_count": 1,
+          "media_count": 329,
+          "tweet_count": 2318
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

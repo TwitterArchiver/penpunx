@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1549234895188176897",
+    "conversation_id": "1816811556547486104",
+    "created_at": "2024-07-26T12:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T13:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1816811556547486104"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yonlugabs/stat…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/yonlugabs/status/1816806441828975039",
+          "start": 56,
+          "url": "https://t.co/xtCS2xYt8k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816811556547486104",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816806441828975039",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Crazy to think that if he’s still alive he would be 34… https://t.co/xtCS2xYt8k"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1549234895188176897",
+        "conversation_id": "1816811556547486104",
+        "created_at": "2024-07-26T12:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T13:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816811556547486104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yonlugabs/stat…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/yonlugabs/status/1816806441828975039",
+              "start": 56,
+              "url": "https://t.co/xtCS2xYt8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816811556547486104",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816806441828975039",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Crazy to think that if he’s still alive he would be 34… https://t.co/xtCS2xYt8k"
+      },
+      {
+        "attachments": {},
+        "author_id": "1213561237578977280",
+        "conversation_id": "1816806441828975039",
+        "created_at": "2024-07-26T12:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T13:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816806441828975039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1816806441828975039",
+        "lang": "pt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "26 de julho de 2006, 18 anos atrás..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-19T03:29:23.000Z",
+        "description": "im not there this isnt happening",
+        "id": "1549234895188176897",
+        "name": "-",
+        "pinned_tweet_id": "1815326942641508512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800030979840671744/YWVe7Yy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 442,
+          "like_count": 11366,
+          "listed_count": 1,
+          "tweet_count": 5564
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-04T20:42:09.000Z",
+        "description": "pensamentos expostos",
+        "id": "1213561237578977280",
+        "name": "gaby",
+        "pinned_tweet_id": "1754983370012910067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790713845494759425/YT9qGIQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 622,
+          "like_count": 89274,
+          "listed_count": 1,
+          "tweet_count": 3134
+        },
+        "username": "yonlugabs",
+        "verified": false
+      }
+    ]
+  }
+}

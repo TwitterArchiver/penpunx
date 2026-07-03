@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2054461716680032469",
+    "created_at": "2026-05-13T13:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054556528162775278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1498281208182050817",
+          "start": 0,
+          "username": "YINGIsNotGnu"
+        },
+        {
+          "end": 30,
+          "id": "1492808050461196288",
+          "start": 14,
+          "username": "Breaking_Lead_G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054556528162775278",
+    "in_reply_to_user_id": "1498281208182050817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054555734848020824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YINGIsNotGnu @Breaking_Lead_G 幻觉也是相！我还是凡夫俗子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2054461716680032469",
+        "created_at": "2026-05-13T13:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054556528162775278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1498281208182050817",
+              "start": 0,
+              "username": "YINGIsNotGnu"
+            },
+            {
+              "end": 30,
+              "id": "1492808050461196288",
+              "start": 14,
+              "username": "Breaking_Lead_G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054556528162775278",
+        "in_reply_to_user_id": "1498281208182050817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054555734848020824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YINGIsNotGnu @Breaking_Lead_G 幻觉也是相！我还是凡夫俗子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498281208182050817",
+        "conversation_id": "2054461716680032469",
+        "created_at": "2026-05-13T13:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054555734848020824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            },
+            {
+              "end": 25,
+              "id": "1492808050461196288",
+              "start": 9,
+              "username": "Breaking_Lead_G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054555734848020824",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054552937561776380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx @Breaking_Lead_G 苦灭比致幻爽多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 519,
+          "like_count": 13254,
+          "listed_count": 1,
+          "media_count": 514,
+          "tweet_count": 4519
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-28T12:58:00.000Z",
+        "description": "",
+        "id": "1498281208182050817",
+        "name": "泠 LING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052985318236995584/kh8jGIwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3750,
+          "following_count": 1073,
+          "like_count": 34808,
+          "listed_count": 14,
+          "media_count": 1412,
+          "tweet_count": 14298
+        },
+        "username": "YINGIsNotGnu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T10:29:22.000Z",
+        "description": "我愛 函數式編程 古典音樂 中古漢語 魔法 @10lulu2\n我恨 數學分析 實分析 傅裡葉分析 泛函分析 各種分析",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "10lulu2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lmgtfy.com",
+                "end": 23,
+                "expanded_url": "http://lmgtfy.com",
+                "start": 0,
+                "url": "https://t.co/ZJLsEbzS7P"
+              }
+            ]
+          }
+        },
+        "id": "1492808050461196288",
+        "location": "Xi'an",
+        "name": "千、月",
+        "pinned_tweet_id": "2051609059468652938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050418708611571712/-6VIffCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 733,
+          "like_count": 1801,
+          "listed_count": 7,
+          "media_count": 840,
+          "tweet_count": 9668
+        },
+        "url": "https://t.co/ZJLsEbzS7P",
+        "username": "Breaking_Lead_G",
+        "verified": false
+      }
+    ]
+  }
+}

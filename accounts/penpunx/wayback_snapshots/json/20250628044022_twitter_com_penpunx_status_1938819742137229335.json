@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1938511588547514478",
+    "created_at": "2025-06-28T04:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T05:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938819742137229335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1692136120027320320",
+          "start": 0,
+          "username": "Cypress_7593"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938819742137229335",
+    "in_reply_to_user_id": "1692136120027320320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938809001086722428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cypress_7593 是这样，不然会很痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1938511588547514478",
+        "created_at": "2025-06-28T04:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T05:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938819742137229335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1692136120027320320",
+              "start": 0,
+              "username": "Cypress_7593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938819742137229335",
+        "in_reply_to_user_id": "1692136120027320320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938809001086722428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cypress_7593 是这样，不然会很痛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692136120027320320",
+        "conversation_id": "1938511588547514478",
+        "created_at": "2025-06-28T03:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T04:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938809001086722428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938809001086722428",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938790263880925583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 啊，小拇指嘛，那也太离谱了，我后面买的这个尺寸其实也蛮小了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 204,
+          "like_count": 6599,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1500
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "你好我是柏树|号被炸了无数个了|精神状态是量子叠加态|成分复杂关注请谨慎|分裂情感性精神病&阿斯伯格|INFJ-T 5w6-tritype593-sp/so|无性恋&泛浪漫|查成分回fo|屏蔽必回敬|误block致歉|看我不爽建议您去死捏|第二人格\n@theDarkCypress|逃生舱@Cypress_1118",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 125,
+                "username": "theDarkCypress"
+              },
+              {
+                "end": 157,
+                "start": 144,
+                "username": "Cypress_1118"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树",
+        "pinned_tweet_id": "1928275531356852498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893603395346280448/j2VGmsv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 832,
+          "like_count": 15747,
+          "listed_count": 2,
+          "media_count": 600,
+          "tweet_count": 4253
+        },
+        "username": "Cypress_7593",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1917589555630194717",
+    "created_at": "2025-05-03T00:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T01:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918455899569701272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1891918195415449600",
+          "start": 0,
+          "username": "lukakubaptista"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918455899569701272",
+    "in_reply_to_user_id": "1891918195415449600",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917589555630194717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lukakubaptista pprt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1917589555630194717",
+        "created_at": "2025-05-03T00:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T01:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918455899569701272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1891918195415449600",
+              "start": 0,
+              "username": "lukakubaptista"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918455899569701272",
+        "in_reply_to_user_id": "1891918195415449600",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917589555630194717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lukakubaptista pprt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891918195415449600",
+        "conversation_id": "1917589555630194717",
+        "created_at": "2025-04-30T14:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T15:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917589555630194717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917589555630194717",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "cada conversa com a minha mãe é um trauma diferente"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 195,
+          "like_count": 5192,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1110
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T18:30:39.000Z",
+        "description": "porra nenhuma",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "last.fm/pt/user/kakinh…",
+                "end": 23,
+                "expanded_url": "https://www.last.fm/pt/user/kakinho8",
+                "start": 0,
+                "url": "https://t.co/nvqndJHiGq"
+              }
+            ]
+          }
+        },
+        "id": "1891918195415449600",
+        "name": "starjump",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891918995944529920/xf-Wl5Lj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 29,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 303
+        },
+        "url": "https://t.co/nvqndJHiGq",
+        "username": "lukakubaptista",
+        "verified": false
+      }
+    ]
+  }
+}

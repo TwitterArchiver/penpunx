@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1898598726651806092",
+    "created_at": "2025-03-09T04:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T05:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898599049135366559"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "neurotypicals",
+          "probability": 0.761,
+          "start": 9,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1747027117345239040",
+          "start": 0,
+          "username": "incelfa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898599049135366559",
+    "in_reply_to_user_id": "1747027117345239040",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898598726651806092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@incelfa neurotypicals often say something they dont actually mean to do"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1898598726651806092",
+        "created_at": "2025-03-09T04:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T05:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898599049135366559"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "neurotypicals",
+              "probability": 0.761,
+              "start": 9,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1747027117345239040",
+              "start": 0,
+              "username": "incelfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898599049135366559",
+        "in_reply_to_user_id": "1747027117345239040",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898598726651806092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@incelfa neurotypicals often say something they dont actually mean to do"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747027117345239040",
+        "conversation_id": "1898598726651806092",
+        "created_at": "2025-03-09T04:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T05:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898598726651806092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cellbitosburro…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/cellbitosburro/status/1898386653510549979",
+              "start": 86,
+              "url": "https://t.co/nL5SjMEkNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898598726651806092",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898386653510549979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "geralmente se você para de falar, a pessoa que diz isso nunca mais te procura de novo https://t.co/nL5SjMEkNV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "Is Thalstanian - never gives up / metal & rock & dungeon synth lover / 16yo weirdo guy / Chinese, English, Portuguese in learning",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898235281863852037/maSqb7YF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 80,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 79
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T22:47:26.000Z",
+        "description": "uma estudante de psicologia depressiva autista e tdah ☆\nvent account! please ignore",
+        "id": "1747027117345239040",
+        "location": "manicômio digital",
+        "name": "Lou",
+        "pinned_tweet_id": "1758317278930542943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866097366014517248/ppHMg95j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 129,
+          "like_count": 15142,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 2295
+        },
+        "username": "incelfa",
+        "verified": false
+      }
+    ]
+  }
+}

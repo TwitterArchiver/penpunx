@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2065454028142850440",
+    "created_at": "2026-06-12T15:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065454028142850440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yacht_ono/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/yacht_ono/status/2064943082018410928",
+          "start": 6,
+          "url": "https://t.co/fogHtjPzqF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065454028142850440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064943082018410928",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要美元。 https://t.co/fogHtjPzqF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2065454028142850440",
+        "created_at": "2026-06-12T15:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065454028142850440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yacht_ono/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yacht_ono/status/2064943082018410928",
+              "start": 6,
+              "url": "https://t.co/fogHtjPzqF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065454028142850440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064943082018410928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要美元。 https://t.co/fogHtjPzqF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045127800324288513",
+        "conversation_id": "2064943082018410928",
+        "created_at": "2026-06-11T05:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064943082018410928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064943082018410928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 86861,
+          "like_count": 3528,
+          "quote_count": 37,
+          "reply_count": 145,
+          "retweet_count": 464
+        },
+        "reply_settings": "everyone",
+        "text": "拧巴的人需要引导型人民币\n回避的人需要主动型人民币\n缺爱的人需要依恋型人民币\n暴躁的人需要讨好型人民币\n孤独的人需要陪伴型人民币\n迷茫的人需要指引型人民币\n脆弱的人需要守护型人民币"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "%%%%%%%",
+        "id": "1896904934995656704",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 565,
+          "like_count": 13740,
+          "listed_count": 1,
+          "media_count": 614,
+          "tweet_count": 5124
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T13:12:15.000Z",
+        "description": "碎碎念寄存处",
+        "id": "2045127800324288513",
+        "location": "🚪40",
+        "name": "yacht",
+        "pinned_tweet_id": "2058824497806074128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059069717709721600/K6TBjpNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 42,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 234
+        },
+        "username": "yacht_ono",
+        "verified": false
+      }
+    ]
+  }
+}

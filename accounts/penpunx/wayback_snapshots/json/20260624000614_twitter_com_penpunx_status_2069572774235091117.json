@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2069454634897293764",
+    "created_at": "2026-06-24T00:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T01:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069572774235091117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1695553771961729024",
+          "start": 0,
+          "username": "Shiraishiwatari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069572774235091117",
+    "in_reply_to_user_id": "1695553771961729024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069454634897293764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shiraishiwatari 我也有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2069454634897293764",
+        "created_at": "2026-06-24T00:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T01:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069572774235091117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695553771961729024",
+              "start": 0,
+              "username": "Shiraishiwatari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069572774235091117",
+        "in_reply_to_user_id": "1695553771961729024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069454634897293764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shiraishiwatari 我也有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695553771961729024",
+        "conversation_id": "2069454634897293764",
+        "created_at": "2026-06-23T16:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069454634897293764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069454634897293764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怀疑小林有纤维肌痛。\n嗯就是普瑞巴林对症的那个纤维肌痛。\n就算是再柔软矜贵的小女孩也不应该把手放身上就嗷嗷喊疼吧🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 586,
+          "like_count": 14072,
+          "listed_count": 1,
+          "media_count": 678,
+          "tweet_count": 5514
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T21:48:32.000Z",
+        "description": "我的性别认同是性别不认同\n特别喜欢用引号\n支持用“你”和“他”指代一切有性别无性别的人类",
+        "id": "1695553771961729024",
+        "name": "白石渡",
+        "pinned_tweet_id": "2066628011126927465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866204965921816576/ZEtERUnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 51,
+          "like_count": 6119,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1742
+        },
+        "url": "",
+        "username": "Shiraishiwatari",
+        "verified": false
+      }
+    ]
+  }
+}

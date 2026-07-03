@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2012899268609351809",
+    "created_at": "2026-01-18T14:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012899268609351809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/puppieslover/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/puppieslover/status/2012637109945803067",
+          "start": 5,
+          "url": "https://t.co/3rfJmd6Qbw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012899268609351809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012637109945803067",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想当狗了 https://t.co/3rfJmd6Qbw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13723,
+        "height": 1646,
+        "media_key": "7_1975622056776445952",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1975622056776445952/pu/img/vfiTcCS4aWd5XjV7.jpg",
+        "public_metrics": {
+          "view_count": 815565
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975622056776445952/pu/vid/avc1/320x486/Dvc0pVccpoi165jw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975622056776445952/pu/vid/avc1/480x730/9XBqsXuyk2wT48rX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1975622056776445952/pu/vid/avc1/720x1096/tL04Wkw1sSvDUY8m.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1975622056776445952/pu/pl/uw6Kkvuma_VMpkfA.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2012899268609351809",
+        "created_at": "2026-01-18T14:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012899268609351809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/puppieslover/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/puppieslover/status/2012637109945803067",
+              "start": 5,
+              "url": "https://t.co/3rfJmd6Qbw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012899268609351809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012637109945803067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想当狗了 https://t.co/3rfJmd6Qbw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1975622056776445952"
+          ],
+          "media_source_tweet_id": [
+            "1975622102897299722"
+          ]
+        },
+        "author_id": "1486911626846806017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2012637109945803067",
+        "created_at": "2026-01-17T21:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T22:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012637109945803067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/okw8NEnfzR",
+              "end": 137,
+              "expanded_url": "https://x.com/yetkisizherif/status/1975622102897299722/video/01",
+              "media_key": "7_1975622056776445952",
+              "start": 114,
+              "url": "https://t.co/okw8NEnfzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012637109945803067",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 255,
+          "impression_count": 138716,
+          "like_count": 6482,
+          "quote_count": 8,
+          "reply_count": 12,
+          "retweet_count": 313
+        },
+        "reply_settings": "everyone",
+        "text": "Getting my belly scratched, the pup is so happy that its legs are twitching and kicking happily.  \nSuper cute 😂🐶🐾 https://t.co/okw8NEnfzR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2012869391504023900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 292,
+          "like_count": 10307,
+          "listed_count": 1,
+          "media_count": 369,
+          "tweet_count": 2720
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-28T03:59:16.000Z",
+        "description": "sharing adorable dog moments on X",
+        "id": "1486911626846806017",
+        "location": "DM FOR CREDIT OR REMOVAL ",
+        "name": "Puppies 🐶",
+        "pinned_tweet_id": "2012640186149060728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932493634949001216/24t3qW3V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561919,
+          "following_count": 12487,
+          "like_count": 37739,
+          "listed_count": 1295,
+          "media_count": 16396,
+          "tweet_count": 22719
+        },
+        "username": "Puppieslover",
+        "verified": true
+      }
+    ]
+  }
+}

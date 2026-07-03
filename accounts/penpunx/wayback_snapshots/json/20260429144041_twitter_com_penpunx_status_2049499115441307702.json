@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2049499115441307702",
+    "created_at": "2026-04-29T14:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049499115441307702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/penpunx/status/1967570148048678994",
+          "start": 17,
+          "url": "https://t.co/pBi4edalrI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049499115441307702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967570148048678994",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就像这样，之后就开始想自杀了（（ https://t.co/pBi4edalrI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2049499115441307702",
+        "created_at": "2026-04-29T14:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049499115441307702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/penpunx/status/1967570148048678994",
+              "start": 17,
+              "url": "https://t.co/pBi4edalrI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049499115441307702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967570148048678994",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就像这样，之后就开始想自杀了（（ https://t.co/pBi4edalrI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1967570148048678994",
+        "created_at": "2025-09-15T12:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T13:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967570148048678994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967570148048678994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 543,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "17.30左右喷了催产素鼻喷雾剂，18.15又喷了，19.40开始感到焦虑突然消失，开始有欣快感，想笑，感到安全感充足，20.09感到想吐，20.22开始想哭，现在很疲惫，心脏有点像跑了800米的感觉，晕乎乎的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 449,
+          "like_count": 12309,
+          "listed_count": 1,
+          "media_count": 470,
+          "tweet_count": 3939
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

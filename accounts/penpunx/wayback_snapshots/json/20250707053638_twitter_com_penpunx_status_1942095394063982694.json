@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942095386153541632"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1942095394063982694",
+    "created_at": "2025-07-07T05:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T06:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942095394063982694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bIebJNQinU",
+          "end": 35,
+          "expanded_url": "https://x.com/penpunx/status/1942095394063982694/photo/1",
+          "media_key": "3_1942095386153541632",
+          "start": 12,
+          "url": "https://t.co/bIebJNQinU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942095394063982694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "听这种歌感觉莫名凉快🥶 https://t.co/bIebJNQinU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942095386153541632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvO1dsubYAA3jcI.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942095386153541632"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1942095394063982694",
+        "created_at": "2025-07-07T05:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T06:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942095394063982694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bIebJNQinU",
+              "end": 35,
+              "expanded_url": "https://x.com/penpunx/status/1942095394063982694/photo/1",
+              "media_key": "3_1942095386153541632",
+              "start": 12,
+              "url": "https://t.co/bIebJNQinU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942095394063982694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听这种歌感觉莫名凉快🥶 https://t.co/bIebJNQinU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "Jupiter III",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940674221174046720/31d1mOAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 203,
+          "like_count": 6827,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1551
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1939274940781625482",
+    "created_at": "2025-06-29T10:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T11:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939274940781625482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_mymsg/status/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/_mymsg/status/1938954286224023808",
+          "start": 11,
+          "url": "https://t.co/EJC4s7XRZ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939274940781625482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938954286224023808",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在就在抱着被子😿 https://t.co/EJC4s7XRZ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 676,
+        "media_key": "3_1938847951654170624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gugr8IfXMAAR04d.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1939274940781625482",
+        "created_at": "2025-06-29T10:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T11:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939274940781625482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_mymsg/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/_mymsg/status/1938954286224023808",
+              "start": 11,
+              "url": "https://t.co/EJC4s7XRZ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939274940781625482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938954286224023808",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在就在抱着被子😿 https://t.co/EJC4s7XRZ3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938847951654170624"
+          ]
+        },
+        "author_id": "1696888856669220865",
+        "conversation_id": "1938954286224023808",
+        "created_at": "2025-06-28T13:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T14:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938954286224023808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/otcIHnzWvD",
+              "end": 23,
+              "expanded_url": "https://x.com/_mymsg/status/1938954286224023808/photo/1",
+              "media_key": "3_1938847951654170624",
+              "start": 0,
+              "url": "https://t.co/otcIHnzWvD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938954286224023808",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 35532,
+          "like_count": 1457,
+          "quote_count": 14,
+          "reply_count": 11,
+          "retweet_count": 199
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/otcIHnzWvD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 203,
+          "like_count": 6645,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1505
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-30T14:14:05.000Z",
+        "description": "my msgs for you ❤️ follow and turn on notifications for 🔔 💌 dm for credit/removal-  credit goes to the original creator of all post.",
+        "id": "1696888856669220865",
+        "name": "my msg.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709856706874769408/ksJg5CgA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78093,
+          "following_count": 5014,
+          "like_count": 43142,
+          "listed_count": 92,
+          "media_count": 15267,
+          "tweet_count": 35328
+        },
+        "username": "_mymsg",
+        "verified": true
+      }
+    ]
+  }
+}

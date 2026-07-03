@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1928739736379650361",
+    "created_at": "2025-05-31T09:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T10:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928739828465611186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1637043124248928256",
+          "start": 2,
+          "username": "god_afternon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928739828465611186",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928739736379650361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感谢@god_afternon的技术支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1928739736379650361",
+        "created_at": "2025-05-31T09:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T10:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928739828465611186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1637043124248928256",
+              "start": 2,
+              "username": "god_afternon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928739828465611186",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928739736379650361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢@god_afternon的技术支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1480827185451573250",
+              "name": "Wordle"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1480827185451573250",
+              "name": "Wordle"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491040597867589632",
+              "name": "Word games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897540404408320",
+              "name": "Casual games"
+            }
+          }
+        ],
+        "conversation_id": "1928739736379650361",
+        "created_at": "2025-05-31T09:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T10:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928739736379650361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928739736379650361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用gpt做了第一个telegrambot，功能是wordle游戏("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo neurodivergent guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 208,
+          "like_count": 6035,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1349
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T10:48:11.000Z",
+        "description": "重力系",
+        "id": "1637043124248928256",
+        "name": "廢物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927992847019692034/LE1PX49b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 2169,
+          "like_count": 4375,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "username": "god_afternon",
+        "verified": false
+      }
+    ]
+  }
+}

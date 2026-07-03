@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975057691698757632"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1975057701794357358",
+    "created_at": "2025-10-06T04:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T05:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975057701794357358"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OablOU4ZzV",
+          "end": 27,
+          "expanded_url": "https://x.com/penpunx/status/1975057701794357358/photo/1",
+          "media_key": "3_1975057691698757632",
+          "start": 4,
+          "url": "https://t.co/OablOU4ZzV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975057701794357358",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "何意味 https://t.co/OablOU4ZzV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1975057691698757632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2jQgZybgAAtiJS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975057691698757632"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1975057701794357358",
+        "created_at": "2025-10-06T04:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T05:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975057701794357358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OablOU4ZzV",
+              "end": 27,
+              "expanded_url": "https://x.com/penpunx/status/1975057701794357358/photo/1",
+              "media_key": "3_1975057691698757632",
+              "start": 4,
+              "url": "https://t.co/OablOU4ZzV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975057701794357358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/OablOU4ZzV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1974498041756569769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973873501179387904/uvpLq1zI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 273,
+          "like_count": 10015,
+          "listed_count": 1,
+          "media_count": 347,
+          "tweet_count": 2392
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

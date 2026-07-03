@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2032788787529720129",
+    "created_at": "2026-03-14T13:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T14:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032805757872386318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1474935445452562441",
+          "start": 0,
+          "username": "happyhahahahqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032805757872386318",
+    "in_reply_to_user_id": "1474935445452562441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032788787529720129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@happyhahahahqwq 鲨鲨和鸡鸡哪个可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2032788787529720129",
+        "created_at": "2026-03-14T13:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032805757872386318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1474935445452562441",
+              "start": 0,
+              "username": "happyhahahahqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032805757872386318",
+        "in_reply_to_user_id": "1474935445452562441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032788787529720129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@happyhahahahqwq 鲨鲨和鸡鸡哪个可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1474935445452562441",
+        "conversation_id": "2032788787529720129",
+        "created_at": "2026-03-14T11:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T12:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032788787529720129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miantiaozi7/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/miantiaozi7/status/2032450579289784596",
+              "start": 5,
+              "url": "https://t.co/2mbx1Yv2da"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032788787529720129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032450579289784596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这太萌了 https://t.co/2mbx1Yv2da"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 352,
+          "like_count": 11441,
+          "listed_count": 1,
+          "media_count": 420,
+          "tweet_count": 3282
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-26T02:50:04.000Z",
+        "description": "18⬆️\n经常视奸同人浓度很高的老师的主页，连续几天视奸是暗恋你，不用查成分因为我看到对家会自己跑开，误点对家可能是看成无差或者在筛选饭吃，嗯不极端洁癖就这么卑微，不语只是一味地转帖\n我会永远视奸喜欢的老师👁👁",
+        "id": "1474935445452562441",
+        "name": "玳鸾",
+        "pinned_tweet_id": "1786777177436148140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744658983917600768/dJZpN1RN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 275,
+          "like_count": 43387,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 4412
+        },
+        "username": "happyhahahahqwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2024105629179371718",
+    "created_at": "2026-02-19T17:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024542340803940459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1906297778483150848",
+          "start": 0,
+          "username": "kokuralia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024542340803940459",
+    "in_reply_to_user_id": "1906297778483150848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024105629179371718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokuralia 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2024105629179371718",
+        "created_at": "2026-02-19T17:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024542340803940459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1906297778483150848",
+              "start": 0,
+              "username": "kokuralia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024542340803940459",
+        "in_reply_to_user_id": "1906297778483150848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024105629179371718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokuralia 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906297778483150848",
+        "conversation_id": "2024105629179371718",
+        "created_at": "2026-02-18T12:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024105629179371718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024105629179371718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真想杀了我爸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2012869391504023900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 310,
+          "like_count": 10769,
+          "listed_count": 1,
+          "media_count": 400,
+          "tweet_count": 2926
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T10:49:53.000Z",
+        "description": "咱们是可爱的扶她猫ftm🏳️‍⚧️/双性吸引与男性浪漫倾向/酷儿男权主义/反威权/利己主义/极度性压抑的非自愿独身者/友性少数与男性（反男反性少数者除外）/励志关注中推所有transmasc",
+        "id": "1906297778483150848",
+        "location": "一个incel黄左跨男的内心世界",
+        "name": "Kriemhild_Gretchen💎♂️🏳️‍⚧️",
+        "pinned_tweet_id": "1984996832892883185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906316722287812609/19sei3cf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 152,
+          "like_count": 5369,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1133
+        },
+        "username": "kokuralia",
+        "verified": false
+      }
+    ]
+  }
+}

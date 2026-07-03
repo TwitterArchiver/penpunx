@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2070407715072209166",
+    "created_at": "2026-06-27T13:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070860910261146049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1842242480835813376",
+          "start": 0,
+          "username": "lynxGill"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070860910261146049",
+    "in_reply_to_user_id": "1842242480835813376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070860208445005898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lynxGill 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2070407715072209166",
+        "created_at": "2026-06-27T13:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070860910261146049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842242480835813376",
+              "start": 0,
+              "username": "lynxGill"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070860910261146049",
+        "in_reply_to_user_id": "1842242480835813376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070860208445005898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lynxGill 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842242480835813376",
+        "conversation_id": "2070407715072209166",
+        "created_at": "2026-06-27T13:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070860208445005898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070860208445005898",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070407715072209166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx a milk inside a bag of milk和它的续作milk outside"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 593,
+          "like_count": 14275,
+          "listed_count": 1,
+          "media_count": 710,
+          "tweet_count": 5721
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T16:36:59.000Z",
+        "description": "=磷｜she/them｜free to comment/fo/unfo｜此账号内容疑似由人类生成，请谨慎甄别！",
+        "id": "1842242480835813376",
+        "name": "南极Linn虾",
+        "pinned_tweet_id": "2061534195571433618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055646242416553984/-4pd3ZMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 43,
+          "like_count": 1474,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 399
+        },
+        "url": "",
+        "username": "lynxGill",
+        "verified": false
+      }
+    ]
+  }
+}

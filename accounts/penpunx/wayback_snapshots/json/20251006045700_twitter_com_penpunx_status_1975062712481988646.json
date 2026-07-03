@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1975060468021788700",
+    "created_at": "2025-10-06T04:57:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T05:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975062712481988646"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1975062712481988646",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975060468021788700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有我爸的舅舅和我的舅舅，这很吓人，感觉他们都没一个好人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1975060468021788700",
+        "created_at": "2025-10-06T04:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T05:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975062712481988646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975062712481988646",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975060468021788700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有我爸的舅舅和我的舅舅，这很吓人，感觉他们都没一个好人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1975060468021788700",
+        "created_at": "2025-10-06T04:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T05:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975060468021788700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975060468021788700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我家长说，我爷爷的妻子在庐山疗养的时候，我爷爷带了一个老年跳舞队的女的回家，然后被房间里的监控抓到了😦\n我觉得很害怕，为什么亲戚都是这样的人，我爸是，我爷爷是，我奶奶也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1974498041756569769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973873501179387904/uvpLq1zI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 273,
+          "like_count": 10016,
+          "listed_count": 1,
+          "media_count": 347,
+          "tweet_count": 2394
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

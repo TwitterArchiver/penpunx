@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2057610126228619365",
+    "created_at": "2026-05-21T23:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T00:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057610126228619365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/carlos_gong/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/carlos_gong/status/2057255712393433297",
+          "start": 10,
+          "url": "https://t.co/fkcHC2EeGN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057610126228619365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057255712393433297",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中文数字表达更直观 https://t.co/fkcHC2EeGN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2057610126228619365",
+        "created_at": "2026-05-21T23:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T00:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057610126228619365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/carlos_gong/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/carlos_gong/status/2057255712393433297",
+              "start": 10,
+              "url": "https://t.co/fkcHC2EeGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057610126228619365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057255712393433297",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中文数字表达更直观 https://t.co/fkcHC2EeGN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17185799",
+        "conversation_id": "2057255712393433297",
+        "created_at": "2026-05-21T00:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057255712393433297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057255712393433297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 13631,
+          "like_count": 125,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得判断一个人真正的母语是什么，不是看他怎么爆粗口，人会因为各种原因用外语说脏话。\n\n我的感受是：人只有在算钱（与经济相关的快速小额数字口算）的时候会瞬间切换到母语。\n\n我认识的欧美生活多年的华人，一年到头不咋说中文、粗口 f s b 的不少，但是到了算钱的时候，大家都还是直觉一二三四。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 548,
+          "like_count": 13480,
+          "listed_count": 1,
+          "media_count": 526,
+          "tweet_count": 4720
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-05T09:56:43.000Z",
+        "description": "I don’t have a skincare routine.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "carlosgong.github.io",
+                "end": 23,
+                "expanded_url": "https://carlosgong.github.io/",
+                "start": 0,
+                "url": "https://t.co/ojEfLgiC4L"
+              }
+            ]
+          }
+        },
+        "id": "17185799",
+        "location": "Kosovo",
+        "name": "Carlos Gong 🇽🇰 (it/it/its)",
+        "pinned_tweet_id": "2054785292805247033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055197295592062976/tOrbjAAA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15946,
+          "following_count": 2291,
+          "like_count": 3682,
+          "listed_count": 164,
+          "media_count": 1773,
+          "tweet_count": 17438
+        },
+        "url": "https://t.co/ojEfLgiC4L",
+        "username": "Carlos_Gong",
+        "verified": false
+      }
+    ]
+  }
+}
