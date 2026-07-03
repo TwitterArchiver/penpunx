@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2014366502557000014",
+    "created_at": "2026-01-22T15:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T16:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014366608698011841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1576323818087649281",
+          "start": 0,
+          "username": "Ez0Qu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014366608698011841",
+    "in_reply_to_user_id": "1576323818087649281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014366502557000014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ez0Qu 白头搔更短 浑欲不胜簪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2014366502557000014",
+        "created_at": "2026-01-22T15:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014366608698011841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1576323818087649281",
+              "start": 0,
+              "username": "Ez0Qu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014366608698011841",
+        "in_reply_to_user_id": "1576323818087649281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014366502557000014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ez0Qu 白头搔更短 浑欲不胜簪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576323818087649281",
+        "conversation_id": "2014366502557000014",
+        "created_at": "2026-01-22T15:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014366502557000014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014366502557000014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只要一拉就是一大把头发完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2012869391504023900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 297,
+          "like_count": 10421,
+          "listed_count": 1,
+          "media_count": 378,
+          "tweet_count": 2785
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T21:31:11.000Z",
+        "description": "I.",
+        "id": "1576323818087649281",
+        "name": "rakka",
+        "pinned_tweet_id": "1878020076215116095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012185264446373888/OuoTgxUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 491,
+          "like_count": 3659,
+          "listed_count": 3,
+          "media_count": 31,
+          "tweet_count": 1476
+        },
+        "username": "Ez0Qu",
+        "verified": false
+      }
+    ]
+  }
+}

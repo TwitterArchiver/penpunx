@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2038277322873413645",
+    "created_at": "2026-03-29T15:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T16:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038277322873413645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1574621581606850560",
+          "start": 3,
+          "username": "LibertyU36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038277322873413645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037838733450547452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LibertyU36: 我们不希望只是修复一个旧的系统，我们想要重新定义“健康”的权力结构。\nOD党认为，当前的健康权力结构至少有两个顽疾：\n1.医疗过度执法化。\n2.投入海量资金用于晚期抢救，却漠视早期风险。\nOD党提倡让医疗回归纯粹的医患关系，建立一个以治未病为核心…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2037838569973350400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfbYejaAAAfNmi.jpg",
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2038277322873413645",
+        "created_at": "2026-03-29T15:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038277322873413645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1574621581606850560",
+              "start": 3,
+              "username": "LibertyU36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038277322873413645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037838733450547452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LibertyU36: 我们不希望只是修复一个旧的系统，我们想要重新定义“健康”的权力结构。\nOD党认为，当前的健康权力结构至少有两个顽疾：\n1.医疗过度执法化。\n2.投入海量资金用于晚期抢救，却漠视早期风险。\nOD党提倡让医疗回归纯粹的医患关系，建立一个以治未病为核心…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037838569973350400"
+          ]
+        },
+        "author_id": "1574621581606850560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2037838733450547452",
+        "created_at": "2026-03-28T10:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037838733450547452"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "OD党"
+            },
+            {
+              "end": 146,
+              "start": 139,
+              "tag": "中推模拟选举"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZQuMYSMNGT",
+              "end": 170,
+              "expanded_url": "https://x.com/LibertyU36/status/2037838733450547452/photo/1",
+              "media_key": "3_2037838569973350400",
+              "start": 147,
+              "url": "https://t.co/ZQuMYSMNGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037838733450547452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1399,
+          "like_count": 23,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我们不希望只是修复一个旧的系统，我们想要重新定义“健康”的权力结构。\nOD党认为，当前的健康权力结构至少有两个顽疾：\n1.医疗过度执法化。\n2.投入海量资金用于晚期抢救，却漠视早期风险。\nOD党提倡让医疗回归纯粹的医患关系，建立一个以治未病为核心导向的互助医疗系统。\n#OD党\n#中推模拟选举 https://t.co/ZQuMYSMNGT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 381,
+          "like_count": 11665,
+          "listed_count": 1,
+          "media_count": 429,
+          "tweet_count": 3439
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T04:47:24.000Z",
+        "description": "世界如此乏味，那么不妨让祂寂静。",
+        "id": "1574621581606850560",
+        "name": "Ultraman Liberty",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1574622025963954176/4MmLXrDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 87,
+          "like_count": 6931,
+          "listed_count": 5,
+          "media_count": 119,
+          "tweet_count": 10943
+        },
+        "username": "LibertyU36",
+        "verified": false
+      }
+    ]
+  }
+}

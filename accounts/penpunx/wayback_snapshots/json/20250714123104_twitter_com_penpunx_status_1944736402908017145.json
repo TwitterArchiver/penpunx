@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1944724600346288190",
+    "created_at": "2025-07-14T12:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T13:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944736402908017145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "968255724500365312",
+          "start": 0,
+          "username": "vettvv1per"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944736402908017145",
+    "in_reply_to_user_id": "968255724500365312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944736267151008022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vettvv1per 晕车（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1944724600346288190",
+        "created_at": "2025-07-14T12:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T13:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944736402908017145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "968255724500365312",
+              "start": 0,
+              "username": "vettvv1per"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944736402908017145",
+        "in_reply_to_user_id": "968255724500365312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944736267151008022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vettvv1per 晕车（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "968255724500365312",
+        "conversation_id": "1944724600346288190",
+        "created_at": "2025-07-14T12:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T13:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944736267151008022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944736267151008022",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944724600346288190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 开卡丁车 好玩又累人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "Jupiter III",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 208,
+          "like_count": 7034,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 1614
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-26T22:45:28.000Z",
+        "description": "spambot squirtpants",
+        "id": "968255724500365312",
+        "name": "Turbo",
+        "pinned_tweet_id": "1363772121667657736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739582920086675456/_hhin3uD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 538,
+          "like_count": 152570,
+          "listed_count": 2,
+          "media_count": 3512,
+          "tweet_count": 31632
+        },
+        "username": "vettvv1per",
+        "verified": false
+      }
+    ]
+  }
+}

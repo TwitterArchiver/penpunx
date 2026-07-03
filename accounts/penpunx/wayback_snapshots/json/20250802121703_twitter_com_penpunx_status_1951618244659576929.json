@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1951618124526280704"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1951618244659576929",
+    "created_at": "2025-08-02T12:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T13:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951618244659576929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9rQFiydDDk",
+          "end": 30,
+          "expanded_url": "https://x.com/penpunx/status/1951618244659576929/video/1",
+          "media_key": "13_1951618124526280704",
+          "start": 7,
+          "url": "https://t.co/9rQFiydDDk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951618244659576929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈基龟哈气了 https://t.co/9rQFiydDDk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 74513,
+        "height": 720,
+        "media_key": "13_1951618124526280704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1951618124526280704/img/KBBeTccIYrLjVS5-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951618124526280704/vid/avc1/480x270/REixJ3AzmgK9S6s_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951618124526280704/vid/avc1/640x360/pnhIgSBaAz7B-olM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951618124526280704/vid/avc1/1280x720/8uFn6wnPzNG-1O4o.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1951618124526280704/pl/HbgacvlQMBjM6WHl.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1951618124526280704"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1951618244659576929",
+        "created_at": "2025-08-02T12:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T13:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951618244659576929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rQFiydDDk",
+              "end": 30,
+              "expanded_url": "https://x.com/penpunx/status/1951618244659576929/video/1",
+              "media_key": "13_1951618124526280704",
+              "start": 7,
+              "url": "https://t.co/9rQFiydDDk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951618244659576929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈基龟哈气了 https://t.co/9rQFiydDDk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 213,
+          "like_count": 7625,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 1784
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

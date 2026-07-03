@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2043963079592141253",
+    "created_at": "2026-04-14T08:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043963079592141253"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043963079592141253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天还在学校里练习了投篮，并且在学校里就写完了所有作业"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2043963079592141253",
+        "created_at": "2026-04-14T08:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043963079592141253"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043963079592141253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天还在学校里练习了投篮，并且在学校里就写完了所有作业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 412,
+          "like_count": 11983,
+          "listed_count": 1,
+          "media_count": 456,
+          "tweet_count": 3688
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2069619277846765622",
+    "created_at": "2026-06-24T04:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T05:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069636123815710780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1624393872037265413",
+          "start": 0,
+          "username": "K3ss1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069636123815710780",
+    "in_reply_to_user_id": "1624393872037265413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069624465944899823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K3ss1c 是，所以说男性患者易夭折"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2069619277846765622",
+        "created_at": "2026-06-24T04:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069636123815710780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1624393872037265413",
+              "start": 0,
+              "username": "K3ss1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069636123815710780",
+        "in_reply_to_user_id": "1624393872037265413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069624465944899823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K3ss1c 是，所以说男性患者易夭折"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624393872037265413",
+        "conversation_id": "2069619277846765622",
+        "created_at": "2026-06-24T03:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069624465944899823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069624465944899823",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069619277846765622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 查了下，这不是常染色体显性遗传病，而是伴x染色体显性遗传病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 586,
+          "like_count": 14077,
+          "listed_count": 1,
+          "media_count": 681,
+          "tweet_count": 5520
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T13:04:23.000Z",
+        "description": "17年吉吉国入葬，溜冰/抬杠，有素质，我们的直播脚本，尊尼获嘉爱好者，滚木党，不是道栗党。",
+        "id": "1624393872037265413",
+        "name": "东半球酒水研究部及ssri药物试验者",
+        "pinned_tweet_id": "2061192161622958335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061213364785942529/Vq3wxXGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 862,
+          "like_count": 13127,
+          "listed_count": 3,
+          "media_count": 2752,
+          "tweet_count": 18082
+        },
+        "url": "",
+        "username": "K3ss1c",
+        "verified": false
+      }
+    ]
+  }
+}

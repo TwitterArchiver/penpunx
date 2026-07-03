@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1961047225359900676",
+    "created_at": "2025-08-28T12:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T13:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961048534297518279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557982495710257152",
+          "start": 0,
+          "username": "eggstirmineight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961048534297518279",
+    "in_reply_to_user_id": "1557982495710257152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961048111972774316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eggstirmineight 因为今天和主人艾斯爱慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1961047225359900676",
+        "created_at": "2025-08-28T12:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T13:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961048534297518279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557982495710257152",
+              "start": 0,
+              "username": "eggstirmineight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961048534297518279",
+        "in_reply_to_user_id": "1557982495710257152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961048111972774316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eggstirmineight 因为今天和主人艾斯爱慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557982495710257152",
+        "conversation_id": "1961047225359900676",
+        "created_at": "2025-08-28T12:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T13:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961048111972774316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961048111972774316",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961047225359900676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 天哪为什么红红的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 260,
+          "like_count": 8814,
+          "listed_count": 1,
+          "media_count": 280,
+          "tweet_count": 2034
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T06:49:20.000Z",
+        "description": "|♥|死了| 努力达con中|我要学数学|咖啡：https://t.co/SaWyE3f1GS |",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/jang22",
+                "end": 47,
+                "expanded_url": "https://buymeacoffee.com/jang22",
+                "start": 24,
+                "url": "https://t.co/SaWyE3f1GS"
+              }
+            ]
+          }
+        },
+        "id": "1557982495710257152",
+        "location": "McDonald's No1. Tianyaoqiao Rd",
+        "name": "Hello there",
+        "pinned_tweet_id": "1803384742072443017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863250418895065089/mYCRJqxe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 2570,
+          "like_count": 61382,
+          "listed_count": 8,
+          "media_count": 356,
+          "tweet_count": 6426
+        },
+        "username": "eggstirmineight",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1898346721371177100",
+    "created_at": "2025-03-08T12:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T13:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898347156618244426"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1898347156618244426",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898346721371177100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "此外我在上初中也是和同学这么说话，但是他们会觉得我很厉害而不是觉得我很盛气凌人..我很怀念那个时候，上学比放假愉快。但是现在都很痛苦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1898346721371177100",
+        "created_at": "2025-03-08T12:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T13:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898347156618244426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898347156618244426",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898346721371177100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此外我在上初中也是和同学这么说话，但是他们会觉得我很厉害而不是觉得我很盛气凌人..我很怀念那个时候，上学比放假愉快。但是现在都很痛苦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1898346721371177100",
+        "created_at": "2025-03-08T12:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T13:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898346721371177100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898346721371177100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和我妈聊天，说我很孤独。和她说了几句，她说我这么说话孤独也是得偿所愿，我说我并没有指责或批评你，她说但是让人感觉很不适，因为她说一句我会回复好几句而且经常这样。我说这样，我之前在网上聊天也是这样，还觉得怎么对方爱答不理的。她说可能是你说话太快了("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "Is Thalstanian - never gives up",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898235281863852037/maSqb7YF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 50,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 58
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

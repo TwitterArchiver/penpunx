@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2064312811879334195",
+    "created_at": "2026-06-09T15:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064368902843535823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1505242176560656386",
+          "start": 0,
+          "username": "iaa77_7"
+        },
+        {
+          "end": 24,
+          "id": "1385991185689284608",
+          "start": 9,
+          "username": "Joshua78261443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064368902843535823",
+    "in_reply_to_user_id": "1505242176560656386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064326050449166353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iaa77_7 @Joshua78261443 成仙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2064312811879334195",
+        "created_at": "2026-06-09T15:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064368902843535823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1505242176560656386",
+              "start": 0,
+              "username": "iaa77_7"
+            },
+            {
+              "end": 24,
+              "id": "1385991185689284608",
+              "start": 9,
+              "username": "Joshua78261443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064368902843535823",
+        "in_reply_to_user_id": "1505242176560656386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064326050449166353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iaa77_7 @Joshua78261443 成仙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505242176560656386",
+        "conversation_id": "2064312811879334195",
+        "created_at": "2026-06-09T12:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064326050449166353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1385991185689284608",
+              "start": 0,
+              "username": "Joshua78261443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064326050449166353",
+        "in_reply_to_user_id": "1385991185689284608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064312811879334195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Joshua78261443 老而不死是为？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱，月亮。",
+        "id": "1896904934995656704",
+        "name": "天",
+        "pinned_tweet_id": "2062947551297622499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063995632331952129/xElklqid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 563,
+          "like_count": 13661,
+          "listed_count": 1,
+          "media_count": 601,
+          "tweet_count": 5041
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T17:58:09.000Z",
+        "description": "",
+        "id": "1505242176560656386",
+        "name": "ia",
+        "pinned_tweet_id": "2050983023248814174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052409054769954816/eixaHL2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 432,
+          "like_count": 59895,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 10453
+        },
+        "username": "iaa77_7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T16:17:18.000Z",
+        "description": "",
+        "id": "1385991185689284608",
+        "name": "Joshua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894772626612224000/kOuH4Xcb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3046,
+          "following_count": 914,
+          "like_count": 44684,
+          "listed_count": 22,
+          "media_count": 2779,
+          "tweet_count": 19051
+        },
+        "username": "Joshua78261443",
+        "verified": false
+      }
+    ]
+  }
+}

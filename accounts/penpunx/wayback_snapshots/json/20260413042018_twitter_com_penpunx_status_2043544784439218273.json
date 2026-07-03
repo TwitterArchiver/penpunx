@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2043215613586485387",
+    "created_at": "2026-04-13T04:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T05:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043544784439218273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1561262672888434688",
+          "start": 0,
+          "username": "cai436"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043544784439218273",
+    "in_reply_to_user_id": "1561262672888434688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043538958924030010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cai436 这里也是我的私人空间 爱发什么发什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2043215613586485387",
+        "created_at": "2026-04-13T04:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043544784439218273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1561262672888434688",
+              "start": 0,
+              "username": "cai436"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043544784439218273",
+        "in_reply_to_user_id": "1561262672888434688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043538958924030010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cai436 这里也是我的私人空间 爱发什么发什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561262672888434688",
+        "conversation_id": "2043215613586485387",
+        "created_at": "2026-04-13T03:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043538958924030010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043538958924030010",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043215613586485387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 所以又o又发上网的是什么情况？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2043276472291594369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 402,
+          "like_count": 11944,
+          "listed_count": 1,
+          "media_count": 454,
+          "tweet_count": 3665
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T08:04:19.000Z",
+        "description": "这个人很懒，什么都没有写。",
+        "id": "1561262672888434688",
+        "location": "广东省茂名市",
+        "name": "蔡清晏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043348675737309184/9FI9PKA0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 792,
+          "like_count": 13525,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 3022
+        },
+        "username": "cai436",
+        "verified": false
+      }
+    ]
+  }
+}

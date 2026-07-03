@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2036303352754258339",
+    "created_at": "2026-03-24T09:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T10:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036376740856209713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841093178268794881",
+          "start": 0,
+          "username": "idle_beaver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036376740856209713",
+    "in_reply_to_user_id": "1841093178268794881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036303352754258339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idle_beaver 现在一直在下雨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2036303352754258339",
+        "created_at": "2026-03-24T09:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036376740856209713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841093178268794881",
+              "start": 0,
+              "username": "idle_beaver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036376740856209713",
+        "in_reply_to_user_id": "1841093178268794881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036303352754258339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idle_beaver 现在一直在下雨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841093178268794881",
+        "conversation_id": "2036303352754258339",
+        "created_at": "2026-03-24T04:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036303352754258339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036303352754258339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想去旅行，现在去江浙沪一带是不是太晚了呢，毕竟我超级讨厌热天，或者应该去更高纬度的地方吗。如果等到夏天就很糟糕了，哪儿都去不了的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 372,
+          "like_count": 11582,
+          "listed_count": 1,
+          "media_count": 428,
+          "tweet_count": 3395
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:30:02.000Z",
+        "description": "aroace agender audhd / dissociatist / email: u@uhio.uk",
+        "id": "1841093178268794881",
+        "location": "now here",
+        "name": "O'vine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014953111018995716/b08b8vYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 29,
+          "like_count": 5668,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 76
+        },
+        "username": "idle_beaver",
+        "verified": false
+      }
+    ]
+  }
+}

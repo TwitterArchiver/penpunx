@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1898027807634342308",
+    "created_at": "2025-03-07T15:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T16:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898027814018007407"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1898027814018007407",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898027810826207362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天喝了青提果汁兑啤酒，它给我一种地中海夏日的氛围。这也是我的创造之一。喝完之后，感觉身体微微发热，思考更敏捷行动力也更高，我喜欢这种感觉。也正因如此我不会一次喝太多，我只喜欢微醉的感觉，因为这让我体会到自己是很厉害的，如果太醉，无法行动，则适得其反"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1898027807634342308",
+        "created_at": "2025-03-07T15:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T16:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898027814018007407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898027814018007407",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898027810826207362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天喝了青提果汁兑啤酒，它给我一种地中海夏日的氛围。这也是我的创造之一。喝完之后，感觉身体微微发热，思考更敏捷行动力也更高，我喜欢这种感觉。也正因如此我不会一次喝太多，我只喜欢微醉的感觉，因为这让我体会到自己是很厉害的，如果太醉，无法行动，则适得其反"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1898027807634342308",
+        "created_at": "2025-03-07T15:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T16:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898027810826207362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898027810826207362",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898027807634342308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和2023年的自己也都有属于自己的风格和个性。这让我感到我是独特的，我是明确的，我是成立的。说实话我现在的精神状态其实挺不错，我的体重增加了一些，因为我有食欲也喝了酒，我这五天每天放学都喝一些。我12月中旬到这周之前是不喝酒的，但是由于我现在一个人也孤独，让自己心情更好，何乐不为？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897229209598152704/nghVdo_q_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 28,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

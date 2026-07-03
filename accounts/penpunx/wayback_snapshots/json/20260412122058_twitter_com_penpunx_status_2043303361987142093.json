@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2043254068983083444",
+    "created_at": "2026-04-12T12:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043303361987142093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1974276207496867842",
+          "start": 0,
+          "username": "DXMDusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043303361987142093",
+    "in_reply_to_user_id": "1974276207496867842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043254068983083444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@DXMDusk 你可以学n55吃20000mg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2043254061630427136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsYvlFbEAA7hy0.jpg",
+        "width": 575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2043254068983083444",
+        "created_at": "2026-04-12T12:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043303361987142093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043303361987142093",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043254068983083444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@DXMDusk 你可以学n55吃20000mg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043254061630427136"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2043254068983083444",
+        "created_at": "2026-04-12T09:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043254068983083444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nS40N7ap7L",
+              "end": 28,
+              "expanded_url": "https://x.com/DXMDusk/status/2043254068983083444/photo/1",
+              "media_key": "3_2043254061630427136",
+              "start": 5,
+              "url": "https://t.co/nS40N7ap7L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043254068983083444",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2482,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "可行性？ https://t.co/nS40N7ap7L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2043276472291594369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 398,
+          "like_count": 11913,
+          "listed_count": 1,
+          "media_count": 454,
+          "tweet_count": 3655
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2378,
+          "following_count": 1118,
+          "like_count": 2116,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 2234
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

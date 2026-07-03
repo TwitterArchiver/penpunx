@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2067547510391152708",
+    "created_at": "2026-06-18T11:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067577497596653751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1941289376669106177",
+          "start": 0,
+          "username": "jelllllyfiiiish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067577497596653751",
+    "in_reply_to_user_id": "1941289376669106177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067547510391152708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jelllllyfiiiish 阿普唑仑，请"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2067547510391152708",
+        "created_at": "2026-06-18T11:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067577497596653751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1941289376669106177",
+              "start": 0,
+              "username": "jelllllyfiiiish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067577497596653751",
+        "in_reply_to_user_id": "1941289376669106177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067547510391152708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jelllllyfiiiish 阿普唑仑，请"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941289376669106177",
+        "conversation_id": "2067547510391152708",
+        "created_at": "2026-06-18T09:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067547510391152708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067547510391152708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无端地紧张以及心慌感 呼吸不上来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "巴卡巴拉，苏卡纳纳马斯。",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 575,
+          "like_count": 13924,
+          "listed_count": 1,
+          "media_count": 630,
+          "tweet_count": 5284
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T00:14:14.000Z",
+        "description": "垃圾桶@kllppeaea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "kllppeaea"
+              }
+            ]
+          }
+        },
+        "id": "1941289376669106177",
+        "name": "kllppeaea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064388328313724928/8CaE0BxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 512,
+          "like_count": 11554,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1470
+        },
+        "url": "",
+        "username": "jelllllyfiiiish",
+        "verified": false
+      }
+    ]
+  }
+}

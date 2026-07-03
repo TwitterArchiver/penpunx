@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1900360058334023680"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "1900360340027944980",
+    "created_at": "2025-03-14T01:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T02:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900360340027944980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dlrITUtYia",
+          "end": 23,
+          "expanded_url": "https://x.com/penpunx/status/1900360340027944980/video/1",
+          "media_key": "13_1900360058334023680",
+          "start": 0,
+          "url": "https://t.co/dlrITUtYia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900360340027944980",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/dlrITUtYia"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40268,
+        "height": 1280,
+        "media_key": "13_1900360058334023680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1900360058334023680/img/3s6Sw6lQ2vvmNbla.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900360058334023680/vid/avc1/320x568/OW8noutJoMhftUD2.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900360058334023680/vid/avc1/480x852/ctgaCclPf6Sz52iy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900360058334023680/vid/avc1/720x1280/zwTar9k7IMIBgdWQ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1900360058334023680/pl/ADygptcQBeebFYlf.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1900360058334023680"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1900360340027944980",
+        "created_at": "2025-03-14T01:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T02:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900360340027944980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dlrITUtYia",
+              "end": 23,
+              "expanded_url": "https://x.com/penpunx/status/1900360340027944980/video/1",
+              "media_key": "13_1900360058334023680",
+              "start": 0,
+              "url": "https://t.co/dlrITUtYia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900360340027944980",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dlrITUtYia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "metal & rock & dungeon synth lover / 16yo neurodivergent guy / Chinese, English, Portuguese, Dutch in learning",
+        "id": "1896904934995656704",
+        "location": "He / him ",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898235281863852037/maSqb7YF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 110,
+          "like_count": 639,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 217
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2067963282112319701",
+    "created_at": "2026-06-19T14:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067984427062636606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053440124856467456",
+          "start": 0,
+          "username": "ZOMBIEKING1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067984427062636606",
+    "in_reply_to_user_id": "2053440124856467456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067982185827844119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZOMBIEKING1111 小朋友我可以和你聊天吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2067963282112319701",
+        "created_at": "2026-06-19T14:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067984427062636606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053440124856467456",
+              "start": 0,
+              "username": "ZOMBIEKING1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067984427062636606",
+        "in_reply_to_user_id": "2053440124856467456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067982185827844119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZOMBIEKING1111 小朋友我可以和你聊天吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053440124856467456",
+        "conversation_id": "2067963282112319701",
+        "created_at": "2026-06-19T14:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067982185827844119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067982185827844119",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067979899231666662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 很好看很好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 579,
+          "like_count": 13965,
+          "listed_count": 1,
+          "media_count": 646,
+          "tweet_count": 5358
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T11:41:01.000Z",
+        "description": "od/shtwt king of the earth he/him\n专心过好自己的唐人生活",
+        "id": "2053440124856467456",
+        "name": "我以为尿的高就可以遮住我的眼泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066772444346499072/A-MyxOhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 30,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 330
+        },
+        "url": "",
+        "username": "ZOMBIEKING1111",
+        "verified": false
+      }
+    ]
+  }
+}

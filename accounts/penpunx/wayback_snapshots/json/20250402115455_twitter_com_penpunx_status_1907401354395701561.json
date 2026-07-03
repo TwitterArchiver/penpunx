@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1907400720896434206",
+    "created_at": "2025-04-02T11:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T12:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907401354395701561"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1907401354395701561",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907400720896434206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "从上周开始我每天都坚持观察和调整自己的状态，我觉得保持精力是最重要的，尽管以前我会觉得好不容易有自己的时间不甘心睡觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1907400720896434206",
+        "created_at": "2025-04-02T11:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T12:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907401354395701561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907401354395701561",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907400720896434206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从上周开始我每天都坚持观察和调整自己的状态，我觉得保持精力是最重要的，尽管以前我会觉得好不容易有自己的时间不甘心睡觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1907400720896434206",
+        "created_at": "2025-04-02T11:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T12:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907400720896434206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907400720896434206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是第七周，很快就要第八周了。时间过得真快，我喜欢在这里发推，过几周甚至几天再回头看就会觉得原来自己一直有在努力。我有时候很羡慕有冒险精神的人，但我又觉得能达到现在稍微稳定的状态已经很不容易了。但其实只有冒险成功或者有影响力的人才会载入史册。还是得贯彻慢就是快的理念，稳住最重要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / world of warcraft / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 151,
+          "like_count": 2369,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 669
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

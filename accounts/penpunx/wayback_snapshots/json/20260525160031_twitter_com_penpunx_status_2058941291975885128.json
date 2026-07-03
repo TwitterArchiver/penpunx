@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2058941291975885128",
+    "created_at": "2026-05-25T16:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058941291975885128"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058941291975885128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "焦虑不只是自我毁灭程序也是保命技能，这是狩猎者的基因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2058941291975885128",
+        "created_at": "2026-05-25T16:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058941291975885128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058941291975885128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "焦虑不只是自我毁灭程序也是保命技能，这是狩猎者的基因"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 559,
+          "like_count": 13446,
+          "listed_count": 1,
+          "media_count": 535,
+          "tweet_count": 4781
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

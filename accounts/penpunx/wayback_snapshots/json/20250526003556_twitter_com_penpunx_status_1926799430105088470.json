@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1926799430105088470",
+    "created_at": "2025-05-26T00:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T01:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926799430105088470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/penpunx/status/1926606481970893088",
+          "start": 46,
+          "url": "https://t.co/0KlqLmVvb0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926799430105088470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926606481970893088",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上海，8月7日，真的希望父母能同意我去看黑金属live，属于是为数不多称得上我喜欢的乐队了 https://t.co/0KlqLmVvb0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1926606427986026497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GryuVrIXYAEB2ot.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1926799430105088470",
+        "created_at": "2025-05-26T00:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T01:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926799430105088470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/penpunx/status/1926606481970893088",
+              "start": 46,
+              "url": "https://t.co/0KlqLmVvb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926799430105088470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926606481970893088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上海，8月7日，真的希望父母能同意我去看黑金属live，属于是为数不多称得上我喜欢的乐队了 https://t.co/0KlqLmVvb0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926606427986026497"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1926606481970893088",
+        "created_at": "2025-05-25T11:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T12:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926606481970893088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x2Cqs2t6fQ",
+              "end": 51,
+              "expanded_url": "https://x.com/penpunx/status/1926606481970893088/photo/1",
+              "media_key": "3_1926606427986026497",
+              "start": 28,
+              "url": "https://t.co/x2Cqs2t6fQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926606481970893088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "初中的时候，喜欢过他们的you without end https://t.co/x2Cqs2t6fQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo neurodivergent guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 205,
+          "like_count": 6004,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1328
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

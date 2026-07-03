@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2048985921098481684",
+    "created_at": "2026-04-28T04:41:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048985921098481684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bing2000100830…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/bing2000100830/status/2048883738617188390",
+          "start": 15,
+          "url": "https://t.co/Ot1bifOONL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048985921098481684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048883738617188390",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "猜你想搜 “维生素c能od” https://t.co/Ot1bifOONL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2048985921098481684",
+        "created_at": "2026-04-28T04:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048985921098481684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bing2000100830…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/bing2000100830/status/2048883738617188390",
+              "start": 15,
+              "url": "https://t.co/Ot1bifOONL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048985921098481684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048883738617188390",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猜你想搜 “维生素c能od” https://t.co/Ot1bifOONL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2048883738617188390",
+        "created_at": "2026-04-27T21:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T22:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048883738617188390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048883738617188390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3198,
+          "like_count": 81,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "为什么oder不试着假装捧红一款完全没有滥用价值不能用来娱乐的药物呢，写一些假报告然后发到墙内。等到广州禁毒发现了然后发视频甚至列管这种药。我只是觉得好玩而且很能体现中国的毒品政策"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 443,
+          "like_count": 12222,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 3887
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 1030,
+          "like_count": 34798,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 1917
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

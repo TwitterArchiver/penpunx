@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2071595244521701460",
+    "created_at": "2026-06-29T16:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T17:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071626295734386810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "978546324323762177",
+          "start": 0,
+          "username": "pain_requiem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071626295734386810",
+    "in_reply_to_user_id": "978546324323762177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071626181141766527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pain_requiem 就是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2071595244521701460",
+        "created_at": "2026-06-29T16:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071626295734386810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "978546324323762177",
+              "start": 0,
+              "username": "pain_requiem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071626295734386810",
+        "in_reply_to_user_id": "978546324323762177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071626181141766527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pain_requiem 就是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "978546324323762177",
+        "conversation_id": "2071595244521701460",
+        "created_at": "2026-06-29T16:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071626181141766527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071626181141766527",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071595244521701460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 多多理财（幻视"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "万物",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 601,
+          "like_count": 14413,
+          "listed_count": 1,
+          "media_count": 728,
+          "tweet_count": 5858
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-27T08:16:39.000Z",
+        "description": "有缘 再见",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ZjMnmroFNoqats…",
+                "end": 23,
+                "expanded_url": "https://t.me/ZjMnmroFNoqatshA",
+                "start": 0,
+                "url": "https://t.co/auDAegXcCp"
+              }
+            ]
+          }
+        },
+        "id": "978546324323762177",
+        "location": "ε Eridani system",
+        "name": "零℃可乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065355215688380416/AblpcVJR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 2069,
+          "like_count": 22109,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 524
+        },
+        "url": "https://t.co/auDAegXcCp",
+        "username": "pain_requiem",
+        "verified": false
+      }
+    ]
+  }
+}

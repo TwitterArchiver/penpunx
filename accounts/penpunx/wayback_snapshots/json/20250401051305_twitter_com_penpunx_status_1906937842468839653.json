@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1906929561205612857",
+    "created_at": "2025-04-01T05:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T06:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906937842468839653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1054322364870246400",
+          "start": 0,
+          "username": "mrwhat926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906937842468839653",
+    "in_reply_to_user_id": "1054322364870246400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906937030753566743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrwhat926 可能表示了一些愤怒吧("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1906929561205612857",
+        "created_at": "2025-04-01T05:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T06:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906937842468839653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1054322364870246400",
+              "start": 0,
+              "username": "mrwhat926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906937842468839653",
+        "in_reply_to_user_id": "1054322364870246400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906937030753566743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrwhat926 可能表示了一些愤怒吧("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1054322364870246400",
+        "conversation_id": "1906929561205612857",
+        "created_at": "2025-04-01T05:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T06:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906937030753566743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906937030753566743",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906929561205612857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 這些教員心理是不是有問題？學生沒做也好，忘做也罷，為什麼要在人家的本子上亂塗亂畫？這是什麼意思？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / world of warcraft / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 150,
+          "like_count": 2276,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 667
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-22T10:43:34.000Z",
+        "description": "獨立遊戲開發者、音樂作曲家（2018~2020）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "timegrass.bsky.social",
+                "end": 23,
+                "expanded_url": "http://timegrass.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Q2VGjYgAZy"
+              }
+            ]
+          }
+        },
+        "id": "1054322364870246400",
+        "location": "Earth",
+        "name": "Time Grass",
+        "pinned_tweet_id": "1905839291093131471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893945815502352384/h_rAbQgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 1699,
+          "like_count": 57120,
+          "listed_count": 4,
+          "media_count": 345,
+          "tweet_count": 8850
+        },
+        "url": "https://t.co/Q2VGjYgAZy",
+        "username": "mrwhat926",
+        "verified": false
+      }
+    ]
+  }
+}

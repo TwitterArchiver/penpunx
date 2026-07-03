@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2063676910492954995",
+    "created_at": "2026-06-09T14:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064357787778642251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1847898031561330690",
+          "start": 0,
+          "username": "whj___1001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064357787778642251",
+    "in_reply_to_user_id": "1847898031561330690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063676910492954995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whj___1001 坏蛋（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2063676910492954995",
+        "created_at": "2026-06-09T14:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064357787778642251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1847898031561330690",
+              "start": 0,
+              "username": "whj___1001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064357787778642251",
+        "in_reply_to_user_id": "1847898031561330690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063676910492954995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whj___1001 坏蛋（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847898031561330690",
+        "conversation_id": "2063676910492954995",
+        "created_at": "2026-06-07T17:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063676910492954995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063676910492954995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偷偷抽了老爸的烟 有一股巧克力味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱，月亮。",
+        "id": "1896904934995656704",
+        "name": "天",
+        "pinned_tweet_id": "2062947551297622499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063995632331952129/xElklqid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 562,
+          "like_count": 13652,
+          "listed_count": 1,
+          "media_count": 601,
+          "tweet_count": 5031
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T07:10:18.000Z",
+        "description": "中/eng ok//\n🏳️‍⚧️ ftmasc, he/they\nocyume ❤️",
+        "id": "1847898031561330690",
+        "location": "Cute boy island",
+        "name": "酱酱酱johnjohn-chan",
+        "pinned_tweet_id": "1982307290410549377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059914728357670913/Dpe9T8Nm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 170,
+          "like_count": 18893,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 1758
+        },
+        "username": "whj___1001",
+        "verified": false
+      }
+    ]
+  }
+}

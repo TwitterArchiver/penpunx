@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2022946818380972371",
+    "created_at": "2026-02-15T11:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T12:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022995958792175752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1576323818087649281",
+          "start": 0,
+          "username": "Ez0Qu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022995958792175752",
+    "in_reply_to_user_id": "1576323818087649281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022946818380972371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ez0Qu 这个id差点没认出来\n看到卖cd才意识到可能是谁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 662,
+        "media_key": "3_2022946813632995328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLzaLIaYAA9ayu.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2022946818380972371",
+        "created_at": "2026-02-15T11:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022995958792175752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1576323818087649281",
+              "start": 0,
+              "username": "Ez0Qu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022995958792175752",
+        "in_reply_to_user_id": "1576323818087649281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022946818380972371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ez0Qu 这个id差点没认出来\n看到卖cd才意识到可能是谁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022946813632995328"
+          ]
+        },
+        "author_id": "1576323818087649281",
+        "conversation_id": "2022946818380972371",
+        "created_at": "2026-02-15T08:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022946818380972371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MuR7rt6bhU",
+              "end": 33,
+              "expanded_url": "https://x.com/Ez0Qu/status/2022946818380972371/photo/1",
+              "media_key": "3_2022946813632995328",
+              "start": 10,
+              "url": "https://t.co/MuR7rt6bhU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022946818380972371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备去摆个摊卖CD https://t.co/MuR7rt6bhU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2012869391504023900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 299,
+          "like_count": 10555,
+          "listed_count": 1,
+          "media_count": 395,
+          "tweet_count": 2885
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T21:31:11.000Z",
+        "description": "",
+        "id": "1576323818087649281",
+        "name": "bro",
+        "pinned_tweet_id": "1878020076215116095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022326549685714944/IEa3birM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 501,
+          "like_count": 1134,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 97
+        },
+        "username": "Ez0Qu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1898309298398363837",
+    "created_at": "2025-03-08T09:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T10:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898312690256466070"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1898312690256466070",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898312567640281478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "and i learned portuguese too. glad im even better at it than before without using it for several months"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1898309298398363837",
+        "created_at": "2025-03-08T09:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T10:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898312690256466070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898312690256466070",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898312567640281478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "and i learned portuguese too. glad im even better at it than before without using it for several months"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1898309298398363837",
+        "created_at": "2025-03-08T09:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T10:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898312567640281478"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898312567640281478",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898312113036099980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "and uhmm..i ve tried ____________ twice today, i dont think i can do more"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "Is Thalstanian - never gives up",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898235281863852037/maSqb7YF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 50,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 51
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

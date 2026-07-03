@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Meditation",
+          "id": "918221163284676608",
+          "name": "Meditation"
+        }
+      }
+    ],
+    "conversation_id": "1975407800995246134",
+    "created_at": "2025-10-07T03:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T04:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975407800995246134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/penpunx/status/1975400621441475021",
+          "start": 87,
+          "url": "https://t.co/N7xl5uCJQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975407800995246134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975400621441475021",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拼尽全力去b站搜了一个引导释放情绪的视频\n其实当我刚打开这个视频就有一些感觉\n当我跟着深呼吸的时候，我感到想哭\n然后感受到了很多压抑的情绪\n\n现在感觉好多了，呼吸都更顺畅了 https://t.co/N7xl5uCJQY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Meditation",
+              "id": "918221163284676608",
+              "name": "Meditation"
+            }
+          }
+        ],
+        "conversation_id": "1975407800995246134",
+        "created_at": "2025-10-07T03:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T04:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975407800995246134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/penpunx/status/1975400621441475021",
+              "start": 87,
+              "url": "https://t.co/N7xl5uCJQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975407800995246134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975400621441475021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拼尽全力去b站搜了一个引导释放情绪的视频\n其实当我刚打开这个视频就有一些感觉\n当我跟着深呼吸的时候，我感到想哭\n然后感受到了很多压抑的情绪\n\n现在感觉好多了，呼吸都更顺畅了 https://t.co/N7xl5uCJQY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Meditation",
+              "id": "918221163284676608",
+              "name": "Meditation"
+            }
+          }
+        ],
+        "conversation_id": "1975400621441475021",
+        "created_at": "2025-10-07T03:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T04:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975400621441475021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975400621441475021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感官过载，躺了很久连听歌都听不动🥲我需要维持身体的需要，但是我都没有力气。想放冥想音乐然后躺很久，直到我清理了思绪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1974498041756569769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975082924950310912/JRet2r2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 274,
+          "like_count": 10118,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 2416
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

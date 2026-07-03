@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2057485395940823389",
+    "created_at": "2026-05-21T23:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T00:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057600512468652379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1492808050461196288",
+          "start": 0,
+          "username": "Breaking_Lead_G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057600512468652379",
+    "in_reply_to_user_id": "1492808050461196288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057485395940823389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Breaking_Lead_G 亦然"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2057485395940823389",
+        "created_at": "2026-05-21T23:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T00:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057600512468652379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492808050461196288",
+              "start": 0,
+              "username": "Breaking_Lead_G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057600512468652379",
+        "in_reply_to_user_id": "1492808050461196288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057485395940823389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Breaking_Lead_G 亦然"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492808050461196288",
+        "conversation_id": "2057485395940823389",
+        "created_at": "2026-05-21T15:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057485395940823389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057485395940823389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的死法必然是自殺，但時間尚不知"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 541,
+          "like_count": 13475,
+          "listed_count": 1,
+          "media_count": 525,
+          "tweet_count": 4717
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T10:29:22.000Z",
+        "description": "deus ex machina",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lmgtfy.com",
+                "end": 23,
+                "expanded_url": "http://lmgtfy.com",
+                "start": 0,
+                "url": "https://t.co/ZJLsEbzS7P"
+              }
+            ]
+          }
+        },
+        "id": "1492808050461196288",
+        "location": "Xi'an",
+        "name": "月",
+        "pinned_tweet_id": "2051609059468652938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050418708611571712/-6VIffCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 738,
+          "like_count": 1809,
+          "listed_count": 7,
+          "media_count": 857,
+          "tweet_count": 10100
+        },
+        "url": "https://t.co/ZJLsEbzS7P",
+        "username": "Breaking_Lead_G",
+        "verified": false
+      }
+    ]
+  }
+}

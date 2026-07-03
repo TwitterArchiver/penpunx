@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2045097917099463150",
+    "created_at": "2026-04-17T12:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045120109363261760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2009074459970555905",
+          "start": 0,
+          "username": "nylvim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045120109363261760",
+    "in_reply_to_user_id": "2009074459970555905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045097917099463150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nylvim 理论上是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2045097917099463150",
+        "created_at": "2026-04-17T12:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045120109363261760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2009074459970555905",
+              "start": 0,
+              "username": "nylvim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045120109363261760",
+        "in_reply_to_user_id": "2009074459970555905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045097917099463150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nylvim 理论上是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009074459970555905",
+        "conversation_id": "2045097917099463150",
+        "created_at": "2026-04-17T11:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045097917099463150"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045097917099463150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成功复现。以后我不需要其他药物了，普瑞巴林和一个良好的心态就够了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 413,
+          "like_count": 12066,
+          "listed_count": 1,
+          "media_count": 456,
+          "tweet_count": 3760
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T01:27:44.000Z",
+        "description": "「时间」胶囊\n来自你的过去。起初被作为抗失忆药物被开发，随后被证实导致████，但民间仍有秘密生产。每四小时服用两粒以减轻失忆症状。支援你的未来。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/vinylch",
+                "end": 23,
+                "expanded_url": "https://t.me/vinylch",
+                "start": 0,
+                "url": "https://t.co/K6ePPDfWrs"
+              }
+            ]
+          }
+        },
+        "id": "2009074459970555905",
+        "location": "dump群: 724794166",
+        "name": "vi is not nyl",
+        "pinned_tweet_id": "2029398794207687099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029192498338566144/G1mHHIUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 28,
+          "like_count": 3469,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 445
+        },
+        "url": "https://t.co/K6ePPDfWrs",
+        "username": "nylvim",
+        "verified": false
+      }
+    ]
+  }
+}

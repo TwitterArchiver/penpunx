@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2062946286765219929",
+    "created_at": "2026-06-05T17:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T18:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062946286765219929"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062946286765219929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么又在深夜video chat把%弄睡着了？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2062946286765219929",
+        "created_at": "2026-06-05T17:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062946286765219929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062946286765219929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么又在深夜video chat把%弄睡着了？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱",
+        "id": "1896904934995656704",
+        "name": "天",
+        "pinned_tweet_id": "2060383283750510858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060765626717933568/2wiuiD_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 559,
+          "like_count": 13623,
+          "listed_count": 1,
+          "media_count": 576,
+          "tweet_count": 4957
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

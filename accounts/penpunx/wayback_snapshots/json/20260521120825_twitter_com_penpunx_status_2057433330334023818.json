@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2057338163186880791",
+    "created_at": "2026-05-21T12:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T13:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057433330334023818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841093178268794881",
+          "start": 0,
+          "username": "idle_beaver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057433330334023818",
+    "in_reply_to_user_id": "1841093178268794881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057338163186880791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idle_beaver 视觉显收缩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2057338163186880791",
+        "created_at": "2026-05-21T12:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057433330334023818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841093178268794881",
+              "start": 0,
+              "username": "idle_beaver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057433330334023818",
+        "in_reply_to_user_id": "1841093178268794881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057338163186880791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idle_beaver 视觉显收缩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841093178268794881",
+        "conversation_id": "2057338163186880791",
+        "created_at": "2026-05-21T05:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057338163186880791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057338163186880791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我穿黑色衣服比浅色更好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 540,
+          "like_count": 13469,
+          "listed_count": 1,
+          "media_count": 525,
+          "tweet_count": 4711
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:30:02.000Z",
+        "description": "能规善造，巧夺天工，匠心独运，可一日建成罗马，点石成金也不在话下。",
+        "id": "1841093178268794881",
+        "location": "now here",
+        "name": "无鳃鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051077750870659073/NdMU5g1j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 27,
+          "like_count": 6749,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 94
+        },
+        "username": "idle_beaver",
+        "verified": false
+      }
+    ]
+  }
+}

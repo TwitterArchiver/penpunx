@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059638633296986112"
+      ],
+      "media_source_tweet_id": [
+        "2059638645712171210"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2059863131384647829",
+    "created_at": "2026-05-28T05:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059863131384647829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1692075579850563584",
+          "start": 3,
+          "username": "10Lystra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JxL5mIIWM1",
+          "end": 53,
+          "expanded_url": "https://x.com/10Lystra/status/2059638645712171210/photo/1",
+          "media_key": "3_2059638633296986112",
+          "start": 30,
+          "url": "https://t.co/JxL5mIIWM1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059863131384647829",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059638645712171210",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @10Lystra: ADHDer就医belike： https://t.co/JxL5mIIWM1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 955,
+        "media_key": "3_2059638633296986112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVObK9WgAAkXpt.jpg",
+        "width": 1015
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059638633296986112"
+          ],
+          "media_source_tweet_id": [
+            "2059638645712171210"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2059863131384647829",
+        "created_at": "2026-05-28T05:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059863131384647829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1692075579850563584",
+              "start": 3,
+              "username": "10Lystra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JxL5mIIWM1",
+              "end": 53,
+              "expanded_url": "https://x.com/10Lystra/status/2059638645712171210/photo/1",
+              "media_key": "3_2059638633296986112",
+              "start": 30,
+              "url": "https://t.co/JxL5mIIWM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059863131384647829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059638645712171210",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @10Lystra: ADHDer就医belike： https://t.co/JxL5mIIWM1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059638633296986112"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2059638645712171210",
+        "created_at": "2026-05-27T14:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059638645712171210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JxL5mIIWM1",
+              "end": 39,
+              "expanded_url": "https://x.com/10Lystra/status/2059638645712171210/photo/1",
+              "media_key": "3_2059638633296986112",
+              "start": 16,
+              "url": "https://t.co/JxL5mIIWM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059638645712171210",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 7485,
+          "like_count": 161,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "ADHDer就医belike： https://t.co/JxL5mIIWM1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059461762014220288/ItL7Bk11_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 555,
+          "like_count": 13462,
+          "listed_count": 1,
+          "media_count": 542,
+          "tweet_count": 4795
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「愿我早逝，且无来生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 939,
+          "like_count": 2437,
+          "listed_count": 4,
+          "media_count": 312,
+          "tweet_count": 7882
+        },
+        "username": "10Lystra",
+        "verified": false
+      }
+    ]
+  }
+}

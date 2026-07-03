@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1974738998754148352"
+      ],
+      "media_source_tweet_id": [
+        "1974739251611992228"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1975559770674466941",
+    "created_at": "2025-10-07T13:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T14:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975559770674466941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1648685716237598720",
+          "start": 3,
+          "username": "itsme_urstruly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SXXkVORFz3",
+          "end": 104,
+          "expanded_url": "https://x.com/itsme_urstruly/status/1974739251611992228/video/1",
+          "media_key": "7_1974738998754148352",
+          "start": 81,
+          "url": "https://t.co/SXXkVORFz3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975559770674466941",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22122
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974739251611992228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itsme_urstruly: The kids are starting garage bands again... world is healing https://t.co/SXXkVORFz3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71054,
+        "height": 1280,
+        "media_key": "7_1974738998754148352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1974738998754148352/pu/img/lUW0rcYs_CBNPSqq.jpg",
+        "public_metrics": {
+          "view_count": 1987652
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974738998754148352/pu/vid/avc1/320x568/Qspqu9SREsC8PWyF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974738998754148352/pu/vid/avc1/480x852/z2dyy7fXIt7at3W5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974738998754148352/pu/vid/avc1/720x1280/UZ9lQGU2CpGLqdeG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1974738998754148352/pu/pl/x9wgsB6YL7vDhTc6.m3u8?tag=12&v=bd0"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1974738998754148352"
+          ],
+          "media_source_tweet_id": [
+            "1974739251611992228"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1975559770674466941",
+        "created_at": "2025-10-07T13:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T14:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975559770674466941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1648685716237598720",
+              "start": 3,
+              "username": "itsme_urstruly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SXXkVORFz3",
+              "end": 104,
+              "expanded_url": "https://x.com/itsme_urstruly/status/1974739251611992228/video/1",
+              "media_key": "7_1974738998754148352",
+              "start": 81,
+              "url": "https://t.co/SXXkVORFz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975559770674466941",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22122
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974739251611992228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itsme_urstruly: The kids are starting garage bands again... world is healing https://t.co/SXXkVORFz3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1974738998754148352"
+          ]
+        },
+        "author_id": "1648685716237598720",
+        "conversation_id": "1974739251611992228",
+        "created_at": "2025-10-05T07:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T08:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974739251611992228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SXXkVORFz3",
+              "end": 84,
+              "expanded_url": "https://x.com/itsme_urstruly/status/1974739251611992228/video/1",
+              "media_key": "7_1974738998754148352",
+              "start": 61,
+              "url": "https://t.co/SXXkVORFz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974739251611992228",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23475,
+          "impression_count": 2787631,
+          "like_count": 216464,
+          "quote_count": 1132,
+          "reply_count": 1295,
+          "retweet_count": 22122
+        },
+        "reply_settings": "everyone",
+        "text": "The kids are starting garage bands again... world is healing https://t.co/SXXkVORFz3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1974498041756569769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975082924950310912/JRet2r2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 275,
+          "like_count": 10166,
+          "listed_count": 1,
+          "media_count": 353,
+          "tweet_count": 2426
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T13:51:49.000Z",
+        "description": "Best account to cleanse your timeline with positivity, humour and wholesome content | DM for credit or removal | Turn on notifications 🔔",
+        "id": "1648685716237598720",
+        "name": "Wholesome Side of 𝕏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847211116289527808/4gxkztuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409741,
+          "following_count": 95,
+          "like_count": 20061,
+          "listed_count": 776,
+          "media_count": 32526,
+          "tweet_count": 34693
+        },
+        "username": "itsme_urstruly",
+        "verified": true
+      }
+    ]
+  }
+}

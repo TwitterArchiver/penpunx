@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1953493766423081301",
+    "created_at": "2025-08-07T16:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T17:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953493770512871557"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1953493770512871557",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953493766423081301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不像以前，我很少再想起小时候的事情究竟给我带来了什么意义。我的直觉还是准，我也经常用直觉做决定。但是我很少再用直觉探索象征。我没有小时候的灵气了，我变笨了，但我也变开心了。至少现在我觉得这样挺开心的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1953493766423081301",
+        "created_at": "2025-08-07T16:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T17:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953493770512871557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953493770512871557",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953493766423081301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不像以前，我很少再想起小时候的事情究竟给我带来了什么意义。我的直觉还是准，我也经常用直觉做决定。但是我很少再用直觉探索象征。我没有小时候的灵气了，我变笨了，但我也变开心了。至少现在我觉得这样挺开心的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1953493766423081301",
+        "created_at": "2025-08-07T16:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T17:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953493766423081301"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953493766423081301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在不再喜欢思考深奥的话题，比如“自我是什么”“不断变化的感知背后有没有不变的某物”。哪怕要进行一些哲学或者深刻的思考，我也会围绕实用性展开(比如我之前谈论的关于艺术的感受与理解)。我喜欢在实感和日常小事中得到满足，比如新学会了生活技能、美味的饭菜、舒适的床铺、和恋人聊天的安心等。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 225,
+          "like_count": 7821,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 1820
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

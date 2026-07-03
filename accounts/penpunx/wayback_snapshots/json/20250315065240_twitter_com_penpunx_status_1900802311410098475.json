@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1900801945327333545",
+    "created_at": "2025-03-15T06:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T07:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900802311410098475"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1900802311410098475",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900802179226845244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "gta5自由度还挺高不过玩久了会很无聊\n无主之地系列的画风我很喜欢而且是为数不多我喜欢的科幻题材的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1900801945327333545",
+        "created_at": "2025-03-15T06:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T07:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900802311410098475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900802311410098475",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900802179226845244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "gta5自由度还挺高不过玩久了会很无聊\n无主之地系列的画风我很喜欢而且是为数不多我喜欢的科幻题材的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1900801945327333545",
+        "created_at": "2025-03-15T06:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T07:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900802179226845244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900802179226845244",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900801945327333545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "jc3好像是对抗一个独裁政府，小时候玩这个开始对那种防抗独裁之类的历史感兴趣("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "metal & rock & dungeon synth lover / 16yo neurodivergent guy / Chinese, English, Portuguese, Dutch in learning",
+        "id": "1896904934995656704",
+        "location": "He / him ",
+        "name": "penpunk",
+        "pinned_tweet_id": "1900570456283058246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898235281863852037/maSqb7YF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 110,
+          "like_count": 735,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 265
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

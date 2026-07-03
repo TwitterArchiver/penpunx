@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1935106680913805520",
+    "created_at": "2025-10-07T14:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T15:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975575197991547259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868647785438003200",
+          "start": 0,
+          "username": "GreyWallStoss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975575197991547259",
+    "in_reply_to_user_id": "1868647785438003200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935106680913805520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GreyWallStoss 这个图片的氛围和色彩就像幻觉一样.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_1935106667311677441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtrhQuOaQAEgZec.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_1935106667185586176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtrhQtwWQAA4fe5.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1935106680913805520",
+        "created_at": "2025-10-07T14:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T15:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975575197991547259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868647785438003200",
+              "start": 0,
+              "username": "GreyWallStoss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975575197991547259",
+        "in_reply_to_user_id": "1868647785438003200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935106680913805520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GreyWallStoss 这个图片的氛围和色彩就像幻觉一样.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935106667311677441",
+            "3_1935106667185586176"
+          ]
+        },
+        "author_id": "1868647785438003200",
+        "conversation_id": "1935106680913805520",
+        "created_at": "2025-06-17T22:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T23:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935106680913805520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gAPo60EJBR",
+              "end": 42,
+              "expanded_url": "https://x.com/GreyWallStoss/status/1935106680913805520/photo/1",
+              "media_key": "3_1935106667311677441",
+              "start": 19,
+              "url": "https://t.co/gAPo60EJBR"
+            },
+            {
+              "display_url": "pic.x.com/gAPo60EJBR",
+              "end": 42,
+              "expanded_url": "https://x.com/GreyWallStoss/status/1935106680913805520/photo/1",
+              "media_key": "3_1935106667185586176",
+              "start": 19,
+              "url": "https://t.co/gAPo60EJBR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935106680913805520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在路上看见了刺猬\n不是幻觉\n\n吗？ https://t.co/gAPo60EJBR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1974498041756569769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975082924950310912/JRet2r2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 276,
+          "like_count": 10162,
+          "listed_count": 1,
+          "media_count": 353,
+          "tweet_count": 2427
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T13:22:16.000Z",
+        "description": "决定开一个号发一些大号不方便发的东西/和大号画风不符合的东西/药物/音乐/什么的/如果私自回关老师们造成不安很抱歉！老师们可以直接关注",
+        "id": "1868647785438003200",
+        "name": "撞擊灰色的牆",
+        "pinned_tweet_id": "1868666322785341698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869716680596697088/q_IADrcu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 84,
+          "like_count": 789,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 263
+        },
+        "username": "GreyWallStoss",
+        "verified": false
+      }
+    ]
+  }
+}

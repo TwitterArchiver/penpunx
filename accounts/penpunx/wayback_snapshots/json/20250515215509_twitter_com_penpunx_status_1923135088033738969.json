@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1923100582849478896",
+    "created_at": "2025-05-15T21:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T22:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923135088033738969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1505242176560656386",
+          "start": 0,
+          "username": "ia0001_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923135088033738969",
+    "in_reply_to_user_id": "1505242176560656386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923100582849478896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ia0001_ 酸不酸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1923100582849478896",
+        "created_at": "2025-05-15T21:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T22:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923135088033738969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1505242176560656386",
+              "start": 0,
+              "username": "ia0001_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923135088033738969",
+        "in_reply_to_user_id": "1505242176560656386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923100582849478896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ia0001_ 酸不酸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505242176560656386",
+        "conversation_id": "1923100582849478896",
+        "created_at": "2025-05-15T19:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T20:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923100582849478896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923100582849478896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想喝康普茶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 199,
+          "like_count": 5564,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1233
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T17:58:09.000Z",
+        "description": "",
+        "id": "1505242176560656386",
+        "name": "ia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867013851029606400/A9xjdc2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 282,
+          "like_count": 28924,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 4628
+        },
+        "username": "ia0001_",
+        "verified": false
+      }
+    ]
+  }
+}

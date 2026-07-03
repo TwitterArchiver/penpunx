@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1907696606876676224",
+    "created_at": "2025-04-03T08:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T09:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907713977523777765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1264021976110120960",
+          "start": 0,
+          "username": "jinshendidiao"
+        },
+        {
+          "end": 27,
+          "id": "1522976249173450759",
+          "start": 15,
+          "username": "bocchi1chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907713977523777765",
+    "in_reply_to_user_id": "1264021976110120960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907699426862444676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinshendidiao @bocchi1chan 菠萝包好油腻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1907696606876676224",
+        "created_at": "2025-04-03T08:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T09:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907713977523777765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1264021976110120960",
+              "start": 0,
+              "username": "jinshendidiao"
+            },
+            {
+              "end": 27,
+              "id": "1522976249173450759",
+              "start": 15,
+              "username": "bocchi1chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907713977523777765",
+        "in_reply_to_user_id": "1264021976110120960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907699426862444676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinshendidiao @bocchi1chan 菠萝包好油腻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1264021976110120960",
+        "conversation_id": "1907696606876676224",
+        "created_at": "2025-04-03T07:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T08:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907699426862444676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1522976249173450759",
+              "start": 0,
+              "username": "bocchi1chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907699426862444676",
+        "in_reply_to_user_id": "1522976249173450759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907696606876676224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bocchi1chan 菠萝包里面的那种嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / world of warcraft / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 152,
+          "like_count": 2440,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 683
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-23T02:35:26.000Z",
+        "description": "男，习惯随手关注点赞，如有冒犯可联系我，我会取消。。见谅。",
+        "id": "1264021976110120960",
+        "name": "jsdd",
+        "pinned_tweet_id": "1721273322980405653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1362248890376876036/xcD4o1Vq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 998,
+          "like_count": 68258,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3053
+        },
+        "username": "jinshendidiao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T16:27:09.000Z",
+        "description": "music producer&photographer\nprivate message me on instagram ✉️\nhttps://t.co/jYpgMIVDT2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bocchi1chan/",
+                "end": 86,
+                "expanded_url": "https://www.instagram.com/bocchi1chan/",
+                "start": 63,
+                "url": "https://t.co/jYpgMIVDT2"
+              }
+            ]
+          }
+        },
+        "id": "1522976249173450759",
+        "location": "369m",
+        "name": "喵了个咪的",
+        "pinned_tweet_id": "1796584569728336074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637786167621070849/PM6I1hNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14450,
+          "following_count": 3279,
+          "like_count": 23066,
+          "listed_count": 19,
+          "media_count": 1537,
+          "tweet_count": 3181
+        },
+        "username": "bocchi1chan",
+        "verified": true
+      }
+    ]
+  }
+}

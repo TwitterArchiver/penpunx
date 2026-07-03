@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048029042881028097"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1364594897458663425",
+          "name": "Sauna"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364594897458663425",
+          "name": "Sauna"
+        }
+      }
+    ],
+    "conversation_id": "2048029057720484197",
+    "created_at": "2026-04-25T13:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048029057720484197"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9qITB7KIPI",
+          "end": 29,
+          "expanded_url": "https://x.com/penpunx/status/2048029057720484197/photo/1",
+          "media_key": "3_2048029042881028097",
+          "start": 6,
+          "url": "https://t.co/9qITB7KIPI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048029057720484197",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "sauna https://t.co/9qITB7KIPI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048029042881028097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwPkEabYAE6RG_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048029042881028097"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1364594897458663425",
+              "name": "Sauna"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364594897458663425",
+              "name": "Sauna"
+            }
+          }
+        ],
+        "conversation_id": "2048029057720484197",
+        "created_at": "2026-04-25T13:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048029057720484197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9qITB7KIPI",
+              "end": 29,
+              "expanded_url": "https://x.com/penpunx/status/2048029057720484197/photo/1",
+              "media_key": "3_2048029042881028097",
+              "start": 6,
+              "url": "https://t.co/9qITB7KIPI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048029057720484197",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "sauna https://t.co/9qITB7KIPI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 437,
+          "like_count": 12214,
+          "listed_count": 1,
+          "media_count": 467,
+          "tweet_count": 3862
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

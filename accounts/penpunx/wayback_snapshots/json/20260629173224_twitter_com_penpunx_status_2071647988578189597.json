@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2071647113361166509",
+    "created_at": "2026-06-29T17:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T18:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071647988578189597"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071647988578189597",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071647113361166509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们真的有自由意志的话，简直是有特异功能了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2071647113361166509",
+        "created_at": "2026-06-29T17:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071647988578189597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071647988578189597",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071647113361166509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们真的有自由意志的话，简直是有特异功能了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2071647113361166509",
+        "created_at": "2026-06-29T17:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071647113361166509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071647113361166509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然一段程序只是信息，但其运行能使承载它的硬件发生物理变化。但是这个程序也已经处于架构层面了。假如你是这个程序所创造的游戏里的一个角色，你未必知道底层代码。假如你解码了底层代码，你不能自己添加新的代码或者修改原代码。你不能特意跑跑跳跳试图把你的世界卡坏，只能程序bug让你不禁这么做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "万物",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 603,
+          "like_count": 14424,
+          "listed_count": 1,
+          "media_count": 728,
+          "tweet_count": 5870
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

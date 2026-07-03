@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1549234895188176897",
+    "conversation_id": "1816979973363892671",
+    "created_at": "2024-07-26T23:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T00:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816979973363892671"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "Vini",
+          "probability": 0.6139,
+          "start": 39,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1665044969046908928",
+          "start": 3,
+          "username": "yonlubeta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816979973363892671",
+    "lang": "pt",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816912577211097325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yonlubeta: 18 anos da sua partida, Vini. Obrigada por todo, vc foi realmente uma pessoa incrível. Espero do coração que você esteja bem…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549234895188176897",
+        "conversation_id": "1816979973363892671",
+        "created_at": "2024-07-26T23:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T00:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816979973363892671"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Vini",
+              "probability": 0.6139,
+              "start": 39,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1665044969046908928",
+              "start": 3,
+              "username": "yonlubeta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816979973363892671",
+        "lang": "pt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816912577211097325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yonlubeta: 18 anos da sua partida, Vini. Obrigada por todo, vc foi realmente uma pessoa incrível. Espero do coração que você esteja bem…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1816912573444354048"
+          ]
+        },
+        "author_id": "1665044969046908928",
+        "conversation_id": "1816912577211097325",
+        "created_at": "2024-07-26T19:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T20:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816912577211097325"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Vini",
+              "probability": 0.6397,
+              "start": 24,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/snPMW8v56q",
+              "end": 202,
+              "expanded_url": "https://twitter.com/yonlubeta/status/1816912577211097325/photo/1",
+              "media_key": "3_1816912573444354048",
+              "start": 179,
+              "url": "https://t.co/snPMW8v56q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816912577211097325",
+        "lang": "pt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "18 anos da sua partida, Vini. Obrigada por todo, vc foi realmente uma pessoa incrível. Espero do coração que você esteja bem independente de onde esteja. Será sempre lembrado!!🍿🧡 https://t.co/snPMW8v56q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-19T03:29:23.000Z",
+        "description": "im not there this isnt happening",
+        "id": "1549234895188176897",
+        "name": "-",
+        "pinned_tweet_id": "1815326942641508512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800030979840671744/YWVe7Yy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 443,
+          "like_count": 11409,
+          "listed_count": 1,
+          "tweet_count": 5573
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T17:17:48.000Z",
+        "description": "long life Jahsen!!",
+        "id": "1665044969046908928",
+        "location": "Rio Grande do Sul, Brazil",
+        "name": "v!",
+        "pinned_tweet_id": "1702092098491515088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815005981115338752/e1Tj4XWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 157,
+          "like_count": 21673,
+          "listed_count": 1,
+          "tweet_count": 4594
+        },
+        "username": "yonlubeta",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1950705560602702035",
+    "created_at": "2025-07-30T23:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T00:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950705560602702035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/landiantech/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/landiantech/status/1950444413492351203",
+          "start": 4,
+          "url": "https://t.co/8IbWGYVAHU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950705560602702035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950444413492351203",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看门狗 https://t.co/8IbWGYVAHU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1950705560602702035",
+        "created_at": "2025-07-30T23:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T00:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950705560602702035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/landiantech/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/landiantech/status/1950444413492351203",
+              "start": 4,
+              "url": "https://t.co/8IbWGYVAHU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950705560602702035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950444413492351203",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看门狗 https://t.co/8IbWGYVAHU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1602320477347000325",
+        "conversation_id": "1950444413492351203",
+        "created_at": "2025-07-30T06:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950444413492351203"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 9,
+              "tag": "Lovense"
+            }
+          ],
+          "urls": [
+            {
+              "description": "#安全资讯 成人性玩具制造商 Lovense 出现高危安全漏洞，借助漏洞可以接管用户账户并远程控制性玩具以及窃取私密信息。Loven…",
+              "display_url": "ourl.co/110004",
+              "end": 164,
+              "expanded_url": "https://ourl.co/110004",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1950444438557511680/oyFGf8Pb?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1950444438557511680/oyFGf8Pb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 141,
+              "status": 200,
+              "title": "成人性玩具制造商Lovense出现高危安全漏洞 可被远程控制性玩具造成伤害",
+              "unwound_url": "https://www.landiannews.com/archives/110004.html",
+              "url": "https://t.co/7fP18jknsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950444413492351203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 36096,
+          "like_count": 274,
+          "quote_count": 18,
+          "reply_count": 42,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "成人性玩具制造商 #Lovense 出现高危安全漏洞，借助漏洞可以接管用户账户并远程控制性玩具以及窃取私密信息。Lovense 来自新加坡，在全球拥有 2,000 万名用户，其性玩具可以通过 Lovense 配套应用进行控制，而借助漏洞可以远程控制用户账户和绑定的性玩具。查看全文：https://t.co/7fP18jknsw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 209,
+          "like_count": 7517,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 1758
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 订阅频道：https://t.co/xzeoUEoPcU 联系方式：https://t.co/LJK1g3biPp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/landiansub",
+                "end": 48,
+                "expanded_url": "https://t.me/landiansub",
+                "start": 25,
+                "url": "https://t.co/xzeoUEoPcU"
+              },
+              {
+                "display_url": "t.me/id7371",
+                "end": 77,
+                "expanded_url": "https://t.me/id7371",
+                "start": 54,
+                "url": "https://t.co/LJK1g3biPp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "1934117094939033766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26471,
+          "following_count": 642,
+          "like_count": 3504,
+          "listed_count": 237,
+          "media_count": 3938,
+          "tweet_count": 11618
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

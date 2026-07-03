@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2059973140739244323",
+    "created_at": "2026-05-28T12:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059977786463502473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1591761041133895680",
+          "start": 0,
+          "username": "Robert_Bumaro11"
+        },
+        {
+          "end": 33,
+          "id": "1492808050461196288",
+          "start": 17,
+          "username": "Breaking_Lead_G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059977786463502473",
+    "in_reply_to_user_id": "1591761041133895680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059977560377934153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Robert_Bumaro11 @Breaking_Lead_G 要论证主的存在，但是精妙设计一定能指向主的存在吗？暂且打个问号。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2059973140739244323",
+        "created_at": "2026-05-28T12:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059977786463502473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            },
+            {
+              "end": 33,
+              "id": "1492808050461196288",
+              "start": 17,
+              "username": "Breaking_Lead_G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059977786463502473",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059977560377934153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 @Breaking_Lead_G 要论证主的存在，但是精妙设计一定能指向主的存在吗？暂且打个问号。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2059973140739244323",
+        "created_at": "2026-05-28T12:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059977560377934153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            },
+            {
+              "end": 25,
+              "id": "1492808050461196288",
+              "start": 9,
+              "username": "Breaking_Lead_G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059977560377934153",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059977262561439763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx @Breaking_Lead_G 是了，主外无救赎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059461762014220288/ItL7Bk11_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 556,
+          "like_count": 13469,
+          "listed_count": 1,
+          "media_count": 542,
+          "tweet_count": 4802
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 438,
+          "like_count": 10901,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1249
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T10:29:22.000Z",
+        "description": "- 我愛 函數式編程 古典音樂 中古漢語 魔法 @10lulu2\n- 我恨 數學分析 實分析 傅裡葉分析 泛函分析 精神分析 犯愁論\n- GTNH / Celeste / Modder\n\n計算機科學/數學討論群 613637913",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "10lulu2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lmgtfy.com",
+                "end": 23,
+                "expanded_url": "http://lmgtfy.com",
+                "start": 0,
+                "url": "https://t.co/ZJLsEbzS7P"
+              }
+            ]
+          }
+        },
+        "id": "1492808050461196288",
+        "location": "Xi'an",
+        "name": "月",
+        "pinned_tweet_id": "2058235851281428740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050418708611571712/-6VIffCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 743,
+          "like_count": 1823,
+          "listed_count": 7,
+          "media_count": 866,
+          "tweet_count": 10190
+        },
+        "url": "https://t.co/ZJLsEbzS7P",
+        "username": "Breaking_Lead_G",
+        "verified": false
+      }
+    ]
+  }
+}

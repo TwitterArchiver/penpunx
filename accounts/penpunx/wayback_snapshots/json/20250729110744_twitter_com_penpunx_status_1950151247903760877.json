@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950151239926493184"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "1950151247903760877",
+    "created_at": "2025-07-29T11:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T12:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950151247903760877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QNwl3nevu3",
+          "end": 83,
+          "expanded_url": "https://x.com/penpunx/status/1950151247903760877/photo/1",
+          "media_key": "3_1950151239926493184",
+          "start": 60,
+          "url": "https://t.co/QNwl3nevu3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950151247903760877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "比起看引发哲学思考的番，我更喜欢可爱幸福的日常番，因为这种幸福的氛围可以感染我，让我感到更快乐☺️所以我最喜欢幸运星喵 https://t.co/QNwl3nevu3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 607,
+        "media_key": "3_1950151239926493184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxBUOGobMAAnTbu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950151239926493184"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1950151247903760877",
+        "created_at": "2025-07-29T11:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T12:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950151247903760877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QNwl3nevu3",
+              "end": 83,
+              "expanded_url": "https://x.com/penpunx/status/1950151247903760877/photo/1",
+              "media_key": "3_1950151239926493184",
+              "start": 60,
+              "url": "https://t.co/QNwl3nevu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950151247903760877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比起看引发哲学思考的番，我更喜欢可爱幸福的日常番，因为这种幸福的氛围可以感染我，让我感到更快乐☺️所以我最喜欢幸运星喵 https://t.co/QNwl3nevu3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "autistic 16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "TR",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 208,
+          "like_count": 7490,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 1740
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

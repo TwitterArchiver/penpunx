@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1910724097056923715",
+    "created_at": "2025-04-11T15:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T16:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910724097056923715"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1910724097056923715",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "安心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1910724097056923715",
+        "created_at": "2025-04-11T15:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T16:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910724097056923715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910724097056923715",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "安心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / world of warcraft / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 165,
+          "like_count": 3323,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 808
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

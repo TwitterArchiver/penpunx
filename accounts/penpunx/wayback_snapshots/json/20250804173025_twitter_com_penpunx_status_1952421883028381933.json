@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1952403312835187061",
+    "created_at": "2025-08-04T17:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T18:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952421883028381933"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1952421883028381933",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952403316513649026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我突然想到，感受对于个人而言的确很重要，但不是每个人都有同样敏锐的感受。通过分析去理解对我来说可能并非绕路，而是在这堵封闭的墙上开窗，窥探式地欣赏艺术。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1952403312835187061",
+        "created_at": "2025-08-04T17:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T18:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952421883028381933"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952421883028381933",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952403316513649026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我突然想到，感受对于个人而言的确很重要，但不是每个人都有同样敏锐的感受。通过分析去理解对我来说可能并非绕路，而是在这堵封闭的墙上开窗，窥探式地欣赏艺术。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1952403312835187061",
+        "created_at": "2025-08-04T16:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T17:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952403316513649026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952403316513649026",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952403312835187061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这些作品的设计理念、文化背景等，人们才能感受到艺术的冲击力。因此，我认为“去感受，不要去理解”这句话是在提醒人们不要本末倒置，过度关注理性框架而忽略了对作品最原初、未被概念化的感受。但是这句话并非提供了从零到一欣赏艺术作品的公式，我们也不应该否认理解的价值"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 224,
+          "like_count": 7730,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 1803
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

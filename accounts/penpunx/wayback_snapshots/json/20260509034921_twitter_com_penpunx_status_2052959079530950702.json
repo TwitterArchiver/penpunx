@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052959072241225728"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2052959079530950702",
+    "created_at": "2026-05-09T03:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T04:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052959079530950702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fhKxeEhjsl",
+          "end": 37,
+          "expanded_url": "https://x.com/penpunx/status/2052959079530950702/photo/1",
+          "media_key": "3_2052959072241225728",
+          "start": 14,
+          "url": "https://t.co/fhKxeEhjsl"
+        },
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/penpunx/status/2052788997563588618",
+          "start": 38,
+          "url": "https://t.co/VFEw1BmG3i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052959079530950702",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052788997563588618",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了gpt5.5（笑） https://t.co/fhKxeEhjsl https://t.co/VFEw1BmG3i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 346,
+        "media_key": "3_2052959072241225728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2TZi9akAAFMY-.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052959072241225728"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2052959079530950702",
+        "created_at": "2026-05-09T03:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052959079530950702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fhKxeEhjsl",
+              "end": 37,
+              "expanded_url": "https://x.com/penpunx/status/2052959079530950702/photo/1",
+              "media_key": "3_2052959072241225728",
+              "start": 14,
+              "url": "https://t.co/fhKxeEhjsl"
+            },
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/penpunx/status/2052788997563588618",
+              "start": 38,
+              "url": "https://t.co/VFEw1BmG3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052959079530950702",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052788997563588618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了gpt5.5（笑） https://t.co/fhKxeEhjsl https://t.co/VFEw1BmG3i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2052788997563588618",
+        "created_at": "2026-05-08T16:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052788997563588618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052788997563588618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "0/0型，极限未定，商导代之！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 512,
+          "like_count": 13029,
+          "listed_count": 1,
+          "media_count": 506,
+          "tweet_count": 4362
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

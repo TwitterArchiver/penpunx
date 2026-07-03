@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1549234895188176897",
+    "conversation_id": "1816975757442253219",
+    "created_at": "2024-07-26T23:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T00:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816980110580580477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1380737151281860611",
+          "start": 0,
+          "username": "OlhePorNos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816980110580580477",
+    "in_reply_to_user_id": "1380737151281860611",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816975757442253219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OlhePorNos yonyon😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1549234895188176897",
+        "conversation_id": "1816975757442253219",
+        "created_at": "2024-07-26T23:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T00:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816980110580580477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1380737151281860611",
+              "start": 0,
+              "username": "OlhePorNos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816980110580580477",
+        "in_reply_to_user_id": "1380737151281860611",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816975757442253219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OlhePorNos yonyon😭"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816975752362856448"
+          ]
+        },
+        "author_id": "1380737151281860611",
+        "conversation_id": "1816975757442253219",
+        "created_at": "2024-07-26T23:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T00:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816975757442253219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/gcvxQcoQCs",
+              "end": 76,
+              "expanded_url": "https://twitter.com/OlhePorNos/status/1816975757442253219/photo/1",
+              "media_key": "3_1816975752362856448",
+              "start": 53,
+              "url": "https://t.co/gcvxQcoQCs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816975757442253219",
+        "lang": "pt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 41,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "18 anos desde que o yonlu se foi\n descanse em paz :) https://t.co/gcvxQcoQCs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-19T03:29:23.000Z",
+        "description": "im not there this isnt happening",
+        "id": "1549234895188176897",
+        "name": "-",
+        "pinned_tweet_id": "1815326942641508512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800030979840671744/YWVe7Yy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 443,
+          "like_count": 11410,
+          "listed_count": 1,
+          "tweet_count": 5574
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-10T04:19:42.000Z",
+        "description": "Cara de segunda-feira `^`",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "orkut.com",
+                "end": 23,
+                "expanded_url": "Https://www.orkut.com",
+                "start": 0,
+                "url": "https://t.co/G5eJ3r6Wai"
+              }
+            ]
+          }
+        },
+        "id": "1380737151281860611",
+        "location": "place onde Judas beat as botas",
+        "name": "vinnez",
+        "pinned_tweet_id": "1733200524265095423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816355363001696256/iqHyoU1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 105,
+          "like_count": 2832,
+          "listed_count": 1,
+          "tweet_count": 4196
+        },
+        "url": "https://t.co/G5eJ3r6Wai",
+        "username": "OlhePorNos",
+        "verified": false
+      }
+    ]
+  }
+}

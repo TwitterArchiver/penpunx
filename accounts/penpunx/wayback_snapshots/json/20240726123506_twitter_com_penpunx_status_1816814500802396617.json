@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1549234895188176897",
+    "conversation_id": "1816801937070723503",
+    "created_at": "2024-07-26T12:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T13:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816814500802396617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1518193420820492288",
+          "start": 0,
+          "username": "itsnicodobeco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816814500802396617",
+    "in_reply_to_user_id": "1518193420820492288",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816812696467050989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsnicodobeco You were cute then kkkkkkkkkkkkkkkk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1549234895188176897",
+        "conversation_id": "1816801937070723503",
+        "created_at": "2024-07-26T12:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T13:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816814500802396617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518193420820492288",
+              "start": 0,
+              "username": "itsnicodobeco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816814500802396617",
+        "in_reply_to_user_id": "1518193420820492288",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816812696467050989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnicodobeco You were cute then kkkkkkkkkkkkkkkk"
+      },
+      {
+        "attachments": {},
+        "author_id": "1518193420820492288",
+        "conversation_id": "1816801937070723503",
+        "created_at": "2024-07-26T12:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T13:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816812696467050989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1549234895188176897",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816812696467050989",
+        "in_reply_to_user_id": "1549234895188176897",
+        "lang": "ht",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816811170059420156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx Let my 13yo be a 13yo man"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-19T03:29:23.000Z",
+        "description": "im not there this isnt happening",
+        "id": "1549234895188176897",
+        "name": "-",
+        "pinned_tweet_id": "1815326942641508512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800030979840671744/YWVe7Yy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 443,
+          "like_count": 11398,
+          "listed_count": 1,
+          "tweet_count": 5570
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-24T11:42:11.000Z",
+        "description": "criatura desinteligente fã de Zelda• não binário• uso qualquer pronome• 16",
+        "id": "1518193420820492288",
+        "location": "any pronouns. pt, sumtimes eng",
+        "name": "Nick 🍉",
+        "pinned_tweet_id": "1801831899410620441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816516998261563392/ScZveFF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 1078,
+          "like_count": 54933,
+          "listed_count": 22,
+          "tweet_count": 76545
+        },
+        "username": "itsnicodobeco",
+        "verified": false
+      }
+    ]
+  }
+}

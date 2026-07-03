@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2024835348501876941",
+    "created_at": "2026-02-20T13:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T14:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024835348501876941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/karmanimaxwx/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/karmanimaxwx/status/2024831097058767281",
+          "start": 12,
+          "url": "https://t.co/xYLX5sHLO4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024835348501876941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024831097058767281",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "背景是我的前电脑桌面！ https://t.co/xYLX5sHLO4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2940,
+        "media_key": "3_2024831073382023168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmlIhsbwAA-oFY.jpg",
+        "width": 1974
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2024835348501876941",
+        "created_at": "2026-02-20T13:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024835348501876941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/karmanimaxwx/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/karmanimaxwx/status/2024831097058767281",
+              "start": 12,
+              "url": "https://t.co/xYLX5sHLO4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024835348501876941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024831097058767281",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "背景是我的前电脑桌面！ https://t.co/xYLX5sHLO4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024831073382023168"
+          ]
+        },
+        "author_id": "1738459764118769664",
+        "conversation_id": "2024831097058767281",
+        "created_at": "2026-02-20T12:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024831097058767281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kA5N3J07ho",
+              "end": 23,
+              "expanded_url": "https://x.com/karmanimaXwX/status/2024831097058767281/photo/1",
+              "media_key": "3_2024831073382023168",
+              "start": 0,
+              "url": "https://t.co/kA5N3J07ho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024831097058767281",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 163,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kA5N3J07ho"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2024557534829564202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 312,
+          "like_count": 10805,
+          "listed_count": 1,
+          "media_count": 401,
+          "tweet_count": 2938
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T07:21:43.000Z",
+        "description": "たまに絵を描いています。 AIやめてね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@karmanimaXwX",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@karmanimaXwX",
+                "start": 0,
+                "url": "https://t.co/p0XwHE8g1m"
+              }
+            ]
+          }
+        },
+        "id": "1738459764118769664",
+        "name": "Kr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023756063015923712/cJYdCh7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1702,
+          "following_count": 241,
+          "like_count": 87895,
+          "listed_count": 10,
+          "media_count": 62,
+          "tweet_count": 3612
+        },
+        "url": "https://t.co/p0XwHE8g1m",
+        "username": "karmanimaXwX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2057327397373174268",
+    "created_at": "2026-05-21T11:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057421356313223453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013517011729465344",
+          "start": 0,
+          "username": "RfbxaUauj41685"
+        },
+        {
+          "end": 27,
+          "id": "1554387909587136512",
+          "start": 16,
+          "username": "Gag_Order_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057421356313223453",
+    "in_reply_to_user_id": "2013517011729465344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057327397373174268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RfbxaUauj41685 @Gag_Order_ 加兰他敏，梦境增强。喜欢，可以做清醒梦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2057327397373174268",
+        "created_at": "2026-05-21T11:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057421356313223453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013517011729465344",
+              "start": 0,
+              "username": "RfbxaUauj41685"
+            },
+            {
+              "end": 27,
+              "id": "1554387909587136512",
+              "start": 16,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057421356313223453",
+        "in_reply_to_user_id": "2013517011729465344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057327397373174268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RfbxaUauj41685 @Gag_Order_ 加兰他敏，梦境增强。喜欢，可以做清醒梦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013517011729465344",
+        "conversation_id": "2057327397373174268",
+        "created_at": "2026-05-21T05:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057327397373174268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057327397373174268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5219,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "o圈有没有维新派去大胆尝试新药物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 539,
+          "like_count": 13468,
+          "listed_count": 1,
+          "media_count": 523,
+          "tweet_count": 4704
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T07:40:54.000Z",
+        "description": "男/mtx 前世：@rednightmare962",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 0,
+                "url": "https://t.co/nif78SR5wo"
+              }
+            ]
+          }
+        },
+        "id": "2013517011729465344",
+        "name": "洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036639177761333249/V3qDiwX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 86,
+          "like_count": 726,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 426
+        },
+        "url": "https://t.co/nif78SR5wo",
+        "username": "RfbxaUauj41685",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 72,
+          "like_count": 63,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 68
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

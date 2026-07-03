@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2015753501985632550",
+    "created_at": "2026-01-27T02:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T03:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015975041134166049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841093178268794881",
+          "start": 0,
+          "username": "idle_beaver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015975041134166049",
+    "in_reply_to_user_id": "1841093178268794881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015753501985632550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idle_beaver 多冲几次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2015753501985632550",
+        "created_at": "2026-01-27T02:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T03:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015975041134166049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841093178268794881",
+              "start": 0,
+              "username": "idle_beaver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015975041134166049",
+        "in_reply_to_user_id": "1841093178268794881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015753501985632550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idle_beaver 多冲几次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841093178268794881",
+        "conversation_id": "2015753501985632550",
+        "created_at": "2026-01-26T11:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015753501985632550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015753501985632550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有完全消除性欲的办法，作为和对于任何性别的……CPA似乎很好，它好像让我忘记世界上有性别这回事了，下个月继续吃。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2012869391504023900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 296,
+          "like_count": 10448,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 2807
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:30:02.000Z",
+        "description": "现实戒断中 / email: u@uhio.uk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "uhio.uk/void",
+                "end": 23,
+                "expanded_url": "http://uhio.uk/void",
+                "start": 0,
+                "url": "https://t.co/WMoIHNeDdb"
+              }
+            ]
+          }
+        },
+        "id": "1841093178268794881",
+        "location": "now here",
+        "name": "欧拉扣",
+        "pinned_tweet_id": "2005557494320660954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014953111018995716/b08b8vYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 28,
+          "like_count": 4293,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/WMoIHNeDdb",
+        "username": "idle_beaver",
+        "verified": false
+      }
+    ]
+  }
+}

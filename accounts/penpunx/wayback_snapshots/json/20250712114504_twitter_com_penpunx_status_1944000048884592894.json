@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1943952761173028976",
+    "created_at": "2025-07-12T11:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T12:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944000048884592894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1687432699202695168",
+          "start": 0,
+          "username": "imonsick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944000048884592894",
+    "in_reply_to_user_id": "1687432699202695168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943989802937835828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imonsick 谢谢你🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1943952761173028976",
+        "created_at": "2025-07-12T11:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T12:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944000048884592894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687432699202695168",
+              "start": 0,
+              "username": "imonsick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944000048884592894",
+        "in_reply_to_user_id": "1687432699202695168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943989802937835828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imonsick 谢谢你🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687432699202695168",
+        "conversation_id": "1943952761173028976",
+        "created_at": "2025-07-12T11:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T12:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943989802937835828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943989802937835828",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943987616694812728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 干得好🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "Jupiter III",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 208,
+          "like_count": 6955,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1588
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T11:58:10.000Z",
+        "description": "#の|~0!u",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 2,
+                "start": 0,
+                "tag": "の"
+              }
+            ]
+          }
+        },
+        "id": "1687432699202695168",
+        "location": "#",
+        "name": "覗",
+        "pinned_tweet_id": "1772324681644646694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927964130893516800/7vbEqNbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 127,
+          "like_count": 29706,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 4222
+        },
+        "username": "imonsick",
+        "verified": false
+      }
+    ]
+  }
+}

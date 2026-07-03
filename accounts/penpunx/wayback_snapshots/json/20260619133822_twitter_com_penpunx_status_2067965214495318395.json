@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2067949809290383763",
+    "created_at": "2026-06-19T13:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067965214495318395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053440124856467456",
+          "start": 0,
+          "username": "ZOMBIEKING1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067965214495318395",
+    "in_reply_to_user_id": "2053440124856467456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067949809290383763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZOMBIEKING1111 马克奥勒留"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2067949790080516096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLVYKsXwAAso5Z.jpg",
+        "width": 976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2067949809290383763",
+        "created_at": "2026-06-19T13:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067965214495318395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053440124856467456",
+              "start": 0,
+              "username": "ZOMBIEKING1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067965214495318395",
+        "in_reply_to_user_id": "2053440124856467456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067949809290383763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZOMBIEKING1111 马克奥勒留"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067949790080516096"
+          ]
+        },
+        "author_id": "2053440124856467456",
+        "conversation_id": "2067949809290383763",
+        "created_at": "2026-06-19T12:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067949809290383763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JI06uUqmem",
+              "end": 29,
+              "expanded_url": "https://x.com/ZOMBIEKING1111/status/2067949809290383763/photo/1",
+              "media_key": "3_2067949790080516096",
+              "start": 6,
+              "url": "https://t.co/JI06uUqmem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067949809290383763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我做了汉化 https://t.co/JI06uUqmem"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "%",
+        "id": "1896904934995656704",
+        "location": "谛室多摩他槃",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 578,
+          "like_count": 13954,
+          "listed_count": 1,
+          "media_count": 646,
+          "tweet_count": 5351
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T11:41:01.000Z",
+        "description": "od/shtwt king of the earth he/him\n专心过好自己的唐人生活",
+        "id": "2053440124856467456",
+        "name": "我以为尿的高就可以遮住我的眼泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066772444346499072/A-MyxOhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 30,
+          "like_count": 630,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 322
+        },
+        "url": "",
+        "username": "ZOMBIEKING1111",
+        "verified": false
+      }
+    ]
+  }
+}

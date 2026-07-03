@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2063922005909594368",
+    "created_at": "2026-06-10T11:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T12:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064666184973496673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2041218436651794433",
+          "start": 0,
+          "username": "4pinkmatter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064666184973496673",
+    "in_reply_to_user_id": "2041218436651794433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063922005909594368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@4pinkmatter 没有莲雾好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2063922005909594368",
+        "created_at": "2026-06-10T11:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064666184973496673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2041218436651794433",
+              "start": 0,
+              "username": "4pinkmatter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064666184973496673",
+        "in_reply_to_user_id": "2041218436651794433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063922005909594368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@4pinkmatter 没有莲雾好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041218436651794433",
+        "conversation_id": "2063922005909594368",
+        "created_at": "2026-06-08T09:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063922005909594368"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063922005909594368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我喜欢荔枝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱，月亮。",
+        "id": "1896904934995656704",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 564,
+          "like_count": 13670,
+          "listed_count": 1,
+          "media_count": 605,
+          "tweet_count": 5066
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T18:18:32.000Z",
+        "description": "❤️@chibanak1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "chibanak1"
+              }
+            ]
+          }
+        },
+        "id": "2041218436651794433",
+        "name": "Kagayaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041558738923089922/et6jQmnl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 90,
+          "like_count": 1807,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 608
+        },
+        "username": "4pinkmatter",
+        "verified": false
+      }
+    ]
+  }
+}

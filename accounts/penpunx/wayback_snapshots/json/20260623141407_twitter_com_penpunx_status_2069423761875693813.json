@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2069423761875693813",
+    "created_at": "2026-06-23T14:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069423761875693813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "3317179594",
+          "start": 3,
+          "username": "nobinobinobino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069423761875693813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069177255645827354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nobinobinobino: 瑙姆堡教堂里的两尊耶稣出自两个时代。\n\n中世纪耶稣受难像有一条很清晰的变化：从“胜利基督”到“受难基督”。\n\n罗曼式（1160年左右）的基督（左）常常睁眼、挺立、庄严，像是在十字架上战胜死亡；哥特式（右，1245-1250年）则开始低头、…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069177247890817025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcxvnXaQAESlij.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069177247768944640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcxvm6WoAAKxmF.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2069423761875693813",
+        "created_at": "2026-06-23T14:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069423761875693813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "3317179594",
+              "start": 3,
+              "username": "nobinobinobino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069423761875693813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069177255645827354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nobinobinobino: 瑙姆堡教堂里的两尊耶稣出自两个时代。\n\n中世纪耶稣受难像有一条很清晰的变化：从“胜利基督”到“受难基督”。\n\n罗曼式（1160年左右）的基督（左）常常睁眼、挺立、庄严，像是在十字架上战胜死亡；哥特式（右，1245-1250年）则开始低头、…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069177247890817025",
+            "3_2069177247768944640"
+          ]
+        },
+        "author_id": "3317179594",
+        "conversation_id": "2069177255645827354",
+        "created_at": "2026-06-22T21:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T22:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069177255645827354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D5SSUrinbf",
+              "end": 161,
+              "expanded_url": "https://x.com/nobinobinobino/status/2069177255645827354/photo/1",
+              "media_key": "3_2069177247890817025",
+              "start": 138,
+              "url": "https://t.co/D5SSUrinbf"
+            },
+            {
+              "display_url": "pic.x.com/D5SSUrinbf",
+              "end": 161,
+              "expanded_url": "https://x.com/nobinobinobino/status/2069177255645827354/photo/1",
+              "media_key": "3_2069177247768944640",
+              "start": 138,
+              "url": "https://t.co/D5SSUrinbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069177255645827354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 702,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "瑙姆堡教堂里的两尊耶稣出自两个时代。\n\n中世纪耶稣受难像有一条很清晰的变化：从“胜利基督”到“受难基督”。\n\n罗曼式（1160年左右）的基督（左）常常睁眼、挺立、庄严，像是在十字架上战胜死亡；哥特式（右，1245-1250年）则开始低头、闭眼、身体下垂，痛苦被直接表现出来。 https://t.co/D5SSUrinbf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "DXM星系",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 584,
+          "like_count": 14067,
+          "listed_count": 1,
+          "media_count": 678,
+          "tweet_count": 5496
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-10T10:37:27.000Z",
+        "description": "你好 我是nobi🐱aka 猫儿(mer)｜閒聊頻道｜蜀漢粵閩日英蘭獨 在學仏国語🇫🇷｜會經常分享有趣的地圖🗺️｜不正經語言學頻道｜亞歐古建築🏯和豆知識頻道｜歡迎各位follow 我們會成為好朋友的 | 风貌 @Raychan_da",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "Raychan_da"
+              }
+            ]
+          }
+        },
+        "id": "3317179594",
+        "location": "🌏貓星",
+        "name": "nobiにゃ🎐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799549816541761537/lzMgAK3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 1039,
+          "like_count": 28063,
+          "listed_count": 4,
+          "media_count": 1480,
+          "tweet_count": 9600
+        },
+        "url": "",
+        "username": "nobinobinobino",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2027410069374267718",
+    "created_at": "2026-02-27T16:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027424983304339748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1455058421040828426",
+          "start": 0,
+          "username": "slaughtermtfk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027424983304339748",
+    "in_reply_to_user_id": "1455058421040828426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027410069374267718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@slaughtermtfk 这不是包茎了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2027410069374267718",
+        "created_at": "2026-02-27T16:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027424983304339748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455058421040828426",
+              "start": 0,
+              "username": "slaughtermtfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027424983304339748",
+        "in_reply_to_user_id": "1455058421040828426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027410069374267718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@slaughtermtfk 这不是包茎了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455058421040828426",
+        "conversation_id": "2027410069374267718",
+        "created_at": "2026-02-27T15:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027410069374267718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/masculinepath0…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/masculinepath04/status/2027387819841495386",
+              "start": 6,
+              "url": "https://t.co/Obxl7Zq0LQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027410069374267718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027387819841495386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这么小 https://t.co/Obxl7Zq0LQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2024557534829564202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 328,
+          "like_count": 11128,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 3108
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T06:25:46.000Z",
+        "description": "all my agony and wrath",
+        "id": "1455058421040828426",
+        "name": "bloomingloom",
+        "pinned_tweet_id": "1696555390857588974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829011223985434627/fEvHVKRh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 374,
+          "like_count": 22327,
+          "listed_count": 6,
+          "media_count": 554,
+          "tweet_count": 6524
+        },
+        "username": "slaughtermtfk",
+        "verified": false
+      }
+    ]
+  }
+}

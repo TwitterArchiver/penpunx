@@ -1,0 +1,263 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1815103964355952640"
+      ],
+      "media_source_tweet_id": [
+        "1815103967493595164"
+      ]
+    },
+    "author_id": "1549234895188176897",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1815401833835405518",
+    "created_at": "2024-07-22T15:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-22T16:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815401833835405518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1554852700143206413",
+          "start": 3,
+          "username": "lobisomempidao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/tO3rlrEzQt",
+          "end": 68,
+          "expanded_url": "https://twitter.com/lobisomempidao/status/1815103967493595164/photo/1",
+          "media_key": "3_1815103964355952640",
+          "start": 45,
+          "url": "https://t.co/tO3rlrEzQt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815401833835405518",
+    "lang": "pt",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 602
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815103967493595164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lobisomempidao: vi ela beijando outro kk https://t.co/tO3rlrEzQt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1059,
+        "media_key": "3_1815103964355952640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTCLcFHXAAA3M7I.jpg",
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815103964355952640"
+          ],
+          "media_source_tweet_id": [
+            "1815103967493595164"
+          ]
+        },
+        "author_id": "1549234895188176897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1815401833835405518",
+        "created_at": "2024-07-22T15:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T16:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815401833835405518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1554852700143206413",
+              "start": 3,
+              "username": "lobisomempidao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/tO3rlrEzQt",
+              "end": 68,
+              "expanded_url": "https://twitter.com/lobisomempidao/status/1815103967493595164/photo/1",
+              "media_key": "3_1815103964355952640",
+              "start": 45,
+              "url": "https://t.co/tO3rlrEzQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815401833835405518",
+        "lang": "pt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 602
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815103967493595164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lobisomempidao: vi ela beijando outro kk https://t.co/tO3rlrEzQt"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815103964355952640"
+          ]
+        },
+        "author_id": "1554852700143206413",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1815103967493595164",
+        "created_at": "2024-07-21T19:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T20:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815103967493595164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/tO3rlrEzQt",
+              "end": 48,
+              "expanded_url": "https://twitter.com/lobisomempidao/status/1815103967493595164/photo/1",
+              "media_key": "3_1815103964355952640",
+              "start": 25,
+              "url": "https://t.co/tO3rlrEzQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815103967493595164",
+        "lang": "pt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 135702,
+          "like_count": 5614,
+          "quote_count": 43,
+          "reply_count": 63,
+          "retweet_count": 602
+        },
+        "reply_settings": "everyone",
+        "text": "vi ela beijando outro kk https://t.co/tO3rlrEzQt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-19T03:29:23.000Z",
+        "description": "im not there this isnt happening",
+        "id": "1549234895188176897",
+        "name": "-",
+        "pinned_tweet_id": "1815326942641508512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800030979840671744/YWVe7Yy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 439,
+          "like_count": 11244,
+          "listed_count": 0,
+          "tweet_count": 5530
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T15:32:35.000Z",
+        "description": "Mim dá um real /conta paródia/ DM for promo",
+        "id": "1554852700143206413",
+        "location": "📩 contatopidao@gmail.com",
+        "name": "Lobisomem Pidão 🐺",
+        "pinned_tweet_id": "1804900194015748172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707835214431449088/5WjZGlpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353810,
+          "following_count": 246,
+          "like_count": 3834,
+          "listed_count": 175,
+          "tweet_count": 9010
+        },
+        "username": "lobisomempidao",
+        "verified": true
+      }
+    ]
+  }
+}

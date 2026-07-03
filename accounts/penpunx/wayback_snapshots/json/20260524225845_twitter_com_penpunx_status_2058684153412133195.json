@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2058637469772550550",
+    "created_at": "2026-05-24T22:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T23:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058684153412133195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1797831340987195392",
+          "start": 0,
+          "username": "nagaikisetsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058684153412133195",
+    "in_reply_to_user_id": "1797831340987195392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058637469772550550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nagaikisetsu 1.大段文字拆分\n2.可视化\n3.节奏上和一般小说不同"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058637461694431232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJG_3UGbwAAQA24.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2058637469772550550",
+        "created_at": "2026-05-24T22:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T23:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058684153412133195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1797831340987195392",
+              "start": 0,
+              "username": "nagaikisetsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058684153412133195",
+        "in_reply_to_user_id": "1797831340987195392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058637469772550550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nagaikisetsu 1.大段文字拆分\n2.可视化\n3.节奏上和一般小说不同"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058637461694431232"
+          ]
+        },
+        "author_id": "1797831340987195392",
+        "conversation_id": "2058637469772550550",
+        "created_at": "2026-05-24T19:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T20:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058637469772550550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aLcmu8MgOe",
+              "end": 38,
+              "expanded_url": "https://x.com/nagaikisetsu/status/2058637469772550550/photo/1",
+              "media_key": "3_2058637461694431232",
+              "start": 15,
+              "url": "https://t.co/aLcmu8MgOe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058637469772550550",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "typical adhder https://t.co/aLcmu8MgOe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 557,
+          "like_count": 13547,
+          "listed_count": 1,
+          "media_count": 535,
+          "tweet_count": 4774
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T03:23:07.000Z",
+        "description": "",
+        "id": "1797831340987195392",
+        "location": "Abyss",
+        "name": "iv",
+        "pinned_tweet_id": "1948671608551604689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057189153276895233/A9ll0PvX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 67,
+          "like_count": 4997,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 109
+        },
+        "username": "nagaikisetsu",
+        "verified": false
+      }
+    ]
+  }
+}

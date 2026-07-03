@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2038310012003774618",
+    "created_at": "2026-03-29T21:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T22:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038367311812579613"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038367311812579613",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038310325607624741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "让我想起了悲惨世界音乐剧的最后一句话\nTo love another person is to see the face of god\n\n推己及人的爱就是与上帝同在的意思吗\n其实我之前一直没有理解\n不过这是一种vibe\nnow i get it"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2038310012003774618",
+        "created_at": "2026-03-29T21:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T22:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038367311812579613"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038367311812579613",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038310325607624741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让我想起了悲惨世界音乐剧的最后一句话\nTo love another person is to see the face of god\n\n推己及人的爱就是与上帝同在的意思吗\n其实我之前一直没有理解\n不过这是一种vibe\nnow i get it"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2038310012003774618",
+        "created_at": "2026-03-29T17:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038310325607624741"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038310325607624741",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038310230564700415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢爱的情感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 383,
+          "like_count": 11685,
+          "listed_count": 1,
+          "media_count": 430,
+          "tweet_count": 3459
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

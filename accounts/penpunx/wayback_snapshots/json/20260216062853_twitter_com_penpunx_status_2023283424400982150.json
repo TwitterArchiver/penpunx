@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2007562246478827570",
+    "created_at": "2026-02-16T06:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T07:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023283424400982150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682687182375636992",
+          "start": 0,
+          "username": "Cavaradossi1008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023283424400982150",
+    "in_reply_to_user_id": "1682687182375636992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023283198302806336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cavaradossi1008 诶\n你是孟加拉或者印度人吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2007562246478827570",
+        "created_at": "2026-02-16T06:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023283424400982150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682687182375636992",
+              "start": 0,
+              "username": "Cavaradossi1008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023283424400982150",
+        "in_reply_to_user_id": "1682687182375636992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023283198302806336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cavaradossi1008 诶\n你是孟加拉或者印度人吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682687182375636992",
+        "conversation_id": "2007562246478827570",
+        "created_at": "2026-02-16T06:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023283198302806336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023283198302806336",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023282788519313846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 达卡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2012869391504023900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 303,
+          "like_count": 10619,
+          "listed_count": 1,
+          "media_count": 396,
+          "tweet_count": 2897
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T09:41:26.000Z",
+        "description": "நமசிவாய🔱sanatani🇮🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MajheMaherPand…",
+                "end": 23,
+                "expanded_url": "https://t.me/MajheMaherPandhari",
+                "start": 0,
+                "url": "https://t.co/bNqhFL4qFx"
+              }
+            ]
+          }
+        },
+        "id": "1682687182375636992",
+        "location": "巴德里纳特,德瓦尔卡,普里,和拉梅斯瓦拉姆",
+        "name": "MerryMerryHearn",
+        "pinned_tweet_id": "2007562246478827570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012458291763216385/t9Lxu0fj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 1430,
+          "like_count": 163359,
+          "listed_count": 10,
+          "media_count": 1220,
+          "tweet_count": 16636
+        },
+        "url": "https://t.co/bNqhFL4qFx",
+        "username": "Cavaradossi1008",
+        "verified": false
+      }
+    ]
+  }
+}

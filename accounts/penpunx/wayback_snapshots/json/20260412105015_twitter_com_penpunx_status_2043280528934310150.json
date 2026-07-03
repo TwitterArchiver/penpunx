@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2043272988964110633",
+    "created_at": "2026-04-12T10:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T11:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043280528934310150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754774517594181632",
+          "start": 0,
+          "username": "ValenceLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043280528934310150",
+    "in_reply_to_user_id": "1754774517594181632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043272988964110633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValenceLab 剧烈幽默"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3480,
+        "media_key": "3_2043272947838971904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsp65sbcAAd87K.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2043272988964110633",
+        "created_at": "2026-04-12T10:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043280528934310150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754774517594181632",
+              "start": 0,
+              "username": "ValenceLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043280528934310150",
+        "in_reply_to_user_id": "1754774517594181632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043272988964110633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValenceLab 剧烈幽默"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043272947838971904"
+          ]
+        },
+        "author_id": "1754774517594181632",
+        "conversation_id": "2043272988964110633",
+        "created_at": "2026-04-12T10:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043272988964110633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/26sXthQOb7",
+              "end": 28,
+              "expanded_url": "https://x.com/ValenceLab/status/2043272988964110633/photo/1",
+              "media_key": "3_2043272947838971904",
+              "start": 5,
+              "url": "https://t.co/26sXthQOb7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043272988964110633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪位推友 https://t.co/26sXthQOb7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2043276472291594369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 398,
+          "like_count": 11906,
+          "listed_count": 1,
+          "media_count": 454,
+          "tweet_count": 3647
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥频道链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceRC_cp",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceRC_cp",
+                "start": 0,
+                "url": "https://t.co/3X53fRNTwL"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "location": "本栖湖",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 157,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 214
+        },
+        "url": "https://t.co/3X53fRNTwL",
+        "username": "ValenceLab",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1939153450807558372",
+    "created_at": "2025-06-29T02:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T03:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939153450807558372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gunsnrosesgirl…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/gunsnrosesgirl3/status/1938913962243883376",
+          "start": 5,
+          "url": "https://t.co/DZkf6ZQ2NQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939153450807558372",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 75,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938913962243883376",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "need https://t.co/DZkf6ZQ2NQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18831,
+        "height": 1280,
+        "media_key": "7_1919080338426384384",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1919080338426384384/pu/img/5AvR1E8gPYrct0vs.jpg",
+        "public_metrics": {
+          "view_count": 23616399
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919080338426384384/pu/vid/avc1/320x568/dOr4-QNYxg4AWT33.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919080338426384384/pu/vid/avc1/480x852/hofDTuVKEZsUCrMw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919080338426384384/pu/vid/avc1/720x1280/S3CrKOQUi7iEm9yr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1919080338426384384/pu/pl/Metw7V7ss70xbTQ6.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1939153450807558372",
+        "created_at": "2025-06-29T02:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T03:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939153450807558372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gunsnrosesgirl…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/gunsnrosesgirl3/status/1938913962243883376",
+              "start": 5,
+              "url": "https://t.co/DZkf6ZQ2NQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939153450807558372",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938913962243883376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "need https://t.co/DZkf6ZQ2NQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1919080338426384384"
+          ],
+          "media_source_tweet_id": [
+            "1919080381912879464"
+          ]
+        },
+        "author_id": "1179892477714718721",
+        "conversation_id": "1938913962243883376",
+        "created_at": "2025-06-28T10:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T11:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938913962243883376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ziP3pUc1JO",
+              "end": 71,
+              "expanded_url": "https://x.com/YKwolfpec/status/1919080381912879464/video/1",
+              "media_key": "7_1919080338426384384",
+              "start": 48,
+              "url": "https://t.co/ziP3pUc1JO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938913962243883376",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7161,
+          "impression_count": 13068781,
+          "like_count": 18370,
+          "quote_count": 332,
+          "reply_count": 303,
+          "retweet_count": 1060
+        },
+        "reply_settings": "everyone",
+        "text": "Laser scar revision therapy \n\n 📹lasermorvarid\n\n https://t.co/ziP3pUc1JO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "network",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 203,
+          "like_count": 6631,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1504
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-03T22:54:31.000Z",
+        "description": "science in context, art history and some puzzles to solve",
+        "id": "1179892477714718721",
+        "location": "Earth ",
+        "name": "Science girl",
+        "pinned_tweet_id": "1916112906954977785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504867101923762178/gfZgsqoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3304859,
+          "following_count": 5787,
+          "like_count": 132004,
+          "listed_count": 13047,
+          "media_count": 47553,
+          "tweet_count": 77261
+        },
+        "username": "gunsnrosesgirl3",
+        "verified": true
+      }
+    ]
+  }
+}

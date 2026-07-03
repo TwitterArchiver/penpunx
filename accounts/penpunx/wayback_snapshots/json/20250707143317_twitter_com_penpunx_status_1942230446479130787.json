@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1941708425949290525",
+    "created_at": "2025-07-07T14:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T15:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942230446479130787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1602328096622800896",
+          "start": 0,
+          "username": "dutyge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942230446479130787",
+    "in_reply_to_user_id": "1602328096622800896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941708425949290525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dutyge 等我退休了我也想学开飞机"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1599,
+        "media_key": "3_1941708422224769024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvJVhbwXcAACtIv.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1941708425949290525",
+        "created_at": "2025-07-07T14:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T15:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942230446479130787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1602328096622800896",
+              "start": 0,
+              "username": "dutyge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942230446479130787",
+        "in_reply_to_user_id": "1602328096622800896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941708425949290525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dutyge 等我退休了我也想学开飞机"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941708422224769024"
+          ]
+        },
+        "author_id": "1602328096622800896",
+        "conversation_id": "1941708425949290525",
+        "created_at": "2025-07-06T03:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T04:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941708425949290525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g8FTlPcL9r",
+              "end": 62,
+              "expanded_url": "https://x.com/dutyge/status/1941708425949290525/photo/1",
+              "media_key": "3_1941708422224769024",
+              "start": 39,
+              "url": "https://t.co/g8FTlPcL9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941708425949290525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 138589,
+          "like_count": 896,
+          "quote_count": 6,
+          "reply_count": 129,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "中国GDP是美国的70％，人口是他的4倍，为什么内需却没有美国那么旺盛？\n👇 https://t.co/g8FTlPcL9r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "Jupiter III",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940674221174046720/31d1mOAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 203,
+          "like_count": 6842,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1553
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:42:59.000Z",
+        "description": "duty哥小号，失业报道采集检索。",
+        "id": "1602328096622800896",
+        "location": "颐和园路",
+        "name": "失业观察日报",
+        "pinned_tweet_id": "1704100809909080560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913529297802756096/Zhm8-Qqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33924,
+          "following_count": 98,
+          "like_count": 0,
+          "listed_count": 130,
+          "media_count": 7060,
+          "tweet_count": 11717
+        },
+        "username": "dutyge",
+        "verified": false
+      }
+    ]
+  }
+}

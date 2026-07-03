@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1907648188208808444",
+    "created_at": "2025-04-03T04:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T05:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907649862419825003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1898008454138413057",
+          "start": 0,
+          "username": "safewordyeah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907649862419825003",
+    "in_reply_to_user_id": "1898008454138413057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907648188208808444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@safewordyeah 午安🫂🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1907648188208808444",
+        "created_at": "2025-04-03T04:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T05:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907649862419825003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1898008454138413057",
+              "start": 0,
+              "username": "safewordyeah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907649862419825003",
+        "in_reply_to_user_id": "1898008454138413057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907648188208808444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safewordyeah 午安🫂🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898008454138413057",
+        "conversation_id": "1907648188208808444",
+        "created_at": "2025-04-03T04:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T05:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907648188208808444"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907648188208808444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中午补个觉，下午去公司"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo audhd guy / dungeon synth & rock & metal lover / world of warcraft / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 152,
+          "like_count": 2425,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 678
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T13:51:28.000Z",
+        "description": "my goal is to be gentle and strong",
+        "id": "1898008454138413057",
+        "name": "somewhereinbetween",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898008810037690371/CZ6N2R3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 37,
+          "like_count": 467,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 101
+        },
+        "username": "safewordyeah",
+        "verified": false
+      }
+    ]
+  }
+}

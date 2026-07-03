@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2027369496097525952",
+    "created_at": "2026-02-27T13:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T14:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027378023155294371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597166953617326081",
+          "start": 0,
+          "username": "dngfngleigus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027378023155294371",
+    "in_reply_to_user_id": "1597166953617326081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027369496097525952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dngfngleigus 这个我听过！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2027369492565860354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKpz-DaIAIbOJQ.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2027369496097525952",
+        "created_at": "2026-02-27T13:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027378023155294371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597166953617326081",
+              "start": 0,
+              "username": "dngfngleigus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027378023155294371",
+        "in_reply_to_user_id": "1597166953617326081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027369496097525952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dngfngleigus 这个我听过！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027369492565860354"
+          ]
+        },
+        "author_id": "1597166953617326081",
+        "conversation_id": "2027369496097525952",
+        "created_at": "2026-02-27T13:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027369496097525952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/67yvMiBoo7",
+              "end": 131,
+              "expanded_url": "https://x.com/dngfngleigus/status/2027369496097525952/photo/1",
+              "media_key": "3_2027369492565860354",
+              "start": 108,
+              "url": "https://t.co/67yvMiBoo7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027369496097525952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《Quantum Garden》-Twin Galaxxies\n来自英国🇬🇧\n第四张专辑\n发行时间:2025年\n风格流派:柏林学院、合成器、电子氛围\n评论:听着能舒舒服服睡大觉，看专辑封号感觉魔幻但作品又很科幻味。 https://t.co/67yvMiBoo7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2024557534829564202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 328,
+          "like_count": 11117,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 3096
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T09:54:25.000Z",
+        "description": "Hi！/自由的社会主义者/支持🏳️‍🌈喵/追求艺术/金属乐爱好者/选择性互fo/不定期发癫/傻卵二次元/不定期推荐音乐相关内容/历史爱好者/英语En不是很好请谅解",
+        "id": "1597166953617326081",
+        "location": "幻想乡",
+        "name": "没脑袋de赤蛮奇♫⃠",
+        "pinned_tweet_id": "1607003761037443074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880913815057108993/BqqYN42O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 3836,
+          "like_count": 105536,
+          "listed_count": 6,
+          "media_count": 1274,
+          "tweet_count": 6185
+        },
+        "username": "dngfngleigus",
+        "verified": false
+      }
+    ]
+  }
+}

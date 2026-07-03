@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2062626539221770534",
+    "created_at": "2026-06-05T04:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062748872032837684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868647785438003200",
+          "start": 0,
+          "username": "GreyWallStoss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062748872032837684",
+    "in_reply_to_user_id": "1868647785438003200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062626539221770534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GreyWallStoss 乖孩子…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2062626539221770534",
+        "created_at": "2026-06-05T04:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062748872032837684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868647785438003200",
+              "start": 0,
+              "username": "GreyWallStoss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062748872032837684",
+        "in_reply_to_user_id": "1868647785438003200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062626539221770534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GreyWallStoss 乖孩子…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868647785438003200",
+        "conversation_id": "2062626539221770534",
+        "created_at": "2026-06-04T20:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T21:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062626539221770534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062626539221770534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的天 pr 怎么这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱",
+        "id": "1896904934995656704",
+        "name": "天",
+        "pinned_tweet_id": "2060383283750510858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060765626717933568/2wiuiD_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 557,
+          "like_count": 13616,
+          "listed_count": 1,
+          "media_count": 572,
+          "tweet_count": 4943
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T13:22:16.000Z",
+        "description": "决定开一个号发一些大号不方便发的东西/和大号画风不符合的东西/药物/音乐/什么的/如果私自回关老师们造成不安很抱歉！老师们可以直接关注",
+        "id": "1868647785438003200",
+        "name": "撞擊灰色的牆",
+        "pinned_tweet_id": "1868666322785341698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869716680596697088/q_IADrcu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 103,
+          "like_count": 985,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 344
+        },
+        "username": "GreyWallStoss",
+        "verified": false
+      }
+    ]
+  }
+}

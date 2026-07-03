@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1898664445812891894",
+    "created_at": "2025-03-09T11:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T12:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898698569684857322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1891683174964658176",
+          "start": 0,
+          "username": "Solarkey514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898698569684857322",
+    "in_reply_to_user_id": "1891683174964658176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898664445812891894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Solarkey514 我回来啦"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1898664445812891894].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1898664445812891894",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1898664445812891894"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1898664445812891894",
+        "created_at": "2025-03-09T11:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T12:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898698569684857322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1891683174964658176",
+              "start": 0,
+              "username": "Solarkey514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898698569684857322",
+        "in_reply_to_user_id": "1891683174964658176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898664445812891894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Solarkey514 我回来啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "Is Thalstanian - never gives up / metal & rock & dungeon synth lover / 16yo neurodivergent guy / Chinese, English, Portuguese in learning / he/him",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898235281863852037/maSqb7YF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 88,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 95
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T02:59:33.000Z",
+        "description": "我玩贝斯和煮🔥\nI play Bass and cook\n新号别搞😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@solarkey404",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@solarkey404",
+                "start": 0,
+                "url": "https://t.co/mPBM76tahN"
+              }
+            ]
+          }
+        },
+        "id": "1891683174964658176",
+        "name": "Solarkey（二周目新号",
+        "pinned_tweet_id": "1892575478944584074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891684000080723968/bO3AgS2l_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 52,
+          "like_count": 1557,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 213
+        },
+        "url": "https://t.co/mPBM76tahN",
+        "username": "Solarkey514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1956949232939647018",
+    "created_at": "2025-08-17T07:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T08:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956983965228871684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1797831340987195392",
+          "start": 0,
+          "username": "nagaikisetsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956983965228871684",
+    "in_reply_to_user_id": "1797831340987195392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956983407424295110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nagaikisetsu 日高+和你做同学的话我可能会期待一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1956949232939647018",
+        "created_at": "2025-08-17T07:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T08:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956983965228871684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1797831340987195392",
+              "start": 0,
+              "username": "nagaikisetsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956983965228871684",
+        "in_reply_to_user_id": "1797831340987195392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956983407424295110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nagaikisetsu 日高+和你做同学的话我可能会期待一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797831340987195392",
+        "conversation_id": "1956949232939647018",
+        "created_at": "2025-08-17T07:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T08:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956983407424295110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956983407424295110",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956949232939647018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 日高的话我可能会期待一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 247,
+          "like_count": 8267,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 1925
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T03:23:07.000Z",
+        "description": "",
+        "id": "1797831340987195392",
+        "name": "iv",
+        "pinned_tweet_id": "1948671608551604689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947361144471212032/SIj4Jm8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 57,
+          "like_count": 3817,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 669
+        },
+        "username": "nagaikisetsu",
+        "verified": false
+      }
+    ]
+  }
+}

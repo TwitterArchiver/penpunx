@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2011898958445232522",
+    "created_at": "2026-01-15T20:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T21:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011898958445232522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/penpunx/status/1934038336370602410",
+          "start": 15,
+          "url": "https://t.co/QYIb1k6sR8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011898958445232522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934038336370602410",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个也是期末考试之前通宵写的 https://t.co/QYIb1k6sR8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75388,
+        "height": 1920,
+        "media_key": "13_1934038251498835968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1934038251498835968/img/m_CNrDCF2x1jQGzc.jpg",
+        "public_metrics": {
+          "view_count": 44
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934038251498835968/vid/avc1/320x568/lWT8FZxsX44zTBWH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934038251498835968/vid/avc1/480x852/q1LTXeh5Kovuc-vy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934038251498835968/vid/avc1/720x1280/9lOR2pBqr9FMsISh.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1934038251498835968/pl/WUqLHcPG7CH0A-AK.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2011898958445232522",
+        "created_at": "2026-01-15T20:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T21:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011898958445232522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/penpunx/status/1934038336370602410",
+              "start": 15,
+              "url": "https://t.co/QYIb1k6sR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011898958445232522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934038336370602410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个也是期末考试之前通宵写的 https://t.co/QYIb1k6sR8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1934038251498835968"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "1934038336370602410",
+        "created_at": "2025-06-15T00:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T01:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934038336370602410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fOBYPSGKCE",
+              "end": 32,
+              "expanded_url": "https://x.com/penpunx/status/1934038336370602410/video/1",
+              "media_key": "13_1934038251498835968",
+              "start": 9,
+              "url": "https://t.co/fOBYPSGKCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934038336370602410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 130,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "即兴创作一曲（） https://t.co/fOBYPSGKCE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 287,
+          "like_count": 10272,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 2676
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

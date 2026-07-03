@@ -1,0 +1,277 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1815735918449381376"
+      ],
+      "media_source_tweet_id": [
+        "1815735939475329359"
+      ]
+    },
+    "author_id": "1549234895188176897",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1815769600967270494",
+    "created_at": "2024-07-23T15:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T16:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815769600967270494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1667683416320495616",
+          "start": 3,
+          "username": "necr0fobico"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/7Vae7TPqs2",
+          "end": 40,
+          "expanded_url": "https://twitter.com/necr0fobico/status/1815735939475329359/photo/1",
+          "media_key": "3_1815735918449381376",
+          "start": 17,
+          "url": "https://t.co/7Vae7TPqs2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815769600967270494",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815735939475329359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @necr0fobico: https://t.co/7Vae7TPqs2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 701,
+        "media_key": "3_1815735918449381376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTLKMpkX0AAX5L5.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815735918449381376"
+          ],
+          "media_source_tweet_id": [
+            "1815735939475329359"
+          ]
+        },
+        "author_id": "1549234895188176897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1815769600967270494",
+        "created_at": "2024-07-23T15:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T16:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815769600967270494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1667683416320495616",
+              "start": 3,
+              "username": "necr0fobico"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/7Vae7TPqs2",
+              "end": 40,
+              "expanded_url": "https://twitter.com/necr0fobico/status/1815735939475329359/photo/1",
+              "media_key": "3_1815735918449381376",
+              "start": 17,
+              "url": "https://t.co/7Vae7TPqs2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815769600967270494",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815735939475329359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @necr0fobico: https://t.co/7Vae7TPqs2"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815735918449381376"
+          ]
+        },
+        "author_id": "1667683416320495616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1815735939475329359",
+        "created_at": "2024-07-23T13:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T14:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815735939475329359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/7Vae7TPqs2",
+              "end": 23,
+              "expanded_url": "https://twitter.com/necr0fobico/status/1815735939475329359/photo/1",
+              "media_key": "3_1815735918449381376",
+              "start": 0,
+              "url": "https://t.co/7Vae7TPqs2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815735939475329359",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 160,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7Vae7TPqs2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-19T03:29:23.000Z",
+        "description": "im not there this isnt happening",
+        "id": "1549234895188176897",
+        "name": "-",
+        "pinned_tweet_id": "1815326942641508512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800030979840671744/YWVe7Yy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 441,
+          "like_count": 11287,
+          "listed_count": 0,
+          "tweet_count": 5541
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T00:01:34.000Z",
+        "description": "Eu amo a minha princesa. 🖤⚔️ \n\n✠︎ Aristocratic Suicidal Black Metal ✠︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "necrofobico.carrd.co",
+                "end": 23,
+                "expanded_url": "https://necrofobico.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/2vbNrJ5bvL"
+              }
+            ]
+          }
+        },
+        "id": "1667683416320495616",
+        "location": "(💍)  tenho dona",
+        "name": "𝔑𝔢𝔠𝔯𝔬𝔣𝔬𝔟𝔦𝔠𝔬 ✟",
+        "pinned_tweet_id": "1800963582894485819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815380240345989120/E9LDPiU0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 235,
+          "like_count": 21015,
+          "listed_count": 0,
+          "tweet_count": 15566
+        },
+        "url": "https://t.co/2vbNrJ5bvL",
+        "username": "necr0fobico",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1975121516586205270",
+    "created_at": "2025-10-07T04:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T05:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975422641701093701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1227949934655070208",
+          "start": 0,
+          "username": "ZokSwafford"
+        },
+        {
+          "end": 24,
+          "id": "1946598569747894273",
+          "start": 13,
+          "username": "xmin240286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975422641701093701",
+    "in_reply_to_user_id": "1227949934655070208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975419915197948237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZokSwafford @xmin240286 呜呜我们asd呜呜我们asd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1975121516586205270",
+        "created_at": "2025-10-07T04:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T05:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975422641701093701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1227949934655070208",
+              "start": 0,
+              "username": "ZokSwafford"
+            },
+            {
+              "end": 24,
+              "id": "1946598569747894273",
+              "start": 13,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975422641701093701",
+        "in_reply_to_user_id": "1227949934655070208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975419915197948237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZokSwafford @xmin240286 呜呜我们asd呜呜我们asd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227949934655070208",
+        "conversation_id": "1975121516586205270",
+        "created_at": "2025-10-07T04:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T05:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975419915197948237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1946598569747894273",
+              "start": 0,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975419915197948237",
+        "in_reply_to_user_id": "1946598569747894273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975121516586205270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmin240286 我记得他之前谈恋爱被asd伤到了还是什么（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "treni",
+        "pinned_tweet_id": "1974498041756569769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975082924950310912/JRet2r2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 275,
+          "like_count": 10123,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 2417
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-13T13:38:49.000Z",
+        "description": "🏳️‍⚧️ FtM He/Him 坐标北京🤔  鹿角狐身蛇尾的奇美拉😈心情不好就放蛇咬人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mastodon.social/@ZinSwafford",
+                "end": 23,
+                "expanded_url": "https://mastodon.social/@ZinSwafford",
+                "start": 0,
+                "url": "https://t.co/qdUw5NRQhB"
+              }
+            ]
+          }
+        },
+        "id": "1227949934655070208",
+        "name": "🫎+🦊=鹿角狐狸世界驻地球观察员",
+        "pinned_tweet_id": "1782813295914913806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796785467830210560/P73QYox__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 396,
+          "like_count": 16116,
+          "listed_count": 4,
+          "media_count": 1155,
+          "tweet_count": 21481
+        },
+        "url": "https://t.co/qdUw5NRQhB",
+        "username": "ZokSwafford",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "🏳️‍⚧️ 含糖MtF | 🌙 INFP-T | 🧩 AS | 🔪 BPD | 🌧️ 重度抑郁 | 🩸 病娇 | ❤️ 缺爱 | 💌 想要对象 | 🚫 无性恋 | ❄️ 性冷淡 | 💊 精神药理学 | 👩‍💻 五年 C# 开发经验 | ✨类人人工智能与情感交互研究人员💖💫 | 🫂 我一直在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 23,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 0,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️💔🩸",
+        "pinned_tweet_id": "1973669044730601696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973793735818555393/iJGXFswC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 201,
+          "like_count": 3240,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 2706
+        },
+        "url": "https://t.co/fUGMj5xj0K",
+        "username": "xmin240286",
+        "verified": true
+      }
+    ]
+  }
+}

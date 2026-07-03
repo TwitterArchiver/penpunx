@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2063807733242229170",
+    "created_at": "2026-06-08T02:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063807733242229170"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Name: 虚极乐队 (Bliss-Illusion)Country of origin: ChinaLocation: Beij...",
+          "display_url": "youtube.com/watch?v=CTVpPy…",
+          "end": 23,
+          "expanded_url": "https://www.youtube.com/watch?v=CTVpPyH6uDA",
+          "images": [
+            {
+              "height": 360,
+              "url": "https://pbs.twimg.com/news_img/2063807733690953728/NdqNiuvK?format=jpg&name=orig",
+              "width": 480
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2063807733690953728/NdqNiuvK?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "虚极乐队 - live \"往生\" [Fan Record]",
+          "unwound_url": "https://www.youtube.com/watch?v=CTVpPyH6uDA",
+          "url": "https://t.co/9DVFr26WiJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063807733242229170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/9DVFr26WiJ\n我喜欢佛教黑金属。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2063807733242229170",
+        "created_at": "2026-06-08T02:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063807733242229170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Name: 虚极乐队 (Bliss-Illusion)Country of origin: ChinaLocation: Beij...",
+              "display_url": "youtube.com/watch?v=CTVpPy…",
+              "end": 23,
+              "expanded_url": "https://www.youtube.com/watch?v=CTVpPyH6uDA",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2063807733690953728/NdqNiuvK?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063807733690953728/NdqNiuvK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "虚极乐队 - live \"往生\" [Fan Record]",
+              "unwound_url": "https://www.youtube.com/watch?v=CTVpPyH6uDA",
+              "url": "https://t.co/9DVFr26WiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063807733242229170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9DVFr26WiJ\n我喜欢佛教黑金属。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱，祈祷。",
+        "id": "1896904934995656704",
+        "name": "天",
+        "pinned_tweet_id": "2062947551297622499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060765626717933568/2wiuiD_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 563,
+          "like_count": 13635,
+          "listed_count": 1,
+          "media_count": 585,
+          "tweet_count": 4999
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

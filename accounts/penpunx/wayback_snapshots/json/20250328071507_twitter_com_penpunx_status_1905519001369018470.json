@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1905519001369018470",
+    "created_at": "2025-03-28T07:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T08:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905519001369018470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/manuhamu/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/manuhamu/status/1905516788445794347",
+          "start": 2,
+          "url": "https://t.co/LYg1p6ahm5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905519001369018470",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905516788445794347",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😴 https://t.co/LYg1p6ahm5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905516779604246528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnHBaknbgAAgF7d.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1905519001369018470",
+        "created_at": "2025-03-28T07:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T08:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905519001369018470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/manuhamu/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/manuhamu/status/1905516788445794347",
+              "start": 2,
+              "url": "https://t.co/LYg1p6ahm5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905519001369018470",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905516788445794347",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😴 https://t.co/LYg1p6ahm5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905516779604246528"
+          ]
+        },
+        "author_id": "1394223427",
+        "conversation_id": "1905516788445794347",
+        "created_at": "2025-03-28T07:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T08:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905516788445794347"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "日本",
+              "probability": 0.8296,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iIxEVjdJWC",
+              "end": 31,
+              "expanded_url": "https://x.com/manuhamu/status/1905516788445794347/photo/1",
+              "media_key": "3_1905516779604246528",
+              "start": 8,
+              "url": "https://t.co/iIxEVjdJWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905516788445794347",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 2970,
+          "like_count": 357,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "日本のどこかで https://t.co/iIxEVjdJWC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "metal & rock & dungeon synth lover / world of warcraft / 16yo audhd guy / Chinese, English, Portuguese, Japanese in learning",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903649285058822144/faCmf8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 138,
+          "like_count": 1868,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 602
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-01T09:34:08.000Z",
+        "description": "好きな絵を描きます。絵本『よるにおばけと』『はるってなんか』（ミシマ社）https://t.co/B9xdrrR4O2　作品集『風の中』https://t.co/VEdD1whdim　発売中です！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mishimasha.com/books/97849112…",
+                "end": 59,
+                "expanded_url": "https://mishimasha.com/books/9784911226162/",
+                "start": 36,
+                "url": "https://t.co/B9xdrrR4O2"
+              },
+              {
+                "display_url": "pie.co.jp/book/i/5765/",
+                "end": 91,
+                "expanded_url": "http://pie.co.jp/book/i/5765/",
+                "start": 68,
+                "url": "https://t.co/VEdD1whdim"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minami-no-shima.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://minami-no-shima.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/xAgXU3C5c9"
+              }
+            ]
+          }
+        },
+        "id": "1394223427",
+        "location": "ンキッャヒ",
+        "name": "みなはむ",
+        "pinned_tweet_id": "1904765828748525999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1692331778718220288/2HqIiial_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209643,
+          "following_count": 1225,
+          "like_count": 29486,
+          "listed_count": 1877,
+          "media_count": 4081,
+          "tweet_count": 42476
+        },
+        "url": "https://t.co/xAgXU3C5c9",
+        "username": "manuhamu",
+        "verified": false
+      }
+    ]
+  }
+}

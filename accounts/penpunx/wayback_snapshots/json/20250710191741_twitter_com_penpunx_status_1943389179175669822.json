@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1943323490784022806",
+    "created_at": "2025-07-10T19:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T20:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943389179175669822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741075170603749376",
+          "start": 0,
+          "username": "zhao_tito8964"
+        },
+        {
+          "end": 27,
+          "id": "1888664824089067520",
+          "start": 15,
+          "username": "LampWithMBV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943389179175669822",
+    "in_reply_to_user_id": "1741075170603749376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943337465848435066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhao_tito8964 @LampWithMBV 草()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1943323490784022806",
+        "created_at": "2025-07-10T19:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T20:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943389179175669822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741075170603749376",
+              "start": 0,
+              "username": "zhao_tito8964"
+            },
+            {
+              "end": 27,
+              "id": "1888664824089067520",
+              "start": 15,
+              "username": "LampWithMBV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943389179175669822",
+        "in_reply_to_user_id": "1741075170603749376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943337465848435066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhao_tito8964 @LampWithMBV 草()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741075170603749376",
+        "conversation_id": "1943323490784022806",
+        "created_at": "2025-07-10T15:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T16:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943337465848435066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888664824089067520",
+              "start": 0,
+              "username": "LampWithMBV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943337465848435066",
+        "in_reply_to_user_id": "1888664824089067520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943323490784022806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LampWithMBV 说的是李凯文吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "Jupiter III",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 206,
+          "like_count": 6880,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 1568
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T12:34:18.000Z",
+        "description": "摇滚乐/超现实主义",
+        "id": "1741075170603749376",
+        "location": "🚪80",
+        "name": "南京酒吐座",
+        "pinned_tweet_id": "1942532236823388539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934097837983502336/HMSR4DK-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 924,
+          "like_count": 19608,
+          "listed_count": 1,
+          "media_count": 1015,
+          "tweet_count": 13103
+        },
+        "username": "zhao_tito8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T19:02:44.000Z",
+        "description": "Oh I've got reservations\nabout so many things\nbut not about you",
+        "id": "1888664824089067520",
+        "location": "Girl meets NUMBER GIRL",
+        "name": "パンク蛹化の女",
+        "pinned_tweet_id": "1933944730083266896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942892009921851392/57Jzluff_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 248,
+          "like_count": 15367,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 4568
+        },
+        "username": "LampWithMBV",
+        "verified": false
+      }
+    ]
+  }
+}

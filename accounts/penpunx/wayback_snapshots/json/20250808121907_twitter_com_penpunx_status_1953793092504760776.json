@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1953616762538475786",
+    "created_at": "2025-08-08T12:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T13:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953793092504760776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597945043251187712",
+          "start": 0,
+          "username": "Sorsacerba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953793092504760776",
+    "in_reply_to_user_id": "1597945043251187712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953616762538475786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sorsacerba 感觉他迟早要出问题..在推特上爆出家庭背景，协助卖药，在网上对政治口出狂言，还经常说一些有争议的话比如“我希望润，这样警察打我的时候，我就可以说我是外国人你们敢打吗”还有“我希望中国的基建不烂尾这样我们家就一直有钱赚”，还把自己的校服照放在网上。网上还是谨慎一些好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1953616762538475786].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1953616762538475786",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1953616762538475786"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1953616762538475786",
+        "created_at": "2025-08-08T12:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T13:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953793092504760776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597945043251187712",
+              "start": 0,
+              "username": "Sorsacerba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953793092504760776",
+        "in_reply_to_user_id": "1597945043251187712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953616762538475786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorsacerba 感觉他迟早要出问题..在推特上爆出家庭背景，协助卖药，在网上对政治口出狂言，还经常说一些有争议的话比如“我希望润，这样警察打我的时候，我就可以说我是外国人你们敢打吗”还有“我希望中国的基建不烂尾这样我们家就一直有钱赚”，还把自己的校服照放在网上。网上还是谨慎一些好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 226,
+          "like_count": 7839,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 1826
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T13:26:10.000Z",
+        "description": "我在寻找一位有芒果气息的武士……  恋人 @Anastasia195113",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "Anastasia195113"
+              }
+            ]
+          }
+        },
+        "id": "1597945043251187712",
+        "location": "芒果武士党总部",
+        "name": "芒下 芋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952670824709918720/bunkZ7kr_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 727,
+          "like_count": 61923,
+          "listed_count": 7,
+          "media_count": 1294,
+          "tweet_count": 15074
+        },
+        "username": "Sorsacerba",
+        "verified": false
+      }
+    ]
+  }
+}

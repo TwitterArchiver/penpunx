@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1961734563077460184",
+    "created_at": "2025-08-30T15:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T16:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961814890194292928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688892925646929920",
+          "start": 0,
+          "username": "oxxxX_x_Xxxxo"
+        },
+        {
+          "end": 26,
+          "id": "1908668668919398400",
+          "start": 15,
+          "username": "Kazumasski"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961814890194292928",
+    "in_reply_to_user_id": "1688892925646929920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961780300868173972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxxxX_x_Xxxxo @Kazumasski 上实也不至于12上高中吧（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1961734563077460184",
+        "created_at": "2025-08-30T15:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T16:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961814890194292928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688892925646929920",
+              "start": 0,
+              "username": "oxxxX_x_Xxxxo"
+            },
+            {
+              "end": 26,
+              "id": "1908668668919398400",
+              "start": 15,
+              "username": "Kazumasski"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961814890194292928",
+        "in_reply_to_user_id": "1688892925646929920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961780300868173972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxxxX_x_Xxxxo @Kazumasski 上实也不至于12上高中吧（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688892925646929920",
+        "conversation_id": "1961734563077460184",
+        "created_at": "2025-08-30T13:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T14:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961780300868173972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908668668919398400",
+              "start": 0,
+              "username": "Kazumasski"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961780300868173972",
+        "in_reply_to_user_id": "1908668668919398400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961734563077460184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazumasski 上实进的上中吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 263,
+          "like_count": 8962,
+          "listed_count": 1,
+          "media_count": 280,
+          "tweet_count": 2055
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T12:40:44.000Z",
+        "description": "",
+        "id": "1688892925646929920",
+        "name": "躁狂奶爸",
+        "pinned_tweet_id": "1889227364565200974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961098321696788483/vOVoaqdz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 1285,
+          "like_count": 50337,
+          "listed_count": 3,
+          "media_count": 1840,
+          "tweet_count": 19661
+        },
+        "username": "oxxxX_x_Xxxxo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T23:50:54.000Z",
+        "description": "★佐々木 和真(ささき かずま)と申します★｜🏳️‍🌈｜オタク｜音ゲーマ｜13歳中2生✏️｜サブ垢@HHAAIIBOT 音ゲー垢@BBLLOOCCKK_｜头像是 #白买蓝｜〒SASHISUSESO@HOTMAIL.COM｜反跨｜我就这么一发您就这么一听哈｜在寻找流量密码！｜不擅长与人交际｜よろしく申し上げます。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 81,
+                "tag": "白买蓝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "HHAAIIBOT"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "BBLLOOCCKK_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "irasutoya.com",
+                "end": 23,
+                "expanded_url": "http://irasutoya.com",
+                "start": 0,
+                "url": "https://t.co/vxqq8xHxHO"
+              }
+            ]
+          }
+        },
+        "id": "1908668668919398400",
+        "location": "Anywhere",
+        "name": "佐々木 和真",
+        "pinned_tweet_id": "1960325548791500868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957974384536178688/6bgCdV20_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 3789,
+          "like_count": 5085,
+          "listed_count": 4,
+          "media_count": 998,
+          "tweet_count": 5481
+        },
+        "url": "https://t.co/vxqq8xHxHO",
+        "username": "Kazumasski",
+        "verified": true
+      }
+    ]
+  }
+}

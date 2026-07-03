@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1950057995682922646",
+    "created_at": "2025-07-29T05:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T06:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950070285568254060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844103262292803587",
+          "start": 0,
+          "username": "JJ2597758"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "mobile.yangkeduo.com/goods2.html?ps…",
+          "end": 34,
+          "expanded_url": "https://mobile.yangkeduo.com/goods2.html?ps=41XMs4le3h",
+          "start": 11,
+          "url": "https://t.co/itSFvu30gR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950070285568254060",
+    "in_reply_to_user_id": "1844103262292803587",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950057995682922646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JJ2597758 https://t.co/itSFvu30gR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1950057995682922646",
+        "created_at": "2025-07-29T05:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T06:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950070285568254060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844103262292803587",
+              "start": 0,
+              "username": "JJ2597758"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mobile.yangkeduo.com/goods2.html?ps…",
+              "end": 34,
+              "expanded_url": "https://mobile.yangkeduo.com/goods2.html?ps=41XMs4le3h",
+              "start": 11,
+              "url": "https://t.co/itSFvu30gR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950070285568254060",
+        "in_reply_to_user_id": "1844103262292803587",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950057995682922646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JJ2597758 https://t.co/itSFvu30gR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844103262292803587",
+        "conversation_id": "1950057995682922646",
+        "created_at": "2025-07-29T04:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T05:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950057995682922646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950057995682922646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求盐购买渠道 太贵的买不起。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "autistic 16yo / dungeon synth & rock & metal lover / speaks chinese, english and a little portuguese",
+        "id": "1896904934995656704",
+        "location": "TR",
+        "name": "penpunk",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 208,
+          "like_count": 7481,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 1739
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T19:51:03.000Z",
+        "description": "我没素质，",
+        "id": "1844103262292803587",
+        "name": "伴花作剑穗",
+        "pinned_tweet_id": "1946206518782926969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940839656532197376/hyHv_gZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 142,
+          "like_count": 20853,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1457
+        },
+        "username": "JJ2597758",
+        "verified": false
+      }
+    ]
+  }
+}

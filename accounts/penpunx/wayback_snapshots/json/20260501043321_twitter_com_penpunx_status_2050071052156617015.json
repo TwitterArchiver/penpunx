@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2050071052156617015",
+    "created_at": "2026-05-01T04:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T05:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050071052156617015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ichewthings/st…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/ichewthings/status/2049417119083721046",
+          "start": 26,
+          "url": "https://t.co/7xIjfO9DxF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050071052156617015",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049417119083721046",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "pea + maoi tastes better! https://t.co/7xIjfO9DxF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 91088,
+        "height": 1024,
+        "media_key": "13_2049416256974151680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049416256974151680/img/S7O3gbsk_3O5dp1P.jpg",
+        "public_metrics": {
+          "view_count": 112115
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049416256974151680/vid/avc1/320x568/sU7u58qBWlxqqwgt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049416256974151680/vid/avc1/480x852/LqBqMDGerxyLo6zd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049416256974151680/vid/avc1/576x1024/90dT0LVOTUp0gW05.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049416256974151680/pl/665hhwqR4_wAZSAD.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2050071052156617015",
+        "created_at": "2026-05-01T04:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050071052156617015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ichewthings/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/ichewthings/status/2049417119083721046",
+              "start": 26,
+              "url": "https://t.co/7xIjfO9DxF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050071052156617015",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049417119083721046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "pea + maoi tastes better! https://t.co/7xIjfO9DxF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049416256974151680"
+          ]
+        },
+        "author_id": "2011809072308527104",
+        "conversation_id": "2049417119083721046",
+        "created_at": "2026-04-29T09:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049417119083721046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hxjBBrV9vp",
+              "end": 56,
+              "expanded_url": "https://x.com/ichewthings/status/2049417119083721046/video/1",
+              "media_key": "13_2049416256974151680",
+              "start": 33,
+              "url": "https://t.co/hxjBBrV9vp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049417119083721046",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 755,
+          "impression_count": 433461,
+          "like_count": 5551,
+          "quote_count": 81,
+          "reply_count": 28,
+          "retweet_count": 703
+        },
+        "reply_settings": "everyone",
+        "text": "ever seen a rat fishing for peas https://t.co/hxjBBrV9vp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 459,
+          "like_count": 12390,
+          "listed_count": 1,
+          "media_count": 472,
+          "tweet_count": 3990
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T14:34:13.000Z",
+        "description": "(✿ ♥‿♥) just a rat with lots of love to give. send in your pet pics or videos. Dm for removal",
+        "id": "2011809072308527104",
+        "location": "Your house",
+        "name": "Rat 🎀",
+        "pinned_tweet_id": "2049937363803963887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011809295864655872/ezhTPL3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6232,
+          "following_count": 461,
+          "like_count": 30411,
+          "listed_count": 19,
+          "media_count": 351,
+          "tweet_count": 6184
+        },
+        "username": "ichewthings",
+        "verified": true
+      }
+    ]
+  }
+}

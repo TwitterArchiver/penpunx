@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1962586878756204545",
+    "created_at": "2025-09-01T18:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T19:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962586887132193095"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1962586887132193095",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962586878756204545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "毕竟是开学第一天，这么久没学习，也没有待在学校这种环境里。调整一下自己的状态应该很正常吧！希望明天下午不会焦虑了。放松第一，成绩第二，带有自信和轻松的心态即可。上学期越是chill成绩越好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1962586878756204545",
+        "created_at": "2025-09-01T18:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T19:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962586887132193095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962586887132193095",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962586878756204545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "毕竟是开学第一天，这么久没学习，也没有待在学校这种环境里。调整一下自己的状态应该很正常吧！希望明天下午不会焦虑了。放松第一，成绩第二，带有自信和轻松的心态即可。上学期越是chill成绩越好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1962586878756204545",
+        "created_at": "2025-09-01T18:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T19:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962586878756204545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962586878756204545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我有转换状态的困难\n开始专注之后，脑子里全部变成了“下一个任务是..，我需要做..准备，在..点之前完成”\n哪怕是休息时间也无法停下来\n所以当我遇到卡着不能完成的事情，或者感到疲劳的时候，就会焦急。明天我会尝试更放松一些，认真做的事情尽可能少，没必要做的就糊弄过去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1957420826913026413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 264,
+          "like_count": 9044,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 2069
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

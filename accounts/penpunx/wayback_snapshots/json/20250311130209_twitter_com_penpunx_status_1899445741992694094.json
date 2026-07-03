@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1899445741992694094",
+    "created_at": "2025-03-11T13:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T14:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899445741992694094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1554424317483655175",
+          "start": 3,
+          "username": "yuu00401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899445741992694094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899433161731272790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuu00401: 宝宝们能不能别攻击x了，好卡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1899445741992694094",
+        "created_at": "2025-03-11T13:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T14:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899445741992694094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1554424317483655175",
+              "start": 3,
+              "username": "yuu00401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899445741992694094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899433161731272790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuu00401: 宝宝们能不能别攻击x了，好卡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554424317483655175",
+        "conversation_id": "1899433161731272790",
+        "created_at": "2025-03-11T12:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T13:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899433161731272790"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899433161731272790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们能不能别攻击x了，好卡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "Is Thalstanian - never gives up / metal & rock & dungeon synth lover / 16yo neurodivergent guy / Chinese, English, Portuguese in learning",
+        "id": "1896904934995656704",
+        "location": "He / him ",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898235281863852037/maSqb7YF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 95,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 151
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T11:10:23.000Z",
+        "description": "时光啊就像潮水，带来一切，又送走一切",
+        "id": "1554424317483655175",
+        "location": "拉尼亚凯亚超星系",
+        "name": "yuu🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848599077329756160/QtNPMZSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2814,
+          "following_count": 658,
+          "like_count": 60827,
+          "listed_count": 4,
+          "media_count": 1895,
+          "tweet_count": 26622
+        },
+        "username": "yuu00401",
+        "verified": false
+      }
+    ]
+  }
+}

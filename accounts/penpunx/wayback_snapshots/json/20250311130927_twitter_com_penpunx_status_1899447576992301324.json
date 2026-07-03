@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1899447576992301324",
+    "created_at": "2025-03-11T13:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T14:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899447576992301324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LethalRC/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/LethalRC/status/1899347939065029088",
+          "start": 15,
+          "url": "https://t.co/KFBW8LDXXw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899447576992301324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899347939065029088",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "买了真不会被晶哥找上门吗,, https://t.co/KFBW8LDXXw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1899347928948338688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlvW4NHW8AAmvNC.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1899447576992301324",
+        "created_at": "2025-03-11T13:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T14:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899447576992301324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LethalRC/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/LethalRC/status/1899347939065029088",
+              "start": 15,
+              "url": "https://t.co/KFBW8LDXXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899447576992301324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899347939065029088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "买了真不会被晶哥找上门吗,, https://t.co/KFBW8LDXXw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899347928948338688"
+          ]
+        },
+        "author_id": "1826984800390889472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1899347939065029088",
+        "created_at": "2025-03-11T06:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T07:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899347939065029088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ur9JM9yd8s",
+              "end": 86,
+              "expanded_url": "https://x.com/LethalRC/status/1899347939065029088/photo/1",
+              "media_key": "3_1899347928948338688",
+              "start": 63,
+              "url": "https://t.co/Ur9JM9yd8s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899347939065029088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4499,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "淘宝店铺名称 vinceplant\n大家快去买，实测吃完致幻。里面含有很多种化学蘑菇成分。一次性多吃几个就能致幻和毒品一样嗨 https://t.co/Ur9JM9yd8s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "Is Thalstanian - never gives up / metal & rock & dungeon synth lover / 16yo neurodivergent guy / Chinese, English, Portuguese in learning",
+        "id": "1896904934995656704",
+        "location": "He / him ",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898235281863852037/maSqb7YF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 95,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 152
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:08:22.000Z",
+        "description": "纯良地雷男 | OD相关问题解答 | 提供各类合法RC（促智/抗抑郁/ADHD/娱乐） 永久群组用户名：https://t.co/r3NePGKCHK OD科普机器人：https://t.co/AU4I64XZOO 自助购物：https://t.co/Usj1sMLusv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/LethalRC",
+                "end": 75,
+                "expanded_url": "https://t.me/LethalRC",
+                "start": 52,
+                "url": "https://t.co/r3NePGKCHK"
+              },
+              {
+                "display_url": "t.me/DrugDataBot",
+                "end": 107,
+                "expanded_url": "https://t.me/DrugDataBot",
+                "start": 84,
+                "url": "https://t.co/AU4I64XZOO"
+              },
+              {
+                "display_url": "t.me/LethalRC_bot",
+                "end": 136,
+                "expanded_url": "https://t.me/LethalRC_bot",
+                "start": 113,
+                "url": "https://t.co/Usj1sMLusv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LethalRC",
+                "end": 23,
+                "expanded_url": "http://t.me/LethalRC",
+                "start": 0,
+                "url": "https://t.co/X82pA7CmoH"
+              }
+            ]
+          }
+        },
+        "id": "1826984800390889472",
+        "location": "中国最大研化学研究品社区",
+        "name": "𝗟𝗲𝘁𝗵𝗮𝗹 RC - 化学试剂【OFFICAL】",
+        "pinned_tweet_id": "1882019627238338898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887677401246703616/dDyTrXV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 34,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/X82pA7CmoH",
+        "username": "LethalRC",
+        "verified": false
+      }
+    ]
+  }
+}

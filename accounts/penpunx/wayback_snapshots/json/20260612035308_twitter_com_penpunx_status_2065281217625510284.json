@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2065281217625510284",
+    "created_at": "2026-06-12T03:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065281217625510284"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065281217625510284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚才听我同学用钢琴扒谱后摇，感觉和声还是有学习的必要的。但是我对后摇没有什么兴趣因为不是我的情绪。我喜欢后朋克，极简。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2065281217625510284",
+        "created_at": "2026-06-12T03:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065281217625510284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065281217625510284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚才听我同学用钢琴扒谱后摇，感觉和声还是有学习的必要的。但是我对后摇没有什么兴趣因为不是我的情绪。我喜欢后朋克，极简。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱，月亮。",
+        "id": "1896904934995656704",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 565,
+          "like_count": 13714,
+          "listed_count": 1,
+          "media_count": 610,
+          "tweet_count": 5101
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

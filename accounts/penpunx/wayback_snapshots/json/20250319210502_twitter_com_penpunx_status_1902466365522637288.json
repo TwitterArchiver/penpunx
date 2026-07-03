@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1902377747806388683",
+    "created_at": "2025-03-19T21:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T22:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902466365522637288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624393872037265413",
+          "start": 0,
+          "username": "CassiusKassik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902466365522637288",
+    "in_reply_to_user_id": "1624393872037265413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902378135573688756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CassiusKassik 不知道为什么我的梯子就是规则模式就是没用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1902377747806388683",
+        "created_at": "2025-03-19T21:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T22:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902466365522637288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624393872037265413",
+              "start": 0,
+              "username": "CassiusKassik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902466365522637288",
+        "in_reply_to_user_id": "1624393872037265413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902378135573688756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CassiusKassik 不知道为什么我的梯子就是规则模式就是没用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624393872037265413",
+        "conversation_id": "1902377747806388683",
+        "created_at": "2025-03-19T15:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T16:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902378135573688756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902378135573688756",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902377747806388683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 可以试试开梯子的白名单"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "metal & rock & dungeon synth lover / world of warcraft / 16yo neurodivergent guy / Chinese, English, Portuguese, Dutch in learning",
+        "id": "1896904934995656704",
+        "location": "He / him ",
+        "name": "penpunk",
+        "pinned_tweet_id": "1900570456283058246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898235281863852037/maSqb7YF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 115,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 387
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T13:04:23.000Z",
+        "description": "自私自利的自由主义者\n里推@HeinrichBatman",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "HeinrichBatman"
+              }
+            ]
+          }
+        },
+        "id": "1624393872037265413",
+        "name": "𝕮𝖆𝖘𝖘𝖎𝖚𝖘 𝕶𝖆𝖘𝖘𝖎𝖐",
+        "pinned_tweet_id": "1883349435394170972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900124518427119616/qPfY4M6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 758,
+          "like_count": 12292,
+          "listed_count": 3,
+          "media_count": 2355,
+          "tweet_count": 14577
+        },
+        "username": "CassiusKassik",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2065073742016110987",
+    "created_at": "2026-06-12T09:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065363811696361807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2014216293705187328",
+          "start": 0,
+          "username": "Mandykwko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065363811696361807",
+    "in_reply_to_user_id": "2014216293705187328",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065353427497132368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mandykwko I’m sorry to hear that!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2065073742016110987",
+        "created_at": "2026-06-12T09:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065363811696361807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2014216293705187328",
+              "start": 0,
+              "username": "Mandykwko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065363811696361807",
+        "in_reply_to_user_id": "2014216293705187328",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065353427497132368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mandykwko I’m sorry to hear that!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014216293705187328",
+        "conversation_id": "2065073742016110987",
+        "created_at": "2026-06-12T08:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065353427497132368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065353427497132368",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065289488235102529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx Ich habe Angst vor Deutsch, weil es mich traumatisiert hat."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱，月亮。",
+        "id": "1896904934995656704",
+        "name": "天▫️",
+        "pinned_tweet_id": "2064657549895553372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 566,
+          "like_count": 13728,
+          "listed_count": 1,
+          "media_count": 612,
+          "tweet_count": 5109
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T06:00:22.000Z",
+        "description": "ASD, ADHD, Aromatic, Agender, and American.\nAnd nobody, in all of Oz, no wizard that there is or was, is ever gonna bring me down.",
+        "id": "2014216293705187328",
+        "name": "Mandy",
+        "pinned_tweet_id": "2055130333289550121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047952507742416896/Ru54lhoG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 77,
+          "like_count": 4264,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 580
+        },
+        "username": "Mandykwko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2049764536874668536",
+    "created_at": "2026-04-30T08:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049764536874668536"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/penpunx/status/2049135211997437999",
+          "start": 19,
+          "url": "https://t.co/0b4ve1qfnO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049764536874668536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049135211997437999",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "答：不行\n愈美片现在要处方才能开了（ https://t.co/0b4ve1qfnO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2049764536874668536",
+        "created_at": "2026-04-30T08:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049764536874668536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/penpunx/status/2049135211997437999",
+              "start": 19,
+              "url": "https://t.co/0b4ve1qfnO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049764536874668536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049135211997437999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "答：不行\n愈美片现在要处方才能开了（ https://t.co/0b4ve1qfnO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2048823994279973062",
+        "created_at": "2026-04-28T14:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049135211997437999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2023448969343545344",
+              "start": 0,
+              "username": "nryxsxwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049135211997437999",
+        "in_reply_to_user_id": "2023448969343545344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049134726926213505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nryxsxwx 不用处方吗\n未成年可以吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 453,
+          "like_count": 12336,
+          "listed_count": 1,
+          "media_count": 471,
+          "tweet_count": 3949
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

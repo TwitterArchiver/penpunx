@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2064312967622259007",
+    "created_at": "2026-06-09T15:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064368622932533385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721895937357004800",
+          "start": 0,
+          "username": "Strf_9040C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064368622932533385",
+    "in_reply_to_user_id": "1721895937357004800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064312967622259007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strf_9040C 注射呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 497,
+        "media_key": "3_2064312922516631552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXpqnPaMAAJ_2D.jpg",
+        "width": 498
+      },
+      {
+        "height": 368,
+        "media_key": "3_2064312921925275648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXpqlCa0AAvKJ9.png",
+        "width": 426
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2064312967622259007",
+        "created_at": "2026-06-09T15:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064368622932533385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064368622932533385",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064312967622259007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 注射呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064312922516631552",
+            "3_2064312921925275648"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2064312967622259007",
+        "created_at": "2026-06-09T11:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064312967622259007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cG2iUItPjk",
+              "end": 167,
+              "expanded_url": "https://x.com/Strf_9040C/status/2064312967622259007/photo/1",
+              "media_key": "3_2064312922516631552",
+              "start": 144,
+              "url": "https://t.co/cG2iUItPjk"
+            },
+            {
+              "display_url": "pic.x.com/cG2iUItPjk",
+              "end": 167,
+              "expanded_url": "https://x.com/Strf_9040C/status/2064312967622259007/photo/1",
+              "media_key": "3_2064312921925275648",
+              "start": 144,
+              "url": "https://t.co/cG2iUItPjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064312967622259007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 468,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：\n亚硝酸钠(硝精)是用来\n\n防腐、发色、抗氧化、抑菌、缓蚀、混凝土防冻、金属热处理、媒染、漂白的\n\n亚硝酸钠毒性强，口服后会使血液中血红蛋白氧化为高铁血红蛋白，失去携氧能力，导致组织缺氧，出现发绀、头晕等症状，严重可致死；\n还会在体内生成亚硝胺类致癌物，危害健康，故严禁直接口服 https://t.co/cG2iUItPjk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "生命，创作，爱，月亮。",
+        "id": "1896904934995656704",
+        "name": "天",
+        "pinned_tweet_id": "2062947551297622499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063995632331952129/xElklqid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 563,
+          "like_count": 13659,
+          "listed_count": 1,
+          "media_count": 601,
+          "tweet_count": 5039
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 2300,
+          "like_count": 11855,
+          "listed_count": 2,
+          "media_count": 588,
+          "tweet_count": 1084
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

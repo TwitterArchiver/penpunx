@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2043272865949405254",
+    "created_at": "2026-04-12T11:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043289278256648480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "D3XTR0M3TH_0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043289278256648480",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043289101571629222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D3XTR0M3TH_0w0 我在药效里想要自杀，因为太舒服了（？）感觉活着和死都无所谓"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2043289101571629222].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2043289101571629222",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2043289101571629222"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2043272865949405254",
+        "created_at": "2026-04-12T11:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043289278256648480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "D3XTR0M3TH_0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043289278256648480",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043289101571629222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D3XTR0M3TH_0w0 我在药效里想要自杀，因为太舒服了（？）感觉活着和死都无所谓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2043276472291594369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 397,
+          "like_count": 11913,
+          "listed_count": 1,
+          "media_count": 454,
+          "tweet_count": 3650
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "关注人=喜欢你的内容!/同类想互关喵\n成分：🏳️‍🌈🏳️‍⚧️💛🤍💜🖤｜退役ODer｜■tFtMtFtMtX\n#drugtwt #nonbinary #overdose\n不发 #shtwt #shedtwt #kleptotwt 但会看\n这边是混中推用的，画画大号可以私信我问id 只是怕被认出来",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 55,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "tag": "nonbinary"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "tag": "overdose"
+              },
+              {
+                "end": 94,
+                "start": 88,
+                "tag": "shtwt"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "tag": "kleptotwt"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "location": "they/them｜💉2025.8.25｜AuDHD",
+        "name": "🐱（想要互fo!｜发言都是阿普唑仑干的不代表本人）",
+        "pinned_tweet_id": "2022074802262225026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041490609119375360/faJ8UOHY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 1116,
+          "like_count": 4668,
+          "listed_count": 1,
+          "media_count": 470,
+          "tweet_count": 3140
+        },
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false
+      }
+    ]
+  }
+}

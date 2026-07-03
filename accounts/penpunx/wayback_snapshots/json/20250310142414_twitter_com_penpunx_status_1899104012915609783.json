@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1899103699810812121",
+    "created_at": "2025-03-10T14:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T15:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899104012915609783"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "What makes Borderlands' Claptrap one of the greatest characters in the entire franchise? Well here's a collection of his saddest and most heartfelt stories.0...",
+          "display_url": "youtube.com/watch?v=tr39b1…",
+          "end": 23,
+          "expanded_url": "https://www.youtube.com/watch?v=tr39b1TYxxg",
+          "start": 0,
+          "status": 200,
+          "title": "Claptrap - The Saddest Character In Borderlands",
+          "unwound_url": "https://www.youtube.com/watch?v=tr39b1TYxxg",
+          "url": "https://t.co/MruJgnvzEl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899104012915609783",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899103699810812121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/MruJgnvzEl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1899103699810812121",
+        "created_at": "2025-03-10T14:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T15:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899104012915609783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "What makes Borderlands' Claptrap one of the greatest characters in the entire franchise? Well here's a collection of his saddest and most heartfelt stories.0...",
+              "display_url": "youtube.com/watch?v=tr39b1…",
+              "end": 23,
+              "expanded_url": "https://www.youtube.com/watch?v=tr39b1TYxxg",
+              "start": 0,
+              "status": 200,
+              "title": "Claptrap - The Saddest Character In Borderlands",
+              "unwound_url": "https://www.youtube.com/watch?v=tr39b1TYxxg",
+              "url": "https://t.co/MruJgnvzEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899104012915609783",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899103699810812121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/MruJgnvzEl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1899103699810812121",
+        "created_at": "2025-03-10T14:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T15:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899103699810812121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899103699810812121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记得小时候对无主之地系列印象最深刻的就是小吵闹，原来他也是一个乐观但抑郁的角色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "Is Thalstanian - never gives up / metal & rock & dungeon synth lover / 16yo neurodivergent guy / Chinese, English, Portuguese in learning",
+        "id": "1896904934995656704",
+        "location": "He / him ",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898235281863852037/maSqb7YF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 95,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 127
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

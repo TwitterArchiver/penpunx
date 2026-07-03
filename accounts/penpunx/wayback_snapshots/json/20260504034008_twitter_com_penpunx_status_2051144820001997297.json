@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2051066323866652823",
+    "created_at": "2026-05-04T03:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T04:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051144820001997297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841093178268794881",
+          "start": 0,
+          "username": "idle_beaver"
+        },
+        {
+          "end": 29,
+          "id": "4507926982",
+          "start": 13,
+          "username": "SympleticMizuho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051144820001997297",
+    "in_reply_to_user_id": "1841093178268794881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051102615707210065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idle_beaver @SympleticMizuho 要是下面是大麻广告"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2051066323866652823",
+        "created_at": "2026-05-04T03:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051144820001997297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841093178268794881",
+              "start": 0,
+              "username": "idle_beaver"
+            },
+            {
+              "end": 29,
+              "id": "4507926982",
+              "start": 13,
+              "username": "SympleticMizuho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051144820001997297",
+        "in_reply_to_user_id": "1841093178268794881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051102615707210065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idle_beaver @SympleticMizuho 要是下面是大麻广告"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841093178268794881",
+        "conversation_id": "2051066323866652823",
+        "created_at": "2026-05-04T00:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T01:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051102615707210065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4507926982",
+              "start": 0,
+              "username": "SympleticMizuho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051102615707210065",
+        "in_reply_to_user_id": "4507926982",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 641,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051066323866652823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SympleticMizuho 错位感……太好笑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 492,
+          "like_count": 12714,
+          "listed_count": 1,
+          "media_count": 488,
+          "tweet_count": 4217
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:30:02.000Z",
+        "description": "always turning around / email: u@uhio.uk",
+        "id": "1841093178268794881",
+        "location": "now here",
+        "name": "Phylodin Helixis",
+        "pinned_tweet_id": "2049881469934326091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051077750870659073/NdMU5g1j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 28,
+          "like_count": 6335,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 77
+        },
+        "username": "idle_beaver",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-16T23:31:20.000Z",
+        "description": "É preciso acabar com essa tristeza",
+        "id": "4507926982",
+        "location": "Germany",
+        "name": "Mizuho",
+        "pinned_tweet_id": "1919478142160306230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1462042747305668617/odnpyUH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 772,
+          "like_count": 26259,
+          "listed_count": 4,
+          "media_count": 1670,
+          "tweet_count": 8996
+        },
+        "username": "SympleticMizuho",
+        "verified": false
+      }
+    ]
+  }
+}

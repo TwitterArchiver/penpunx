@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1903630477979795457",
+    "created_at": "2025-03-23T02:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T03:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903634730257617150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1851822700278484992",
+          "start": 0,
+          "username": "honifofo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903634730257617150",
+    "in_reply_to_user_id": "1851822700278484992",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903630477979795457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@honifofo Mds desejo pra o cover"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1903630477979795457",
+        "created_at": "2025-03-23T02:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T03:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903634730257617150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1851822700278484992",
+              "start": 0,
+              "username": "honifofo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903634730257617150",
+        "in_reply_to_user_id": "1851822700278484992",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903630477979795457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@honifofo Mds desejo pra o cover"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851822700278484992",
+        "conversation_id": "1903630477979795457",
+        "created_at": "2025-03-23T02:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T03:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903630477979795457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903630477979795457",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "queria fazer um cover comigo cantando e tocando baixo mas eu sou burro e erro tudo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "metal & rock & dungeon synth lover / world of warcraft / 16yo neurodivergent guy / Chinese, English, Portuguese, Dutch in learning",
+        "id": "1896904934995656704",
+        "location": "He / him ",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898235281863852037/maSqb7YF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 125,
+          "like_count": 1316,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 453
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T03:05:44.000Z",
+        "description": "☆",
+        "id": "1851822700278484992",
+        "location": "Curitiba, Brazil",
+        "name": "honi/alex",
+        "pinned_tweet_id": "1895316370377842917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902233195048738816/AJ4fnCiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 196,
+          "like_count": 895,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 778
+        },
+        "username": "honifofo",
+        "verified": false
+      }
+    ]
+  }
+}

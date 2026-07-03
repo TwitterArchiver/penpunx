@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2026297267796512994",
+    "created_at": "2026-02-24T14:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T15:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026309996783563079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841093178268794881",
+          "start": 0,
+          "username": "idle_beaver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026309996783563079",
+    "in_reply_to_user_id": "1841093178268794881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026297267796512994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idle_beaver 我开语音聊天有时候会说英语（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2026297267796512994",
+        "created_at": "2026-02-24T14:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026309996783563079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841093178268794881",
+              "start": 0,
+              "username": "idle_beaver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026309996783563079",
+        "in_reply_to_user_id": "1841093178268794881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026297267796512994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idle_beaver 我开语音聊天有时候会说英语（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841093178268794881",
+        "conversation_id": "2026297267796512994",
+        "created_at": "2026-02-24T14:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026297267796512994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026297267796512994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得没什么情况下会有人需要用英语的第三人称代词称呼我\n现在不在任何英语社群，不喜欢那里因为很多人太……realistic了，不懂avatar也不像很多中文网友这样神秘和可爱并存"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2024557534829564202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 323,
+          "like_count": 11017,
+          "listed_count": 1,
+          "media_count": 403,
+          "tweet_count": 3024
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:30:02.000Z",
+        "description": "aroace agender audhd / disexistentialist / email: u@uhio.uk",
+        "id": "1841093178268794881",
+        "location": "now here",
+        "name": "𝐂𝐡𝐚𝐫𝐚",
+        "pinned_tweet_id": "2016108859497316560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014953111018995716/b08b8vYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 29,
+          "like_count": 5133,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 66
+        },
+        "username": "idle_beaver",
+        "verified": false
+      }
+    ]
+  }
+}

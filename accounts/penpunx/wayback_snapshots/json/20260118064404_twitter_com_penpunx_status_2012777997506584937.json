@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "American post metal band ",
+          "id": "1093503701795274752",
+          "name": "Deafheaven"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "American post metal band ",
+          "id": "1093503701795274752",
+          "name": "Deafheaven"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Metal",
+          "id": "849684649840214020",
+          "name": "Heavy metal"
+        }
+      }
+    ],
+    "conversation_id": "2012760043717034055",
+    "created_at": "2026-01-18T06:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T07:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012777997506584937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1949220315336470529",
+          "start": 0,
+          "username": "wimzylens0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012777997506584937",
+    "in_reply_to_user_id": "1949220315336470529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012777847166021974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wimzylens0 谢谢你我喜欢黑金属！比如nachtblut，burzum和deafheaven"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "American post metal band ",
+              "id": "1093503701795274752",
+              "name": "Deafheaven"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "American post metal band ",
+              "id": "1093503701795274752",
+              "name": "Deafheaven"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          }
+        ],
+        "conversation_id": "2012760043717034055",
+        "created_at": "2026-01-18T06:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T07:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012777997506584937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1949220315336470529",
+              "start": 0,
+              "username": "wimzylens0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012777997506584937",
+        "in_reply_to_user_id": "1949220315336470529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012777847166021974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wimzylens0 谢谢你我喜欢黑金属！比如nachtblut，burzum和deafheaven"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949220315336470529",
+        "conversation_id": "2012760043717034055",
+        "created_at": "2026-01-18T06:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T07:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012777847166021974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012777847166021974",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012760043717034055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 好有黑金属、死亡金属气息\n好酷 (o゜▽゜)o☆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 292,
+          "like_count": 10270,
+          "listed_count": 1,
+          "media_count": 370,
+          "tweet_count": 2716
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T21:28:55.000Z",
+        "description": "Dreams shattered into gummy bears | \n🧸超可爱的妹妹：@caliE694030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "caliE694030"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wimzylens.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://wimzylens.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/KTkSJFMGJZ"
+              }
+            ]
+          }
+        },
+        "id": "1949220315336470529",
+        "location": "dream",
+        "name": "Lens Zzz",
+        "pinned_tweet_id": "1994583508883575161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012321108067065856/ReA9O-1b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 125,
+          "like_count": 8228,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 539
+        },
+        "url": "https://t.co/KTkSJFMGJZ",
+        "username": "wimzylens0",
+        "verified": false
+      }
+    ]
+  }
+}

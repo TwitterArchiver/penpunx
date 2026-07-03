@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1898380051294351781",
+    "created_at": "2025-03-09T13:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T14:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898725084497686625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1851822700278484992",
+          "start": 0,
+          "username": "honifofo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898725084497686625",
+    "in_reply_to_user_id": "1851822700278484992",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898380051294351781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@honifofo yonluuuu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1898380048937238528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlhmmLGXwAAxQv0.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1898380051294351781",
+        "created_at": "2025-03-09T13:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T14:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898725084497686625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1851822700278484992",
+              "start": 0,
+              "username": "honifofo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898725084497686625",
+        "in_reply_to_user_id": "1851822700278484992",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898380051294351781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@honifofo yonluuuu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898380048937238528"
+          ]
+        },
+        "author_id": "1851822700278484992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1898380051294351781",
+        "created_at": "2025-03-08T14:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T15:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898380051294351781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qw6RvIPmLs",
+              "end": 51,
+              "expanded_url": "https://x.com/honifofo/status/1898380051294351781/photo/1",
+              "media_key": "3_1898380048937238528",
+              "start": 28,
+              "url": "https://t.co/qw6RvIPmLs"
+            },
+            {
+              "display_url": "x.com/honifofo/statu…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/honifofo/status/1897868811509944454",
+              "start": 52,
+              "url": "https://t.co/pA5s8ZkBsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898380051294351781",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897868811509944454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "foi mt divertido desenhar!! https://t.co/qw6RvIPmLs https://t.co/pA5s8ZkBsb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "Is Thalstanian - never gives up / metal & rock & dungeon synth lover / 16yo neurodivergent guy / Chinese, English, Portuguese in learning / he/him",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898235281863852037/maSqb7YF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 92,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 107
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T03:05:44.000Z",
+        "description": "☆",
+        "id": "1851822700278484992",
+        "location": "Curitiba, Brazil",
+        "name": "honi/alex",
+        "pinned_tweet_id": "1895316370377842917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889471035646316544/zMyQtbbn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 179,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 616
+        },
+        "username": "honifofo",
+        "verified": false
+      }
+    ]
+  }
+}

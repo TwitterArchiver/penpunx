@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015002419546206208"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2015002427259490759",
+    "created_at": "2026-01-24T10:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T11:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015002427259490759"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sux02J7cNx",
+          "end": 60,
+          "expanded_url": "https://x.com/penpunx/status/2015002427259490759/photo/1",
+          "media_key": "3_2015002419546206208",
+          "start": 37,
+          "url": "https://t.co/Sux02J7cNx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015002427259490759",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一次自己打烈焰人、凋零骷髅\n第一次自己打末影人\n第一次自己合成末影珍珠 https://t.co/Sux02J7cNx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015002419546206208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_a6Bk6asAAHRoW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015002419546206208"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015002427259490759",
+        "created_at": "2026-01-24T10:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T11:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015002427259490759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sux02J7cNx",
+              "end": 60,
+              "expanded_url": "https://x.com/penpunx/status/2015002427259490759/photo/1",
+              "media_key": "3_2015002419546206208",
+              "start": 37,
+              "url": "https://t.co/Sux02J7cNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015002427259490759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次自己打烈焰人、凋零骷髅\n第一次自己打末影人\n第一次自己合成末影珍珠 https://t.co/Sux02J7cNx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2012869391504023900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006930303919730688/nlOQYfFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 298,
+          "like_count": 10433,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 2801
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

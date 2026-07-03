@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1957616942279455019",
+    "created_at": "2025-08-19T02:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T03:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957636665977290766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "968255724500365312",
+          "start": 0,
+          "username": "vettvv1per"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957636665977290766",
+    "in_reply_to_user_id": "968255724500365312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957616942279455019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vettvv1per 寸不己(但是最后真的c盘清出来二十多G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1957616942279455019",
+        "created_at": "2025-08-19T02:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T03:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957636665977290766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "968255724500365312",
+              "start": 0,
+              "username": "vettvv1per"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957636665977290766",
+        "in_reply_to_user_id": "968255724500365312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957616942279455019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vettvv1per 寸不己(但是最后真的c盘清出来二十多G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "968255724500365312",
+        "conversation_id": "1957616942279455019",
+        "created_at": "2025-08-19T01:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T02:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957616942279455019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/durantraym9367…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/durantraym93677/status/1957394841496916417",
+              "start": 27,
+              "url": "https://t.co/409beP7qwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957616942279455019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957394841496916417",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得最精彩的还是在红书上搜怎么清理磁盘（真的有了） https://t.co/409beP7qwu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "16y ASD CN, EN, PO 🏳️‍⚧️",
+        "id": "1896904934995656704",
+        "location": "aka penpunk",
+        "name": "treni",
+        "pinned_tweet_id": "1903790270204047601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942458302014840833/hMlxUQG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 248,
+          "like_count": 8352,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 1944
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-26T22:45:28.000Z",
+        "description": "spambot squirtpants",
+        "id": "968255724500365312",
+        "name": "Turbo",
+        "pinned_tweet_id": "1363772121667657736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739582920086675456/_hhin3uD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 545,
+          "like_count": 155623,
+          "listed_count": 2,
+          "media_count": 3533,
+          "tweet_count": 32255
+        },
+        "username": "vettvv1per",
+        "verified": false
+      }
+    ]
+  }
+}

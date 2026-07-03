@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1897611018790150256",
+    "created_at": "2025-03-06T11:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T12:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897611018790150256"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "amargura",
+          "probability": 0.8392,
+          "start": 37,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Fotografia tomada en la Ciudad de Cusco - San Jeronimo.",
+          "display_url": "youtu.be/wMh2q15FDEs?si…",
+          "end": 23,
+          "expanded_url": "https://youtu.be/wMh2q15FDEs?si=CBVdbujidz2Qd3cF",
+          "images": [
+            {
+              "height": 360,
+              "url": "https://pbs.twimg.com/news_img/1897611021516525568/ElkaKr47?format=jpg&name=orig",
+              "width": 480
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1897611021516525568/ElkaKr47?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Uaral - Amargura",
+          "unwound_url": "https://www.youtube.com/watch?si=CBVdbujidz2Qd3cF&v=wMh2q15FDEs&feature=youtu.be",
+          "url": "https://t.co/d2SMFcVtU1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897611018790150256",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/d2SMFcVtU1\nit's called \"amargura(bitterness)\" but it gives me a sense of cold sober and hope and power behind all the pain. it has been one of my favorite music pieces since a year ago and has supported me through many tough times"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1897611018790150256",
+        "created_at": "2025-03-06T11:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T12:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897611018790150256"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "amargura",
+              "probability": 0.8392,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Fotografia tomada en la Ciudad de Cusco - San Jeronimo.",
+              "display_url": "youtu.be/wMh2q15FDEs?si…",
+              "end": 23,
+              "expanded_url": "https://youtu.be/wMh2q15FDEs?si=CBVdbujidz2Qd3cF",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/1897611021516525568/ElkaKr47?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1897611021516525568/ElkaKr47?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Uaral - Amargura",
+              "unwound_url": "https://www.youtube.com/watch?si=CBVdbujidz2Qd3cF&v=wMh2q15FDEs&feature=youtu.be",
+              "url": "https://t.co/d2SMFcVtU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897611018790150256",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/d2SMFcVtU1\nit's called \"amargura(bitterness)\" but it gives me a sense of cold sober and hope and power behind all the pain. it has been one of my favorite music pieces since a year ago and has supported me through many tough times"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897229209598152704/nghVdo_q_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 18,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

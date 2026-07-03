@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2035217696267411743",
+    "created_at": "2026-03-21T05:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T06:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035223049876971804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2021505488337416192",
+          "start": 0,
+          "username": "Basil_Nsm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035223049876971804",
+    "in_reply_to_user_id": "2021505488337416192",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035217696267411743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Basil_Nsm cute"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2035217691292966913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6LtQoboAEIFNz.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2035217696267411743",
+        "created_at": "2026-03-21T05:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T06:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035223049876971804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2021505488337416192",
+              "start": 0,
+              "username": "Basil_Nsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035223049876971804",
+        "in_reply_to_user_id": "2021505488337416192",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035217696267411743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Basil_Nsm cute"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035217691292966913"
+          ]
+        },
+        "author_id": "2021505488337416192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035217696267411743",
+        "created_at": "2026-03-21T04:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T05:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035217696267411743"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zVyLrsrU85",
+              "end": 28,
+              "expanded_url": "https://x.com/Basil_Nsm/status/2035217696267411743/photo/1",
+              "media_key": "3_2035217691292966913",
+              "start": 5,
+              "url": "https://t.co/zVyLrsrU85"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035217696267411743",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/zVyLrsrU85"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "pinned_tweet_id": "2028060064649769126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033219658875330560/oFFNomrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 372,
+          "like_count": 11553,
+          "listed_count": 1,
+          "media_count": 427,
+          "tweet_count": 3383
+        },
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "年底实现存款40K以及减肥**kg",
+        "id": "2021505488337416192",
+        "location": "Kanagawa-ken, Japan",
+        "name": "Basil",
+        "pinned_tweet_id": "2034212562947223664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035217660833914881/jqsGWWRQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 225,
+          "like_count": 788,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 109
+        },
+        "username": "Basil_Nsm",
+        "verified": false
+      }
+    ]
+  }
+}

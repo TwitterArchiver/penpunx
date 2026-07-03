@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006234046612004865"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2006234054979641671",
+    "created_at": "2025-12-31T05:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T06:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006234054979641671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A77zxPIf2j",
+          "end": 26,
+          "expanded_url": "https://x.com/penpunx/status/2006234054979641671/photo/1",
+          "media_key": "3_2006234046612004865",
+          "start": 3,
+          "url": "https://t.co/A77zxPIf2j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006234054979641671",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "豪赤 https://t.co/A77zxPIf2j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006234046612004865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9eTPGSaYAEz9dP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006234046612004865"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2006234054979641671",
+        "created_at": "2025-12-31T05:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T06:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006234054979641671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A77zxPIf2j",
+              "end": 26,
+              "expanded_url": "https://x.com/penpunx/status/2006234054979641671/photo/1",
+              "media_key": "3_2006234046612004865",
+              "start": 3,
+              "url": "https://t.co/A77zxPIf2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006234054979641671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豪赤 https://t.co/A77zxPIf2j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "name": "penpunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975082924950310912/JRet2r2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 274,
+          "like_count": 9946,
+          "listed_count": 1,
+          "media_count": 356,
+          "tweet_count": 2533
+        },
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}
