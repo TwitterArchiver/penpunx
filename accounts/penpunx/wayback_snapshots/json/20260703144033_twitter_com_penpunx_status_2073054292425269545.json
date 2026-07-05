@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2073054292425269545",
+    "created_at": "2026-07-03T14:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T15:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073054292425269545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yangion73/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/yangion73/status/2073013247293403448",
+          "start": 12,
+          "url": "https://t.co/iXkpDflUo9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073054292425269545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073013247293403448",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "右美沙芬+谵妄剂来了嗷 https://t.co/iXkpDflUo9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073013234471493632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTSja9bYAAUsZc.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073013234488209408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTSjbBacAA_kM0.jpg",
+        "width": 989
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2073054292425269545",
+        "created_at": "2026-07-03T14:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073054292425269545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangion73/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/yangion73/status/2073013247293403448",
+              "start": 12,
+              "url": "https://t.co/iXkpDflUo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073054292425269545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073013247293403448",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "右美沙芬+谵妄剂来了嗷 https://t.co/iXkpDflUo9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073013234471493632",
+            "3_2073013234488209408"
+          ]
+        },
+        "author_id": "2061329105266831360",
+        "conversation_id": "2073013247293403448",
+        "created_at": "2026-07-03T11:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073013247293403448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7zXWsj7V6b",
+              "end": 70,
+              "expanded_url": "https://x.com/yangion73/status/2073013247293403448/photo/1",
+              "media_key": "3_2073013234471493632",
+              "start": 47,
+              "url": "https://t.co/7zXWsj7V6b"
+            },
+            {
+              "display_url": "pic.x.com/7zXWsj7V6b",
+              "end": 70,
+              "expanded_url": "https://x.com/yangion73/status/2073013247293403448/photo/1",
+              "media_key": "3_2073013234488209408",
+              "start": 47,
+              "url": "https://t.co/7zXWsj7V6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073013247293403448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1745,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不懂就问\n这个有 od 价值吗，每瓶含右美 200mg，现在愈美也被禁了，这个不知道行不行😇 https://t.co/7zXWsj7V6b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 631,
+          "like_count": 14625,
+          "listed_count": 2,
+          "media_count": 762,
+          "tweet_count": 6064
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 153,
+          "like_count": 139,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 276
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

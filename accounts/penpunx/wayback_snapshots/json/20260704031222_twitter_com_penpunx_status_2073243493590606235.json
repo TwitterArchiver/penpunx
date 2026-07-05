@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2073186188576334334",
+    "created_at": "2026-07-04T03:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T04:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073243493590606235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "953378142198161409",
+          "start": 0,
+          "username": "choquei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073243493590606235",
+    "in_reply_to_user_id": "953378142198161409",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073186188576334334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@choquei paranaue, paranaue parana"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21696,
+        "height": 910,
+        "media_key": "13_1967671442062864384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967671442062864384/img/mMQFgR45sMv-UU04.jpg",
+        "public_metrics": {
+          "view_count": 773781
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967671442062864384/pl/IRbnMcJRDZbclHEx.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967671442062864384/vid/avc1/480x490/_W5fjfgUFWAWN4lc.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967671442062864384/vid/avc1/320x326/si5BfJ98MDXp7tBS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967671442062864384/vid/avc1/720x736/QsMVUkQYM2IShzTK.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967671442062864384/vid/avc1/888x910/_fPG62VSUbv-pspQ.mp4"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2073186188576334334",
+        "created_at": "2026-07-04T03:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T04:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073243493590606235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "953378142198161409",
+              "start": 0,
+              "username": "choquei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073243493590606235",
+        "in_reply_to_user_id": "953378142198161409",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073186188576334334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@choquei paranaue, paranaue parana"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967671442062864384"
+          ],
+          "media_source_tweet_id": [
+            "1967671520765022252"
+          ]
+        },
+        "author_id": "953378142198161409",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2059337575265939458",
+              "name": "Argentina vs Cape Verde"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774222305038337",
+              "name": "Lionel Messi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226234080788481",
+              "name": "Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2059337575265939458",
+              "name": "Argentina vs Cape Verde"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "2059337548200087553",
+              "name": "World Cup 2026"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "2059337575265939458",
+              "name": "Argentina vs Cape Verde"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774222305038337",
+              "name": "Lionel Messi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226234080788481",
+              "name": "Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774222305038337",
+              "name": "Lionel Messi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2073186188576334334",
+        "created_at": "2026-07-03T23:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T00:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073186188576334334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJHy5CjJ8K",
+              "end": 40,
+              "expanded_url": "https://x.com/lfada03/status/1967671520765022252/video/1",
+              "media_key": "13_1967671442062864384",
+              "start": 17,
+              "url": "https://t.co/zJHy5CjJ8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073186188576334334",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2310,
+          "impression_count": 1079871,
+          "like_count": 89198,
+          "quote_count": 528,
+          "reply_count": 355,
+          "retweet_count": 16637
+        },
+        "reply_settings": "everyone",
+        "text": "Messi e Vozinha  https://t.co/zJHy5CjJ8K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 634,
+          "like_count": 14638,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 6080
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-16T21:27:16.000Z",
+        "description": "A sua fonte de notícias mais rápida. Tudo sobre os acontecimentos mais recentes do Brasil e do mundo. Contato: assessoriachoquei@gmail.com",
+        "id": "953378142198161409",
+        "name": "CHOQUEI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624042710037299200/_wiCdKIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9467554,
+          "following_count": 7215,
+          "like_count": 2695,
+          "listed_count": 2496,
+          "media_count": 103583,
+          "tweet_count": 117908
+        },
+        "url": "",
+        "username": "choquei",
+        "verified": true
+      }
+    ]
+  }
+}

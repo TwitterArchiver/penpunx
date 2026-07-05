@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2072853503169675498",
+    "created_at": "2026-07-03T03:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T04:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072884978661400987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1626209229542666240",
+          "start": 0,
+          "username": "Himenoskyland"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072884978661400987",
+    "in_reply_to_user_id": "1626209229542666240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072883596612792485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Himenoskyland 我知道喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2072853503169675498",
+        "created_at": "2026-07-03T03:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072884978661400987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1626209229542666240",
+              "start": 0,
+              "username": "Himenoskyland"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072884978661400987",
+        "in_reply_to_user_id": "1626209229542666240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072883596612792485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Himenoskyland 我知道喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626209229542666240",
+        "conversation_id": "2072853503169675498",
+        "created_at": "2026-07-03T03:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072883596612792485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072883596612792485",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072853503169675498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 瓦楞斯tg号炸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "疋",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 624,
+          "like_count": 14597,
+          "listed_count": 2,
+          "media_count": 760,
+          "tweet_count": 6026
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T13:18:24.000Z",
+        "description": "🚪52/88/188 非绿过门咨询",
+        "id": "1626209229542666240",
+        "name": "小真",
+        "pinned_tweet_id": "2008443252295467119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070800964089499648/dEvz2Fcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 190,
+          "like_count": 1065,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 416
+        },
+        "url": "",
+        "username": "Himenoskyland",
+        "verified": false
+      }
+    ]
+  }
+}

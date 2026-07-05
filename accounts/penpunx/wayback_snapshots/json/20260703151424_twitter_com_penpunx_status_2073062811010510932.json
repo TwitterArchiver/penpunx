@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2073013247293403448",
+    "created_at": "2026-07-03T15:14:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073062811010510932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782631239020662784",
+          "start": 0,
+          "username": "heishise1984"
+        },
+        {
+          "end": 24,
+          "id": "2061329105266831360",
+          "start": 14,
+          "username": "yangion73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073062811010510932",
+    "in_reply_to_user_id": "1782631239020662784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073062221010403790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heishise1984 @yangion73 但是喝200mg右美伪麻黄碱就会过量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2073013247293403448",
+        "created_at": "2026-07-03T15:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073062811010510932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782631239020662784",
+              "start": 0,
+              "username": "heishise1984"
+            },
+            {
+              "end": 24,
+              "id": "2061329105266831360",
+              "start": 14,
+              "username": "yangion73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073062811010510932",
+        "in_reply_to_user_id": "1782631239020662784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073062221010403790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heishise1984 @yangion73 但是喝200mg右美伪麻黄碱就会过量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782631239020662784",
+        "conversation_id": "2073013247293403448",
+        "created_at": "2026-07-03T15:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073062221010403790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            },
+            {
+              "end": 19,
+              "id": "2061329105266831360",
+              "start": 9,
+              "username": "yangion73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073062221010403790",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073061239782346762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx @yangion73 抱歉我的问题\n但总的来说这个含量不低了，一盒愈美片也就12颗吧，按照单盒来算有效成分惠菲宁还是要高的，而且里面还有盐酸伪麻成分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 632,
+          "like_count": 14628,
+          "listed_count": 2,
+          "media_count": 762,
+          "tweet_count": 6066
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T04:43:08.000Z",
+        "description": "你好！这里是结型场半导体，她从冥河中归来，徜徉在废墟和残骸的狭间中，死寂的一切将重新被注入生机与活力。｜我一旦开始转推，就说明本回合的发言力条用尽了。｜",
+        "id": "1782631239020662784",
+        "location": "冥河",
+        "name": "IGFET Second",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786767615295467520/dyRQq-FZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 154,
+          "like_count": 2736,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1456
+        },
+        "url": "",
+        "username": "heishise1984",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 153,
+          "like_count": 139,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 276
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}
