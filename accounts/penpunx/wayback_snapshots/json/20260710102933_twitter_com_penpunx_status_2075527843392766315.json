@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1189987035081146368",
+          "name": "My Chemical Romance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1189987035081146368",
+          "name": "My Chemical Romance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1189987035081146368",
+          "name": "My Chemical Romance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292893220909670400",
+          "name": "Pop Punk"
+        }
+      }
+    ],
+    "conversation_id": "2075527843392766315",
+    "created_at": "2026-07-10T10:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T11:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075527843392766315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Alvvaysioffy1/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Alvvaysioffy1/status/2075018403451179496",
+          "start": 24,
+          "url": "https://t.co/k6kVmdPHim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075527843392766315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075018403451179496",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "my chemical romance听众一览 https://t.co/k6kVmdPHim"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075018398254403584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvyPUJakAAQH1Y.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075018398258573312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvyPUKaMAAZQMZ.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1189987035081146368",
+              "name": "My Chemical Romance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1189987035081146368",
+              "name": "My Chemical Romance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1189987035081146368",
+              "name": "My Chemical Romance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292893220909670400",
+              "name": "Pop Punk"
+            }
+          }
+        ],
+        "conversation_id": "2075527843392766315",
+        "created_at": "2026-07-10T10:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075527843392766315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Alvvaysioffy1/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Alvvaysioffy1/status/2075018403451179496",
+              "start": 24,
+              "url": "https://t.co/k6kVmdPHim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075527843392766315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075018403451179496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "my chemical romance听众一览 https://t.co/k6kVmdPHim"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075018398254403584",
+            "3_2075018398258573312"
+          ]
+        },
+        "author_id": "2016028559228469252",
+        "conversation_id": "2075018403451179496",
+        "created_at": "2026-07-09T00:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075018403451179496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFMA4QZt3T",
+              "end": 49,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2075018403451179496/photo/1",
+              "media_key": "3_2075018398254403584",
+              "start": 26,
+              "url": "https://t.co/rFMA4QZt3T"
+            },
+            {
+              "display_url": "pic.x.com/rFMA4QZt3T",
+              "end": 49,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2075018403451179496/photo/1",
+              "media_key": "3_2075018398258573312",
+              "start": 26,
+              "url": "https://t.co/rFMA4QZt3T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075018403451179496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11559,
+          "like_count": 79,
+          "quote_count": 5,
+          "reply_count": 52,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "米罗巴林是个啥？还有普瑞导致血清素综合症的都来了👍 https://t.co/rFMA4QZt3T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 648,
+          "like_count": 14889,
+          "listed_count": 2,
+          "media_count": 801,
+          "tweet_count": 6379
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 229,
+          "like_count": 1487,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 925
+        },
+        "url": "",
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

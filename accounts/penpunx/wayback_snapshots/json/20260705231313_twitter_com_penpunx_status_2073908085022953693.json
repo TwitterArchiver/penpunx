@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2073791830156865919",
+    "created_at": "2026-07-05T23:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T00:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073908085022953693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2041218436651794433",
+          "start": 0,
+          "username": "4pinkmatter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073908085022953693",
+    "in_reply_to_user_id": "2041218436651794433",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073791830156865919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4pinkmatter oi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2073791830156865919",
+        "created_at": "2026-07-05T23:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T00:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073908085022953693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2041218436651794433",
+              "start": 0,
+              "username": "4pinkmatter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073908085022953693",
+        "in_reply_to_user_id": "2041218436651794433",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073791830156865919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4pinkmatter oi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041218436651794433",
+        "conversation_id": "2073791830156865919",
+        "created_at": "2026-07-05T15:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073791830156865919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073791830156865919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明儿回沪了有人找我玩儿吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 640,
+          "like_count": 14704,
+          "listed_count": 2,
+          "media_count": 775,
+          "tweet_count": 6175
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T18:18:32.000Z",
+        "description": "❤️@chibanak1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "chibanak1"
+              }
+            ]
+          }
+        },
+        "id": "2041218436651794433",
+        "name": "Kagayaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041558738923089922/et6jQmnl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 62,
+          "like_count": 2230,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 772
+        },
+        "url": "",
+        "username": "4pinkmatter",
+        "verified": false
+      }
+    ]
+  }
+}

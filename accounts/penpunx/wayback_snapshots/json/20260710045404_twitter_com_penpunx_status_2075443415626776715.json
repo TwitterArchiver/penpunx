@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2075443415626776715",
+    "created_at": "2026-07-10T04:54:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T05:54:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075443415626776715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lun060530/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/lun060530/status/2074940587883548995",
+          "start": 5,
+          "url": "https://t.co/MZIvpW21f3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075443415626776715",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074940587883548995",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想玩 https://t.co/MZIvpW21f3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1104,
+        "media_key": "3_2074940585702494208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMureBzWkAAxFP1.jpg",
+        "width": 732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2075443415626776715",
+        "created_at": "2026-07-10T04:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075443415626776715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lun060530/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/lun060530/status/2074940587883548995",
+              "start": 5,
+              "url": "https://t.co/MZIvpW21f3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075443415626776715",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074940587883548995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想玩 https://t.co/MZIvpW21f3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074940585702494208"
+          ]
+        },
+        "author_id": "2054893017946087424",
+        "conversation_id": "2074940587883548995",
+        "created_at": "2026-07-08T19:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T20:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074940587883548995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zWhaHFdzPS",
+              "end": 31,
+              "expanded_url": "https://x.com/lun060530/status/2074940587883548995/photo/1",
+              "media_key": "3_2074940585702494208",
+              "start": 8,
+              "url": "https://t.co/zWhaHFdzPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074940587883548995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 257241,
+          "like_count": 2848,
+          "quote_count": 0,
+          "reply_count": 172,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "这老师还挺爱玩 https://t.co/zWhaHFdzPS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 644,
+          "like_count": 14866,
+          "listed_count": 2,
+          "media_count": 800,
+          "tweet_count": 6348
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T11:54:32.000Z",
+        "description": "中文互联网观察｜ 中文互联网段子手｜每天吐槽热点、奇葩事、爆笑视频｜普通人视角看世界｜来一起乐呵～ 感兴趣的点关注！",
+        "id": "2054893017946087424",
+        "name": "挽歌.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065062024544186368/RoAZgJKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3766,
+          "following_count": 2899,
+          "like_count": 858,
+          "listed_count": 3,
+          "media_count": 1159,
+          "tweet_count": 2827
+        },
+        "url": "",
+        "username": "lun060530",
+        "verified": true
+      }
+    ]
+  }
+}

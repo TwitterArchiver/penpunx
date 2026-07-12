@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2073464965495935371",
+    "created_at": "2026-07-05T00:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T01:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073570659956036042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053188363566391296",
+          "start": 0,
+          "username": "ayahuasca6948"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073570659956036042",
+    "in_reply_to_user_id": "2053188363566391296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073464965495935371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayahuasca6948 我全都要（除了苯海拉明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2073464965495935371",
+        "created_at": "2026-07-05T00:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T01:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073570659956036042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053188363566391296",
+              "start": 0,
+              "username": "ayahuasca6948"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073570659956036042",
+        "in_reply_to_user_id": "2053188363566391296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073464965495935371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayahuasca6948 我全都要（除了苯海拉明"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053188363566391296",
+        "conversation_id": "2073464965495935371",
+        "created_at": "2026-07-04T17:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073464965495935371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073464965495935371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十二星座選擇你的專屬致幻劑\n白羊座：DMT\n金牛座：LSD\n双子座：PCP\n巨蟹座：氯胺酮\n狮子座：DXM\n处女座：裸蓋菇\n天秤座：苯海拉明\n天蝎座：MDMA\n射手座：大麻\n摩羯座：金剛烷胺\n水瓶座：4-HO-MET\n双鱼座：笑氣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 639,
+          "like_count": 14687,
+          "listed_count": 2,
+          "media_count": 770,
+          "tweet_count": 6145
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T19:00:39.000Z",
+        "description": "死藤水改革歸來，看廣州禁毒土崩瓦解，化學極樂的日子終將到來。",
+        "id": "2053188363566391296",
+        "name": "Aya",
+        "pinned_tweet_id": "2056634860186530096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069508917999353856/8ij5Dnh__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 31,
+          "like_count": 6558,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 599
+        },
+        "url": "",
+        "username": "ayahuasca6948",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2073293180741816792",
+    "created_at": "2026-07-04T06:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T07:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073293180741816792"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lixh57/status/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/lixh57/status/2073070684884885657",
+          "start": 19,
+          "url": "https://t.co/CdqUIueSw6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073293180741816792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073070684884885657",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈兰德和瓦哥看起来简直像两个国家的人 https://t.co/CdqUIueSw6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2073070675196018688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUGy6VWgAAqr8r.jpg",
+        "width": 1080
+      },
+      {
+        "height": 464,
+        "media_key": "3_2073070675200229376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUGy6WWwAAuO9I.jpg",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2073293180741816792",
+        "created_at": "2026-07-04T06:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073293180741816792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lixh57/status/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/lixh57/status/2073070684884885657",
+              "start": 19,
+              "url": "https://t.co/CdqUIueSw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073293180741816792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073070684884885657",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈兰德和瓦哥看起来简直像两个国家的人 https://t.co/CdqUIueSw6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073070675196018688",
+            "3_2073070675200229376"
+          ]
+        },
+        "author_id": "1751372655142281216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2073070684884885657",
+        "created_at": "2026-07-03T15:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073070684884885657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1720665183188922368",
+              "start": 7,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IC72CWvvxf",
+              "end": 81,
+              "expanded_url": "https://x.com/lixh57/status/2073070684884885657/photo/1",
+              "media_key": "3_2073070675196018688",
+              "start": 58,
+              "url": "https://t.co/IC72CWvvxf"
+            },
+            {
+              "display_url": "pic.x.com/IC72CWvvxf",
+              "end": 81,
+              "expanded_url": "https://x.com/lixh57/status/2073070684884885657/photo/1",
+              "media_key": "3_2073070675200229376",
+              "start": 58,
+              "url": "https://t.co/IC72CWvvxf"
+            },
+            {
+              "display_url": "x.com/sse10_/status/…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/sse10_/status/2072885983800893785",
+              "start": 82,
+              "url": "https://t.co/6fJBgZNSNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073070684884885657",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1484,
+          "impression_count": 21669644,
+          "like_count": 9035,
+          "quote_count": 31,
+          "reply_count": 295,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072885983800893785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "مرحبًا @grok كيف سيبدو هالاند بالشعر القصير وهذه اللحية 🦦 https://t.co/IC72CWvvxf https://t.co/6fJBgZNSNT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 636,
+          "like_count": 14646,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 6090
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T22:32:48.000Z",
+        "description": "ويؤنُسني أنّك عليمٌ بِما يُخفى.",
+        "id": "1751372655142281216",
+        "location": "المملكة العربية السعودية",
+        "name": "eline ✨",
+        "pinned_tweet_id": "1982836270834516101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047833041951924224/ljoJLPiF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3249,
+          "following_count": 2527,
+          "like_count": 33829,
+          "listed_count": 1,
+          "media_count": 371,
+          "tweet_count": 14429
+        },
+        "url": "",
+        "username": "lixh57",
+        "verified": true
+      }
+    ]
+  }
+}

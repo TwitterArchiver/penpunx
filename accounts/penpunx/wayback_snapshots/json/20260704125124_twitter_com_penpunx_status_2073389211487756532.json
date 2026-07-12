@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2073334062509699108",
+    "created_at": "2026-07-04T12:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073389211487756532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1149206523320516608",
+          "start": 0,
+          "username": "ykq315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073389211487756532",
+    "in_reply_to_user_id": "1149206523320516608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073387278429549035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ykq315 噢，对第一题而言是如此\n但对其他题无法这么选"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2073334062509699108",
+        "created_at": "2026-07-04T12:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073389211487756532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1149206523320516608",
+              "start": 0,
+              "username": "ykq315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073389211487756532",
+        "in_reply_to_user_id": "1149206523320516608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073387278429549035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ykq315 噢，对第一题而言是如此\n但对其他题无法这么选"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1149206523320516608",
+        "conversation_id": "2073334062509699108",
+        "created_at": "2026-07-04T12:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073387278429549035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073387278429549035",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073386453997150278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 但立场不正是不确定吗，如果是你想要的语言那就支持 如果是你不想要的那就反对（？感觉有些绕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 640,
+          "like_count": 14670,
+          "listed_count": 2,
+          "media_count": 769,
+          "tweet_count": 6129
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-11T06:39:21.000Z",
+        "description": "我不是人类了",
+        "id": "1149206523320516608",
+        "name": "普通猫",
+        "pinned_tweet_id": "1667564947839291393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841992474572820480/0KZ4lXk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 525,
+          "like_count": 133169,
+          "listed_count": 3,
+          "media_count": 1075,
+          "tweet_count": 10064
+        },
+        "url": "",
+        "username": "ykq315",
+        "verified": false
+      }
+    ]
+  }
+}

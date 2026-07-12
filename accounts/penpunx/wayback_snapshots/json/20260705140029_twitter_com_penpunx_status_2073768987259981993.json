@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2073746704923292030",
+    "created_at": "2026-07-05T14:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073768987259981993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1587790416057077760",
+          "start": 0,
+          "username": "musk_xxl"
+        },
+        {
+          "end": 19,
+          "id": "1948035186584670209",
+          "start": 10,
+          "username": "shianbey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073768987259981993",
+    "in_reply_to_user_id": "1587790416057077760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073756899988877708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@musk_xxl @shianbey 先用纸擦干浴巾就不会湿了，快去试试吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2073746704923292030",
+        "created_at": "2026-07-05T14:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073768987259981993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1587790416057077760",
+              "start": 0,
+              "username": "musk_xxl"
+            },
+            {
+              "end": 19,
+              "id": "1948035186584670209",
+              "start": 10,
+              "username": "shianbey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073768987259981993",
+        "in_reply_to_user_id": "1587790416057077760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073756899988877708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@musk_xxl @shianbey 先用纸擦干浴巾就不会湿了，快去试试吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587790416057077760",
+        "conversation_id": "2073746704923292030",
+        "created_at": "2026-07-05T13:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073756899988877708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1948035186584670209",
+              "start": 0,
+              "username": "shianbey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073756899988877708",
+        "in_reply_to_user_id": "1948035186584670209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073746704923292030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shianbey 谢谢很合理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 640,
+          "like_count": 14705,
+          "listed_count": 2,
+          "media_count": 775,
+          "tweet_count": 6173
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T12:55:22.000Z",
+        "description": "业余的。\n不要对我抱有很大的期待。",
+        "id": "1587790416057077760",
+        "name": "Purify",
+        "pinned_tweet_id": "2067132317928464513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059674174965354506/2jHOkEpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 265,
+          "like_count": 3766,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 575
+        },
+        "url": "",
+        "username": "musk_xxl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T15:01:34.000Z",
+        "description": "因为太敏感，痛苦和爱都加倍感受到。Queer poly pan 🍳",
+        "id": "1948035186584670209",
+        "location": "Pennsylvania, USA",
+        "name": "大麻軟糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056723060745543680/bo27On3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 261,
+          "like_count": 2639,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1552
+        },
+        "url": "",
+        "username": "shianbey",
+        "verified": false
+      }
+    ]
+  }
+}

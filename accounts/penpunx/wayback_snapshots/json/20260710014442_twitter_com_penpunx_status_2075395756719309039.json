@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1440689418424123414",
+          "name": "Hannah Stocking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1440689418424123414",
+          "name": "Hannah Stocking"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293666530111008769",
+          "name": "Instagram influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1440689418424123414",
+          "name": "Hannah Stocking"
+        }
+      }
+    ],
+    "conversation_id": "2075395756719309039",
+    "created_at": "2026-07-10T01:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T02:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075395756719309039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/imperioestoico…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/imperioestoico/status/2075255209266459124",
+          "start": 13,
+          "url": "https://t.co/axQP4dp7jS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075395756719309039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075255209266459124",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "阴谋论爱好者喜欢的蜥蜴人 https://t.co/axQP4dp7jS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15509,
+        "height": 480,
+        "media_key": "13_2075255158699900932",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075255158699900932/img/ThZUeN7a_VV0BDs3.jpg",
+        "public_metrics": {
+          "view_count": 790652
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075255158699900932/vid/avc1/270x270/rfgzLQqpaHdC1FTy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075255158699900932/vid/avc1/360x360/rg8n4KJbh1YhOokL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075255158699900932/vid/avc1/482x480/YpgIg8oyW001_Kni.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075255158699900932/pl/_1bJm8-sgR3DmqDk.m3u8?tag=14"
+          }
+        ],
+        "width": 482
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1440689418424123414",
+              "name": "Hannah Stocking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1440689418424123414",
+              "name": "Hannah Stocking"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293666530111008769",
+              "name": "Instagram influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1440689418424123414",
+              "name": "Hannah Stocking"
+            }
+          }
+        ],
+        "conversation_id": "2075395756719309039",
+        "created_at": "2026-07-10T01:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T02:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075395756719309039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/imperioestoico…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/imperioestoico/status/2075255209266459124",
+              "start": 13,
+              "url": "https://t.co/axQP4dp7jS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075395756719309039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075255209266459124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阴谋论爱好者喜欢的蜥蜴人 https://t.co/axQP4dp7jS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075255158699900932"
+          ]
+        },
+        "author_id": "1457681723106471939",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1440689418424123414",
+              "name": "Hannah Stocking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1440689418424123414",
+              "name": "Hannah Stocking"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293666530111008769",
+              "name": "Instagram influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1440689418424123414",
+              "name": "Hannah Stocking"
+            }
+          }
+        ],
+        "conversation_id": "2075255209266459124",
+        "created_at": "2026-07-09T16:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075255209266459124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kCXSiaHi0A",
+              "end": 269,
+              "expanded_url": "https://x.com/ImperioEstoico/status/2075255209266459124/video/1",
+              "media_key": "13_2075255158699900932",
+              "start": 246,
+              "url": "https://t.co/kCXSiaHi0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075255209266459124",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2723,
+          "impression_count": 1445434,
+          "like_count": 19197,
+          "quote_count": 61,
+          "reply_count": 167,
+          "retweet_count": 914
+        },
+        "reply_settings": "everyone",
+        "text": "La modelo Hannah Stocking posee la rara habilidad de controlar voluntariamente la dilatación y constricción de sus pupilas. Esto se denomina modulación pupilar voluntaria, mediante la cual las personas pueden eludir el sistema nervioso autónomo. https://t.co/kCXSiaHi0A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 644,
+          "like_count": 14858,
+          "listed_count": 2,
+          "media_count": 798,
+          "tweet_count": 6336
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-08T12:09:46.000Z",
+        "description": "Filosofía | Sabiduría | Motivación. ♦ Conviértete en un Estoico | Sígueme e inspírate a diario.",
+        "id": "1457681723106471939",
+        "location": "PUBLICIDAD ➡ DM",
+        "name": "Imperio Estoico.",
+        "pinned_tweet_id": "1477096726414594051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465638777502711811/k96HK2_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195700,
+          "following_count": 9,
+          "like_count": 1320,
+          "listed_count": 416,
+          "media_count": 4993,
+          "tweet_count": 11357
+        },
+        "url": "",
+        "username": "ImperioEstoico",
+        "verified": true
+      }
+    ]
+  }
+}

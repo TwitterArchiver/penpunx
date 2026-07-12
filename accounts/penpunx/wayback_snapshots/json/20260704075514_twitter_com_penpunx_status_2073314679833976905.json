@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2073314679833976905",
+    "created_at": "2026-07-04T07:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T08:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073314679833976905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Dustin22_06/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Dustin22_06/status/2073196145623581082",
+          "start": 14,
+          "url": "https://t.co/1W5n23Ca5t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073314679833976905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073196145623581082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊蛇有两条penis?!! https://t.co/1W5n23Ca5t"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24530,
+        "height": 1608,
+        "media_key": "13_2073196008729956352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073196008729956352/img/6B9A2HIc30uHf5V2.jpg",
+        "public_metrics": {
+          "view_count": 1370489
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073196008729956352/vid/avc1/320x436/zaUZNdwdgPzJ3Sev.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073196008729956352/vid/avc1/1180x1608/VNBNSxdVj6K9b-Uz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073196008729956352/pl/IL_-AK0O0y5BlzsX.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073196008729956352/vid/avc1/480x654/kjdcEGKY-9eTGVh4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073196008729956352/vid/avc1/720x980/yAE-DIqs_rvIk8Pf.mp4"
+          }
+        ],
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2073314679833976905",
+        "created_at": "2026-07-04T07:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073314679833976905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Dustin22_06/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Dustin22_06/status/2073196145623581082",
+              "start": 14,
+              "url": "https://t.co/1W5n23Ca5t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073314679833976905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073196145623581082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊蛇有两条penis?!! https://t.co/1W5n23Ca5t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073196008729956352"
+          ]
+        },
+        "author_id": "831068735817580544",
+        "conversation_id": "2073196145623581082",
+        "created_at": "2026-07-04T00:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T01:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073196145623581082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SyQDl6Kyam",
+              "end": 124,
+              "expanded_url": "https://x.com/Dustin22_06/status/2073196145623581082/video/1",
+              "media_key": "13_2073196008729956352",
+              "start": 101,
+              "url": "https://t.co/SyQDl6Kyam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073196145623581082",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 849,
+          "impression_count": 2296336,
+          "like_count": 1340,
+          "quote_count": 30,
+          "reply_count": 279,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "2 thứ gây nổi da gà trong video, rắn và cái vậy gai gai kia, không biết cái thứ gai gai đó là gì 😖😖😖 https://t.co/SyQDl6Kyam"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 639,
+          "like_count": 14651,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 6106
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-13T09:13:21.000Z",
+        "description": "Nhà ráng tạo nội dung\nJust a normal guy trying to find joy in a complicated life\nLiverpool FC Supporter 🔴",
+        "id": "831068735817580544",
+        "name": "Dustin",
+        "pinned_tweet_id": "2073196145623581082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067830273715404800/DmZiDrm4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1782,
+          "following_count": 1866,
+          "like_count": 646,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 1537
+        },
+        "url": "",
+        "username": "Dustin22_06",
+        "verified": true
+      }
+    ]
+  }
+}

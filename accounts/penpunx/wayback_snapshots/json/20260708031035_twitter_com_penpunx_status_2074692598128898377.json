@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074438741196730368"
+      ],
+      "media_source_tweet_id": [
+        "2074438747534377300"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2074692598128898377",
+    "created_at": "2026-07-08T03:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074692598128898377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1993455710274043905",
+          "start": 3,
+          "username": "satireorcry1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SemSmGWSHx",
+          "end": 76,
+          "expanded_url": "https://x.com/satireorcry1/status/2074438747534377300/photo/1",
+          "media_key": "3_2074438741196730368",
+          "start": 53,
+          "url": "https://t.co/SemSmGWSHx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074692598128898377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074438747534377300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @satireorcry1: 冷知识：\n每年7月8日的下午6点15分，全世界99%的人会在阳光下￼ https://t.co/SemSmGWSHx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 486,
+        "media_key": "3_2074438741196730368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnjC1VW8AAI-Xj.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074438741196730368"
+          ],
+          "media_source_tweet_id": [
+            "2074438747534377300"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2074692598128898377",
+        "created_at": "2026-07-08T03:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074692598128898377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1993455710274043905",
+              "start": 3,
+              "username": "satireorcry1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SemSmGWSHx",
+              "end": 76,
+              "expanded_url": "https://x.com/satireorcry1/status/2074438747534377300/photo/1",
+              "media_key": "3_2074438741196730368",
+              "start": 53,
+              "url": "https://t.co/SemSmGWSHx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074692598128898377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074438747534377300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @satireorcry1: 冷知识：\n每年7月8日的下午6点15分，全世界99%的人会在阳光下￼ https://t.co/SemSmGWSHx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074438741196730368"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2074438747534377300",
+        "created_at": "2026-07-07T10:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074438747534377300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SemSmGWSHx",
+              "end": 58,
+              "expanded_url": "https://x.com/satireorcry1/status/2074438747534377300/photo/1",
+              "media_key": "3_2074438741196730368",
+              "start": 35,
+              "url": "https://t.co/SemSmGWSHx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074438747534377300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 11557,
+          "like_count": 237,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：\n每年7月8日的下午6点15分，全世界99%的人会在阳光下￼ https://t.co/SemSmGWSHx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 643,
+          "like_count": 14779,
+          "listed_count": 2,
+          "media_count": 778,
+          "tweet_count": 6250
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvog37z"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38565,
+          "following_count": 1727,
+          "like_count": 23744,
+          "listed_count": 103,
+          "media_count": 5737,
+          "tweet_count": 7685
+        },
+        "url": "https://t.co/EYxWvog37z",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

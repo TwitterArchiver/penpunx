@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2074307339725967373",
+    "created_at": "2026-07-07T01:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T02:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074307339725967373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sergetrevorr/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/sergetrevorr/status/2074096572585922756",
+          "start": 10,
+          "url": "https://t.co/Jb1ugTo5SU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074307339725967373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074096572585922756",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实是在对足球施法 https://t.co/Jb1ugTo5SU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25466,
+        "height": 712,
+        "media_key": "13_2056448301700952064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056448301700952064/img/3M_QzLGEqaNfLR2S.jpg",
+        "public_metrics": {
+          "view_count": 8016158
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056448301700952064/vid/avc1/320x394/M4IgIgzcUwCW9aJi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056448301700952064/vid/avc1/480x592/s4QaLdpluZsjtrDK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056448301700952064/vid/avc1/576x712/-5GqzE234F5Rsbfk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056448301700952064/pl/BsYFXnF86AUybyQG.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2074307339725967373",
+        "created_at": "2026-07-07T01:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074307339725967373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sergetrevorr/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/sergetrevorr/status/2074096572585922756",
+              "start": 10,
+              "url": "https://t.co/Jb1ugTo5SU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074307339725967373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074096572585922756",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实是在对足球施法 https://t.co/Jb1ugTo5SU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056448301700952064"
+          ],
+          "media_source_tweet_id": [
+            "2056448397410709541"
+          ]
+        },
+        "author_id": "818745406288957440",
+        "conversation_id": "2074096572585922756",
+        "created_at": "2026-07-06T11:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074096572585922756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fv1HpSbYir",
+              "end": 116,
+              "expanded_url": "https://x.com/B2r1ss/status/2056448397410709541/video/1",
+              "media_key": "13_2056448301700952064",
+              "start": 93,
+              "url": "https://t.co/Fv1HpSbYir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074096572585922756",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1632,
+          "impression_count": 6364952,
+          "like_count": 10713,
+          "quote_count": 94,
+          "reply_count": 203,
+          "retweet_count": 318
+        },
+        "reply_settings": "everyone",
+        "text": "Je pense que c’est le pire geste technique de l’histoire mdrrrrrrrrrrrr comment c’est gênant https://t.co/Fv1HpSbYir"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 641,
+          "like_count": 14737,
+          "listed_count": 2,
+          "media_count": 775,
+          "tweet_count": 6208
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-10T09:04:51.000Z",
+        "description": "",
+        "id": "818745406288957440",
+        "name": "17•",
+        "pinned_tweet_id": "1818798678187934054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044161568536178688/rsaVzCZH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15819,
+          "following_count": 675,
+          "like_count": 147360,
+          "listed_count": 32,
+          "media_count": 25665,
+          "tweet_count": 306224
+        },
+        "url": "",
+        "username": "sergetrevorr",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2073314347989049439",
+    "created_at": "2026-07-04T07:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T08:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073314347989049439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BFrog__/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/BFrog__/status/2073078305322840171",
+          "start": 11,
+          "url": "https://t.co/bAXOlpuLUB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073314347989049439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073078305322840171",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "右美沙芬药效里去厕所 https://t.co/bAXOlpuLUB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6266,
+        "height": 500,
+        "media_key": "13_2073078232564322304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073078232564322304/img/i2MEUr6319lF1KxY.jpg",
+        "public_metrics": {
+          "view_count": 111938
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073078232564322304/vid/avc1/356x270/szGPnKxWWUhB5y9a.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073078232564322304/vid/avc1/474x360/4A2GuPX-zZnr4jJx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073078232564322304/vid/avc1/660x500/4U-cUBgS4aMZxKkj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073078232564322304/pl/zp2GA85tUOTILBOo.m3u8"
+          }
+        ],
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2073314347989049439",
+        "created_at": "2026-07-04T07:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073314347989049439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BFrog__/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/BFrog__/status/2073078305322840171",
+              "start": 11,
+              "url": "https://t.co/bAXOlpuLUB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073314347989049439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073078305322840171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "右美沙芬药效里去厕所 https://t.co/bAXOlpuLUB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073078232564322304"
+          ]
+        },
+        "author_id": "1362092039584808963",
+        "conversation_id": "2073078305322840171",
+        "created_at": "2026-07-03T16:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073078305322840171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GihrHPd6p2",
+              "end": 93,
+              "expanded_url": "https://x.com/BFrog__/status/2073078305322840171/video/1",
+              "media_key": "13_2073078232564322304",
+              "start": 70,
+              "url": "https://t.co/GihrHPd6p2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073078305322840171",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 909,
+          "impression_count": 351761,
+          "like_count": 24384,
+          "quote_count": 105,
+          "reply_count": 26,
+          "retweet_count": 4033
+        },
+        "reply_settings": "everyone",
+        "text": "yo a las 3 de la mañana buscando mi cama después de haber ido al baño https://t.co/GihrHPd6p2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 639,
+          "like_count": 14651,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 6105
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-17T17:30:53.000Z",
+        "description": "memes  (@BFrog2__)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "BFrog2__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bfrog__",
+                "end": 23,
+                "expanded_url": "https://instagram.com/bfrog__",
+                "start": 0,
+                "url": "https://t.co/YoPxdiLhqc"
+              }
+            ]
+          }
+        },
+        "id": "1362092039584808963",
+        "location": "bfrog0000@gmail.com",
+        "name": "BFrog",
+        "pinned_tweet_id": "1689755508477964288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635432804988190720/eSuMvCML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218351,
+          "following_count": 388,
+          "like_count": 2066,
+          "listed_count": 142,
+          "media_count": 8081,
+          "tweet_count": 12017
+        },
+        "url": "https://t.co/YoPxdiLhqc",
+        "username": "BFrog__",
+        "verified": true
+      }
+    ]
+  }
+}
