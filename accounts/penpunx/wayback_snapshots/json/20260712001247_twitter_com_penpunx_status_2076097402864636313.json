@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2076097402864636313",
+    "created_at": "2026-07-12T00:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T01:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076097402864636313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1863233896403628033",
+          "start": 3,
+          "username": "dontweepalone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076097402864636313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075997203060171130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @dontweepalone: 很讨厌暑假因为晚上必须回家。因为没法自由出门。因为我甚至没有锁门的权利。因为我每天不得不面对“家人”消耗我本就低到不行的精力。好累，好无聊。只有看到朋友圈里同龄人的幸福现充生活羡慕又唾弃，而我只是睡觉醒来发呆无意义的上网冲浪和感到空虚。此刻…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2076097402864636313",
+        "created_at": "2026-07-12T00:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T01:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076097402864636313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1863233896403628033",
+              "start": 3,
+              "username": "dontweepalone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076097402864636313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075997203060171130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @dontweepalone: 很讨厌暑假因为晚上必须回家。因为没法自由出门。因为我甚至没有锁门的权利。因为我每天不得不面对“家人”消耗我本就低到不行的精力。好累，好无聊。只有看到朋友圈里同龄人的幸福现充生活羡慕又唾弃，而我只是睡觉醒来发呆无意义的上网冲浪和感到空虚。此刻…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2075997203060171130",
+        "created_at": "2026-07-11T17:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075997203060171130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075997203060171130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "很讨厌暑假因为晚上必须回家。因为没法自由出门。因为我甚至没有锁门的权利。因为我每天不得不面对“家人”消耗我本就低到不行的精力。好累，好无聊。只有看到朋友圈里同龄人的幸福现充生活羡慕又唾弃，而我只是睡觉醒来发呆无意义的上网冲浪和感到空虚。此刻我甚至找不出一个想死的理由但事实就是…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 658,
+          "like_count": 14984,
+          "listed_count": 2,
+          "media_count": 811,
+          "tweet_count": 6495
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "INFP｜4w5｜06｜agender｜lgbtqa+全友好｜gynesexual｜精神障碍｜sh｜欢迎互fo^_^\nWelcome to my funeral.",
+        "id": "1863233896403628033",
+        "name": "Mnw2eper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 232,
+          "like_count": 4772,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076684035045412864"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076684044990136654",
+    "created_at": "2026-07-13T15:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076684044990136654"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ejVmen6Mqa",
+          "end": 155,
+          "expanded_url": "https://x.com/penpunx/status/2076684044990136654/photo/1",
+          "media_key": "3_2076684035045412864",
+          "start": 132,
+          "url": "https://t.co/ejVmen6Mqa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076684044990136654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我今天玩魔兽世界，我发现暴雪等级压缩、开放驭空术之后出了一些逻辑的bug，比如dk新手任务线，接近尾声时在礼拜堂可以直接骑着飞行坐骑飞走，但是去主城还是没法正常推进任务。以及因为dk一开始就开放了战团坐骑和骑术，所以一开始就可以骑战马，那个战马的任务就形同虚设了 https://t.co/ejVmen6Mqa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2076684035045412864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHdIIubUAAdvCH.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076684035045412864"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076684044990136654",
+        "created_at": "2026-07-13T15:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076684044990136654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ejVmen6Mqa",
+              "end": 155,
+              "expanded_url": "https://x.com/penpunx/status/2076684044990136654/photo/1",
+              "media_key": "3_2076684035045412864",
+              "start": 132,
+              "url": "https://t.co/ejVmen6Mqa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076684044990136654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天玩魔兽世界，我发现暴雪等级压缩、开放驭空术之后出了一些逻辑的bug，比如dk新手任务线，接近尾声时在礼拜堂可以直接骑着飞行坐骑飞走，但是去主城还是没法正常推进任务。以及因为dk一开始就开放了战团坐骑和骑术，所以一开始就可以骑战马，那个战马的任务就形同虚设了 https://t.co/ejVmen6Mqa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 667,
+          "like_count": 15048,
+          "listed_count": 2,
+          "media_count": 829,
+          "tweet_count": 6575
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

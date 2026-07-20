@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2076205388337430827",
+    "created_at": "2026-07-12T09:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T10:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076241333048717345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1490380932032995331",
+          "start": 0,
+          "username": "luckypuppy67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076241333048717345",
+    "in_reply_to_user_id": "1490380932032995331",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076205388337430827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luckypuppy67 屁是形声字（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2076205388337430827",
+        "created_at": "2026-07-12T09:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076241333048717345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1490380932032995331",
+              "start": 0,
+              "username": "luckypuppy67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076241333048717345",
+        "in_reply_to_user_id": "1490380932032995331",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076205388337430827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luckypuppy67 屁是形声字（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490380932032995331",
+        "conversation_id": "2076205388337430827",
+        "created_at": "2026-07-12T07:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076205388337430827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076205388337430827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "屎尿屁三个字我来解读一下：\n屎是米的尸体\n尿是水的尸体\n屁。。屁。老师这题我不会。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 662,
+          "like_count": 14999,
+          "listed_count": 2,
+          "media_count": 814,
+          "tweet_count": 6525
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T17:44:54.000Z",
+        "description": "我喜欢碎碎念 纯纯纯绿\n账号名由来：太困了不想思考闭着眼乱码的\n触及底线会拉黑\n不是黄推 不约 礼貌交流谢谢(｡ì _ í｡)",
+        "id": "1490380932032995331",
+        "name": "sjddnls",
+        "pinned_tweet_id": "2063282295931641928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938876273930989568/mIStn_0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 70,
+          "like_count": 1439,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 606
+        },
+        "url": "",
+        "username": "luckypuppy67",
+        "verified": false
+      }
+    ]
+  }
+}

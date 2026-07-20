@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2074046935527575752",
+    "created_at": "2026-07-11T01:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T02:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075754267634540926"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075754267634540926",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075754264375578772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我回想起自己小时候被家暴的经历，然后惊讶地发现，受害者竟然是我同一个初中、低我一级的学妹。我看到她曾经风光地在台上表演钢琴。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2074046935527575752",
+        "created_at": "2026-07-11T01:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T02:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075754267634540926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075754267634540926",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075754264375578772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我回想起自己小时候被家暴的经历，然后惊讶地发现，受害者竟然是我同一个初中、低我一级的学妹。我看到她曾经风光地在台上表演钢琴。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2074046935527575752",
+        "created_at": "2026-07-11T01:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T02:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075754264375578772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075754264375578772",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075754261569560631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一开始我到了一个阳光明媚的外星球上。但我跳来跳去的时候，发现了树的不对劲——上面居然有风干的人体组织。我报了案，警察检测出了受害者的身份。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 652,
+          "like_count": 14938,
+          "listed_count": 2,
+          "media_count": 803,
+          "tweet_count": 6439
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

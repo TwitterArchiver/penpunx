@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2076519220158824938",
+    "created_at": "2026-07-13T04:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076526522585043261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008420775204896768",
+          "start": 0,
+          "username": "saki7999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076526522585043261",
+    "in_reply_to_user_id": "2008420775204896768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076519220158824938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saki7999 这看起来像米米世界"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53760,
+        "height": 720,
+        "media_key": "7_2076518520452444160",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2076518520452444160/pu/img/UvwPjVWSHwcpfhCX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076518520452444160/pu/vid/avc1/432x270/sj7cCDmNpyOqrysH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076518520452444160/pu/vid/avc1/576x360/iViIBqyO3MUQA39j.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076518520452444160/pu/vid/avc1/1152x720/6-rrID3fpJ6rJaYL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2076518520452444160/pu/pl/c3-Sxeb1VQhuTmI4.m3u8"
+          }
+        ],
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2076519220158824938",
+        "created_at": "2026-07-13T04:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076526522585043261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "saki7999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076526522585043261",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076519220158824938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saki7999 这看起来像米米世界"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076518520452444160"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "conversation_id": "2076519220158824938",
+        "created_at": "2026-07-13T04:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076519220158824938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNt6DRyqm5",
+              "end": 47,
+              "expanded_url": "https://x.com/saki7999/status/2076519220158824938/video/1",
+              "media_key": "7_2076518520452444160",
+              "start": 24,
+              "url": "https://t.co/BNt6DRyqm5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076519220158824938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一想到30块买了个这个丑到奇葩的材质就有点懵逼 https://t.co/BNt6DRyqm5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 666,
+          "like_count": 15021,
+          "listed_count": 2,
+          "media_count": 824,
+          "tweet_count": 6560
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "人啊，幸福的活下去吧",
+        "id": "2008420775204896768",
+        "name": "岐哥，梦想哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 89,
+          "like_count": 2446,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 2493
+        },
+        "url": "",
+        "username": "saki7999",
+        "verified": true
+      }
+    ]
+  }
+}

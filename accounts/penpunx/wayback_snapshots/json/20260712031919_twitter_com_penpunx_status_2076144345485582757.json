@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2076144345485582757",
+    "created_at": "2026-07-12T03:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T04:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076144345485582757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhiii_tan/stat…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/zhiii_tan/status/2075968399625331156",
+          "start": 48,
+          "url": "https://t.co/QXA0N10fGb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076144345485582757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075968399625331156",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（无任何意思只是好奇）大部分在/网/上/乱/问/者内心想法是什么，以及我们为什么要接受这个群体 https://t.co/QXA0N10fGb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 251,
+        "media_key": "3_2075968396957732864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9SQhGaUAA25i0.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2076144345485582757",
+        "created_at": "2026-07-12T03:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076144345485582757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhiii_tan/stat…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/zhiii_tan/status/2075968399625331156",
+              "start": 48,
+              "url": "https://t.co/QXA0N10fGb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076144345485582757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075968399625331156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（无任何意思只是好奇）大部分在/网/上/乱/问/者内心想法是什么，以及我们为什么要接受这个群体 https://t.co/QXA0N10fGb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075968396957732864"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2075968399625331156",
+        "created_at": "2026-07-11T15:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075968399625331156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mNm4FdZAtR",
+              "end": 35,
+              "expanded_url": "https://x.com/zhiii_tan/status/2075968399625331156/photo/1",
+              "media_key": "3_2075968396957732864",
+              "start": 12,
+              "url": "https://t.co/mNm4FdZAtR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075968399625331156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额。这个稿主你认真的吗 https://t.co/mNm4FdZAtR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 660,
+          "like_count": 14991,
+          "listed_count": 2,
+          "media_count": 812,
+          "tweet_count": 6509
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/3n12yaBasr"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 656,
+          "like_count": 1443,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 3603
+        },
+        "url": "https://t.co/3n12yaBasr",
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

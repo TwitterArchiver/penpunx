@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2075547718345445735",
+    "created_at": "2026-07-11T10:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T11:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075891869838610508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1695406391609966592",
+          "start": 0,
+          "username": "sashiburi519534"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075891869838610508",
+    "in_reply_to_user_id": "1695406391609966592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075547718345445735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sashiburi519534 想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075547686951067648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3Tn-MaIAAf7n_.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 4967,
+        "height": 1280,
+        "media_key": "7_2075547689748725761",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075547689748725761/pu/img/vUqPxdFWlG1TAGAm.jpg",
+        "public_metrics": {
+          "view_count": 36
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075547689748725761/pu/vid/avc1/320x568/H-nL8OIcDf9pY3-F.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075547689748725761/pu/vid/avc1/480x852/URgPe9BNQzhiPv4N.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075547689748725761/pu/vid/avc1/720x1280/ExMg0wRStNOiF1HW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075547689748725761/pu/pl/C4eJ0tDTYhnCAYD_.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2075547718345445735",
+        "created_at": "2026-07-11T10:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075891869838610508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695406391609966592",
+              "start": 0,
+              "username": "sashiburi519534"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075891869838610508",
+        "in_reply_to_user_id": "1695406391609966592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075547718345445735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sashiburi519534 想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075547686951067648",
+            "7_2075547689748725761"
+          ]
+        },
+        "author_id": "1695406391609966592",
+        "conversation_id": "2075547718345445735",
+        "created_at": "2026-07-10T11:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075547718345445735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Me827RgzI0",
+              "end": 23,
+              "expanded_url": "https://x.com/sashiburi519534/status/2075547718345445735/video/1",
+              "media_key": "3_2075547686951067648",
+              "start": 0,
+              "url": "https://t.co/Me827RgzI0"
+            },
+            {
+              "display_url": "pic.x.com/Me827RgzI0",
+              "end": 23,
+              "expanded_url": "https://x.com/sashiburi519534/status/2075547718345445735/video/1",
+              "media_key": "7_2075547689748725761",
+              "start": 0,
+              "url": "https://t.co/Me827RgzI0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075547718345445735",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Me827RgzI0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 655,
+          "like_count": 14963,
+          "listed_count": 2,
+          "media_count": 811,
+          "tweet_count": 6480
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T12:03:04.000Z",
+        "description": "我是叉子/玩很多ns游戏/喜欢开心果味/不是DJ小女孩/麸质过敏/hazy ipa/烤鸭/裸睡/大蒜酱/喜欢水水獭/喜欢橘子/不爱吃饭很瘦/怕冷怕热/讨厌蚊子/喜欢蟑螂/《爱蠊说/葱花好吃/喫煙/会骑自行车/不吃韭菜/死了已经/Shoegaze/ NGL https://t.co/DyGKzxrd0I",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sashiburi51953…",
+                "end": 151,
+                "expanded_url": "http://ngl.link/sashiburi5195342",
+                "start": 128,
+                "url": "https://t.co/DyGKzxrd0I"
+              }
+            ]
+          }
+        },
+        "id": "1695406391609966592",
+        "location": "Sintra, Portugal",
+        "name": "怒羅衛門",
+        "pinned_tweet_id": "1872574195990974933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801746828297117696/ht4Uakoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1189,
+          "like_count": 23957,
+          "listed_count": 3,
+          "media_count": 1752,
+          "tweet_count": 8409
+        },
+        "url": "",
+        "username": "sashiburi519534",
+        "verified": false
+      }
+    ]
+  }
+}

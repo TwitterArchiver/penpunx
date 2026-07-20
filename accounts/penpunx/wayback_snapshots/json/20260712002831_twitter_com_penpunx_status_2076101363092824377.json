@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2076093876205658495",
+    "created_at": "2026-07-12T00:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T01:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076101363092824377"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076101363092824377",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076093876205658495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "昨晚梦里我似乎接受了什么神的指引。之后我在我小学教学楼里写作业，那些教室里似乎正在进行选拔。突然我发现所有的字像吃了dpt一样晃动，我意识到自己在做清醒梦，意识到的一瞬间我就打开窗户跳出去了。其他人都大惊失色。我跳出去之后又飞了起来，然后扒在飞机翅膀上。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2076093876205658495",
+        "created_at": "2026-07-12T00:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T01:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076101363092824377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076101363092824377",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076093876205658495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨晚梦里我似乎接受了什么神的指引。之后我在我小学教学楼里写作业，那些教室里似乎正在进行选拔。突然我发现所有的字像吃了dpt一样晃动，我意识到自己在做清醒梦，意识到的一瞬间我就打开窗户跳出去了。其他人都大惊失色。我跳出去之后又飞了起来，然后扒在飞机翅膀上。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2076093876205658495",
+        "created_at": "2026-07-11T23:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T00:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076093876205658495"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076093876205658495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚我在梦中做清醒梦，意识到的一瞬间我就打开窗户跳出去了("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 658,
+          "like_count": 14984,
+          "listed_count": 2,
+          "media_count": 811,
+          "tweet_count": 6497
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

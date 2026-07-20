@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Sky News",
+          "id": "1100765157339234304",
+          "name": "Sky News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sky News",
+          "id": "1100765157339234304",
+          "name": "Sky News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      }
+    ],
+    "conversation_id": "2075734506607431936",
+    "created_at": "2026-07-11T00:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T01:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075734506607431936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/juezcentral/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/juezcentral/status/2075565253715190169",
+          "start": 6,
+          "url": "https://t.co/JDLNmUYZyh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075734506607431936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075565253715190169",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "极意自在豪 https://t.co/JDLNmUYZyh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075565247788720128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3jmJaXoAAlJ5W.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Sky News",
+              "id": "1100765157339234304",
+              "name": "Sky News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sky News",
+              "id": "1100765157339234304",
+              "name": "Sky News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2075734506607431936",
+        "created_at": "2026-07-11T00:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T01:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075734506607431936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/juezcentral/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/juezcentral/status/2075565253715190169",
+              "start": 6,
+              "url": "https://t.co/JDLNmUYZyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075734506607431936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075565253715190169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "极意自在豪 https://t.co/JDLNmUYZyh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075565247788720128"
+          ]
+        },
+        "author_id": "336145436",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Sky News",
+              "id": "1100765157339234304",
+              "name": "Sky News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sky News",
+              "id": "1100765157339234304",
+              "name": "Sky News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2075565253715190169",
+        "created_at": "2026-07-10T12:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075565253715190169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YF6Ym72zWw",
+              "end": 303,
+              "expanded_url": "https://x.com/Juezcentral/status/2075565253715190169/photo/1",
+              "media_key": "3_2075565247788720128",
+              "start": 280,
+              "url": "https://t.co/YF6Ym72zWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075565253715190169",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {},
+          "text": "Esto es espectacular. En el último partido de Noruega, se hizo viral un pelado que estaba entre la multitud y se negó a hacer el \"Remo\" con sus compatriotas. \n\nEl canal de TV Sky News lo encontró y le preguntó por qué no lo hacía:\n\n\"Es muy sencillo. Los vikingos no remaban en el Atlántico, sino que navegaban. Es una celebración históricamente imprecisa. Estoy muy contento que mi mensaje haya tenido eco para corregir ese error. Seguiré apoyando a Noruega pero nunca voy a remar, ni siquiera si somos Campeones\". \n\nLo mejor es que el pelado tiene sus remos colgados atrás, en su habitación. El experto en remos. El alma la fiesta. Un crack."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3118,
+          "impression_count": 4465512,
+          "like_count": 46016,
+          "quote_count": 901,
+          "reply_count": 1363,
+          "retweet_count": 1905
+        },
+        "reply_settings": "everyone",
+        "text": "Esto es espectacular. En el último partido de Noruega, se hizo viral un pelado que estaba entre la multitud y se negó a hacer el \"Remo\" con sus compatriotas. \n\nEl canal de TV Sky News lo encontró y le preguntó por qué no lo hacía:\n\n\"Es muy sencillo. Los vikingos no remaban en el https://t.co/YF6Ym72zWw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 652,
+          "like_count": 14928,
+          "listed_count": 2,
+          "media_count": 803,
+          "tweet_count": 6412
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-15T20:24:36.000Z",
+        "description": "#InformeJuezCentral , datos curiosos y anécdotas del fútbol mundial. ||| Contacto: juezcentral@hotmail.com ///",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 0,
+                "tag": "InformeJuezCentral"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/juezcentral",
+                "end": 23,
+                "expanded_url": "http://www.instagram.com/juezcentral",
+                "start": 0,
+                "url": "https://t.co/pQjKbVL4f0"
+              }
+            ]
+          }
+        },
+        "id": "336145436",
+        "location": "Colombia",
+        "name": "Juez Central",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1109648292667973632/--xdyeAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976377,
+          "following_count": 1739,
+          "like_count": 5561,
+          "listed_count": 2239,
+          "media_count": 6985,
+          "tweet_count": 8068
+        },
+        "url": "https://t.co/pQjKbVL4f0",
+        "username": "Juezcentral",
+        "verified": true
+      }
+    ]
+  }
+}

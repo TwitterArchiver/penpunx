@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2076148019377172672",
+    "created_at": "2026-07-12T03:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T04:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076148019377172672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/penpunx/status/2076099267677319423",
+          "start": 54,
+          "url": "https://t.co/I3muomicM3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076148019377172672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076099267677319423",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实是填空题，我说错了。选择题已经有过了(\n之前填空最后两道我都直接跳过，今天我发现我不仅会做还作对了（） https://t.co/I3muomicM3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2076148019377172672",
+        "created_at": "2026-07-12T03:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076148019377172672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/penpunx/status/2076099267677319423",
+              "start": 54,
+              "url": "https://t.co/I3muomicM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076148019377172672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076099267677319423",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实是填空题，我说错了。选择题已经有过了(\n之前填空最后两道我都直接跳过，今天我发现我不仅会做还作对了（） https://t.co/I3muomicM3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2076099267677319423",
+        "created_at": "2026-07-12T00:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T01:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076099267677319423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076099267677319423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我第一次作对数学所有选择题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 662,
+          "like_count": 14991,
+          "listed_count": 2,
+          "media_count": 812,
+          "tweet_count": 6511
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

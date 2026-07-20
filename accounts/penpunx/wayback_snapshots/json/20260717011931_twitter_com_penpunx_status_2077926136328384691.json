@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077926130485796864"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2077795939444806003",
+    "created_at": "2026-07-17T01:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T02:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077926136328384691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "978546324323762177",
+          "start": 0,
+          "username": "pain_requiem"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BzRU4fdyCH",
+          "end": 37,
+          "expanded_url": "https://x.com/penpunx/status/2077926136328384691/photo/1",
+          "media_key": "3_2077926130485796864",
+          "start": 14,
+          "url": "https://t.co/BzRU4fdyCH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077926136328384691",
+    "in_reply_to_user_id": "978546324323762177",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077795939444806003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pain_requiem https://t.co/BzRU4fdyCH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 368,
+        "media_key": "3_2077926130485796864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZGzm0boAAbYLk.jpg",
+        "width": 207
+      },
+      {
+        "height": 959,
+        "media_key": "3_2077795929273618432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXQY5gbUAAi-qs.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077926130485796864"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2077795939444806003",
+        "created_at": "2026-07-17T01:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077926136328384691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "978546324323762177",
+              "start": 0,
+              "username": "pain_requiem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BzRU4fdyCH",
+              "end": 37,
+              "expanded_url": "https://x.com/penpunx/status/2077926136328384691/photo/1",
+              "media_key": "3_2077926130485796864",
+              "start": 14,
+              "url": "https://t.co/BzRU4fdyCH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077926136328384691",
+        "in_reply_to_user_id": "978546324323762177",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077795939444806003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pain_requiem https://t.co/BzRU4fdyCH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077795929273618432"
+          ]
+        },
+        "author_id": "978546324323762177",
+        "conversation_id": "2077795939444806003",
+        "created_at": "2026-07-16T16:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077795939444806003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLFte7hRtu",
+              "end": 44,
+              "expanded_url": "https://x.com/pain_requiem/status/2077795939444806003/photo/1",
+              "media_key": "3_2077795929273618432",
+              "start": 21,
+              "url": "https://t.co/CLFte7hRtu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077795939444806003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 329,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乱剪的刘海，我都忘记有多少年没去理发店了 https://t.co/CLFte7hRtu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 665,
+          "like_count": 15096,
+          "listed_count": 2,
+          "media_count": 846,
+          "tweet_count": 6607
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-27T08:16:39.000Z",
+        "description": "有缘 再见",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mLScXW2Aibc7eL…",
+                "end": 23,
+                "expanded_url": "https://t.me/mLScXW2Aibc7eLDF",
+                "start": 0,
+                "url": "https://t.co/dVEPZOdeMR"
+              }
+            ]
+          }
+        },
+        "id": "978546324323762177",
+        "location": "ε Eridani system",
+        "name": "零℃可乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065355215688380416/AblpcVJR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 2072,
+          "like_count": 22653,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 532
+        },
+        "url": "https://t.co/dVEPZOdeMR",
+        "username": "pain_requiem",
+        "verified": false
+      }
+    ]
+  }
+}

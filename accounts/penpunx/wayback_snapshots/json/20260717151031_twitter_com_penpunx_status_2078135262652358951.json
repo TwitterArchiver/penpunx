@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078135252707631104"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078135262652358951",
+    "created_at": "2026-07-17T15:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078135262652358951"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4QQbImfl3L",
+          "end": 87,
+          "expanded_url": "https://x.com/penpunx/status/2078135262652358951/photo/1",
+          "media_key": "3_2078135252707631104",
+          "start": 64,
+          "url": "https://t.co/4QQbImfl3L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078135262652358951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个银月城不仅有血精灵还有大学生 还有一个卖蛋糕的npc说“想当年我们上学也没这么难啊” 旁边是一个看书精疲力竭而睡着的血精灵 https://t.co/4QQbImfl3L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2078135252707631104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcFAHza4AAb7xX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078135252707631104"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078135262652358951",
+        "created_at": "2026-07-17T15:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078135262652358951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4QQbImfl3L",
+              "end": 87,
+              "expanded_url": "https://x.com/penpunx/status/2078135262652358951/photo/1",
+              "media_key": "3_2078135252707631104",
+              "start": 64,
+              "url": "https://t.co/4QQbImfl3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078135262652358951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个银月城不仅有血精灵还有大学生 还有一个卖蛋糕的npc说“想当年我们上学也没这么难啊” 旁边是一个看书精疲力竭而睡着的血精灵 https://t.co/4QQbImfl3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 666,
+          "like_count": 15108,
+          "listed_count": 2,
+          "media_count": 852,
+          "tweet_count": 6624
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2076233899160834405",
+    "created_at": "2026-07-13T06:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076547670802682298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987138845058736133",
+          "start": 0,
+          "username": "maipianaini0930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076547670802682298",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076233899160834405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maipianaini0930 哪里可以喷，我也想玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2076233613901975552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBDeLNaUAAajxJ.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2076233613952401408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBDeLZbwAAeX0e.jpg",
+        "width": 4032
+      },
+      {
+        "height": 2909,
+        "media_key": "3_2076233613948157952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBDeLYbAAAEouW.jpg",
+        "width": 2998
+      },
+      {
+        "height": 2450,
+        "media_key": "3_2076233613897830400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBDeLMbEAAehhT.jpg",
+        "width": 3458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2076233899160834405",
+        "created_at": "2026-07-13T06:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076547670802682298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076547670802682298",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076233899160834405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 哪里可以喷，我也想玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076233613901975552",
+            "3_2076233613952401408",
+            "3_2076233613948157952",
+            "3_2076233613897830400"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2076233899160834405",
+        "created_at": "2026-07-12T09:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076233899160834405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8lpiGk8BF",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2076233899160834405/photo/1",
+              "media_key": "3_2076233613901975552",
+              "start": 0,
+              "url": "https://t.co/P8lpiGk8BF"
+            },
+            {
+              "display_url": "pic.x.com/P8lpiGk8BF",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2076233899160834405/photo/1",
+              "media_key": "3_2076233613952401408",
+              "start": 0,
+              "url": "https://t.co/P8lpiGk8BF"
+            },
+            {
+              "display_url": "pic.x.com/P8lpiGk8BF",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2076233899160834405/photo/1",
+              "media_key": "3_2076233613948157952",
+              "start": 0,
+              "url": "https://t.co/P8lpiGk8BF"
+            },
+            {
+              "display_url": "pic.x.com/P8lpiGk8BF",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2076233899160834405/photo/1",
+              "media_key": "3_2076233613897830400",
+              "start": 0,
+              "url": "https://t.co/P8lpiGk8BF"
+            },
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2075660980529532942",
+              "start": 24,
+              "url": "https://t.co/pfqhTLd5ll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076233899160834405",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 319,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075660980529532942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/P8lpiGk8BF https://t.co/pfqhTLd5ll"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 666,
+          "like_count": 15031,
+          "listed_count": 2,
+          "media_count": 825,
+          "tweet_count": 6565
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n来视奸的条子也死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 294,
+          "like_count": 10921,
+          "listed_count": 1,
+          "media_count": 723,
+          "tweet_count": 4765
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

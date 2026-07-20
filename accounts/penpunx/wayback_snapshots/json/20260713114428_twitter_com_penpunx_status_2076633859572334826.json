@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2076501664950083849",
+    "created_at": "2026-07-13T11:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T12:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076633859572334826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "20222252",
+          "start": 0,
+          "username": "dpgj"
+        },
+        {
+          "end": 16,
+          "id": "1758324617838788608",
+          "start": 6,
+          "username": "axzamyzed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076633859572334826",
+    "in_reply_to_user_id": "20222252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076548070175916032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dpgj @axzamyzed 人家就开个玩笑这和精神病有什么关系？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2076501664950083849",
+        "created_at": "2026-07-13T11:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076633859572334826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "20222252",
+              "start": 0,
+              "username": "dpgj"
+            },
+            {
+              "end": 16,
+              "id": "1758324617838788608",
+              "start": 6,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076633859572334826",
+        "in_reply_to_user_id": "20222252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076548070175916032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dpgj @axzamyzed 人家就开个玩笑这和精神病有什么关系？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "20222252",
+        "conversation_id": "2076501664950083849",
+        "created_at": "2026-07-13T06:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076548070175916032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076548070175916032",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6094,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076501664950083849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 这不是自闭症是精神病好不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 667,
+          "like_count": 15038,
+          "listed_count": 2,
+          "media_count": 826,
+          "tweet_count": 6568
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-06T07:52:42.000Z",
+        "description": "一只油腻大叔",
+        "id": "20222252",
+        "location": "香港",
+        "name": "紅豆麻糬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1384685374312620035/fJA33DJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 820,
+          "like_count": 181,
+          "listed_count": 48,
+          "media_count": 9504,
+          "tweet_count": 109567
+        },
+        "url": "",
+        "username": "dpgj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4139,
+          "following_count": 927,
+          "like_count": 14449,
+          "listed_count": 12,
+          "media_count": 3344,
+          "tweet_count": 9083
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}
