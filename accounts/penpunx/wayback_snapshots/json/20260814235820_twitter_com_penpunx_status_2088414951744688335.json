@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2088364440408515034",
+    "created_at": "2026-08-14T23:58:20.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T00:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088414951744688335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1542020482387456001",
+          "start": 0,
+          "username": "ki_3ri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088414951744688335",
+    "in_reply_to_user_id": "1542020482387456001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088364440408515034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ki_3ri 不是喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2088364440408515034",
+        "created_at": "2026-08-14T23:58:20.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T00:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088414951744688335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1542020482387456001",
+              "start": 0,
+              "username": "ki_3ri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088414951744688335",
+        "in_reply_to_user_id": "1542020482387456001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088364440408515034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ki_3ri 不是喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542020482387456001",
+        "conversation_id": "2088364440408515034",
+        "created_at": "2026-08-14T20:37:37.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T21:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088364440408515034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088364440408515034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是一个讨厌鬼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "I love WOW forever",
+        "id": "1896904934995656704",
+        "is_identity_verified": false,
+        "location": "形",
+        "most_recent_tweet_id": "2088414951744688335",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1896904934995656704/1780068931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 676,
+          "like_count": 15845,
+          "listed_count": 2,
+          "media_count": 963,
+          "tweet_count": 7129
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-29T05:42:03.000Z",
+        "description": "FtX｜Demiboy｜ASD｜Aroace-spec\nHe/They\n我不擅长说话，听不懂人说话，不知道自己在干什么！",
+        "id": "1542020482387456001",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088378290679710050",
+        "name": "羊毛球 saw oasis🏳️‍⚧️",
+        "pinned_tweet_id": "2078131941929553953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1542020482387456001/1781008819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062461350098702336/0Ci-o4UC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 420,
+          "like_count": 10374,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1810
+        },
+        "url": "",
+        "username": "ki_3ri",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

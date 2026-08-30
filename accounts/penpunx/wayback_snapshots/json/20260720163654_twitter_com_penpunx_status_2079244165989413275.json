@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2079233833199661109",
+    "created_at": "2026-07-20T16:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T17:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079244165989413275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1542020482387456001",
+          "start": 0,
+          "username": "ki_3ri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079244165989413275",
+    "in_reply_to_user_id": "1542020482387456001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079233833199661109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ki_3ri 同感\n想象自己就是你想要的那个自己，现在这个版本是假的\n可能会好一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2079233833199661109",
+        "created_at": "2026-07-20T16:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079244165989413275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1542020482387456001",
+              "start": 0,
+              "username": "ki_3ri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079244165989413275",
+        "in_reply_to_user_id": "1542020482387456001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079233833199661109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ki_3ri 同感\n想象自己就是你想要的那个自己，现在这个版本是假的\n可能会好一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542020482387456001",
+        "conversation_id": "2079233833199661109",
+        "created_at": "2026-07-20T15:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079233833199661109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079233833199661109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我长得特别丑，夸我的都是在安慰我，骂我的都是实话伤人心，镜子里的是我的幻觉，手机里的才是真的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "treni",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 670,
+          "like_count": 15285,
+          "listed_count": 2,
+          "media_count": 873,
+          "tweet_count": 6725
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-29T05:42:03.000Z",
+        "description": "FtX｜Demiboy｜ASD｜Aroace-spec\nHe/They\n我不擅长说话，听不懂人说话，不知道自己在干什么！",
+        "id": "1542020482387456001",
+        "name": "羊毛球 saw oasis🏳️‍⚧️",
+        "pinned_tweet_id": "2078131941929553953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062461350098702336/0Ci-o4UC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 365,
+          "like_count": 8578,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1148
+        },
+        "url": "",
+        "username": "ki_3ri",
+        "verified": false
+      }
+    ]
+  }
+}

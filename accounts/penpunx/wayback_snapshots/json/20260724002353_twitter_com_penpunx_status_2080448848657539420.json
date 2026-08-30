@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2080448848657539420",
+    "created_at": "2026-07-24T00:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T01:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080448848657539420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2006196338359427073",
+          "start": 3,
+          "username": "mechandofaso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080448848657539420",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10082
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080019222755778932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mechandofaso: te hace falta sexo te masturbas y listo asunto arreglado pero que haces cuando te falta vivienda digna como haces para ma…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2080448848657539420",
+        "created_at": "2026-07-24T00:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080448848657539420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2006196338359427073",
+              "start": 3,
+              "username": "mechandofaso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080448848657539420",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10082
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080019222755778932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mechandofaso: te hace falta sexo te masturbas y listo asunto arreglado pero que haces cuando te falta vivienda digna como haces para ma…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006196338359427073",
+        "conversation_id": "2080019222755778932",
+        "created_at": "2026-07-22T19:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T20:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080019222755778932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080019222755778932",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1890,
+          "impression_count": 913989,
+          "like_count": 77000,
+          "quote_count": 133,
+          "reply_count": 96,
+          "retweet_count": 10082
+        },
+        "reply_settings": "everyone",
+        "text": "te hace falta sexo te masturbas y listo asunto arreglado pero que haces cuando te falta vivienda digna como haces para masturbar al sistema de vivienda y cartel inmobiliario"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 671,
+          "like_count": 15447,
+          "listed_count": 2,
+          "media_count": 899,
+          "tweet_count": 6829
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T02:51:06.000Z",
+        "description": "zorra rikotera y merkera\nescucha luzbelito",
+        "id": "2006196338359427073",
+        "location": "matanza city",
+        "name": "moru por",
+        "pinned_tweet_id": "2080019222755778932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075357907097407488/mlFqoyfB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 143,
+          "like_count": 14215,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 860
+        },
+        "url": "",
+        "username": "mechandofaso",
+        "verified": false
+      }
+    ]
+  }
+}

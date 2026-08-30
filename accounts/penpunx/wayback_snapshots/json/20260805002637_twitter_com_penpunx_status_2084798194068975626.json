@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084798185680297984"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2084798194068975626",
+    "created_at": "2026-08-05T00:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T01:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084798194068975626"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/swqX20gqHx",
+          "end": 29,
+          "expanded_url": "https://x.com/penpunx/status/2084798194068975626/photo/1",
+          "media_key": "3_2084798185680297984",
+          "start": 6,
+          "url": "https://t.co/swqX20gqHx"
+        },
+        {
+          "display_url": "x.com/iydkmigthtky23…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/iydkmigthtky23/status/2084658883629629768",
+          "start": 30,
+          "url": "https://t.co/XfsgnJtqFJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084798194068975626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084658883629629768",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那很贞洁了 https://t.co/swqX20gqHx https://t.co/XfsgnJtqFJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2084798185680297984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO6w53XaYAAp0k_.jpg",
+        "width": 750
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2084658878051131392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4yNGAaIAAn-kv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084798185680297984"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2084798194068975626",
+        "created_at": "2026-08-05T00:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T01:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084798194068975626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/swqX20gqHx",
+              "end": 29,
+              "expanded_url": "https://x.com/penpunx/status/2084798194068975626/photo/1",
+              "media_key": "3_2084798185680297984",
+              "start": 6,
+              "url": "https://t.co/swqX20gqHx"
+            },
+            {
+              "display_url": "x.com/iydkmigthtky23…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/iydkmigthtky23/status/2084658883629629768",
+              "start": 30,
+              "url": "https://t.co/XfsgnJtqFJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084798194068975626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084658883629629768",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那很贞洁了 https://t.co/swqX20gqHx https://t.co/XfsgnJtqFJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084658878051131392"
+          ]
+        },
+        "author_id": "2073420644109504513",
+        "conversation_id": "2084658883629629768",
+        "created_at": "2026-08-04T15:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084658883629629768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hM1qdsGMdN",
+              "end": 35,
+              "expanded_url": "https://x.com/IYDKMIGTHTKY23/status/2084658883629629768/photo/1",
+              "media_key": "3_2084658878051131392",
+              "start": 12,
+              "url": "https://t.co/hM1qdsGMdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084658883629629768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 761,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喔草我的色慾怎麼這麼高 https://t.co/hM1qdsGMdN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "WOWer",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 677,
+          "like_count": 15717,
+          "listed_count": 2,
+          "media_count": 945,
+          "tweet_count": 7029
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-04T15:10:17.000Z",
+        "description": "付費約： @omo20060903",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "omo20060903"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/omoeggg",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/omoeggg",
+                "start": 0,
+                "url": "https://t.co/05iFF4nElL"
+              }
+            ]
+          }
+        },
+        "id": "2073420644109504513",
+        "name": "？（3.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080376678682087424/stGTfM2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 343,
+          "like_count": 2458,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/05iFF4nElL",
+        "username": "IYDKMIGTHTKY23",
+        "verified": false
+      }
+    ]
+  }
+}

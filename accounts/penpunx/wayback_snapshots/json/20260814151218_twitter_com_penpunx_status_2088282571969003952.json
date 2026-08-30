@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2088264404941082739",
+    "created_at": "2026-08-14T15:12:18.000Z",
+    "display_text_range": [
+      16,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088282571969003952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028661027647422465",
+          "start": 0,
+          "username": "nycteasio78869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088282571969003952",
+    "in_reply_to_user_id": "2028661027647422465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088264404941082739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@nycteasio78869 我喜欢看，请务必多发"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1203,
+        "media_key": "3_2088264396661514240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsBZ5ga4AAuxhn.jpg",
+        "width": 943
+      },
+      {
+        "height": 469,
+        "media_key": "3_2088264396640579584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsBZ5bbcAAXFqH.jpg",
+        "width": 641
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2088264404941082739",
+        "created_at": "2026-08-14T15:12:18.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088282571969003952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028661027647422465",
+              "start": 0,
+              "username": "nycteasio78869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088282571969003952",
+        "in_reply_to_user_id": "2028661027647422465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088264404941082739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@nycteasio78869 我喜欢看，请务必多发"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088264396661514240",
+            "3_2088264396640579584"
+          ]
+        },
+        "author_id": "2028661027647422465",
+        "conversation_id": "2088264404941082739",
+        "created_at": "2026-08-14T14:00:06.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088264404941082739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxDDIXnKiL",
+              "end": 40,
+              "expanded_url": "https://x.com/nycteasio78869/status/2088264404941082739/photo/1",
+              "media_key": "3_2088264396661514240",
+              "start": 17,
+              "url": "https://t.co/PxDDIXnKiL"
+            },
+            {
+              "display_url": "pic.x.com/PxDDIXnKiL",
+              "end": 40,
+              "expanded_url": "https://x.com/nycteasio78869/status/2088264404941082739/photo/1",
+              "media_key": "3_2088264396640579584",
+              "start": 17,
+              "url": "https://t.co/PxDDIXnKiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088264404941082739",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088264396661514240"
+          },
+          {
+            "media_key": "3_2088264396640579584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "最不知道受众是谁的一集（。。。） https://t.co/PxDDIXnKiL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "I love WOW forever",
+        "id": "1896904934995656704",
+        "is_identity_verified": false,
+        "location": "形",
+        "most_recent_tweet_id": "2088282571969003952",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1896904934995656704/1780068931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 675,
+          "like_count": 15837,
+          "listed_count": 2,
+          "media_count": 963,
+          "tweet_count": 7124
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-03T02:37:45.000Z",
+        "description": "贺建奎还我猫娘 ！（本账号可能会让你进行一个san check但是请放过我，我们只是陌生网友 )",
+        "id": "2028661027647422465",
+        "is_identity_verified": false,
+        "location": "they/them",
+        "most_recent_tweet_id": "2088264404941082739",
+        "name": "Nycteasio",
+        "pinned_tweet_id": "2086450571360563625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028661027647422465/1772603896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082343048537952256/ve0cTqeV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 99,
+          "like_count": 6969,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 991
+        },
+        "url": "",
+        "username": "nycteasio78869",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

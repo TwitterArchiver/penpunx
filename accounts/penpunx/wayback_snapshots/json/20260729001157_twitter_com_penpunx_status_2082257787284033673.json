@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2082074604361941335",
+    "created_at": "2026-07-29T00:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T01:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082257787284033673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2017265599890550784",
+          "start": 0,
+          "username": "wasabi431735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082257787284033673",
+    "in_reply_to_user_id": "2017265599890550784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082175544339435719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabi431735 会的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2082074604361941335",
+        "created_at": "2026-07-29T00:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082257787284033673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2017265599890550784",
+              "start": 0,
+              "username": "wasabi431735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082257787284033673",
+        "in_reply_to_user_id": "2017265599890550784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082175544339435719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabi431735 会的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017265599890550784",
+        "conversation_id": "2082074604361941335",
+        "created_at": "2026-07-28T18:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082175544339435719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082175544339435719",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082074604361941335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 美金刚真的会欣快吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 676,
+          "like_count": 15629,
+          "listed_count": 2,
+          "media_count": 928,
+          "tweet_count": 6951
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T15:56:26.000Z",
+        "description": "活在阳光下的老鼠人",
+        "id": "2017265599890550784",
+        "name": "wasabi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071631040549122048/Na8Jd86n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 11,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "wasabi431735",
+        "verified": false
+      }
+    ]
+  }
+}

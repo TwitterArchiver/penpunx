@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2081155480077086895",
+    "created_at": "2026-07-25T23:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T00:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081155480077086895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1902297181157257218",
+          "start": 3,
+          "username": "aoya_toboso_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081155480077086895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081049822090633562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoya_toboso_01: 我刷到学美术的跨男就嫉妒他们，因为我小时候也想当美术生，但是集训什么的太贵了，要个七八万，最后只能沦为做题蛆。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2081155480077086895",
+        "created_at": "2026-07-25T23:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T00:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081155480077086895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1902297181157257218",
+              "start": 3,
+              "username": "aoya_toboso_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081155480077086895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081049822090633562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoya_toboso_01: 我刷到学美术的跨男就嫉妒他们，因为我小时候也想当美术生，但是集训什么的太贵了，要个七八万，最后只能沦为做题蛆。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902297181157257218",
+        "conversation_id": "2081049822090633562",
+        "created_at": "2026-07-25T16:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081049822090633562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2080538229263204540",
+              "start": 56,
+              "url": "https://t.co/zCbSIVGUwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081049822090633562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080538229263204540",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我刷到学美术的跨男就嫉妒他们，因为我小时候也想当美术生，但是集训什么的太贵了，要个七八万，最后只能沦为做题蛆。 https://t.co/zCbSIVGUwk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 675,
+          "like_count": 15509,
+          "listed_count": 2,
+          "media_count": 906,
+          "tweet_count": 6863
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T09:52:52.000Z",
+        "description": "都来喜欢葵矢枢",
+        "id": "1902297181157257218",
+        "location": "南方县城的穷蛆",
+        "name": "葵矢枢",
+        "pinned_tweet_id": "1983554091793182792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987808395265757184/o24pdc04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 134,
+          "like_count": 12023,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 973
+        },
+        "url": "",
+        "username": "aoya_toboso_01",
+        "verified": false
+      }
+    ]
+  }
+}

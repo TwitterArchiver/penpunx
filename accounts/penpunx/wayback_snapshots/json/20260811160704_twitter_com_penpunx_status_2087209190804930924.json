@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2087209190804930924",
+    "created_at": "2026-08-11T16:07:04.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T17:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087209190804930924"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087209190804930924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我还是一直想问自己应该怎样活着，但不是为了证明自己不必死去，而是真的想知道应该怎样活着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2087209190804930924",
+        "created_at": "2026-08-11T16:07:04.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087209190804930924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087209190804930924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是一直想问自己应该怎样活着，但不是为了证明自己不必死去，而是真的想知道应该怎样活着"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "I love WOW forever",
+        "id": "1896904934995656704",
+        "is_identity_verified": false,
+        "location": "形",
+        "most_recent_tweet_id": "2087209190804930924",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1896904934995656704/1780068931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 679,
+          "like_count": 15817,
+          "listed_count": 2,
+          "media_count": 959,
+          "tweet_count": 7103
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2088283352336044407",
+    "created_at": "2026-08-14T15:15:24.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088283352336044407"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088283352336044407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如今我有男同倾向已经不是一大误解了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2088283352336044407",
+        "created_at": "2026-08-14T15:15:24.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088283352336044407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088283352336044407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如今我有男同倾向已经不是一大误解了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "I love WOW forever",
+        "id": "1896904934995656704",
+        "is_identity_verified": false,
+        "location": "形",
+        "most_recent_tweet_id": "2088283352336044407",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1896904934995656704/1780068931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 675,
+          "like_count": 15838,
+          "listed_count": 2,
+          "media_count": 963,
+          "tweet_count": 7126
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

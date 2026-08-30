@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2080139057179570380",
+    "created_at": "2026-07-23T03:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T04:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080139591609414110"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080139591609414110",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080139057179570380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "修脚店老板锐评曰：那是我们那个年代的回忆，你们这些小年轻不懂。（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2080138879462690816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4jSjHaUAAG-cA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2080139057179570380",
+        "created_at": "2026-07-23T03:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080139591609414110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080139591609414110",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080139057179570380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "修脚店老板锐评曰：那是我们那个年代的回忆，你们这些小年轻不懂。（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080138879462690816"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2080139057179570380",
+        "created_at": "2026-07-23T03:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080139057179570380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1TzmR6IKK",
+              "end": 49,
+              "expanded_url": "https://x.com/penpunx/status/2080139057179570380/photo/1",
+              "media_key": "3_2080138879462690816",
+              "start": 26,
+              "url": "https://t.co/A1TzmR6IKK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080139057179570380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路遇唱片店，然主理人老头不善，见吾小儿，置之不理。 https://t.co/A1TzmR6IKK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 671,
+          "like_count": 15409,
+          "listed_count": 2,
+          "media_count": 898,
+          "tweet_count": 6803
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2079182637873455501",
+    "created_at": "2026-07-20T12:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079182866249064464"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079182866249064464",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079182637873455501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过一路上除了海阔天空我就没听过别的（"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9850,
+        "height": 720,
+        "media_key": "13_2079182609243066368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079182609243066368/img/i40J8mNLdQRWevxo.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079182609243066368/vid/avc1/480x270/Yk0OcdP_tj8k3Cc6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079182609243066368/vid/avc1/640x360/_VLr-jhkNuNNGE3s.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079182609243066368/vid/avc1/1280x720/n7vxKSQBjtjElr6G.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079182609243066368/pl/PD5XAago4S8_ZZHO.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2079182637873455501",
+        "created_at": "2026-07-20T12:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079182866249064464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079182866249064464",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079182637873455501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过一路上除了海阔天空我就没听过别的（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079182609243066368"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2079182637873455501",
+        "created_at": "2026-07-20T12:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079182637873455501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CnzXH4smYd",
+              "end": 93,
+              "expanded_url": "https://x.com/penpunx/status/2079182637873455501/video/1",
+              "media_key": "13_2079182609243066368",
+              "start": 70,
+              "url": "https://t.co/CnzXH4smYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079182637873455501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洱海边上很多街头歌手\n歌手一边唱大妈一边跳舞，有点好笑（\n\n还有“25r自己唱”\n如果不是家长在而是我自己来或者和朋友来，我肯定会自己唱（ https://t.co/CnzXH4smYd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "treni",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 669,
+          "like_count": 15266,
+          "listed_count": 2,
+          "media_count": 870,
+          "tweet_count": 6711
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

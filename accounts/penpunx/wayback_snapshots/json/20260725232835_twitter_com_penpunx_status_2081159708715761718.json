@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2081159708715761718",
+    "created_at": "2026-07-25T23:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T00:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081159708715761718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/umansios0/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/umansios0/status/2080695037101305891",
+          "start": 4,
+          "url": "https://t.co/gPoRTvBbSu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081159708715761718",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080695037101305891",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭🙌🏻 https://t.co/gPoRTvBbSu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2081159708715761718",
+        "created_at": "2026-07-25T23:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T00:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081159708715761718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/umansios0/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/umansios0/status/2080695037101305891",
+              "start": 4,
+              "url": "https://t.co/gPoRTvBbSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081159708715761718",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080695037101305891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭🙌🏻 https://t.co/gPoRTvBbSu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "410818785",
+        "conversation_id": "2080695037101305891",
+        "created_at": "2026-07-24T16:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080695037101305891"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080695037101305891",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 640,
+          "impression_count": 516970,
+          "like_count": 50575,
+          "quote_count": 630,
+          "reply_count": 281,
+          "retweet_count": 14802
+        },
+        "reply_settings": "everyone",
+        "text": "Me impressiona gente com 13/14 anos engravidando, com essa idade eu tava tentando me matar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 675,
+          "like_count": 15541,
+          "listed_count": 2,
+          "media_count": 906,
+          "tweet_count": 6871
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-12T16:21:55.000Z",
+        "description": "de marte para a terra 👽\n\n@MIBR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 25,
+                "username": "MIBR"
+              }
+            ]
+          }
+        },
+        "id": "410818785",
+        "location": "São Paulo, Brasil",
+        "name": "Renan Callegari 🇧🇷",
+        "pinned_tweet_id": "1844032477406675216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074028659543887872/E4KyFpKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77066,
+          "following_count": 36291,
+          "like_count": 204571,
+          "listed_count": 11,
+          "media_count": 2976,
+          "tweet_count": 59976
+        },
+        "url": "",
+        "username": "umANSIOS0",
+        "verified": false
+      }
+    ]
+  }
+}

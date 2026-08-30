@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2089331550076977335",
+    "created_at": "2026-08-17T12:40:34.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T13:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089331550076977335"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2089331550076977335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已经看到有人讨论牛来导演是asd了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2089331550076977335",
+        "created_at": "2026-08-17T12:40:34.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089331550076977335"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089331550076977335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经看到有人讨论牛来导演是asd了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "WOWer",
+        "id": "1896904934995656704",
+        "is_identity_verified": false,
+        "location": "形",
+        "most_recent_tweet_id": "2089331550076977335",
+        "name": "trenity",
+        "pinned_tweet_id": "2088604186267320730",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1896904934995656704/1780068931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088824199548948480/yEPe3IoP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 675,
+          "like_count": 15893,
+          "listed_count": 2,
+          "media_count": 970,
+          "tweet_count": 7159
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

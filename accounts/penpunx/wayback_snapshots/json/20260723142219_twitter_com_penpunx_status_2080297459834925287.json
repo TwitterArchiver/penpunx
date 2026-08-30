@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2080293151164785120",
+    "created_at": "2026-07-23T14:22:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T15:22:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080297459834925287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1799824996396851201",
+          "start": 0,
+          "username": "imnotmiwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080297459834925287",
+    "in_reply_to_user_id": "1799824996396851201",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080297330151178680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imnotmiwa Why glad\nGD means gender dysphoria"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2080293151164785120",
+        "created_at": "2026-07-23T14:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080297459834925287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1799824996396851201",
+              "start": 0,
+              "username": "imnotmiwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080297459834925287",
+        "in_reply_to_user_id": "1799824996396851201",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080297330151178680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imnotmiwa Why glad\nGD means gender dysphoria"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799824996396851201",
+        "conversation_id": "2080293151164785120",
+        "created_at": "2026-07-23T14:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080297330151178680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080297330151178680",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080293151164785120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx Glad to know it!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 670,
+          "like_count": 15429,
+          "listed_count": 2,
+          "media_count": 899,
+          "tweet_count": 6823
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T15:25:02.000Z",
+        "description": "coffee and music. I’m a neurodivergent please keep in mind before getting know me.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/4U99v",
+                "end": 23,
+                "expanded_url": "https://boxd.it/4U99v",
+                "start": 0,
+                "url": "https://t.co/Wh5ythiAKk"
+              }
+            ]
+          }
+        },
+        "id": "1799824996396851201",
+        "location": "Kota Surabaya, Jawa Timur",
+        "name": "miwa",
+        "pinned_tweet_id": "2074781750585413808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077783779549274112/1iCVyXhZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 372,
+          "like_count": 118995,
+          "listed_count": 0,
+          "media_count": 669,
+          "tweet_count": 54273
+        },
+        "url": "https://t.co/Wh5ythiAKk",
+        "username": "imnotmiwa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2078820673120862687",
+    "created_at": "2026-07-19T12:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078820673120862687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ivan20221126/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/ivan20221126/status/2078518803441553638",
+          "start": 7,
+          "url": "https://t.co/i1fB6Cc3F9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078820673120862687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078518803441553638",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的没绷住 https://t.co/i1fB6Cc3F9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51478,
+        "height": 956,
+        "media_key": "13_2078518096441262080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078518096441262080/img/Yy0kJwtrtsZ-JS50.jpg",
+        "public_metrics": {
+          "view_count": 132
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078518096441262080/vid/avc1/320x424/gS-nIz6oLTS-w9Ok.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078518096441262080/vid/avc1/480x636/eADNsqw0oo5T4WWH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078518096441262080/vid/avc1/720x956/IOl5F8Stq-rJbWVp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078518096441262080/pl/NoZK14BEBC4P_Ekt.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2078820673120862687",
+        "created_at": "2026-07-19T12:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078820673120862687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ivan20221126/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ivan20221126/status/2078518803441553638",
+              "start": 7,
+              "url": "https://t.co/i1fB6Cc3F9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078820673120862687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078518803441553638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的没绷住 https://t.co/i1fB6Cc3F9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078518096441262080"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2078518803441553638",
+        "created_at": "2026-07-18T16:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078518803441553638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7AShG7vVIg",
+              "end": 94,
+              "expanded_url": "https://x.com/ivan20221126/status/2078518803441553638/video/1",
+              "media_key": "13_2078518096441262080",
+              "start": 71,
+              "url": "https://t.co/7AShG7vVIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078518803441553638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "靠…吉他🎸声音一出来我就绷不住了，24高原减害……没有干自己最想做的事，没有见到那批最想见的人，可是我还是没有成长为自己一直想成为的药师😭🎸 https://t.co/7AShG7vVIg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 668,
+          "like_count": 15184,
+          "listed_count": 2,
+          "media_count": 861,
+          "tweet_count": 6661
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 145,
+          "like_count": 3337,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 330
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      }
+    ]
+  }
+}

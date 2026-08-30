@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080943898684448768"
+      ],
+      "media_source_tweet_id": [
+        "2080943910223040583"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2081159162915164291",
+    "created_at": "2026-07-25T23:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T00:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081159162915164291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1124790071314587648",
+          "start": 3,
+          "username": "LanwujiDrink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Al5t6Ydga",
+          "end": 73,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2080943910223040583/photo/1",
+          "media_key": "3_2080943898684448768",
+          "start": 50,
+          "url": "https://t.co/2Al5t6Ydga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081159162915164291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080943910223040583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanwujiDrink: 望周知、没有成瘾性、没毒性不伤脑子还维持2-4周持续抗抑郁效果 https://t.co/2Al5t6Ydga"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 955,
+        "media_key": "3_2080943898684448768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOD_c1aaYAAnHtd.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080943898684448768"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2080943910223040583",
+        "created_at": "2026-07-25T09:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080943910223040583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Al5t6Ydga",
+              "end": 55,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2080943910223040583/photo/1",
+              "media_key": "3_2080943898684448768",
+              "start": 32,
+              "url": "https://t.co/2Al5t6Ydga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080943910223040583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7523,
+          "like_count": 90,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "望周知、没有成瘾性、没毒性不伤脑子还维持2-4周持续抗抑郁效果 https://t.co/2Al5t6Ydga"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080943898684448768"
+          ],
+          "media_source_tweet_id": [
+            "2080943910223040583"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2081159162915164291",
+        "created_at": "2026-07-25T23:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T00:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081159162915164291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1124790071314587648",
+              "start": 3,
+              "username": "LanwujiDrink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Al5t6Ydga",
+              "end": 73,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2080943910223040583/photo/1",
+              "media_key": "3_2080943898684448768",
+              "start": 50,
+              "url": "https://t.co/2Al5t6Ydga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081159162915164291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080943910223040583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanwujiDrink: 望周知、没有成瘾性、没毒性不伤脑子还维持2-4周持续抗抑郁效果 https://t.co/2Al5t6Ydga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 675,
+          "like_count": 15539,
+          "listed_count": 2,
+          "media_count": 906,
+          "tweet_count": 6870
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 126,
+          "like_count": 3044,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1168
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      }
+    ]
+  }
+}

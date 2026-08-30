@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2083959157842165829",
+    "created_at": "2026-08-02T16:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083959157842165829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1186572635058163714",
+          "start": 3,
+          "username": "oliverzimkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083959157842165829",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3737
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083692446630727902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oliverzimkk: masturbação é necrofilia se você está morto por dentro"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2083959157842165829",
+        "created_at": "2026-08-02T16:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083959157842165829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1186572635058163714",
+              "start": 3,
+              "username": "oliverzimkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083959157842165829",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3737
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083692446630727902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oliverzimkk: masturbação é necrofilia se você está morto por dentro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1186572635058163714",
+        "conversation_id": "2083692446630727902",
+        "created_at": "2026-08-01T23:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T00:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083692446630727902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083692446630727902",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 963,
+          "impression_count": 375481,
+          "like_count": 23205,
+          "quote_count": 202,
+          "reply_count": 109,
+          "retweet_count": 3737
+        },
+        "reply_settings": "everyone",
+        "text": "masturbação é necrofilia se você está morto por dentro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "WOWer",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 676,
+          "like_count": 15689,
+          "listed_count": 2,
+          "media_count": 939,
+          "tweet_count": 7011
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-22T09:19:29.000Z",
+        "description": "უფლის იწამე მარად. @arpegue frases que nao sao do player tauz, ele nunca disse isso",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "arpegue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/oliverzimkk/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/oliverzimkk/",
+                "start": 0,
+                "url": "https://t.co/M1LfQeKjCM"
+              }
+            ]
+          }
+        },
+        "id": "1186572635058163714",
+        "location": "zo sp",
+        "name": "Frases Player Tauz",
+        "pinned_tweet_id": "2023542666160730538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081144737352802304/LYxaviAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4364,
+          "following_count": 917,
+          "like_count": 101998,
+          "listed_count": 3,
+          "media_count": 2874,
+          "tweet_count": 25946
+        },
+        "url": "https://t.co/M1LfQeKjCM",
+        "username": "oliverzimkk",
+        "verified": false
+      }
+    ]
+  }
+}

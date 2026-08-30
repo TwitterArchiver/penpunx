@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2079030721117917238",
+    "created_at": "2026-07-20T02:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T03:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079034585636364730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1278030418613276674",
+          "start": 0,
+          "username": "FeedMyGlutes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079034585636364730",
+    "in_reply_to_user_id": "1278030418613276674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079030721117917238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FeedMyGlutes 什么样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2079030721117917238",
+        "created_at": "2026-07-20T02:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079034585636364730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1278030418613276674",
+              "start": 0,
+              "username": "FeedMyGlutes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079034585636364730",
+        "in_reply_to_user_id": "1278030418613276674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079030721117917238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FeedMyGlutes 什么样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1278030418613276674",
+        "conversation_id": "2079030721117917238",
+        "created_at": "2026-07-20T02:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079030721117917238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079030721117917238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我室友就是典型的自闭症不干预会变成什么样子的下场"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "treni",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 669,
+          "like_count": 15215,
+          "listed_count": 2,
+          "media_count": 863,
+          "tweet_count": 6676
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-30T18:19:48.000Z",
+        "description": "跨性别男性气质（transmasculine）aka性别是masc/(he/him/his)/泛性恋/Dom➕ switch/定期分享生活/没有门槛因为不是黄推（也不加联系方式）/高强度键政",
+        "id": "1278030418613276674",
+        "name": "纯恨战士（变性版）",
+        "pinned_tweet_id": "2050980093934088549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913042399527411712/x_AjTXga_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1862,
+          "following_count": 304,
+          "like_count": 7912,
+          "listed_count": 12,
+          "media_count": 545,
+          "tweet_count": 5189
+        },
+        "url": "",
+        "username": "FeedMyGlutes",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078620626206552064"
+      ],
+      "media_source_tweet_id": [
+        "2078620630724079983"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2079172541789393297",
+    "created_at": "2026-07-20T11:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079172541789393297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775637838882549761",
+          "start": 3,
+          "username": "cacarrones"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K92NJSz5Wx",
+          "end": 127,
+          "expanded_url": "https://x.com/cacarrones/status/2078620630724079983/photo/1",
+          "media_key": "3_2078620626206552064",
+          "start": 104,
+          "url": "https://t.co/K92NJSz5Wx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079172541789393297",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 879
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078620630724079983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cacarrones: yo en el concierto de mcr cuando ha salido mcr a cantar canciones de mcr (me gusta mcr) https://t.co/K92NJSz5Wx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 702,
+        "media_key": "3_2078620626206552064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNi-ck_XcAA73WU.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078620626206552064"
+          ]
+        },
+        "author_id": "1775637838882549761",
+        "conversation_id": "2078620630724079983",
+        "created_at": "2026-07-18T23:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T00:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078620630724079983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K92NJSz5Wx",
+              "end": 111,
+              "expanded_url": "https://x.com/cacarrones/status/2078620630724079983/photo/1",
+              "media_key": "3_2078620626206552064",
+              "start": 88,
+              "url": "https://t.co/K92NJSz5Wx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078620630724079983",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 21290,
+          "like_count": 3253,
+          "quote_count": 23,
+          "reply_count": 8,
+          "retweet_count": 879
+        },
+        "reply_settings": "everyone",
+        "text": "yo en el concierto de mcr cuando ha salido mcr a cantar canciones de mcr (me gusta mcr) https://t.co/K92NJSz5Wx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078620626206552064"
+          ],
+          "media_source_tweet_id": [
+            "2078620630724079983"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2079172541789393297",
+        "created_at": "2026-07-20T11:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079172541789393297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775637838882549761",
+              "start": 3,
+              "username": "cacarrones"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K92NJSz5Wx",
+              "end": 127,
+              "expanded_url": "https://x.com/cacarrones/status/2078620630724079983/photo/1",
+              "media_key": "3_2078620626206552064",
+              "start": 104,
+              "url": "https://t.co/K92NJSz5Wx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079172541789393297",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 879
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078620630724079983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cacarrones: yo en el concierto de mcr cuando ha salido mcr a cantar canciones de mcr (me gusta mcr) https://t.co/K92NJSz5Wx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "treni",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 669,
+          "like_count": 15266,
+          "listed_count": 2,
+          "media_count": 868,
+          "tweet_count": 6707
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T21:34:22.000Z",
+        "description": "papoi\n#njzneverdies",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 6,
+                "tag": "njzneverdies"
+              }
+            ]
+          }
+        },
+        "id": "1775637838882549761",
+        "location": "gibraltar español",
+        "name": "celia .𖥔 ˖ MCR MADRID",
+        "pinned_tweet_id": "2013518860876480643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048715271117135872/qv3BYqxY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 306,
+          "like_count": 1862,
+          "listed_count": 0,
+          "media_count": 358,
+          "tweet_count": 5734
+        },
+        "url": "",
+        "username": "cacarrones",
+        "verified": false
+      }
+    ]
+  }
+}

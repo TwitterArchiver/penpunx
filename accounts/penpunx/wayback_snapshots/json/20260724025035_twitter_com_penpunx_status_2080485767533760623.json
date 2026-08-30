@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2079496059542446388",
+    "created_at": "2026-07-24T02:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T03:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080485767533760623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1439979723174514688",
+          "start": 0,
+          "username": "PARADOXbot8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080485767533760623",
+    "in_reply_to_user_id": "1439979723174514688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079496059542446388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PARADOXbot8964 教我怎么苦灭吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2079496059542446388",
+        "created_at": "2026-07-24T02:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080485767533760623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1439979723174514688",
+              "start": 0,
+              "username": "PARADOXbot8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080485767533760623",
+        "in_reply_to_user_id": "1439979723174514688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079496059542446388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PARADOXbot8964 教我怎么苦灭吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439979723174514688",
+        "conversation_id": "2079496059542446388",
+        "created_at": "2026-07-21T09:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079496059542446388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079496059542446388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说白了，我能平等对待跨儿的原因是:我的宗教告诉我ta们只是我执和身执更重的个体。\n而这两者所有还能轮回的人都有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 671,
+          "like_count": 15454,
+          "listed_count": 2,
+          "media_count": 900,
+          "tweet_count": 6833
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T15:48:30.000Z",
+        "description": "远东新鲁塞尼亚",
+        "id": "1439979723174514688",
+        "location": "紫微垣",
+        "name": "西晋躺平的仓鼠球",
+        "pinned_tweet_id": "2062905397665824832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952296859546054656/JHPEJKPF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 1843,
+          "like_count": 142940,
+          "listed_count": 8,
+          "media_count": 1580,
+          "tweet_count": 48431
+        },
+        "url": "",
+        "username": "PARADOXbot8964",
+        "verified": false
+      }
+    ]
+  }
+}

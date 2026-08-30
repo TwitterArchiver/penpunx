@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2088283477477409035",
+    "created_at": "2026-08-14T15:15:54.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088283477477409035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sugarsast/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/sugarsast/status/2088272022262718865",
+          "start": 9,
+          "url": "https://t.co/Z5uDW5eQrv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088283477477409035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088272022262718865",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "元老里面是这样的 https://t.co/Z5uDW5eQrv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2088272011244253184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsIVICasAAATCg.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2088283477477409035",
+        "created_at": "2026-08-14T15:15:54.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088283477477409035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sugarsast/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/sugarsast/status/2088272022262718865",
+              "start": 9,
+              "url": "https://t.co/Z5uDW5eQrv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088283477477409035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088272022262718865",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "元老里面是这样的 https://t.co/Z5uDW5eQrv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088272011244253184"
+          ]
+        },
+        "author_id": "1889861257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088272022262718865",
+        "created_at": "2026-08-14T14:30:22.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088272022262718865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z7NFqMQCx8",
+              "end": 44,
+              "expanded_url": "https://x.com/Sugarsast/status/2088272022262718865/photo/1",
+              "media_key": "3_2088272011244253184",
+              "start": 21,
+              "url": "https://t.co/Z7NFqMQCx8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088272022262718865",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088272011244253184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以后我不是生理男了，我是人妖。摘都摘了。 https://t.co/Z7NFqMQCx8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "I love WOW forever",
+        "id": "1896904934995656704",
+        "is_identity_verified": false,
+        "location": "形",
+        "most_recent_tweet_id": "2088283477477409035",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1896904934995656704/1780068931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 675,
+          "like_count": 15840,
+          "listed_count": 2,
+          "media_count": 963,
+          "tweet_count": 7127
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜情感淡漠｜家长不管党｜匿名:https://t.co/kXreZykI07｜Q:3755457720｜我的tg:https://t.co/1e7qTaQ9VS｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yan14866",
+                "end": 50,
+                "expanded_url": "https://ngl.link/yan14866",
+                "start": 27,
+                "url": "https://t.co/kXreZykI07"
+              },
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 92,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 69,
+                "url": "https://t.co/1e7qTaQ9VS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQ9VS"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088272022262718865",
+        "name": "神户盐🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889861257/1780258514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086104502432849920/KVS8sIAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 1094,
+          "like_count": 8922,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 2974
+        },
+        "url": "https://t.co/1e7qTaQ9VS",
+        "username": "Sugarsast",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

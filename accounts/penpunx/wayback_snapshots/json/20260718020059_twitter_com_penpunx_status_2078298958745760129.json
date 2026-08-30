@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077400468611899392"
+      ],
+      "media_source_tweet_id": [
+        "2077400473087131866"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2078298958745760129",
+    "created_at": "2026-07-18T02:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T03:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078298958745760129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1530680282184945665",
+          "start": 3,
+          "username": "g3tupcow4rd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2VjmOj8w6y",
+          "end": 40,
+          "expanded_url": "https://x.com/g3tupcow4rd/status/2077400473087131866/photo/1",
+          "media_key": "3_2077400468611899392",
+          "start": 17,
+          "url": "https://t.co/2VjmOj8w6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078298958745760129",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 721
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077400473087131866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @g3tupcow4rd: https://t.co/2VjmOj8w6y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1120,
+        "media_key": "3_2077400468611899392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRouDvXoAAmj8D.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077400468611899392"
+          ]
+        },
+        "author_id": "1530680282184945665",
+        "conversation_id": "2077400473087131866",
+        "created_at": "2026-07-15T14:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077400473087131866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2VjmOj8w6y",
+              "end": 23,
+              "expanded_url": "https://x.com/g3tupcow4rd/status/2077400473087131866/photo/1",
+              "media_key": "3_2077400468611899392",
+              "start": 0,
+              "url": "https://t.co/2VjmOj8w6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077400473087131866",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 17957,
+          "like_count": 2679,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 721
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2VjmOj8w6y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077400468611899392"
+          ],
+          "media_source_tweet_id": [
+            "2077400473087131866"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2078298958745760129",
+        "created_at": "2026-07-18T02:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078298958745760129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530680282184945665",
+              "start": 3,
+              "username": "g3tupcow4rd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2VjmOj8w6y",
+              "end": 40,
+              "expanded_url": "https://x.com/g3tupcow4rd/status/2077400473087131866/photo/1",
+              "media_key": "3_2077400468611899392",
+              "start": 17,
+              "url": "https://t.co/2VjmOj8w6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078298958745760129",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 721
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077400473087131866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @g3tupcow4rd: https://t.co/2VjmOj8w6y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 666,
+          "like_count": 15124,
+          "listed_count": 2,
+          "media_count": 852,
+          "tweet_count": 6631
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T22:40:06.000Z",
+        "description": "I’m her kinda boy, and also her girl | no.1 firefly Gerard fan 🫶🫶 | 19/05/22 | 22/05/22 | 27/05/22 | 30/06/26 | 10/07/26 | murdered fascists make no noise.",
+        "id": "1530680282184945665",
+        "location": "they/them | 24 | free🇵🇸",
+        "name": "M 🪰 saw demo lovers live",
+        "pinned_tweet_id": "1612564308595965952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948247231393595392/u6yFlHR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 221,
+          "like_count": 30837,
+          "listed_count": 5,
+          "media_count": 3178,
+          "tweet_count": 14201
+        },
+        "url": "",
+        "username": "g3tupcow4rd",
+        "verified": false
+      }
+    ]
+  }
+}

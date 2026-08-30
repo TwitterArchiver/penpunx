@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083739958712610816"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083739968036556969",
+    "created_at": "2026-08-02T02:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T03:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083739968036556969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y0k2wY4Hp0",
+          "end": 101,
+          "expanded_url": "https://x.com/penpunx/status/2083739968036556969/photo/1",
+          "media_key": "3_2083739958712610816",
+          "start": 78,
+          "url": "https://t.co/y0k2wY4Hp0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083739968036556969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "星际拓荒（\n捏角色的时候参考了外貌、身高和事迹\n比如费尔德斯巴躲过安康鱼 所以是潜行者\n哈斯人是没有性别的所以就根据身材来了 所来内姆应该明确提到过是女的 https://t.co/y0k2wY4Hp0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083739958712610816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOruc8taMAAdKZA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083739958712610816"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083739968036556969",
+        "created_at": "2026-08-02T02:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083739968036556969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y0k2wY4Hp0",
+              "end": 101,
+              "expanded_url": "https://x.com/penpunx/status/2083739968036556969/photo/1",
+              "media_key": "3_2083739958712610816",
+              "start": 78,
+              "url": "https://t.co/y0k2wY4Hp0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083739968036556969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "星际拓荒（\n捏角色的时候参考了外貌、身高和事迹\n比如费尔德斯巴躲过安康鱼 所以是潜行者\n哈斯人是没有性别的所以就根据身材来了 所来内姆应该明确提到过是女的 https://t.co/y0k2wY4Hp0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "WOWer",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 676,
+          "like_count": 15681,
+          "listed_count": 2,
+          "media_count": 935,
+          "tweet_count": 6999
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

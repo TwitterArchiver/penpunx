@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2081027132956749872",
+    "created_at": "2026-07-25T23:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T00:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081156426890989724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1661418553801580544",
+          "start": 0,
+          "username": "Nzstz53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081156426890989724",
+    "in_reply_to_user_id": "1661418553801580544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081027132956749872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nzstz53 我记得他们没有这个药的库存吧（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081027092410417152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFLHWMWQAAwT3a.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081027092410515456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFLHWMXwAA4Mix.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2081027132956749872",
+        "created_at": "2026-07-25T23:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T00:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081156426890989724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1661418553801580544",
+              "start": 0,
+              "username": "Nzstz53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081156426890989724",
+        "in_reply_to_user_id": "1661418553801580544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081027132956749872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nzstz53 我记得他们没有这个药的库存吧（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081027092410417152",
+            "3_2081027092410515456"
+          ]
+        },
+        "author_id": "1661418553801580544",
+        "conversation_id": "2081027132956749872",
+        "created_at": "2026-07-25T14:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081027132956749872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/umg2GPB2LE",
+              "end": 164,
+              "expanded_url": "https://x.com/Nzstz53/status/2081027132956749872/photo/1",
+              "media_key": "3_2081027092410417152",
+              "start": 141,
+              "url": "https://t.co/umg2GPB2LE"
+            },
+            {
+              "display_url": "pic.x.com/umg2GPB2LE",
+              "end": 164,
+              "expanded_url": "https://x.com/Nzstz53/status/2081027132956749872/photo/1",
+              "media_key": "3_2081027092410515456",
+              "start": 141,
+              "url": "https://t.co/umg2GPB2LE"
+            },
+            {
+              "display_url": "x.com/nzstz53/status…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/nzstz53/status/2080403308368310524",
+              "start": 165,
+              "url": "https://t.co/7RhfoTW0wj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081027132956749872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1777,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080403308368310524",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现 普瑞巴林现在除了神经痛的医疗用途，你要是焦虑，抑郁几乎不会给你开药，今天去600号复诊，我刚提到普瑞巴林这个字她立马打断我，说：这药开不了！我描述完症状之后，她要给我开阿普唑仑，因为阿普对我失眠没用，我拒绝了，到最后她让我从劳拉西泮，思诺思佐匹克隆中选一个我选了佐匹克隆😋 https://t.co/umg2GPB2LE https://t.co/7RhfoTW0wj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 675,
+          "like_count": 15520,
+          "listed_count": 2,
+          "media_count": 906,
+          "tweet_count": 6865
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T17:07:22.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2k77043",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2k77043",
+                "start": 0,
+                "url": "https://t.co/c2ydAShFlf"
+              }
+            ]
+          }
+        },
+        "id": "1661418553801580544",
+        "name": "κ",
+        "pinned_tweet_id": "2079683328811454501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004932256914440197/Z0wcEEtk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 31,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 180
+        },
+        "url": "https://t.co/c2ydAShFlf",
+        "username": "Nzstz53",
+        "verified": false
+      }
+    ]
+  }
+}

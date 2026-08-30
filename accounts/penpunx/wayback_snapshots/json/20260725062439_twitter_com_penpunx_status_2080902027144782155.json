@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2080880260015657158",
+    "created_at": "2026-07-25T06:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080902027144782155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051883537586941959",
+          "start": 0,
+          "username": "UppaEpop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080902027144782155",
+    "in_reply_to_user_id": "2051883537586941959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080899651277066729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UppaEpop 不觉得昼夜温差有点大吗（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2080880260015657158",
+        "created_at": "2026-07-25T06:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080902027144782155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051883537586941959",
+              "start": 0,
+              "username": "UppaEpop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080902027144782155",
+        "in_reply_to_user_id": "2051883537586941959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080899651277066729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UppaEpop 不觉得昼夜温差有点大吗（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051883537586941959",
+        "conversation_id": "2080880260015657158",
+        "created_at": "2026-07-25T06:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080899651277066729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080899651277066729",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080899107296784768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 村了点儿，不过基础的娱乐也都有，气候相当不错，出了旅游区乡镇里遇到的人也都很善良，整体氛围也挺悠闲的，我会永远怀念的程度了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 674,
+          "like_count": 15491,
+          "listed_count": 2,
+          "media_count": 904,
+          "tweet_count": 6849
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T04:35:41.000Z",
+        "description": "2️⃣4️⃣K地地道道纯正土味中老年健全福✨\nOD/美食/观鸟/绘画/骂老板/日常记录推，指不定哪天信息摄入过量就销号了",
+        "id": "2051883537586941959",
+        "name": "坞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051932726954172416/SzJfuOgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 84,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "UppaEpop",
+        "verified": false
+      }
+    ]
+  }
+}

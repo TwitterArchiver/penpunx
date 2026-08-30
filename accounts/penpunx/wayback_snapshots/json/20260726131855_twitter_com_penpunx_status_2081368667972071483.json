@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081368640998547456",
+        "3_2081368640981741568"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2081368667972071483",
+    "created_at": "2026-07-26T13:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081368667972071483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3WFERs3uWG",
+          "end": 27,
+          "expanded_url": "https://x.com/penpunx/status/2081368667972071483/video/1",
+          "media_key": "13_2081368640998547456",
+          "start": 4,
+          "url": "https://t.co/3WFERs3uWG"
+        },
+        {
+          "display_url": "pic.x.com/3WFERs3uWG",
+          "end": 27,
+          "expanded_url": "https://x.com/penpunx/status/2081368667972071483/video/1",
+          "media_key": "3_2081368640981741568",
+          "start": 4,
+          "url": "https://t.co/3WFERs3uWG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081368667972071483",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "整烂活 https://t.co/3WFERs3uWG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41233,
+        "height": 316,
+        "media_key": "13_2081368640998547456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081368640998547456/img/uC89srnEmtMX2p7C.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081368640998547456/vid/avc1/410x270/2_hnhe3lPHRiZohJ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081368640998547456/vid/avc1/480x316/YZ4sARtBn6m0TZn7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081368640998547456/pl/0j-l5CsT2MNMOQTY.m3u8"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2081368640981741568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKBwFxasAAy9NX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081368640998547456",
+            "3_2081368640981741568"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2081368667972071483",
+        "created_at": "2026-07-26T13:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081368667972071483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3WFERs3uWG",
+              "end": 27,
+              "expanded_url": "https://x.com/penpunx/status/2081368667972071483/video/1",
+              "media_key": "13_2081368640998547456",
+              "start": 4,
+              "url": "https://t.co/3WFERs3uWG"
+            },
+            {
+              "display_url": "pic.x.com/3WFERs3uWG",
+              "end": 27,
+              "expanded_url": "https://x.com/penpunx/status/2081368667972071483/video/1",
+              "media_key": "3_2081368640981741568",
+              "start": 4,
+              "url": "https://t.co/3WFERs3uWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081368667972071483",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "整烂活 https://t.co/3WFERs3uWG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 676,
+          "like_count": 15566,
+          "listed_count": 2,
+          "media_count": 912,
+          "tweet_count": 6891
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2080104898088386893",
+    "created_at": "2026-07-23T13:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080283607114129721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863619831657832448",
+          "start": 0,
+          "username": "daiquiriicechip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080283607114129721",
+    "in_reply_to_user_id": "1863619831657832448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080271189986210104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daiquiriicechip 我没进去看，我有点害怕（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080271176124047360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6bnOlboAA4hIr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080271176186884097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6bnO0acAEeU6y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2080104898088386893",
+        "created_at": "2026-07-23T13:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080283607114129721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863619831657832448",
+              "start": 0,
+              "username": "daiquiriicechip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080283607114129721",
+        "in_reply_to_user_id": "1863619831657832448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080271189986210104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daiquiriicechip 我没进去看，我有点害怕（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080271176124047360",
+            "3_2080271176186884097"
+          ]
+        },
+        "author_id": "1863619831657832448",
+        "conversation_id": "2080104898088386893",
+        "created_at": "2026-07-23T12:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080271189986210104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CMQIT5XX97",
+              "end": 38,
+              "expanded_url": "https://x.com/daiquiriicechip/status/2080271189986210104/photo/1",
+              "media_key": "3_2080271176124047360",
+              "start": 15,
+              "url": "https://t.co/CMQIT5XX97"
+            },
+            {
+              "display_url": "pic.x.com/CMQIT5XX97",
+              "end": 38,
+              "expanded_url": "https://x.com/daiquiriicechip/status/2080271189986210104/photo/1",
+              "media_key": "3_2080271176186884097",
+              "start": 15,
+              "url": "https://t.co/CMQIT5XX97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080271189986210104",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080104898088386893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 我也拍过这 https://t.co/CMQIT5XX97"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 670,
+          "like_count": 15425,
+          "listed_count": 2,
+          "media_count": 899,
+          "tweet_count": 6815
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T16:23:06.000Z",
+        "description": "she/they 无浪漫倾向泛性恋/双相/努力活成健全人/影迷/raver",
+        "id": "1863619831657832448",
+        "name": "三羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057067608403505152/azWe_boD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 323,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "daiquiriicechip",
+        "verified": false
+      }
+    ]
+  }
+}

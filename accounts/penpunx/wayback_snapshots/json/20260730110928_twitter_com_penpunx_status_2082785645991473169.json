@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2080978237505876376",
+    "created_at": "2026-07-30T11:09:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T12:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082785645991473169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1279711663264894977",
+          "start": 0,
+          "username": "DekuKing1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082785645991473169",
+    "in_reply_to_user_id": "1279711663264894977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080978237505876376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DekuKing1 能带我新兵吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2080978237505876376",
+        "created_at": "2026-07-30T11:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082785645991473169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1279711663264894977",
+              "start": 0,
+              "username": "DekuKing1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082785645991473169",
+        "in_reply_to_user_id": "1279711663264894977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080978237505876376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DekuKing1 能带我新兵吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279711663264894977",
+        "conversation_id": "2080978237505876376",
+        "created_at": "2026-07-25T11:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080978237505876376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080978237505876376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5395,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人打魔兽吗？\n带我躺大秘境10以上的\n加我好友POTATO1121#5994\n或者是死亡之翼加我好友宝宝泡泡\n求带"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "WOWer",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 678,
+          "like_count": 15658,
+          "listed_count": 2,
+          "media_count": 931,
+          "tweet_count": 6973
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T09:40:15.000Z",
+        "description": "启程。 观念。 正身。 见世。 立理。 承道。 不应。不显。不算。不纠结。守心。守正。",
+        "id": "1279711663264894977",
+        "name": "0x易经(朱重八版)",
+        "pinned_tweet_id": "2054021541009191022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813228124894863362/Z3rJrZCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103807,
+          "following_count": 2859,
+          "like_count": 1376,
+          "listed_count": 1946,
+          "media_count": 874,
+          "tweet_count": 9984
+        },
+        "url": "",
+        "username": "DekuKing1",
+        "verified": true
+      }
+    ]
+  }
+}

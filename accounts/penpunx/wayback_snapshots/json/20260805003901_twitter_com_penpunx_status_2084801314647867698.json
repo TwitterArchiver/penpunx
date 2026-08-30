@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084535889544306688"
+      ],
+      "media_source_tweet_id": [
+        "2084535894795534568"
+      ]
+    },
+    "author_id": "1896904934995656704",
+    "conversation_id": "2084801314647867698",
+    "created_at": "2026-08-05T00:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T01:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084801314647867698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1615732581856591872",
+          "start": 3,
+          "username": "lulismoselvagem"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6t4wueHHaJ",
+          "end": 44,
+          "expanded_url": "https://x.com/lulismoselvagem/status/2084535894795534568/photo/1",
+          "media_key": "3_2084535889544306688",
+          "start": 21,
+          "url": "https://t.co/6t4wueHHaJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084801314647867698",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1495
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084535894795534568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lulismoselvagem: https://t.co/6t4wueHHaJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 625,
+        "media_key": "3_2084535889544306688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3CWOHXYAASVj6.jpg",
+        "width": 618
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084535889544306688"
+          ]
+        },
+        "author_id": "1615732581856591872",
+        "conversation_id": "2084535894795534568",
+        "created_at": "2026-08-04T07:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084535894795534568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6t4wueHHaJ",
+              "end": 23,
+              "expanded_url": "https://x.com/lulismoselvagem/status/2084535894795534568/photo/1",
+              "media_key": "3_2084535889544306688",
+              "start": 0,
+              "url": "https://t.co/6t4wueHHaJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084535894795534568",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 280,
+          "impression_count": 57342,
+          "like_count": 7114,
+          "quote_count": 26,
+          "reply_count": 15,
+          "retweet_count": 1495
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6t4wueHHaJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084535889544306688"
+          ],
+          "media_source_tweet_id": [
+            "2084535894795534568"
+          ]
+        },
+        "author_id": "1896904934995656704",
+        "conversation_id": "2084801314647867698",
+        "created_at": "2026-08-05T00:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T01:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084801314647867698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1615732581856591872",
+              "start": 3,
+              "username": "lulismoselvagem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6t4wueHHaJ",
+              "end": 44,
+              "expanded_url": "https://x.com/lulismoselvagem/status/2084535894795534568/photo/1",
+              "media_key": "3_2084535889544306688",
+              "start": 21,
+              "url": "https://t.co/6t4wueHHaJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084801314647867698",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1495
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084535894795534568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lulismoselvagem: https://t.co/6t4wueHHaJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "WOWer",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 677,
+          "like_count": 15719,
+          "listed_count": 2,
+          "media_count": 945,
+          "tweet_count": 7030
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T15:27:33.000Z",
+        "description": "complicado e perfeitinho",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "last.fm/user/emopagode",
+                "end": 23,
+                "expanded_url": "http://last.fm/user/emopagode",
+                "start": 0,
+                "url": "https://t.co/HMKjPRpbT3"
+              }
+            ]
+          }
+        },
+        "id": "1615732581856591872",
+        "location": "@globbetrottter",
+        "name": "luis",
+        "pinned_tweet_id": "1720819228725371115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617948963436363777/C6ev0gEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 319,
+          "like_count": 30688,
+          "listed_count": 1,
+          "media_count": 3845,
+          "tweet_count": 19240
+        },
+        "url": "https://t.co/HMKjPRpbT3",
+        "username": "lulismoselvagem",
+        "verified": false
+      }
+    ]
+  }
+}

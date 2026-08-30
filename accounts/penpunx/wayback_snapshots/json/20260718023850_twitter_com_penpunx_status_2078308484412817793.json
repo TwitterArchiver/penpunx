@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "1863081037649317976",
+    "created_at": "2026-07-18T02:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T03:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078308484412817793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1739856870645657601",
+          "start": 0,
+          "username": "JesseMccmouse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078308484412817793",
+    "in_reply_to_user_id": "1739856870645657601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078307726229406020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JesseMccmouse 来玩rp服务器 比较有趣("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "1863081037649317976",
+        "created_at": "2026-07-18T02:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078308484412817793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1739856870645657601",
+              "start": 0,
+              "username": "JesseMccmouse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078308484412817793",
+        "in_reply_to_user_id": "1739856870645657601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078307726229406020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JesseMccmouse 来玩rp服务器 比较有趣("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739856870645657601",
+        "conversation_id": "1863081037649317976",
+        "created_at": "2026-07-18T02:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078307726229406020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078307726229406020",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078278504224022678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 别打 真的超累"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "天",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 666,
+          "like_count": 15125,
+          "listed_count": 2,
+          "media_count": 852,
+          "tweet_count": 6633
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T03:53:21.000Z",
+        "description": "杆子 绳子 脖子",
+        "id": "1739856870645657601",
+        "name": "罪果果",
+        "pinned_tweet_id": "1863081037649317976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074601235425202176/Ji_8uPLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 205,
+          "like_count": 7816,
+          "listed_count": 0,
+          "media_count": 483,
+          "tweet_count": 2816
+        },
+        "url": "",
+        "username": "JesseMccmouse",
+        "verified": false
+      }
+    ]
+  }
+}

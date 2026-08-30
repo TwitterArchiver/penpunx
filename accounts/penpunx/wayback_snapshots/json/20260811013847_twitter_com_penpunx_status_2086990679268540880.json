@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2086962783443161231",
+    "created_at": "2026-08-11T01:38:47.000Z",
+    "display_text_range": [
+      17,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T02:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086990679268540880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1796964886682947584",
+          "start": 0,
+          "username": "desenhandoyonlu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086990679268540880",
+    "in_reply_to_user_id": "1796964886682947584",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086962783443161231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@desenhandoyonlu Yoñlu com Something de Omori"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2086962762425528320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPZhk0HXcAAOtf7.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2086962783443161231",
+        "created_at": "2026-08-11T01:38:47.000Z",
+        "display_text_range": [
+          17,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T02:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086990679268540880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1796964886682947584",
+              "start": 0,
+              "username": "desenhandoyonlu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086990679268540880",
+        "in_reply_to_user_id": "1796964886682947584",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086962783443161231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@desenhandoyonlu Yoñlu com Something de Omori"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086962762425528320"
+          ]
+        },
+        "author_id": "1796964886682947584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2086962783443161231",
+        "created_at": "2026-08-10T23:47:56.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T00:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086962783443161231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjXoVCjAgu",
+              "end": 114,
+              "expanded_url": "https://x.com/desenhandoyonlu/status/2086962783443161231/photo/1",
+              "media_key": "3_2086962762425528320",
+              "start": 91,
+              "url": "https://t.co/mjXoVCjAgu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086962783443161231",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2086962762425528320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Tô sem Wi-Fi então fiquem com uma foto desse desenho q eu n terminei pq achei a ideia ruim https://t.co/mjXoVCjAgu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "I love WOW forever",
+        "id": "1896904934995656704",
+        "is_identity_verified": false,
+        "location": "形",
+        "most_recent_tweet_id": "2086990679268540880",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1896904934995656704/1780068931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 677,
+          "like_count": 15797,
+          "listed_count": 2,
+          "media_count": 956,
+          "tweet_count": 7092
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-01T17:59:58.000Z",
+        "description": "tigre korm avril lavigne e esses caralho aí",
+        "id": "1796964886682947584",
+        "is_identity_verified": false,
+        "location": "infelizmente sao Paulo ",
+        "most_recent_tweet_id": "2086963127707430915",
+        "name": "Desenhando yonlu ocasionalmente por um ano",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796964886682947584/1783469049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074276908703862784/rRBj3tgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 10,
+          "like_count": 1834,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "desenhandoyonlu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

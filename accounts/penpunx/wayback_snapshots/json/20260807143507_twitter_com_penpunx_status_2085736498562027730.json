@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2085736498562027730",
+    "created_at": "2026-08-07T14:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085736498562027730"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/penpunx/status/2084999792942547161",
+          "start": 56,
+          "url": "https://t.co/sWT6F3aWYl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085736498562027730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084999792942547161",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天连续游了9个圈，可惜来晚了游泳馆要关门了没能继续（\n我的目标是20圈，不过除了体力以外，耐心和节奏也很重要 https://t.co/sWT6F3aWYl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2085736498562027730",
+        "created_at": "2026-08-07T14:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085736498562027730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/penpunx/status/2084999792942547161",
+              "start": 56,
+              "url": "https://t.co/sWT6F3aWYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085736498562027730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084999792942547161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天连续游了9个圈，可惜来晚了游泳馆要关门了没能继续（\n我的目标是20圈，不过除了体力以外，耐心和节奏也很重要 https://t.co/sWT6F3aWYl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2084999792942547161",
+        "created_at": "2026-08-05T13:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084999792942547161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084999792942547161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 401,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现pr药效里游泳很爽\n今天连续游了五圈没休息，以前都是游到对边休息十秒，游回来休息一分钟（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "I love WOW forever",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 678,
+          "like_count": 15765,
+          "listed_count": 2,
+          "media_count": 948,
+          "tweet_count": 7064
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

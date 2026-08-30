@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2083805445966495818",
+    "created_at": "2026-08-02T06:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083805445966495818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/penpunx/status…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/penpunx/status/2083804176740647159",
+          "start": 76,
+          "url": "https://t.co/r2XtwGvtiv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083805445966495818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083804176740647159",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "12.0很重要的剧情设定就是光与影，不论是什么信仰的人，只要笃信一个信念就会产生圣光，这代表确定性、唯一性、收敛到一个真相，而虚空代表无限可能性、混沌 https://t.co/r2XtwGvtiv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2083805445966495818",
+        "created_at": "2026-08-02T06:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083805445966495818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/penpunx/status…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/penpunx/status/2083804176740647159",
+              "start": 76,
+              "url": "https://t.co/r2XtwGvtiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083805445966495818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083804176740647159",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "12.0很重要的剧情设定就是光与影，不论是什么信仰的人，只要笃信一个信念就会产生圣光，这代表确定性、唯一性、收敛到一个真相，而虚空代表无限可能性、混沌 https://t.co/r2XtwGvtiv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2083804176740647159",
+        "created_at": "2026-08-02T06:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083804176740647159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083804176740647159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "觉得魔兽世界的虚空势力其实是代表熵增的，虚空势力的标志就是黑洞，黑洞拥有宇宙中最大的熵。而魔兽世界中奥术魔法就是物理规律的直接体现。我已经等不及看到这两个势力的剧情了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "WOWer",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 676,
+          "like_count": 15682,
+          "listed_count": 2,
+          "media_count": 935,
+          "tweet_count": 7001
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

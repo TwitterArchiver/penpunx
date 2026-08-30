@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2079468842678690250",
+    "created_at": "2026-07-21T11:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079531849098105178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2062217106465439744",
+          "start": 0,
+          "username": "Zwicky221287317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079531849098105178",
+    "in_reply_to_user_id": "2062217106465439744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079468842678690250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zwicky221287317 香烟配色🚬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079468825674973184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvB4SPbAAAV2Fq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2079468842678690250",
+        "created_at": "2026-07-21T11:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079531849098105178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2062217106465439744",
+              "start": 0,
+              "username": "Zwicky221287317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079531849098105178",
+        "in_reply_to_user_id": "2062217106465439744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079468842678690250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zwicky221287317 香烟配色🚬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079468825674973184"
+          ]
+        },
+        "author_id": "2062217106465439744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2079468842678690250",
+        "created_at": "2026-07-21T07:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079468842678690250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pQeW86SQUq",
+              "end": 46,
+              "expanded_url": "https://x.com/Zwicky221287317/status/2079468842678690250/photo/1",
+              "media_key": "3_2079468825674973184",
+              "start": 23,
+              "url": "https://t.co/pQeW86SQUq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079468842678690250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那简约的表情带来极致健康般的微笑使我想要拥有 https://t.co/pQeW86SQUq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "treni",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 670,
+          "like_count": 15335,
+          "listed_count": 2,
+          "media_count": 881,
+          "tweet_count": 6756
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T16:59:06.000Z",
+        "description": "一块浮冰的旅途记事",
+        "id": "2062217106465439744",
+        "name": "所",
+        "pinned_tweet_id": "2078710572112290102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062221701216444416/50JrlhmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 23,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "Zwicky221287317",
+        "verified": false
+      }
+    ]
+  }
+}
