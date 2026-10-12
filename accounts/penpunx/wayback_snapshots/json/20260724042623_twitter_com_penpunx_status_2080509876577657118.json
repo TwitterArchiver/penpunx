@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1896904934995656704",
+    "conversation_id": "2080364806935019803",
+    "created_at": "2026-07-24T04:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080509876577657118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997644719908884480",
+          "start": 0,
+          "username": "Oz_Garlandd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080509876577657118",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080364806935019803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oz_Garlandd 是进去了 没骗你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080364781924499456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7wvzXXwAANNMJ.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080364780645126144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7wvumWEAAIdkT.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080364781588930560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7wvyHXYAAE8p_.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080364781639274496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7wvyTXkAArkez.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2080364806935019803",
+        "created_at": "2026-07-24T04:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080509876577657118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080509876577657118",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080364806935019803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 是进去了 没骗你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080364781924499456",
+            "3_2080364780645126144",
+            "3_2080364781588930560",
+            "3_2080364781639274496"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2080364806935019803",
+        "created_at": "2026-07-23T18:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080364806935019803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T78JfCrALW",
+              "end": 140,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2080364806935019803/photo/1",
+              "media_key": "3_2080364781924499456",
+              "start": 117,
+              "url": "https://t.co/T78JfCrALW"
+            },
+            {
+              "display_url": "pic.x.com/T78JfCrALW",
+              "end": 140,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2080364806935019803/photo/1",
+              "media_key": "3_2080364780645126144",
+              "start": 117,
+              "url": "https://t.co/T78JfCrALW"
+            },
+            {
+              "display_url": "pic.x.com/T78JfCrALW",
+              "end": 140,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2080364806935019803/photo/1",
+              "media_key": "3_2080364781588930560",
+              "start": 117,
+              "url": "https://t.co/T78JfCrALW"
+            },
+            {
+              "display_url": "pic.x.com/T78JfCrALW",
+              "end": 140,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2080364806935019803/photo/1",
+              "media_key": "3_2080364781639274496",
+              "start": 117,
+              "url": "https://t.co/T78JfCrALW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080364806935019803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 621,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ok呀货款也是遁入虚空了\n\n不！！！！！！！！！！！！！！！😨😭😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡\n成功一贫如洗 只能求投喂了🥺😭😭😭\n我可以我可以卖艺..呃或者或者拍拍好看的照片or写写文章呃呃总之无功不受禄！要求尽量满足嘻嘻🥺🥺 https://t.co/T78JfCrALW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 671,
+          "like_count": 15455,
+          "listed_count": 2,
+          "media_count": 900,
+          "tweet_count": 6834
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 450,
+          "like_count": 32090,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 2690
+        },
+        "url": "",
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}
